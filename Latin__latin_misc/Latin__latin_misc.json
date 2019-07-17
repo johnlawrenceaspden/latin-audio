@@ -1,0 +1,821 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5df17194-a899-11e9-9bae-342387e2ac49",
+    "deck_config_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 1000
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "ankidroid_audiorec1362545299.3gp",
+        "ankidroid_audiorec1457768050.3gp",
+        "ankidroid_audiorec1529894196.3gp",
+        "ankidroid_audiorec1573955468.3gp",
+        "ankidroid_audiorec1576308537.3gp",
+        "ankidroid_audiorec1989197273.3gp",
+        "ankidroid_audiorec393531230.3gp",
+        "ankidroid_audiorec716678691.3gp",
+        "ankidroid_audiorec819145255.3gp"
+    ],
+    "mid": 1342702532888,
+    "name": "Latin::latin misc",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n.notes {\n\tfont-size:18px;\n}\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Vocābulum",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Dēfīnītio",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Audiō",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Latin Grammar",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Dēfīnītio}}<br/><br/>\n\n\n\n<div class=\"notes\">\n\n\t\n<br/><br/>\n\n\n\n\t()\n\n\n\n\t-- \n\n</div>\n\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Latin",
+                    "ord": 0,
+                    "qfmt": "{{Vocābulum}}  () <br>\n{{Audiō}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d79cbfc2-a415-11e9-b09e-74867a15fbd5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #FFFFFF; }",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\usepackage[utf8]{inputenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amāre: amō",
+                "*a-mō, *a-mās, *a-mat; a-*mā-mus, a-*mā-tis, *a-mant<br>",
+                "[sound:ankidroid_audiorec1576308537.3gp]"
+            ],
+            "flags": 0,
+            "guid": "2RQ4B",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amārī: amor",
+                "amor, amāris, amātur; amāmur, amāminī, amantur",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oe%K1",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "vidērī",
+                "videor, vidēris, vidētur; vidēmur, vidēminī, videntur",
+                ""
+            ],
+            "flags": 0,
+            "guid": "/>H~O",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mergī : mergor",
+                "mergor, mergeris, mergitur; mergimur, mergiminī, merguntur",
+                "[sound:ankidroid_audiorec1362545299.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Fgh8F",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "audīrī",
+                "audior, audīris, audītur; audīmur, audīminī, audiuntur",
+                ""
+            ],
+            "flags": 0,
+            "guid": "_CLZ7",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "capī : capior",
+                "capior, caperis, capitur; capimur, capiminī, capiuntur",
+                "[sound:ankidroid_audiorec1989197273.3gp]"
+            ],
+            "flags": 0,
+            "guid": "oM}aM",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā īnsula",
+                "īnsula, īnsulam, īnsulae, īnsulae, īnsulā<br><br>īnsulae, īnsulās, īnsulārum, īnsulīs, īnsulīs",
+                ""
+            ],
+            "flags": 0,
+            "guid": ">8*7N",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "decline ager",
+                "*a-ger, *a-grum, *a-grī, *a-grō, *a-grō <br><br>*a-grī, *a-grōs, a-*grō-rum, *a-grīs, *a-grīs",
+                ""
+            ],
+            "flags": 0,
+            "guid": "WWM8D",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā rex",
+                "rex, *rē-gem, *rē-gis, *rē-gī, *rē-ge ; <br><br>*rē-gēs, *rē-gēs, *rē-gum, *rē-gi-bus, *rē-gi-bus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P0ObO",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā corpus",
+                "*cor-pus, *cor-pus, *cor-po-ris, *cor-po-rī, *cor-po-re; <br> *cor-po-ra, *cor-po-ra, *cor-po-rum, cor-*po-ri-bus, cor-*po-ri-bus",
+                "[sound:ankidroid_audiorec1573955468.3gp]"
+            ],
+            "flags": 0,
+            "guid": "/S~[5",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā magna urbs",
+                "magna urbs, magnam urbem, magnae urbis, magnae urbī, magnā urbe<br><br>magnae urbēs, magnās urbēs, magnārum urbium, magnīs urbibus, magnīs urbibus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tT~H5",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "declinā altum mare",
+                "altum mare, altum mare, altī maris, altō marī, altō marī ; alta maria , alta maria, altōrum marium, altīs maribus, altīs maribus ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QxYsB",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": [
+                "declinations",
+                "latin",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nōn vīribus aut vēlōcitātibus aut celeritāte corpōrum rēs magnae geruntur",
+                "not by strength or by speed or by quickness of body great things are done"
+            ],
+            "flags": 0,
+            "guid": "HnY0P",
+            "note_model_uuid": "d79cbfc2-a415-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ferō : feram",
+                "*fe-ram *fe-rēs *fe-ret ; fe-*rē-mus fe-*rē-tis *fe-rent",
+                "[sound:ankidroid_audiorec1529894196.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Dz8vU",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā tū",
+                "tū tē tuī tibi tē",
+                "[sound:ankidroid_audiorec716678691.3gp]"
+            ],
+            "flags": 0,
+            "guid": "z95UF",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā vocābulum sē",
+                "-- sē suī sibi sē",
+                "[sound:ankidroid_audiorec819145255.3gp]"
+            ],
+            "flags": 0,
+            "guid": "ggvh3",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā mare maris",
+                "*ma-re *ma-re *ma-ris *ma-rī *ma-rī ; *ma-ri-a *ma-ri-a *mar-i-um *ma-ri-bus *ma-ri-bus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "4-#?O",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā diēs, -ēī",
+                "diēs diem diēī diēī diē ;<div><br>diēs diēs diērum diēs diēs</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kg<mG",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amāre: amavī",
+                "a-*mā-vī, a-mā-*vis-tī, a-*mā-vit ;&nbsp;<br>a-*mā-vi-mus, a-mā-*vis-tis, a-mā-*vē-runt",
+                ""
+            ],
+            "flags": 0,
+            "guid": ":S2b1",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amō: amem",
+                "*a-mem, *a-mēs, *a-met; a-*mē-mus, a-*mē-tis, *a-ment",
+                "[sound:ankidroid_audiorec393531230.3gp]"
+            ],
+            "flags": 0,
+            "guid": "=_(AT",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "moneō: moneam",
+                "*mo-ne-am, *mo-ne-ās, *mo-ne-at; mo-ne-*ā-mus, mo-ne-*ā-tis, *mo-ne-ant",
+                "[sound:ankidroid_audiorec1457768050.3gp]"
+            ],
+            "flags": 0,
+            "guid": "):>_E",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "agō: agam",
+                "*a-gam, *a-gās, *a-gat; a-*gā-mus, a-*gā-tis, *a-gant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w`%_J",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "audiō: audiam",
+                "audiam, audiās, audiat; audiāmus, audiātis, audiant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tZakD",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "capiō : capiam",
+                "capiam, capiās, capiat; capiāmus, capiātis, capiant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "=lKvE",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sum, esse: sim",
+                "sim, sīs, sit; sīmus, sītis, sint",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FNT-B",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "conjūnctīvus, tempus praesēns, āctīvum",
+                "Dominus: \"Intrā, serve! Claude forem! Tacē et audī!\"<br><br>Dominus servō imperat ut intret, forem claudat, taceat et audiat.<br><br>Servus intrat, forem claudit, tacet et audit.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ci@b2",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "posse: eram",
+                "eram, erās, erat ; erāmus, erātis, erant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dZ:n",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "posse : poteram",
+                "poteram, poterās, poterat ; poterāmus, poterātis, poterat",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e$cRP",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "īre : ībam",
+                "ībam, ībās, ībat ; ībāmus, ībātis, ībant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "<4H@O",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ferre : ferēbam",
+                "ferēbam, ferēbās, ferēbat ; ferēbāmus, ferēbātis, ferēbant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "a8~R",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "monēre: moneō",
+                "moneō, monēs, monet; monēmus, monētis, monent",
+                ""
+            ],
+            "flags": 0,
+            "guid": "]6bzR",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "legere: legō",
+                "legō, legis, legit ; legimus, legitis, legunt",
+                ""
+            ],
+            "flags": 0,
+            "guid": "#!}~9",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "audīre : audiō",
+                "audiō, audīs, audit; audīmus, audītis, audiunt",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rz4L4",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "esse : sum",
+                "sum, es, est ; sumus, estis, sunt",
+                ""
+            ],
+            "flags": 0,
+            "guid": "R^kbH",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amāre: amāvī",
+                "amāvī amāvistī, amāvit ; amāvimus, amāvistis, amāvērunt",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q@?=P",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "declīnā verbum",
+                "verbum, verbum, verbī , verbō, verbō ; verba, verba, verbōrum, verbīs, verbīs",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HOxnR",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīnā puer",
+                "puer, puerum, puerī, puerō, puerō ; puerī, puerōs, puerōrum, puerīs, puerīs",
+                ""
+            ],
+            "flags": 0,
+            "guid": "/gu75",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dēclīna vōx",
+                "vōx, vōcem, vōcis, vōcī, vōce ; vōcēs, vōcēs, vōcum, vōcibus, vōcibus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "7~CHN",
+            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dibrach",
+                ".."
+            ],
+            "flags": 0,
+            "guid": "KOD;4",
+            "note_model_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "iamb",
+                ".o"
+            ],
+            "flags": 0,
+            "guid": "{K;87",
+            "note_model_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "spondee",
+                "oo"
+            ],
+            "flags": 0,
+            "guid": "XV1WI",
+            "note_model_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trochee",
+                "o."
+            ],
+            "flags": 0,
+            "guid": "?*C,N",
+            "note_model_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        }
+    ]
+}
