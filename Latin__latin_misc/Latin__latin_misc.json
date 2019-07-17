@@ -55,15 +55,15 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "ankidroid_audiorec1362545299.3gp",
-        "ankidroid_audiorec1457768050.3gp",
-        "ankidroid_audiorec1529894196.3gp",
-        "ankidroid_audiorec1573955468.3gp",
-        "ankidroid_audiorec1576308537.3gp",
-        "ankidroid_audiorec1989197273.3gp",
-        "ankidroid_audiorec393531230.3gp",
-        "ankidroid_audiorec716678691.3gp",
-        "ankidroid_audiorec819145255.3gp"
+        "ankidroid_audiorec1362545299.mp3",
+        "ankidroid_audiorec1457768050.mp3",
+        "ankidroid_audiorec1529894196.mp3",
+        "ankidroid_audiorec1573955468.mp3",
+        "ankidroid_audiorec1576308537.mp3",
+        "ankidroid_audiorec1989197273.mp3",
+        "ankidroid_audiorec393531230.mp3",
+        "ankidroid_audiorec716678691.mp3",
+        "ankidroid_audiorec819145255.mp3"
     ],
     "mid": 1342702532888,
     "name": "Latin::latin misc",
@@ -258,7 +258,7 @@
             "fields": [
                 "amāre: amō",
                 "*a-mō, *a-mās, *a-mat; a-*mā-mus, a-*mā-tis, *a-mant<br>",
-                "[sound:ankidroid_audiorec1576308537.3gp]"
+                "[sound:ankidroid_audiorec1576308537.mp3]"
             ],
             "flags": 0,
             "guid": "2RQ4B",
@@ -297,7 +297,7 @@
             "fields": [
                 "mergī : mergor",
                 "mergor, mergeris, mergitur; mergimur, mergiminī, merguntur",
-                "[sound:ankidroid_audiorec1362545299.3gp]"
+                "[sound:ankidroid_audiorec1362545299.mp3]"
             ],
             "flags": 0,
             "guid": "Fgh8F",
@@ -323,7 +323,7 @@
             "fields": [
                 "capī : capior",
                 "capior, caperis, capitur; capimur, capiminī, capiuntur",
-                "[sound:ankidroid_audiorec1989197273.3gp]"
+                "[sound:ankidroid_audiorec1989197273.mp3]"
             ],
             "flags": 0,
             "guid": "oM}aM",
@@ -387,7 +387,7 @@
             "fields": [
                 "dēclīnā corpus",
                 "*cor-pus, *cor-pus, *cor-po-ris, *cor-po-rī, *cor-po-re; <br> *cor-po-ra, *cor-po-ra, *cor-po-rum, cor-*po-ri-bus, cor-*po-ri-bus",
-                "[sound:ankidroid_audiorec1573955468.3gp]"
+                "[sound:ankidroid_audiorec1573955468.mp3]"
             ],
             "flags": 0,
             "guid": "/S~[5",
@@ -450,7 +450,7 @@
             "fields": [
                 "ferō : feram",
                 "*fe-ram *fe-rēs *fe-ret ; fe-*rē-mus fe-*rē-tis *fe-rent",
-                "[sound:ankidroid_audiorec1529894196.3gp]"
+                "[sound:ankidroid_audiorec1529894196.mp3]"
             ],
             "flags": 0,
             "guid": "Dz8vU",
@@ -463,7 +463,7 @@
             "fields": [
                 "dēclīnā tū",
                 "tū tē tuī tibi tē",
-                "[sound:ankidroid_audiorec716678691.3gp]"
+                "[sound:ankidroid_audiorec716678691.mp3]"
             ],
             "flags": 0,
             "guid": "z95UF",
@@ -476,7 +476,7 @@
             "fields": [
                 "dēclīnā vocābulum sē",
                 "-- sē suī sibi sē",
-                "[sound:ankidroid_audiorec819145255.3gp]"
+                "[sound:ankidroid_audiorec819145255.mp3]"
             ],
             "flags": 0,
             "guid": "ggvh3",
@@ -528,7 +528,7 @@
             "fields": [
                 "amō: amem",
                 "*a-mem, *a-mēs, *a-met; a-*mē-mus, a-*mē-tis, *a-ment",
-                "[sound:ankidroid_audiorec393531230.3gp]"
+                "[sound:ankidroid_audiorec393531230.mp3]"
             ],
             "flags": 0,
             "guid": "=_(AT",
@@ -541,7 +541,7 @@
             "fields": [
                 "moneō: moneam",
                 "*mo-ne-am, *mo-ne-ās, *mo-ne-at; mo-ne-*ā-mus, mo-ne-*ā-tis, *mo-ne-ant",
-                "[sound:ankidroid_audiorec1457768050.3gp]"
+                "[sound:ankidroid_audiorec1457768050.mp3]"
             ],
             "flags": 0,
             "guid": "):>_E",
