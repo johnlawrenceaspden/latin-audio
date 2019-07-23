@@ -1,0 +1,686 @@
+{
+    "__type__": "Deck",
+    "activeTags": [],
+    "children": [],
+    "crowdanki_uuid": "df04cc16-ad37-11e9-9bae-342387e2ac49",
+    "deck_config_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 1000
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "inactiveTags": [],
+    "media_files": [
+        "ankidroid_audiorec1034162675.3gp",
+        "ankidroid_audiorec1062859873.3gp",
+        "ankidroid_audiorec111361776.3gp",
+        "ankidroid_audiorec1299913332.3gp",
+        "ankidroid_audiorec1332566194.3gp",
+        "ankidroid_audiorec1337837243.3gp",
+        "ankidroid_audiorec1361988710.3gp",
+        "ankidroid_audiorec1379504559.3gp",
+        "ankidroid_audiorec1501155883.3gp",
+        "ankidroid_audiorec1515900178.3gp",
+        "ankidroid_audiorec152079388.3gp",
+        "ankidroid_audiorec1559215139.3gp",
+        "ankidroid_audiorec1626963697.3gp",
+        "ankidroid_audiorec1951796769.3gp",
+        "ankidroid_audiorec1955149702.3gp",
+        "ankidroid_audiorec199410763.3gp",
+        "ankidroid_audiorec2012666847.3gp",
+        "ankidroid_audiorec2086683592.3gp",
+        "ankidroid_audiorec2099294529.3gp",
+        "ankidroid_audiorec2113381777.3gp",
+        "ankidroid_audiorec2115176576.3gp",
+        "ankidroid_audiorec246373455.3gp",
+        "ankidroid_audiorec337683231.3gp",
+        "ankidroid_audiorec586976426.3gp",
+        "ankidroid_audiorec593495294.3gp",
+        "ankidroid_audiorec786118718.3gp",
+        "ankidroid_audiorec792452709.3gp",
+        "ankidroid_audiorec837384228.3gp",
+        "ankidroid_audiorec957187860.3gp",
+        "ankidroid_audiorec980336577.3gp"
+    ],
+    "mid": "1563837964255",
+    "name": "Latin::llspi pensa",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (llpsi pensum)",
+            "sortf": 0,
+            "tags": [
+                "cap29",
+                "pensumB"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front Audio",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Back Audio",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "llpsi-pensum-c",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n{{Back Audio}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{Front Audio}}\n\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Magister puerōs monet {{c3::ut}} pulchrē scrīb{{c1::ant}}",
+                "[sound:ankidroid_audiorec199410763.3gp]"
+            ],
+            "flags": 0,
+            "guid": "gf5aU&=dRL",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sextus tam pulchrē scrībit {{c2::ut}} magister eum laud{{c1::et}}",
+                "[sound:ankidroid_audiorec1515900178.3gp]"
+            ],
+            "flags": 0,
+            "guid": "--0:u&8+b",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Magister ipse calamum sūmit, {{c2::ut}} litterās scrīb{{c1::at}}",
+                "[sound:ankidroid_audiorec1379504559.3gp]"
+            ],
+            "flags": 0,
+            "guid": "w&LEs]1BvZ",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Daedalus ālās coniēcit {{c1::ut}} ē labyrinthō ēvol{{c2::āret}}",
+                "[sound:ankidroid_audiorec152079388.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Q{XHBHU/#H",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Īcarus tam altē volāvit {{c1::ut}} sōlī appropinqu{{c2::āret}}, quamquam pater eum monuerat {{c3::nē}} temerārius es{{c4::set}}",
+                "[sound:ankidroid_audiorec111361776.3gp]"
+            ],
+            "flags": 0,
+            "guid": "NlXB7gBJGM",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Herī Quīntus arborem ascendit, {{c1::ut}} nīdum quaer{{c2::eret}}, etsī pater eum monuerat {{c3::ut}} cautus es{{c4::set}}",
+                "[sound:ankidroid_audiorec2099294529.3gp]"
+            ],
+            "flags": 0,
+            "guid": "J<$E839+;$",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medicus Quīntō imperāvit {{c1::ut}} oculōs claud{{c2::eret}}, {{c3::nē}} cultrum medicī vid{{c4::ēret}}",
+                "[sound:ankidroid_audiorec786118718.3gp]"
+            ],
+            "flags": 0,
+            "guid": "z#X]|az*^<",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quīntus tam pallidus erat {{c1::ut}} Syra eum mortuum esse put{{c2::āret}}",
+                "[sound:ankidroid_audiorec1332566194.3gp]"
+            ],
+            "flags": 0,
+            "guid": "zqU;ux1VWz",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sōl ita lūcēbat {{c1::ut}} pāstor umbram pet{{c2::eret}}, {{c3::nē}} in sōle ambul{{c4::āret}}",
+                "[sound:ankidroid_audiorec2113381777.3gp]"
+            ],
+            "flags": 0,
+            "guid": "w=0--}0rso",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tantus atque tālis deus est Iuppiter {{c1::ut}} Optimus Maximus appell{{c2::ārētur}}",
+                "[sound:ankidroid_audiorec586976426.3gp]"
+            ],
+            "flags": 0,
+            "guid": "lHbTE(`.~j",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::accēderent}} ac fluviī {{c3::rapidī}} cōnsisterent",
+                "[sound:ankidroid_audiorec337683231.3gp]"
+            ],
+            "flags": 0,
+            "guid": "g=E8||C9m_",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Etiam ad {{c1::Īnferōs}} dēscen­dit, ut {{c2::inde}} uxōrem suam redūceret",
+                "[sound:ankidroid_audiorec1062859873.3gp]"
+            ],
+            "flags": 0,
+            "guid": "h/2-u[Q:2l",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nēmō tam {{c1::ignārus}} est ut Orpheum ignōret",
+                "[sound:ankidroid_audiorec593495294.3gp]"
+            ],
+            "flags": 0,
+            "guid": "pgRS!N1{(^",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arīōn quoque omnibus {{c1::nōtus}} est",
+                "[sound:ankidroid_audiorec1337837243.3gp]"
+            ],
+            "flags": 0,
+            "guid": "CroqaV%Uks",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cum ille magnās {{c1::dīvitiās}} sēcum in nāve habēret, nautae pauperēs hominī dīvitī {{c2::invidēbant}} eumque necāre cōnstituērunt",
+                "[sound:ankidroid_audiorec1955149702.3gp]"
+            ],
+            "flags": 0,
+            "guid": "r.s;etqQL6",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arīōn, cum {{c1::vītam}} suam in perīculō esse sentīret, pecūniam nautīs {{c2::dōnāvit}} eōsque ōrāvit ut sibi parcerent.",
+                "[sound:ankidroid_audiorec1559215139.3gp]"
+            ],
+            "flags": 0,
+            "guid": "nOC6_4le_j",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Precibus {{c1::permōtī}} nautae eī permīsērunt ut ante mortem {{c2::carmen}} caneret.",
+                "[sound:ankidroid_audiorec1626963697.3gp]"
+            ],
+            "flags": 0,
+            "guid": "r]]J:_8Ea,",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hōc factō, Arīōn in mare {{c1::dēsiluit}} ; sed delphīnus eum in {{c2::dorsō}} sedentem ad lītus vēxit.",
+                "[sound:ankidroid_audiorec837384228.3gp]"
+            ],
+            "flags": 0,
+            "guid": "O0Zng>>^Tr",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ita ille servātus est, cum iam salūtem {{c1::dēspērāret}}.",
+                "[sound:ankidroid_audiorec2115176576.3gp]"
+            ],
+            "flags": 0,
+            "guid": "tcC7rSQKh^",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nautae, cum Arīonem {{c1::appārēre}} vidērent, {{c2::prōtinus}} {{c3::maleficium}} suum cōnfessī sunt.",
+                "[sound:ankidroid_audiorec2086683592.3gp]"
+            ],
+            "flags": 0,
+            "guid": "G(Vf8^2@2L",
+            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quōmodo mercātōrēs lucrum faciunt?",
+                "[sound:ankidroid_audiorec2012666847.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zU1xs_HVkn",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr mercātor Rōmānus trīstis est?",
+                "[sound:ankidroid_audiorec1951796769.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QNj!TT}BIt",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quārē mercēs ēiectae sunt?",
+                "[sound:ankidroid_audiorec246373455.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F.09-qyx2(",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid mercātor deōs precātur?",
+                "[sound:ankidroid_audiorec792452709.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f.&@AKG17Q",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quārē ad Īnferōs dēscendit Orpheus?",
+                "[sound:ankidroid_audiorec980336577.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kKmFgOLOHK",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Num nautae Arīonem gladiīs interfēcērunt?",
+                "[sound:ankidroid_audiorec957187860.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BSH7%55V.",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quōmodo Arīōn servātus est?",
+                "[sound:ankidroid_audiorec1034162675.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H-2{-~<QlA",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid nōs monet haec fābula?",
+                "[sound:ankidroid_audiorec1361988710.3gp]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F5Z,DBtT<J",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Polycratēs ānulum suum abiēcit?",
+                "[sound:ankidroid_audiorec1299913332.3gp]",
+                "Polycratēs ānulum suum abiēcit, quia ita deōrum invidiam āvertī posse spērābat",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oO@:?lq52C",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubi ānulus ēius inventus est?",
+                "[sound:ankidroid_audiorec1501155883.3gp]",
+                "Ānulus ēius piscis in ventrī inventus est.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r/Uyj]fnbv",
+            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap29",
+                "pensumC"
+            ]
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "52315cb6-a899-11e9-9bae-342387e2ac49",
+    "crowdanki_uuid": "cad87a80-ad37-11e9-9bae-342387e2ac49",
     "deck_config_uuid": "bbdd975f-a030-11e9-b09e-74867a15fbd5",
     "deck_configurations": [
         {
@@ -104,6 +104,7 @@
         "ankidroid_audiorec1338130329.mp3",
         "ankidroid_audiorec1368457555.mp3",
         "ankidroid_audiorec1388638474.mp3",
+        "ankidroid_audiorec1476853890.3gp",
         "ankidroid_audiorec14800597.mp3",
         "ankidroid_audiorec1519046258.mp3",
         "ankidroid_audiorec1579947221.mp3",
@@ -121,6 +122,7 @@
         "ankidroid_audiorec440808055.mp3",
         "ankidroid_audiorec498639222.mp3",
         "ankidroid_audiorec529426550.mp3",
+        "ankidroid_audiorec578908815.3gp",
         "ankidroid_audiorec598964438.mp3",
         "ankidroid_audiorec660863163.mp3",
         "ankidroid_audiorec691301630.mp3",
@@ -1655,9 +1657,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "poenās dare[sound:poenas dare.mp3]",
+                "poenās dare",
                 "to pay the penalty",
-                "",
+                "[sound:poenas dare.mp3]",
                 "",
                 "",
                 "",
@@ -1693,9 +1695,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>porta, portae (f)[sound:porta.mp3]</div>",
+                "porta, portae (f)",
                 "gate, entrance",
-                "",
+                "[sound:porta.mp3]",
                 "",
                 "",
                 "",
@@ -1923,7 +1925,7 @@
             "fields": [
                 "multus, multa, multum",
                 "much, many (all genders)",
-                "",
+                "[sound:ankidroid_audiorec1476853890.3gp]",
                 "",
                 "",
                 "",
@@ -2092,9 +2094,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>ager, agrī (m)[sound:ager.mp3]</div>",
+                "ager, agrī (m)",
                 "field, farm",
-                "",
+                "[sound:ager.mp3]",
                 "",
                 "",
                 "",
@@ -2149,9 +2151,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>amīcus, amīcī (m)[sound:amicus.mp3]</div>",
+                "amīcus, amīcī (m)",
                 "friend (male)",
-                "",
+                "[sound:amicus.mp3]",
                 "",
                 "",
                 "",
@@ -2358,7 +2360,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>paucī, paucae, pauca</div>",
+                "paucī, paucae, pauca",
                 "few, a few",
                 "[sound:pauci.mp3]",
                 "",
@@ -2643,7 +2645,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>magistra, magistrae (f)</div>",
+                "magistra, magistrae (f)",
                 "schoolmistress, teacher, mistress",
                 "[sound:magistra.mp3]",
                 "",
@@ -2662,7 +2664,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>mora, morae (f)</div>",
+                "mora, morae (f)",
                 "delay",
                 "[sound:mora.mp3]",
                 "",
@@ -3138,7 +3140,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>noster, nostra, nostrum</div>",
+                "noster, nostra, nostrum",
                 "our, ours",
                 "[sound:noster.mp3]",
                 "",
@@ -3215,7 +3217,7 @@
             "data": "",
             "fields": [
                 "-ne",
-                "<div>interrogative suffix attached to the first word of a sentence, typically the verb or another word on which the question hinges, to introduce a question whose answer is uncertain</div>",
+                "interrogative suffix attached to the first word of a sentence, typically the verb or another word on which the question hinges, to introduce a question whose answer is uncertain",
                 "[sound:ne.mp3]",
                 "",
                 "",
@@ -3385,7 +3387,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>culpō, culpāre, culpāvī, culpātum</div>",
+                "culpō, culpāre, culpāvī, culpātum",
                 "to blame, censure",
                 "[sound:culpo.mp3]",
                 "",
@@ -3442,7 +3444,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>superō, superāre, superāvī, superātum</div>",
+                "superō, superāre, superāvī, superātum",
                 "to be above, have the upper hand, surpass; overcome conquer",
                 "[sound:supero.mp3]",
                 "",
@@ -3499,7 +3501,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>discipula, discipulae (f)</div>",
+                "discipula, discipulae (f)",
                 "(female) learner, pupil, student",
                 "[sound:discipula.mp3]",
                 "",
@@ -3537,7 +3539,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>īnsidiae, īnsidiārum (f)</div>",
+                "īnsidiae, īnsidiārum (f)",
                 "ambush, plot, treachery",
                 "[sound:insidiae.mp3]",
                 "",
@@ -3842,7 +3844,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>possum, posse, potuī</div>",
+                "possum, posse, potuī",
                 "to be able, can, could, have power",
                 "[sound:possum.mp3]",
                 "",
@@ -3881,7 +3883,7 @@
             "data": "",
             "fields": [
                 "amor, amōris",
-                "love",
+                "love (noun)",
                 "[sound:amor.mp3]",
                 "m",
                 "",
@@ -3918,7 +3920,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>cīvitās, cīvitātis (f)</div>",
+                "cīvitās, cīvitātis (f)",
                 "state, citizenship",
                 "[sound:civitas.mp3]",
                 "",
@@ -4393,7 +4395,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>frāter, frātris (m)</div>",
+                "frāter, frātris (m)",
                 "brother",
                 "[sound:frater.mp3]",
                 "",
@@ -4469,7 +4471,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>scrīptor, scrīptōris (m)</div>",
+                "scrīptor, scrīptōris (m)",
                 "writer, author",
                 "[sound:scriptor.mp3]",
                 "",
@@ -4678,7 +4680,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "discō, discere, didicī",
+                "discō, discere, didicī, -----",
                 "to learn",
                 "[sound:disco.mp3]",
                 "",
@@ -6046,9 +6048,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<b>medicus, medicī&nbsp;</b>and&nbsp;<b>medica, medicae</b>",
+                "medicus, medicī",
                 "doctor, physician",
-                "[sound:medicus.mp3][sound:medica.mp3]",
+                "[sound:medicus.mp3]",
                 "",
                 "",
                 "",
@@ -8136,7 +8138,7 @@
                 "[sound:ankidroid_audiorec498639222.mp3]",
                 "",
                 "",
-                "",
+                "ūn-dē-vī-*gin-tī",
                 ""
             ],
             "flags": 0,
@@ -9175,10 +9177,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cornū, cornūs (n)",
+                "cornū, cornūs",
                 "horn",
                 "[sound:cornu.mp3]",
-                "",
+                "n",
                 "",
                 "",
                 ""
@@ -9275,7 +9277,7 @@
                 "[sound:mons.mp3]",
                 "m",
                 "",
-                "mons or mōns?",
+                "",
                 ""
             ],
             "flags": 0,
@@ -10125,10 +10127,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "spēs, speī (f)",
+                "spēs, speī",
                 "hope",
                 "[sound:spes.mp3]",
-                "",
+                "f",
                 "",
                 "",
                 ""
@@ -10771,9 +10773,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quisquis, quidquid",
-                "whoever, whatever",
-                "[sound:quisquis.mp3]",
+                "quidquid",
+                "whatever",
+                "[sound:ankidroid_audiorec578908815.3gp]",
                 "",
                 "",
                 "(sometimes quicquid)",
@@ -10885,9 +10887,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<b>servus, servī</b>&nbsp;(m) and <b>serva, servae </b>(f)",
-                "slave",
-                "[sound:servus.mp3][sound:serva.mp3]",
+                "servus, servī (m)",
+                "male slave",
+                "[sound:servus.mp3]",
                 "",
                 "",
                 "",
@@ -17229,6 +17231,57 @@
             ],
             "flags": 0,
             "guid": "`:KzN",
+            "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "medica, medicae",
+                "lady doctor, physician",
+                "[sound:medica.mp3]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QD;lM",
+            "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "serva, servae (f)",
+                "female slave",
+                "[sound:serva.mp3]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "4W4`5",
+            "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "quisquis",
+                "whoever",
+                "[sound:quisquis.mp3]",
+                "",
+                "",
+                "",
+                "quisquis es, quidquid tibi nōmen est"
+            ],
+            "flags": 0,
+            "guid": "bTSLL",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": []
         }
