@@ -57,36 +57,36 @@
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
-        "ankidroid_audiorec1034162675.3gp",
-        "ankidroid_audiorec1062859873.3gp",
-        "ankidroid_audiorec111361776.3gp",
-        "ankidroid_audiorec1299913332.3gp",
-        "ankidroid_audiorec1332566194.3gp",
-        "ankidroid_audiorec1337837243.3gp",
-        "ankidroid_audiorec1361988710.3gp",
-        "ankidroid_audiorec1379504559.3gp",
-        "ankidroid_audiorec1501155883.3gp",
-        "ankidroid_audiorec1515900178.3gp",
-        "ankidroid_audiorec152079388.3gp",
-        "ankidroid_audiorec1559215139.3gp",
-        "ankidroid_audiorec1626963697.3gp",
-        "ankidroid_audiorec1951796769.3gp",
-        "ankidroid_audiorec1955149702.3gp",
-        "ankidroid_audiorec199410763.3gp",
-        "ankidroid_audiorec2012666847.3gp",
-        "ankidroid_audiorec2086683592.3gp",
-        "ankidroid_audiorec2099294529.3gp",
-        "ankidroid_audiorec2113381777.3gp",
-        "ankidroid_audiorec2115176576.3gp",
-        "ankidroid_audiorec246373455.3gp",
-        "ankidroid_audiorec337683231.3gp",
-        "ankidroid_audiorec586976426.3gp",
-        "ankidroid_audiorec593495294.3gp",
-        "ankidroid_audiorec786118718.3gp",
-        "ankidroid_audiorec792452709.3gp",
-        "ankidroid_audiorec837384228.3gp",
-        "ankidroid_audiorec957187860.3gp",
-        "ankidroid_audiorec980336577.3gp"
+        "ankidroid_audiorec1034162675.mp3",
+        "ankidroid_audiorec1062859873.mp3",
+        "ankidroid_audiorec111361776.mp3",
+        "ankidroid_audiorec1299913332.mp3",
+        "ankidroid_audiorec1332566194.mp3",
+        "ankidroid_audiorec1337837243.mp3",
+        "ankidroid_audiorec1361988710.mp3",
+        "ankidroid_audiorec1379504559.mp3",
+        "ankidroid_audiorec1501155883.mp3",
+        "ankidroid_audiorec1515900178.mp3",
+        "ankidroid_audiorec152079388.mp3",
+        "ankidroid_audiorec1559215139.mp3",
+        "ankidroid_audiorec1626963697.mp3",
+        "ankidroid_audiorec1951796769.mp3",
+        "ankidroid_audiorec1955149702.mp3",
+        "ankidroid_audiorec199410763.mp3",
+        "ankidroid_audiorec2012666847.mp3",
+        "ankidroid_audiorec2086683592.mp3",
+        "ankidroid_audiorec2099294529.mp3",
+        "ankidroid_audiorec2113381777.mp3",
+        "ankidroid_audiorec2115176576.mp3",
+        "ankidroid_audiorec246373455.mp3",
+        "ankidroid_audiorec337683231.mp3",
+        "ankidroid_audiorec586976426.mp3",
+        "ankidroid_audiorec593495294.mp3",
+        "ankidroid_audiorec786118718.mp3",
+        "ankidroid_audiorec792452709.mp3",
+        "ankidroid_audiorec837384228.mp3",
+        "ankidroid_audiorec957187860.mp3",
+        "ankidroid_audiorec980336577.mp3"
     ],
     "mid": "1563837964255",
     "name": "Latin::llspi pensa",
@@ -217,7 +217,7 @@
             "data": "",
             "fields": [
                 "Magister puerōs monet {{c3::ut}} pulchrē scrīb{{c1::ant}}",
-                "[sound:ankidroid_audiorec199410763.3gp]"
+                "[sound:ankidroid_audiorec199410763.mp3]"
             ],
             "flags": 0,
             "guid": "gf5aU&=dRL",
@@ -232,7 +232,7 @@
             "data": "",
             "fields": [
                 "Sextus tam pulchrē scrībit {{c2::ut}} magister eum laud{{c1::et}}",
-                "[sound:ankidroid_audiorec1515900178.3gp]"
+                "[sound:ankidroid_audiorec1515900178.mp3]"
             ],
             "flags": 0,
             "guid": "--0:u&8+b",
@@ -247,7 +247,7 @@
             "data": "",
             "fields": [
                 "Magister ipse calamum sūmit, {{c2::ut}} litterās scrīb{{c1::at}}",
-                "[sound:ankidroid_audiorec1379504559.3gp]"
+                "[sound:ankidroid_audiorec1379504559.mp3]"
             ],
             "flags": 0,
             "guid": "w&LEs]1BvZ",
@@ -262,7 +262,7 @@
             "data": "",
             "fields": [
                 "Daedalus ālās coniēcit {{c1::ut}} ē labyrinthō ēvol{{c2::āret}}",
-                "[sound:ankidroid_audiorec152079388.3gp]"
+                "[sound:ankidroid_audiorec152079388.mp3]"
             ],
             "flags": 0,
             "guid": "Q{XHBHU/#H",
@@ -277,7 +277,7 @@
             "data": "",
             "fields": [
                 "Īcarus tam altē volāvit {{c1::ut}} sōlī appropinqu{{c2::āret}}, quamquam pater eum monuerat {{c3::nē}} temerārius es{{c4::set}}",
-                "[sound:ankidroid_audiorec111361776.3gp]"
+                "[sound:ankidroid_audiorec111361776.mp3]"
             ],
             "flags": 0,
             "guid": "NlXB7gBJGM",
@@ -292,7 +292,7 @@
             "data": "",
             "fields": [
                 "Herī Quīntus arborem ascendit, {{c1::ut}} nīdum quaer{{c2::eret}}, etsī pater eum monuerat {{c3::ut}} cautus es{{c4::set}}",
-                "[sound:ankidroid_audiorec2099294529.3gp]"
+                "[sound:ankidroid_audiorec2099294529.mp3]"
             ],
             "flags": 0,
             "guid": "J<$E839+;$",
@@ -307,7 +307,7 @@
             "data": "",
             "fields": [
                 "Medicus Quīntō imperāvit {{c1::ut}} oculōs claud{{c2::eret}}, {{c3::nē}} cultrum medicī vid{{c4::ēret}}",
-                "[sound:ankidroid_audiorec786118718.3gp]"
+                "[sound:ankidroid_audiorec786118718.mp3]"
             ],
             "flags": 0,
             "guid": "z#X]|az*^<",
@@ -322,7 +322,7 @@
             "data": "",
             "fields": [
                 "Quīntus tam pallidus erat {{c1::ut}} Syra eum mortuum esse put{{c2::āret}}",
-                "[sound:ankidroid_audiorec1332566194.3gp]"
+                "[sound:ankidroid_audiorec1332566194.mp3]"
             ],
             "flags": 0,
             "guid": "zqU;ux1VWz",
@@ -337,7 +337,7 @@
             "data": "",
             "fields": [
                 "Sōl ita lūcēbat {{c1::ut}} pāstor umbram pet{{c2::eret}}, {{c3::nē}} in sōle ambul{{c4::āret}}",
-                "[sound:ankidroid_audiorec2113381777.3gp]"
+                "[sound:ankidroid_audiorec2113381777.mp3]"
             ],
             "flags": 0,
             "guid": "w=0--}0rso",
@@ -352,7 +352,7 @@
             "data": "",
             "fields": [
                 "Tantus atque tālis deus est Iuppiter {{c1::ut}} Optimus Maximus appell{{c2::ārētur}}",
-                "[sound:ankidroid_audiorec586976426.3gp]"
+                "[sound:ankidroid_audiorec586976426.mp3]"
             ],
             "flags": 0,
             "guid": "lHbTE(`.~j",
@@ -367,7 +367,7 @@
             "data": "",
             "fields": [
                 "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::accēderent}} ac fluviī {{c3::rapidī}} cōnsisterent",
-                "[sound:ankidroid_audiorec337683231.3gp]"
+                "[sound:ankidroid_audiorec337683231.mp3]"
             ],
             "flags": 0,
             "guid": "g=E8||C9m_",
@@ -382,7 +382,7 @@
             "data": "",
             "fields": [
                 "Etiam ad {{c1::Īnferōs}} dēscen­dit, ut {{c2::inde}} uxōrem suam redūceret",
-                "[sound:ankidroid_audiorec1062859873.3gp]"
+                "[sound:ankidroid_audiorec1062859873.mp3]"
             ],
             "flags": 0,
             "guid": "h/2-u[Q:2l",
@@ -397,7 +397,7 @@
             "data": "",
             "fields": [
                 "Nēmō tam {{c1::ignārus}} est ut Orpheum ignōret",
-                "[sound:ankidroid_audiorec593495294.3gp]"
+                "[sound:ankidroid_audiorec593495294.mp3]"
             ],
             "flags": 0,
             "guid": "pgRS!N1{(^",
@@ -412,7 +412,7 @@
             "data": "",
             "fields": [
                 "Arīōn quoque omnibus {{c1::nōtus}} est",
-                "[sound:ankidroid_audiorec1337837243.3gp]"
+                "[sound:ankidroid_audiorec1337837243.mp3]"
             ],
             "flags": 0,
             "guid": "CroqaV%Uks",
@@ -427,7 +427,7 @@
             "data": "",
             "fields": [
                 "Cum ille magnās {{c1::dīvitiās}} sēcum in nāve habēret, nautae pauperēs hominī dīvitī {{c2::invidēbant}} eumque necāre cōnstituērunt",
-                "[sound:ankidroid_audiorec1955149702.3gp]"
+                "[sound:ankidroid_audiorec1955149702.mp3]"
             ],
             "flags": 0,
             "guid": "r.s;etqQL6",
@@ -442,7 +442,7 @@
             "data": "",
             "fields": [
                 "Arīōn, cum {{c1::vītam}} suam in perīculō esse sentīret, pecūniam nautīs {{c2::dōnāvit}} eōsque ōrāvit ut sibi parcerent.",
-                "[sound:ankidroid_audiorec1559215139.3gp]"
+                "[sound:ankidroid_audiorec1559215139.mp3]"
             ],
             "flags": 0,
             "guid": "nOC6_4le_j",
@@ -457,7 +457,7 @@
             "data": "",
             "fields": [
                 "Precibus {{c1::permōtī}} nautae eī permīsērunt ut ante mortem {{c2::carmen}} caneret.",
-                "[sound:ankidroid_audiorec1626963697.3gp]"
+                "[sound:ankidroid_audiorec1626963697.mp3]"
             ],
             "flags": 0,
             "guid": "r]]J:_8Ea,",
@@ -472,7 +472,7 @@
             "data": "",
             "fields": [
                 "Hōc factō, Arīōn in mare {{c1::dēsiluit}} ; sed delphīnus eum in {{c2::dorsō}} sedentem ad lītus vēxit.",
-                "[sound:ankidroid_audiorec837384228.3gp]"
+                "[sound:ankidroid_audiorec837384228.mp3]"
             ],
             "flags": 0,
             "guid": "O0Zng>>^Tr",
@@ -487,7 +487,7 @@
             "data": "",
             "fields": [
                 "Ita ille servātus est, cum iam salūtem {{c1::dēspērāret}}.",
-                "[sound:ankidroid_audiorec2115176576.3gp]"
+                "[sound:ankidroid_audiorec2115176576.mp3]"
             ],
             "flags": 0,
             "guid": "tcC7rSQKh^",
@@ -502,7 +502,7 @@
             "data": "",
             "fields": [
                 "Nautae, cum Arīonem {{c1::appārēre}} vidērent, {{c2::prōtinus}} {{c3::maleficium}} suum cōnfessī sunt.",
-                "[sound:ankidroid_audiorec2086683592.3gp]"
+                "[sound:ankidroid_audiorec2086683592.mp3]"
             ],
             "flags": 0,
             "guid": "G(Vf8^2@2L",
@@ -517,7 +517,7 @@
             "data": "",
             "fields": [
                 "Quōmodo mercātōrēs lucrum faciunt?",
-                "[sound:ankidroid_audiorec2012666847.3gp]",
+                "[sound:ankidroid_audiorec2012666847.mp3]",
                 "",
                 ""
             ],
@@ -534,7 +534,7 @@
             "data": "",
             "fields": [
                 "Cūr mercātor Rōmānus trīstis est?",
-                "[sound:ankidroid_audiorec1951796769.3gp]",
+                "[sound:ankidroid_audiorec1951796769.mp3]",
                 "",
                 ""
             ],
@@ -551,7 +551,7 @@
             "data": "",
             "fields": [
                 "Quārē mercēs ēiectae sunt?",
-                "[sound:ankidroid_audiorec246373455.3gp]",
+                "[sound:ankidroid_audiorec246373455.mp3]",
                 "",
                 ""
             ],
@@ -568,7 +568,7 @@
             "data": "",
             "fields": [
                 "Quid mercātor deōs precātur?",
-                "[sound:ankidroid_audiorec792452709.3gp]",
+                "[sound:ankidroid_audiorec792452709.mp3]",
                 "",
                 ""
             ],
@@ -585,7 +585,7 @@
             "data": "",
             "fields": [
                 "Quārē ad Īnferōs dēscendit Orpheus?",
-                "[sound:ankidroid_audiorec980336577.3gp]",
+                "[sound:ankidroid_audiorec980336577.mp3]",
                 "",
                 ""
             ],
@@ -602,7 +602,7 @@
             "data": "",
             "fields": [
                 "Num nautae Arīonem gladiīs interfēcērunt?",
-                "[sound:ankidroid_audiorec957187860.3gp]",
+                "[sound:ankidroid_audiorec957187860.mp3]",
                 "",
                 ""
             ],
@@ -619,7 +619,7 @@
             "data": "",
             "fields": [
                 "Quōmodo Arīōn servātus est?",
-                "[sound:ankidroid_audiorec1034162675.3gp]",
+                "[sound:ankidroid_audiorec1034162675.mp3]",
                 "",
                 ""
             ],
@@ -636,7 +636,7 @@
             "data": "",
             "fields": [
                 "Quid nōs monet haec fābula?",
-                "[sound:ankidroid_audiorec1361988710.3gp]",
+                "[sound:ankidroid_audiorec1361988710.mp3]",
                 "",
                 ""
             ],
@@ -653,7 +653,7 @@
             "data": "",
             "fields": [
                 "Cūr Polycratēs ānulum suum abiēcit?",
-                "[sound:ankidroid_audiorec1299913332.3gp]",
+                "[sound:ankidroid_audiorec1299913332.mp3]",
                 "Polycratēs ānulum suum abiēcit, quia ita deōrum invidiam āvertī posse spērābat",
                 ""
             ],
@@ -670,7 +670,7 @@
             "data": "",
             "fields": [
                 "Ubi ānulus ēius inventus est?",
-                "[sound:ankidroid_audiorec1501155883.3gp]",
+                "[sound:ankidroid_audiorec1501155883.mp3]",
                 "Ānulus ēius piscis in ventrī inventus est.",
                 ""
             ],

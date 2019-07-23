@@ -56,16 +56,16 @@
     "extendRev": 50,
     "media_files": [
         "ankidroid_audiorec1362545299.mp3",
-        "ankidroid_audiorec1442648832.3gp",
+        "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec1529894196.mp3",
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
-        "ankidroid_audiorec1932481410.3gp",
+        "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec393531230.mp3",
-        "ankidroid_audiorec596699706.3gp",
-        "ankidroid_audiorec67821746.3gp",
+        "ankidroid_audiorec596699706.mp3",
+        "ankidroid_audiorec67821746.mp3",
         "ankidroid_audiorec716678691.mp3",
         "ankidroid_audiorec819145255.mp3"
     ],
@@ -290,7 +290,7 @@
             "fields": [
                 "vidērī",
                 "*vi-de-or, vi-*dē-ris, vi-*dē-tur; vi-*dē-mur, vi-*dē-mi-nī, vi-*den-tur",
-                "[sound:ankidroid_audiorec596699706.3gp]"
+                "[sound:ankidroid_audiorec596699706.mp3]"
             ],
             "flags": 0,
             "guid": "/>H~O",
@@ -410,7 +410,7 @@
             "fields": [
                 "dēclīnā magna urbs",
                 "magna urbs, magnam urbem, magnae urbis, magnae urbī, magnā urbe<br><br>magnae urbēs, magnās urbēs, magnārum urbium, magnīs urbibus, magnīs urbibus",
-                "[sound:ankidroid_audiorec67821746.3gp]"
+                "[sound:ankidroid_audiorec67821746.mp3]"
             ],
             "flags": 0,
             "guid": "tT~H5",
@@ -495,7 +495,7 @@
             "fields": [
                 "dēclīnā mare maris",
                 "*ma-re *ma-re *ma-ris *ma-rī *ma-rī ; *ma-ri-a *ma-ri-a *mar-i-um *ma-ri-bus *ma-ri-bus",
-                "[sound:ankidroid_audiorec1932481410.3gp]"
+                "[sound:ankidroid_audiorec1932481410.mp3]"
             ],
             "flags": 0,
             "guid": "4-#?O",
@@ -521,7 +521,7 @@
             "fields": [
                 "amāre: amāvī",
                 "a-*mā-vī, a-mā-*vis-tī, a-*mā-vit ;&nbsp;<br>a-*mā-vi-mus, a-mā-*vis-tis, a-mā-*vē-runt",
-                "[sound:ankidroid_audiorec1442648832.3gp]"
+                "[sound:ankidroid_audiorec1442648832.mp3]"
             ],
             "flags": 0,
             "guid": ":S2b1",
