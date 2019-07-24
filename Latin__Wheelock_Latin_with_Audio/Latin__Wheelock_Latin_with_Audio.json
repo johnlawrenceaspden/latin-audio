@@ -2455,9 +2455,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "semper[sound:semper.mp3]",
+                "semper",
                 "always",
-                "",
+                "[sound:semper.mp3]",
                 "",
                 "",
                 "",
@@ -2569,7 +2569,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>cūra, cūrae (f)</div>",
+                "cūra, cūrae (f)",
                 "care, attention, caution, anxiety",
                 "[sound:cura.mp3]",
                 "",
@@ -2873,7 +2873,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>stultus, stulta, stultum</div>",
+                "stultus, stulta, stultum",
                 "foolish",
                 "[sound:stultus.mp3]",
                 "",
@@ -3958,7 +3958,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>homō, hominis (m)</div>",
+                "homō, hominis (m)",
                 "human being, man",
                 "[sound:homo.mp3]",
                 "",
@@ -8371,7 +8371,8 @@
             "guid": "q)X;<0hz`|",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-17"
+                "Chapter-17",
+                "leech"
             ]
         },
         {
@@ -9980,7 +9981,7 @@
                 "[sound:tango.mp3]",
                 "",
                 "",
-                "tāctum or tactum? (macroniser gives tāctum, L&S tactum)",
+                "",
                 ""
             ],
             "flags": 0,
