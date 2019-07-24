@@ -2,7 +2,7 @@
     "__type__": "Deck",
     "activeTags": [],
     "children": [],
-    "crowdanki_uuid": "df04cc16-ad37-11e9-9bae-342387e2ac49",
+    "crowdanki_uuid": "ae4da780-ae4c-11e9-9bae-342387e2ac49",
     "deck_config_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
     "deck_configurations": [
         {
@@ -93,7 +93,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "crowdanki_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
             "flds": [
                 {
@@ -141,7 +141,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "crowdanki_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -221,7 +221,7 @@
             ],
             "flags": 0,
             "guid": "gf5aU&=dRL",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -236,7 +236,7 @@
             ],
             "flags": 0,
             "guid": "--0:u&8+b",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -251,7 +251,7 @@
             ],
             "flags": 0,
             "guid": "w&LEs]1BvZ",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -266,7 +266,7 @@
             ],
             "flags": 0,
             "guid": "Q{XHBHU/#H",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -281,7 +281,7 @@
             ],
             "flags": 0,
             "guid": "NlXB7gBJGM",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -296,7 +296,7 @@
             ],
             "flags": 0,
             "guid": "J<$E839+;$",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -311,7 +311,7 @@
             ],
             "flags": 0,
             "guid": "z#X]|az*^<",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -326,7 +326,7 @@
             ],
             "flags": 0,
             "guid": "zqU;ux1VWz",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -341,7 +341,7 @@
             ],
             "flags": 0,
             "guid": "w=0--}0rso",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -356,7 +356,7 @@
             ],
             "flags": 0,
             "guid": "lHbTE(`.~j",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumA"
@@ -371,7 +371,7 @@
             ],
             "flags": 0,
             "guid": "g=E8||C9m_",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -386,7 +386,7 @@
             ],
             "flags": 0,
             "guid": "h/2-u[Q:2l",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -401,7 +401,7 @@
             ],
             "flags": 0,
             "guid": "pgRS!N1{(^",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -416,7 +416,7 @@
             ],
             "flags": 0,
             "guid": "CroqaV%Uks",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -431,7 +431,7 @@
             ],
             "flags": 0,
             "guid": "r.s;etqQL6",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -446,7 +446,7 @@
             ],
             "flags": 0,
             "guid": "nOC6_4le_j",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -461,7 +461,7 @@
             ],
             "flags": 0,
             "guid": "r]]J:_8Ea,",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -476,7 +476,7 @@
             ],
             "flags": 0,
             "guid": "O0Zng>>^Tr",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -491,7 +491,7 @@
             ],
             "flags": 0,
             "guid": "tcC7rSQKh^",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -506,7 +506,7 @@
             ],
             "flags": 0,
             "guid": "G(Vf8^2@2L",
-            "note_model_uuid": "df04cc1a-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumB"
@@ -523,7 +523,7 @@
             ],
             "flags": 0,
             "guid": "zU1xs_HVkn",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -540,7 +540,7 @@
             ],
             "flags": 0,
             "guid": "QNj!TT}BIt",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -557,7 +557,7 @@
             ],
             "flags": 0,
             "guid": "F.09-qyx2(",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -574,7 +574,7 @@
             ],
             "flags": 0,
             "guid": "f.&@AKG17Q",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -591,7 +591,7 @@
             ],
             "flags": 0,
             "guid": "kKmFgOLOHK",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -608,7 +608,7 @@
             ],
             "flags": 0,
             "guid": "BSH7%55V.",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -625,7 +625,7 @@
             ],
             "flags": 0,
             "guid": "H-2{-~<QlA",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -642,7 +642,7 @@
             ],
             "flags": 0,
             "guid": "F5Z,DBtT<J",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -659,7 +659,7 @@
             ],
             "flags": 0,
             "guid": "oO@:?lq52C",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
@@ -676,7 +676,7 @@
             ],
             "flags": 0,
             "guid": "r/Uyj]fnbv",
-            "note_model_uuid": "df04cc56-ad37-11e9-9bae-342387e2ac49",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
                 "pensumC"
