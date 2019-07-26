@@ -20,7 +20,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "allnewcards",
             "new": {
                 "bury": true,
                 "delays": [
@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 9999,
                 "separate": true
             },
             "replayq": true,
@@ -53,7 +53,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 42,
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
@@ -120,8 +120,8 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap29",
-                "pensumB"
+                "cap30",
+                "pensumC"
             ],
             "tmpls": [
                 {
@@ -195,7 +195,10 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "cap30",
+                "pensumC"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n{{Back Audio}}",
@@ -679,6 +682,461 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Syra: \"Iam dormī, Quīnte! Cum bene dormīv{{c1::erō}}, valēbis.\" Quīntus: \"Nōn dormiam antequam tū mihi fābulam nārrāverīs. Cum fābulam audīv{{c2::erō}}, bene dormiam. Cum bene dormīv{{c3::erō}}, brevī sānus erō, nisi medicus mē necāv{{c4::erit}}!\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v|cy,hsCEC",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patria salva erit sī mīlitēs nostrī fortiter pugnāv{{c1::erint}}. Dux: \"Nisi vōs fortiter pugnāv{{c2::eritis}}, mīlitēs, hostēs castra nostra expugnābunt.\" Mīlitēs: \"Num quid nōbīs dabitur, sī fortiter pugnāv{{c3::erimus}}\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x)(gZa-Z`o",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius Cornēlium et Orontem, amīcōs et {{c1::hospitēs}} suōs, cum uxōribus ad {{c2::cēnam}} vocāvit.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z#:5kez/Z:",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cum hospitēs veniunt, Iūlius in {{c1::balneō}} lavātur.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cey7-:W3W-",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aemilia eōs {{c1::salvēre}} iubet [= salūtat] et marītum suum {{c2::tardum}} excūsat.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v!b:y$Gi9r",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cornēlius ad vīllam suam reversus ōtiō {{c1::fruitur}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ws%%YP6UF,",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Orontēs, quī ex longō {{c1::itinere}} revertit, vītam rūsticam nōn {{c2::fruitur}}, sed {{c3::molesta}} esse cēnset.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CiHp$kK1tQ",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hospitēs in ātriō exspectant, dum cibus {{c1::coquitur}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mnI;O]6?*~",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Servus quī in {{c1::cūlinā}} cibum coquit, {{c2::cocus}} appellātur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dGFI7PDR/e",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In {{c1::trīclīniō}} sunt trēs lectī: lēctus summus, medius, {{c2::īmus}}; in singulīs lectīs aut {{c3::singulī}} aut {{c4::binī}} aut ternī {{c6::convīvae}} accubant.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zM2l@^Z7es",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rōmānī in lectīs cubantēs {{c1::cēnant}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eo6i-@|1>!",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tandem puer 'cēnam parātam esse' {{c1::nūntiat}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BgsOhJ~@v=",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In mēnsā sunt {{c1::vāsa}} et pōcula ex {{c2::argentō}} facta.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lrc`g5Xvl5",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cibus omnibus {{c1::placet}}, maximē autem {{c2::carō porcī}} laudātur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vW}5b+rDSP",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::ministrī}} [= servī] vīnum in pōcula {{c2::fundunt}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pkZf_eaGii",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Orontēs vīnum merum {{c1::pōtat}} [=bibit] , cēterī convīvae aquam vīnō {{c2::mīscent}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G(.L0b_By?",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sine cibō homō {{c1::diū}} vīvere potest, sine aquā {{c2::paulisper}} tantum.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sN`#mtzdg*",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::famēs}} mala rēs est, sed multō pēior est {{c2::sitis}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c&z^nkSYs*",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ex malīs minimum {{c1::ēligere}} oportet.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l|IXwY,)?M",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quī sunt Cornēlius et Orontēs?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N}?;Nk9pYi",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubi est Iūlius cum hospitēs adveniunt?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g5P)$fctSl",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid est balneum?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J~(;nj|c}R",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nōnne iūcunda est vīta rūstica?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kji_;$j5F0",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid est cocī negōtium?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x?,{q`Yrr-",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Num Rōmānī in sellīs sedentēs cēnant?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c_hB<[1Vx^",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quot lectī sunt in trīclīniō?<br>",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OcYTS=p~$a",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quot convīvae in singulīs lectīs accubant?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D:6T$TT@m9",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ex quā māteriā pōcula et vāsa facta sunt?<br>",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HUnt;Mf.}E",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tūne vīnum aqua calida mīx tum bibis?",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "btvb0BjypQ",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap30",
                 "pensumC"
             ]
         }

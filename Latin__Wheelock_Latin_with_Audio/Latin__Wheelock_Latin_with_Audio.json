@@ -2778,7 +2778,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>bellus, bella, bellum</div>",
+                "bellus, bella, bellum",
                 "pretty, handsome, charming",
                 "[sound:bellus.mp3]",
                 "",
@@ -3463,7 +3463,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>dea, deae (f)</div>",
+                "dea, deae (f)",
                 "goddess",
                 "[sound:dea.mp3]",
                 "",
@@ -3616,7 +3616,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Graecus, Graeca, Graecum</div>",
+                "Graecus, Graeca, Graecum",
                 "Greek (adjective)",
                 "[sound:graecus.mp3]",
                 "",
@@ -4072,10 +4072,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>nōmen, nōminis (n)</div>",
+                "nōmen, nōminis",
                 "name",
                 "[sound:nomen.mp3]",
-                "",
+                "n",
                 "",
                 "",
                 ""
@@ -4110,7 +4110,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>rēgīna, rēgīnae (f)</div>",
+                "rēgīna, rēgīnae (f)",
                 "queen",
                 "[sound:regina.mp3]",
                 "",
@@ -4300,7 +4300,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>audeō, audēre, ausus sum</div>",
+                "audeō, audēre, ausus sum",
                 "to dare",
                 "[sound:audeo.mp3]",
                 "",
@@ -4661,7 +4661,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātum</div>",
+                "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātum",
                 "to point out, show, demonstrate",
                 "[sound:demonstro.mp3]",
                 "",
@@ -4966,7 +4966,7 @@
             "data": "",
             "fields": [
                 "alius, alia, aliud",
-                "another, other",
+                "another, other (....., ...., .....)",
                 "[sound:alius.mp3]",
                 "",
                 "",

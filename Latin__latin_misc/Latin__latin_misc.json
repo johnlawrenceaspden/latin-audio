@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "allnewcards",
             "new": {
                 "bury": true,
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 9999,
                 "separate": true
             },
             "replayq": true,
@@ -55,12 +55,15 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "ankidroid_audiorec1169838510.3gp",
+        "ankidroid_audiorec1216378771.3gp",
         "ankidroid_audiorec1362545299.mp3",
         "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec1529894196.mp3",
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
+        "ankidroid_audiorec1699049385.3gp",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec393531230.mp3",
@@ -426,8 +429,8 @@
             "data": "",
             "fields": [
                 "declinā altum mare",
-                "altum mare, altum mare, altī maris, altō marī, altō marī ; alta maria , alta maria, altōrum marium, altīs maribus, altīs maribus ",
-                ""
+                "altum mare, altum mare, altī maris, altō marī, altō marī ;<br><br>alta maria , alta maria, altōrum marium, altīs maribus, altīs maribus ",
+                "[sound:ankidroid_audiorec1216378771.3gp]  ;   [sound:ankidroid_audiorec1169838510.3gp]"
             ],
             "flags": 0,
             "guid": "QxYsB",
@@ -507,8 +510,8 @@
             "data": "",
             "fields": [
                 "dēclīnā diēs, -ēī",
-                "diēs diem diēī diēī diē ;<div><br>diēs diēs diērum diēs diēs</div>",
-                ""
+                "diēs diem diēī diēī diē ;<div><br>diēs diēs diērum diēbus diēbus</div>",
+                "[sound:ankidroid_audiorec1699049385.3gp]"
             ],
             "flags": 0,
             "guid": "Kg<mG",

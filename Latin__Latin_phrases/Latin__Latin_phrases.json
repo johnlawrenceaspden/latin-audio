@@ -8,7 +8,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c675e2b3-9a7b-11e9-9bae-342387e2ac49",
+            "crowdanki_uuid": "bbdd975f-a030-11e9-b09e-74867a15fbd5",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -20,7 +20,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "20 random",
+            "name": "no new cards",
             "new": {
                 "bury": true,
                 "delays": [
@@ -33,8 +33,8 @@
                     4,
                     7
                 ],
-                "order": 0,
-                "perDay": 20,
+                "order": 1,
+                "perDay": 0,
                 "separate": true
             },
             "replayq": true,
@@ -46,14 +46,14 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 100
+                "perDay": 1000
             },
             "timer": 0
         }
     ],
     "desc": "Please see the <a href='https://ankiweb.net/shared/info/726769911'>shared deck page</a> for more info.",
     "dyn": 0,
-    "extendNew": 5,
+    "extendNew": -10,
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
@@ -18633,7 +18633,7 @@
                 "laborāre pugnāre parātī sumus",
                 "la-bo-*rā-re pug-*nā-re pa-*rā-tī *su-mus",
                 "",
-                "..*o. o*o. .*oo *.o",
+                ".. *o.o *o.. *oo *.o",
                 "[sound:ankidroid_audiorec424883266.mp3]",
                 "",
                 "To work, (or) to fight; we are ready",
@@ -29198,7 +29198,7 @@
                 "prīn-*ci-pi-um in-dī-vi-du-ā-ti-*ō-nis",
                 "prīn-*ci-pi-u(m)in-dī-vi-du-ā-ti-*ō-nis",
                 "o*..oo..o.*oo",
-                "[sound:ankidroid_audiorec1799695298.mp3][sound:ankidroid_audiorec1799695298.mp3]",
+                "[sound:ankidroid_audiorec1799695298.mp3]",
                 "",
                 "Individuation",
                 "psychological term: the self-formation of the personality into a coherent whole"
@@ -31914,7 +31914,7 @@
                 "rēs firma mītēscere nescit",
                 "rēs *fir-ma mī-*tēs-ce-re *ne-scit",
                 "",
-                "o *o. o*o.. *oo",
+                "o *o. o*o.. *.o",
                 "[sound:ankidroid_audiorec778523135.mp3]",
                 "",
                 "a firm resolve does not know how to weaken",
