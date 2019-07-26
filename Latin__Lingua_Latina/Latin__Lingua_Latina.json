@@ -6870,7 +6870,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lūcēre lūxisse",
+                "lūceō, lūcēre, lūxī",
                 "",
                 "",
                 "shine",
@@ -6994,7 +6994,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ēsse edō ēdisse ēsum",
+                "edō, ēsse, ēdī, ēsum",
                 "",
                 "",
                 "eat",
@@ -7055,7 +7055,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dūcere -xisse ductum",
+                "dūcō, dūcere, dūxī, ductum",
                 "",
                 "",
                 "guide, lead, draw, trace",
@@ -7238,7 +7238,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "bibere -bisse",
+                "bibō, bibere, bibī, ------",
                 "",
                 "",
                 "drink",
@@ -7586,7 +7586,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "posse potuisse",
+                "possum, posse, potuī",
                 "",
                 "",
                 "be able",
@@ -7870,7 +7870,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "movēre mōvisse mōtum",
+                "moveō, movēre, mōvī, mōtum",
                 "",
                 "",
                 "move, stir",
@@ -8253,7 +8253,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "capere -iō cēpisse captum",
+                "capiō, capere, cēpī, captum",
                 "",
                 "",
                 "take, catch, capture",
@@ -8397,8 +8397,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "a-scendere -disse",
-                "",
+                "ascendō, ascendere, ascendī, ascēnsus",
+                "ad + scandō",
                 "",
                 "climb, go up, mount",
                 "",
@@ -8598,7 +8598,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tangere tetigisse tāctum",
+                "tangō, tangere, tetigī, tāctum",
                 "",
                 "",
                 "touch",
@@ -8659,7 +8659,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "stāre stetisse",
+                "stō, stāre, stetī, status",
                 "",
                 "",
                 "stand",
@@ -9127,7 +9127,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "iubēre iussisse iussum",
+                "iubeō, iubēre, iussī, iussum",
                 "",
                 "",
                 "order, tell",
@@ -10099,7 +10099,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "metuere -uisse",
+                "metuō, metuere, metuī, ------",
                 "",
                 "",
                 "fear",
@@ -10423,7 +10423,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ferre tulisse lātum",
+                "ferō, ferre, tulī, lātum",
                 "",
                 "",
                 "carry, bring, bear",
@@ -11809,8 +11809,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "in-cipere -iō coepisse coeptum",
-                "",
+                "incipiō, incipere, coepisse, coeptum",
+                "in-cipere",
                 "",
                 "begin",
                 "",
@@ -12694,7 +12694,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "surgere sur-rēxisse",
+                "surgō, surgere, surrēxī, -----",
                 "",
                 "",
                 "rise, get up",
@@ -13057,7 +13057,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mergere -sisse -sum",
+                "mergō, mergere, mersī, mersum",
                 "",
                 "",
                 "dip, plunge, sink",
@@ -13405,8 +13405,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "af-ferre at-tulisse al-lātum",
-                "",
+                "afferō, afferre, attulī, allātum",
+                "af-ferre",
                 "",
                 "bring (to, forward, about)",
                 "",
@@ -13646,8 +13646,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "red-īre -eō -iisse -itum",
-                "",
+                "redeō, redīre, rediī, reditum",
+                "red-īre",
                 "",
                 "go back, return",
                 "",
@@ -15463,7 +15463,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cernere crēvisse",
+                "cernō, cernere, crēvī, certus",
                 "",
                 "",
                 "discern, perceive",
@@ -17127,7 +17127,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "premere pressisse pressum",
+                "premō, premere, pressī, pressum",
                 "",
                 "",
                 "press",
@@ -17269,7 +17269,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "iungere iūnxisse iūnctum",
+                "iungō, iungere, iūnxī, iūnctum",
                 "",
                 "",
                 "join, combine",
@@ -17577,7 +17577,7 @@
             "data": "",
             "fields": [
                 "dēsum, dēesse, dēfuī",
-                "de-esse dē-fuisse (+dat)",
+                "de-esse (+dat)",
                 "",
                 "be missing, fail",
                 "",
@@ -19314,7 +19314,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōlle nōluisse",
+                "nōlō, nōlle, nōluī, -----",
                 "",
                 "",
                 "be unwilling, not want",
@@ -20656,7 +20656,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vincīre -nxisse -nctum",
+                "vincō, vincīre, vinxī, vinctum",
                 "",
                 "",
                 "tie",
@@ -20677,7 +20677,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tremere -uisse",
+                "tremō, tremere, tremuī, -----",
                 "",
                 "",
                 "tremble",
@@ -21193,7 +21193,7 @@
             "data": "",
             "fields": [
                 "mordeō, mordēre, momordī, morsum",
-                "mordēre momordisse -sum",
+                "",
                 "Canis īrātus dentēs ostendit ac fremit: \"Rrrr . . . ! \" nec vērō tabellārium mordēre potest, quod catēnā retinētur",
                 "bite",
                 "",
@@ -21394,7 +21394,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fremere -uisse",
+                "fremō, fremere, fremuī, -----",
                 "",
                 "",
                 "growl",
@@ -21863,8 +21863,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "trā-dere -didisse -ditum",
-                "",
+                "trādō, trādere, trādidī, trāditum",
+                "trā-dere",
                 "",
                 "hand over, deliver",
                 "",
@@ -22107,7 +22107,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "perdere perdisse perditum",
+                "perdō, perdere, perdī, perditum",
                 "",
                 "",
                 "destroy, ruin, waste",
@@ -22516,7 +22516,7 @@
             "data": "",
             "fields": [
                 "contineō, continēre, continuī, contentum",
-                "con-tinēre -uisse -tentum",
+                "con-tinēre",
                 "",
                 "contain",
                 "",
@@ -28460,8 +28460,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ex-tendere -disse -tum",
-                "",
+                "extendō, extendere, extendisse, extentum",
+                "ex-tendere",
                 "",
                 "stretch out, extend",
                 "",
@@ -28482,7 +28482,7 @@
             "data": "",
             "fields": [
                 "ēvolvō, ēvolvere, ēvolvī, ēvolūtum",
-                "ē-volvere -visse -lūtum",
+                "ē-volvere",
                 "",
                 "unroll",
                 "",
@@ -32089,7 +32089,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "statuere -uisse -ūtum",
+                "statuō, statuere, statuī, statūtum",
                 "",
                 "",
                 "fix, determine",
@@ -32893,8 +32893,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ignōscere -ōvisse +dat",
-                "",
+                "ignōscō, ignōscere, ignōvī, ignōtus",
+                "ignōscere +dat",
                 "",
                 "forgive",
                 "",
@@ -33281,8 +33281,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "au-ferre abs-tulisse ablātum",
-                "",
+                "auferō, auferre, abstulī, ablātum",
+                "abs + ferre",
                 "",
                 "carry off, take away",
                 "",
@@ -33728,8 +33728,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "red-imere -ēmisse -ēmptum",
-                "",
+                "redimō, redimere, redēmī redēmptum",
+                "red + emō",
                 "",
                 "ransom",
                 "",
@@ -33869,8 +33869,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "per-currere -rrisse -rsum",
-                "",
+                "percurrō, percurrere, percurrī, percursum",
+                "per-currere",
                 "",
                 "run over, pass over",
                 "",
@@ -33889,8 +33889,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "of-ferre ob-tulisse oblātum",
-                "",
+                "offerō, offerre, obtulī, oblātum",
+                "ob + ferre",
                 "",
                 "offer",
                 "",
@@ -34011,8 +34011,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "meminī",
                 "meminisse +gen/acc",
-                "",
                 "",
                 "remember, recollect",
                 "",
@@ -34292,7 +34292,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "flectere -xisse -xum",
+                "flectō, flectere, flexī, flexum",
                 "",
                 "",
                 "bend, turn",
@@ -34415,8 +34415,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dē-sistere -stitisse",
-                "",
+                "dēsistō, dēsistere, dēstitī, dēstitus",
+                "dē-sistere",
                 "",
                 "leave off, cease",
                 "",
@@ -34476,8 +34476,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "con-temnere -mpsisse -mptum",
-                "",
+                "contemnō, contemnere, contempsī, contemptum",
+                "con-temnere",
                 "",
                 "despise, scorn",
                 "",
@@ -34880,8 +34880,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "trāns-īre -eō -iisse -itum",
-                "",
+                "trānseō, trānsīre, trānsiī, trānsitum",
+                "trāns-īre",
                 "",
                 "cross, pass",
                 "",
