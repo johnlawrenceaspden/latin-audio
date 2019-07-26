@@ -1,0 +1,14 @@
+A work in progress! Will be constantly updated and improved while my interest sustains itself.
+
+The words from Orberg's Familia Romana, with my current best attempt at the Restored Pronunciation (In the five-vowels variant proposed by Andrea Calabrese and popularised by Scorpio Martianus <a href="https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ" rel="nofollow">https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ</a>)
+
+Which is to say, our current best guess at how Cicero would have said the words, had he been a Yorkshireman in the process of learning Latin from Familia Romana.
+
+Based on: <a href="https://ankiweb.net/shared/info/1397480336" rel="nofollow">https://ankiweb.net/shared/info/1397480336</a>
+
+Error reports, criticisms, pull requests and offers of collaboration very much appreciated and can be filed here:
+
+<a href="https://github.com/johnlawrenceaspden/latin-audio" rel="nofollow">https://github.com/johnlawrenceaspden/latin-audio</a>
+
+Where this deck is exported with the crowdanki plugin.
+
