@@ -5183,7 +5183,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lacrimāre",
+                "lacrimō,lacrimāre,lacrimāvī,lacrimātus",
                 "",
                 "",
                 "shed tears, weep",
@@ -5814,7 +5814,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōrnāre",
+                "ōrnō, ōrnāre, ōrnāvī, ōrnātus",
                 "",
                 "",
                 "equip, adorn",
@@ -5915,7 +5915,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mōnstrāre",
+                "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus",
                 "",
                 "",
                 "point out, show",
@@ -6221,7 +6221,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "clāmāre",
+                "clāmō, clāmāre, clāmāvī, clāmātus",
                 "",
                 "",
                 "shout",
@@ -6465,7 +6465,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ululāre",
+                "ululō, ululāre, ululāvī, ululātus",
                 "",
                 "",
                 "howl",
@@ -6891,7 +6891,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lātrāre",
+                "lātrō, lātrāre, lātrāvī, lātrātus",
                 "",
                 "",
                 "bark",
@@ -7014,7 +7014,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "errāre",
+                "errō, errāre, errāvī, errātus",
                 "",
                 "",
                 "wander, stray",
@@ -7097,7 +7097,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēclīnāre",
+                "dēclīnō, dēclīnāre, dēclīnāvī, dēclīnātus",
                 "",
                 "",
                 "decline, inflect",
@@ -7361,7 +7361,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "volāre",
+                "volō, volāre, volāvī, volātus",
                 "",
                 "",
                 "fly",
@@ -7485,7 +7485,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "spīrāre",
+                "spīrō, spīrāre, spīrāvī, spīrātus",
                 "",
                 "",
                 "breathe",
@@ -7748,7 +7748,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "occultāre",
+                "occultō, occultāre, occultāvī, occultātus",
                 "",
                 "",
                 "hide",
@@ -7849,7 +7849,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "natāre",
+                "natō, natāre, natāvī, natātus",
                 "",
                 "",
                 "swim",
@@ -8680,7 +8680,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "spectāre",
+                "spectō, spectāre, spectāvī, spectātus",
                 "",
                 "",
                 "watch, look at",
@@ -8865,7 +8865,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "putāre",
+                "putō, putāre, putāvī, putātus",
                 "",
                 "",
                 "think, suppose",
@@ -8926,7 +8926,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "palpitāre",
+                "palpitō, palpitāre, palpitāvī, palpitātus",
                 "",
                 "",
                 "beat, throb",
@@ -9655,7 +9655,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "aegrōtāre",
+                "aegrōtō, aegrōtāre, aegrōtāvī, aegrōtātus",
                 "",
                 "",
                 "be ill",
@@ -9876,7 +9876,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pugnāre",
+                "pugnō, pugnāre, pugnāvī, pugnātus",
                 "",
                 "",
                 "fight",
@@ -9997,8 +9997,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "oppugnō, oppugnāre, oppugnāvī, oppugnātus",
                 "op-pugnāre",
-                "",
                 "",
                 "attack",
                 "",
@@ -10038,7 +10038,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mīlitāre",
+                "mīlitō, mīlitāre, mīlitāvī, mīlitātus",
                 "",
                 "",
                 "serve as a soldier",
@@ -10444,7 +10444,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "expugnāre",
+                "expugnō, expugnāre, expugnāvī, expugnātus",
                 "ex-pugnāre",
                 "",
                 "conquer",
@@ -11488,7 +11488,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōmināre",
+                "nōminō, nōmināre, nōmināvī, nōminātus",
                 "",
                 "",
                 "name, call",
@@ -11850,7 +11850,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "illūstrāre",
+                "illūstrō, illūstrāre, illūstrāvī, illūstrātus",
                 "",
                 "",
                 "illuminate, make clear",
@@ -12451,7 +12451,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vigilāre",
+                "vigilō, vigilāre, vigilāvī, vigilātus",
                 "",
                 "",
                 "be awake",
@@ -13222,6 +13222,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "excitō, excitāre, excitāvī, excitātus",
                 "ex-citāre",
                 "",
                 "",
@@ -13687,7 +13688,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "recitāre",
+                "recitō, recitāre, recitāvī, recitātus",
                 "",
                 "",
                 "read aloud",
@@ -14295,7 +14296,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "turbāre",
+                "turbō, turbāre, turbāvī, turbātus",
                 "",
                 "",
                 "stir up, agitate",
@@ -14456,7 +14457,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "servāre",
+                "servō, servāre, servāvī, servātus",
                 "",
                 "",
                 "preserve, save",
@@ -14842,7 +14843,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nāvigāre",
+                "nāvigō, nāvigāre, nāvigāvī, nāvigātus",
                 "",
                 "",
                 "sail",
@@ -15045,8 +15046,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "invocō, invocāre, invocāvī, invocātus",
                 "in-vocāre",
-                "",
                 "",
                 "call upon, invoke",
                 "",
@@ -15171,7 +15172,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "iactāre",
+                "iactō, iactāre, iactāvī, iactātus",
                 "",
                 "",
                 "throw, toss about",
@@ -15233,7 +15234,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "gubernāre",
+                "gubernō, gubernāre, gubernāvī, gubernātus",
                 "",
                 "",
                 "steer, govern",
@@ -15294,7 +15295,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "flāre",
+                "flō, flāre, flāvī, flātus",
                 ": ventus flat (= movētur)",
                 "Cum nūllus ventus super mare flat, tranqillum est mare.",
                 "blow",
@@ -15483,7 +15484,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "appellāre",
+                "appellō, appellāre, appellāvī, appellātus",
                 "",
                 "",
                 "call, address",
@@ -16233,7 +16234,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "laudāre",
+                "laudō, laudāre, laudāvī, laudātus",
                 "",
                 "",
                 "praise",
@@ -16581,7 +16582,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōgitāre",
+                "cōgitō, cōgitāre, cōgitāvī, cōgitātus",
                 "",
                 "",
                 "think",
@@ -16883,7 +16884,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "significāre",
+                "significō, significāre, significāvī, significātus",
                 "",
                 "",
                 "signify, show by signs, indicate, mean",
@@ -16904,7 +16905,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "signāre",
+                "signō, signāre, signāvī, signātus",
                 "signāre (epistulam) = cērā claudere",
                 "Magister, antequam epistulam signat, pauca verba addit.",
                 "mark, seal",
@@ -17533,7 +17534,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dictāre",
+                "dictō, dictāre, dictāvī, dictātus",
                 "",
                 "",
                 "dictate",
@@ -17657,8 +17658,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "comparō, comparāre, comparāvī, comparātus",
                 "com-parāre",
-                "",
                 "",
                 "compare",
                 "",
@@ -19190,7 +19191,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "postulāre",
+                "postulō, postulāre, postulāvī, postulātus",
                 "",
                 "Quōmodo īnfāns quī farī nōn potest, cibum postulat?",
                 "ask, demand, require",
@@ -19719,7 +19720,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cūrāre",
+                "cūrō, cūrāre, cūrāvī, cūrātus",
                 "",
                 "",
                 "care for, look after, take care",
@@ -20104,7 +20105,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nārrāre",
+                "nārrō, nārrāre, nārrāvī, nārrātus",
                 "",
                 "",
                 "relate, tell",
@@ -20125,7 +20126,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mūtāre",
+                "mūtō, mūtāre, mūtāvī, mūtātus",
                 "",
                 "",
                 "change, exchange",
@@ -20370,7 +20371,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dubitāre",
+                "dubitō, dubitāre, dubitāvī, dubitātus",
                 "",
                 "",
                 "doubt",
@@ -22187,7 +22188,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "negāre",
+                "negō, negāre, negāvī, negātus",
                 "",
                 "",
                 "deny, say that…not",
@@ -25127,7 +25128,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "levāre",
+                "levō, levāre, levāvī, levātus",
                 "",
                 "",
                 "lift, raise",
@@ -25394,7 +25395,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ēvolāre",
+                "ēvolō, ēvolāre, ēvolāvī, ēvolātus",
                 "",
                 "",
                 "fly out",
@@ -26569,7 +26570,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōrāre",
+                "ōrō, ōrāre, ōrāvī, ōrātus",
                 "= postūlāre aliquid ab aliquō / ā deīs",
                 "",
                 "pray, beg",
@@ -26834,7 +26835,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "labōrāre",
+                "labōrō, labōrāre, labōrāvī, labōrātus",
                 "",
                 "",
                 "toil, work, take trouble",
@@ -27707,7 +27708,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "suscitāre",
+                "suscitō, suscitāre, suscitāvī, suscitātus",
                 "= excitāre",
                 "Et accessērunt ad eum discipulī eius et suscitāvērunt eum dicentēs: \"Domine, salvā nōs! Perīmus!\"",
                 "wake up, rouse",
@@ -27810,7 +27811,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "salvāre",
+                "salvō, salvāre, salvāvī, salvātus",
                 "",
                 "",
                 "save",
@@ -32027,7 +32028,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vetāre",
+                "vetō, vetāre, vetāvī, vetātus",
                 "",
                 "",
                 "forbid",
@@ -32430,7 +32431,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "optāre",
+                "optō, optāre, optāvī, optātus",
                 "",
                 "",
                 "wish",
@@ -33056,7 +33057,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ēducāre",
+                "ēducō, ēducāre, ēducāvī, ēducātus",
                 "",
                 "",
                 "bring up",
@@ -33157,7 +33158,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cruciāre",
+                "cruciō, cruciāre, cruciāvī, cruciātus",
                 "",
                 "",
                 "torture, torment",
@@ -33665,8 +33666,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "repugnō, repugnāre, repugnāvī, repugnātus",
                 "re-pugnāre",
-                "",
                 "",
                 "fight back, resist",
                 "",
@@ -33706,7 +33707,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rēmigāre",
+                "rēmigō, rēmigāre, rēmigāvī, rēmigātus",
                 "",
                 "",
                 "row",
@@ -34596,7 +34597,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "armāre",
+                "armō, armāre, armāvī, armātus",
                 "",
                 "",
                 "arm, equip",
@@ -34717,8 +34718,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "adiuvō, adiuvāre, adiuvāvī, adiuvātus",
                 "ad-iuvāre",
-                "",
                 "",
                 "help",
                 "",
@@ -34758,7 +34759,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vulnerāre",
+                "vulnerō, vulnerāre, vulnerāvī, vulnerātus",
                 "",
                 "",
                 "wound",
@@ -35201,7 +35202,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "properāre",
+                "properō, properāre, properāvī, properātus",
                 "",
                 "",
                 "hurry",
@@ -35728,7 +35729,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fatīgāre",
+                "fatīgō, fatīgāre, fatīgāvī, fatīgātus",
                 "",
                 "",
                 "tire out, weary",
@@ -35892,7 +35893,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēsīderāre",
+                "dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus",
                 "",
                 "",
                 "long for, miss",
@@ -35933,7 +35934,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōpulāre",
+                "cōpulō, cōpulāre, cōpulāvī, cōpulātus",
                 "",
                 "",
                 "join, connect",
@@ -35954,8 +35955,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "convocō, convocāre, convocāvī, convocātus",
                 "con-vocāre",
-                "",
                 "",
                 "call together",
                 "",
@@ -35975,8 +35976,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "commemorō, commemorāre, commemorāvī, commemorātus",
                 "com-memorāre",
-                "",
                 "",
                 "mention",
                 "",
@@ -36743,7 +36744,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pīpiāre",
+                "pīpiō, pīpiāre, pīpiāvī, pīpiātus",
                 "",
                 "",
                 "chirp",
@@ -36824,7 +36825,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōscitāre",
+                "ōscitō, ōscitāre, ōscitāvī, ōscitātus",
                 "",
                 "",
                 "gape, yawn",
@@ -37391,8 +37392,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "excruciō, excruciāre, excruciāvī, excruciātus",
                 "ex-cruciāre",
-                "",
                 "",
                 "torture, torment",
                 "",
@@ -37536,8 +37537,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "dēvorō, dēvorāre, dēvorāvī, dēvorātus",
                 "dē-vorāre",
-                "",
                 "",
                 "swallow up, devour",
                 "",
@@ -37597,8 +37598,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "conturbō, conturbāre, conturbāvī, conturbātus",
                 "con-turbāre",
-                "",
                 "",
                 "mix up, confound",
                 "",
@@ -37719,7 +37720,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "certāre",
+                "certō, certāre, certāvī, certātus",
                 "",
                 "",
                 "contend, fight",
@@ -37880,8 +37881,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "affirmō, affirmāre, affirmāvī, affirmātus",
                 "af-firmāre",
-                "",
                 "",
                 "assert, affirm",
                 "",
@@ -38202,7 +38203,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōrdināre",
+                "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus",
                 "",
                 "",
                 "arrange, regulate",
@@ -38385,8 +38386,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "explānō, explānāre, explānāvī, explānātus",
                 "ex-plānāre",
-                "",
                 "",
                 "explain",
                 "",
@@ -38750,7 +38751,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "superāre",
+                "superō, superāre, superāvī, superātus",
                 "= vincere",
                 "",
                 "",
@@ -38786,7 +38787,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sacrificāre",
+                "sacrificō, sacrificāre, sacrificāvī, sacrificātus",
                 "= bovem/ovem/porcum occīdere et deō dare",
                 "",
                 "",
