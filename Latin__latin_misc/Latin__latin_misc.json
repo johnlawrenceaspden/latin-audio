@@ -55,8 +55,10 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "ankidroid_audiorec1139360258.3gp",
         "ankidroid_audiorec1169838510.mp3",
         "ankidroid_audiorec1216378771.mp3",
+        "ankidroid_audiorec1244829549.3gp",
         "ankidroid_audiorec1362545299.mp3",
         "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
@@ -64,13 +66,26 @@
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
         "ankidroid_audiorec1699049385.mp3",
+        "ankidroid_audiorec181499073.3gp",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
+        "ankidroid_audiorec204651044.3gp",
+        "ankidroid_audiorec2077816925.3gp",
+        "ankidroid_audiorec2125598793.3gp",
+        "ankidroid_audiorec311621732.3gp",
         "ankidroid_audiorec393531230.mp3",
+        "ankidroid_audiorec427714694.3gp",
+        "ankidroid_audiorec504910668.3gp",
         "ankidroid_audiorec596699706.mp3",
         "ankidroid_audiorec67821746.mp3",
+        "ankidroid_audiorec682514073.3gp",
         "ankidroid_audiorec716678691.mp3",
-        "ankidroid_audiorec819145255.mp3"
+        "ankidroid_audiorec718656581.3gp",
+        "ankidroid_audiorec747209477.3gp",
+        "ankidroid_audiorec819145255.mp3",
+        "ankidroid_audiorec826053439.3gp",
+        "ankidroid_audiorec945429629.3gp",
+        "ankidroid_audiorec956036805.3gp"
     ],
     "mid": 1342702532888,
     "name": "Latin::latin misc",
@@ -576,7 +591,7 @@
             "fields": [
                 "audiō: audiam",
                 "audiam, audiās, audiat; audiāmus, audiātis, audiant",
-                ""
+                "[sound:ankidroid_audiorec747209477.3gp]"
             ],
             "flags": 0,
             "guid": "tZakD",
@@ -589,7 +604,7 @@
             "fields": [
                 "capiō : capiam",
                 "capiam, capiās, capiat; capiāmus, capiātis, capiant",
-                ""
+                "[sound:ankidroid_audiorec2125598793.3gp]"
             ],
             "flags": 0,
             "guid": "=lKvE",
@@ -602,7 +617,7 @@
             "fields": [
                 "sum, esse: sim",
                 "sim, sīs, sit; sīmus, sītis, sint",
-                ""
+                "[sound:ankidroid_audiorec181499073.3gp]"
             ],
             "flags": 0,
             "guid": "FNT-B",
@@ -626,9 +641,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "posse: eram",
+                "esse: eram",
                 "eram, erās, erat ; erāmus, erātis, erant",
-                ""
+                "[sound:ankidroid_audiorec204651044.3gp]"
             ],
             "flags": 0,
             "guid": "dZ:n",
@@ -640,8 +655,8 @@
             "data": "",
             "fields": [
                 "posse : poteram",
-                "poteram, poterās, poterat ; poterāmus, poterātis, poterat",
-                ""
+                "poteram, poterās, poterat ; poterāmus, poterātis, poterant",
+                "[sound:ankidroid_audiorec956036805.3gp]"
             ],
             "flags": 0,
             "guid": "e$cRP",
@@ -654,7 +669,7 @@
             "fields": [
                 "īre : ībam",
                 "ībam, ībās, ībat ; ībāmus, ībātis, ībant",
-                ""
+                "[sound:ankidroid_audiorec945429629.3gp]"
             ],
             "flags": 0,
             "guid": "<4H@O",
@@ -666,8 +681,8 @@
             "data": "",
             "fields": [
                 "ferre : ferēbam",
-                "ferēbam, ferēbās, ferēbat ; ferēbāmus, ferēbātis, ferēbant",
-                ""
+                "fe-*rē-bam, fe-*rē-bās, fe-*rē-bat ; fe-rē-*bā-mus, fe-rē-*bā-tis, fe-*rē-bant",
+                "[sound:ankidroid_audiorec682514073.3gp]"
             ],
             "flags": 0,
             "guid": "a8~R",
@@ -680,7 +695,7 @@
             "fields": [
                 "monēre: moneō",
                 "moneō, monēs, monet; monēmus, monētis, monent",
-                ""
+                "[sound:ankidroid_audiorec826053439.3gp]"
             ],
             "flags": 0,
             "guid": "]6bzR",
@@ -693,7 +708,7 @@
             "fields": [
                 "legere: legō",
                 "legō, legis, legit ; legimus, legitis, legunt",
-                ""
+                "[sound:ankidroid_audiorec1139360258.3gp]"
             ],
             "flags": 0,
             "guid": "#!}~9",
@@ -706,7 +721,7 @@
             "fields": [
                 "audīre : audiō",
                 "audiō, audīs, audit; audīmus, audītis, audiunt",
-                ""
+                "[sound:ankidroid_audiorec311621732.3gp]"
             ],
             "flags": 0,
             "guid": "rz4L4",
@@ -719,7 +734,7 @@
             "fields": [
                 "esse : sum",
                 "sum, es, est ; sumus, estis, sunt",
-                ""
+                "[sound:ankidroid_audiorec427714694.3gp]"
             ],
             "flags": 0,
             "guid": "R^kbH",
@@ -731,8 +746,8 @@
             "data": "",
             "fields": [
                 "amāre: amāvī",
-                "amāvī amāvistī, amāvit ; amāvimus, amāvistis, amāvērunt",
-                ""
+                "a-*mā-vī a-mā-*vis-tī, a-*mā-vit ; a-*mā-vi-mus, a-mā-*vis-tis, a-mā-*vē-runt",
+                "[sound:ankidroid_audiorec504910668.3gp]"
             ],
             "flags": 0,
             "guid": "q@?=P",
@@ -745,7 +760,7 @@
             "fields": [
                 "declīnā verbum",
                 "verbum, verbum, verbī , verbō, verbō ; verba, verba, verbōrum, verbīs, verbīs",
-                ""
+                "[sound:ankidroid_audiorec718656581.3gp]"
             ],
             "flags": 0,
             "guid": "HOxnR",
@@ -758,7 +773,7 @@
             "fields": [
                 "dēclīnā puer",
                 "puer, puerum, puerī, puerō, puerō ; puerī, puerōs, puerōrum, puerīs, puerīs",
-                ""
+                "[sound:ankidroid_audiorec2077816925.3gp]"
             ],
             "flags": 0,
             "guid": "/gu75",
@@ -771,7 +786,7 @@
             "fields": [
                 "dēclīna vōx",
                 "vōx, vōcem, vōcis, vōcī, vōce ; vōcēs, vōcēs, vōcum, vōcibus, vōcibus",
-                ""
+                "[sound:ankidroid_audiorec1244829549.3gp]"
             ],
             "flags": 0,
             "guid": "7~CHN",
