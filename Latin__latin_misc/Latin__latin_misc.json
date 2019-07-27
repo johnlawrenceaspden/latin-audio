@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "allnewcards",
+            "name": "Default",
             "new": {
                 "bury": true,
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 9999,
+                "perDay": 20,
                 "separate": true
             },
             "replayq": true,
