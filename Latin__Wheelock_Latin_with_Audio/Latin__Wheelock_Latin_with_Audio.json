@@ -4571,7 +4571,7 @@
                 "[sound:ex.mp3]",
                 "",
                 "",
-                "<b>ex</b> before consonants or vowels,&nbsp;<b>ē</b> before consonants only",
+                "<b>ex</b> before consonants or vowels, <b>ē</b> before consonants only",
                 ""
             ],
             "flags": 0,
@@ -6429,7 +6429,7 @@
             "data": "",
             "fields": [
                 "nam",
-                "for&nbsp;(conj.)",
+                "for (conj.)",
                 "[sound:nam.mp3]",
                 "",
                 "",
@@ -6471,7 +6471,7 @@
                 "[sound:per.mp3]",
                 "",
                 "",
-                "<b>per-&nbsp;</b>assimilated to <b>pel- </b>before forms beginning with <b>l-</b>",
+                "<b>per- </b>assimilated to <b>pel- </b>before forms beginning with <b>l-</b>",
                 ""
             ],
             "flags": 0,
@@ -6889,7 +6889,7 @@
                 "[sound:ab.mp3]",
                 "",
                 "",
-                "<b>ā</b>&nbsp;before consonants (like Eng \"a\" vs \"an), <b>ab</b>&nbsp;before vowels or consonants  ;  <br> ā Rōmā, ā Jūliō, sed ab initiō",
+                "<b>ā</b> before consonants (like Eng \"a\" vs \"an), <b>ab</b> before vowels or consonants  ;  <br> ā Rōmā, ā Jūliō, sed ab initiō",
                 ""
             ],
             "flags": 0,
@@ -10167,7 +10167,7 @@
             "data": "",
             "fields": [
                 "<b>fēlīx</b>, gen. <b>fēlīcis</b>",
-                "lucky, fortunate, happy&nbsp;(1 ending)",
+                "lucky, fortunate, happy (1 ending)",
                 "[sound:felix.mp3]",
                 "",
                 "",
@@ -10684,7 +10684,7 @@
                 "[sound:premo.mp3]",
                 "",
                 "",
-                "spelled <b>-primō, -primere</b>&nbsp;in compounds",
+                "spelled <b>-primō, -primere</b> in compounds",
                 ""
             ],
             "flags": 0,
@@ -11592,7 +11592,7 @@
             "data": "",
             "fields": [
                 "<b>quīdam, quaedam, quiddam</b> (pron.) or <b>quoddam</b> (adj.)",
-                "as pronoun:&nbsp;<b>a certain one</b> or<b> thing, someone, something</b>; as adj: <b>a certain, some</b>",
+                "as pronoun: <b>a certain one</b> or<b> thing, someone, something</b>; as adj: <b>a certain, some</b>",
                 "[sound:quidam.mp3]",
                 "",
                 "",
@@ -12694,7 +12694,7 @@
             "data": "",
             "fields": [
                 "ita (adv. used with adj., verbs, and advs.)",
-                "so, thus&nbsp;(adv. used with adj., verbs, and advs.)",
+                "so, thus (adv. used with adj., verbs, and advs.)",
                 "[sound:ita.mp3]",
                 "",
                 "",
@@ -12751,7 +12751,7 @@
             "data": "",
             "fields": [
                 "sīc (adv. most commonly used with verbs)",
-                "so, thus&nbsp;(adv. most commonly used with verbs)",
+                "so, thus (adv. most commonly used with verbs)",
                 "[sound:sic.mp3]",
                 "",
                 "",
@@ -13814,7 +13814,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<b>dīves</b>, gen.&nbsp;<b>dīvitis</b> or <b>dītis</b>",
+                "<b>dīves</b>, gen. <b>dīvitis</b> or <b>dītis</b>",
                 "rich, wealthy",
                 "[sound:dives.mp3]",
                 "",
@@ -14214,7 +14214,7 @@
             "data": "",
             "fields": [
                 "-ve (conj. suffixed to a word)",
-                "or&nbsp;(conj. suffixed to a word)",
+                "or (conj. suffixed to a word)",
                 "[sound:ve.mp3]",
                 "",
                 "",
@@ -14726,7 +14726,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ūtor, ūtī, ūsus sum&nbsp;<b>(+ abl.)</b>",
+                "ūtor, ūtī, ūsus sum <b>(+ abl.)</b>",
                 "to use; enjoy, experience",
                 "[sound:utor.mp3]",
                 "",
@@ -16498,7 +16498,7 @@
                 "[sound:necesse.mp3]",
                 "",
                 "",
-                "often&nbsp;<b>necesse est</b>&nbsp;+ inf.,&nbsp;<i>it is necessary</i>&nbsp;<i>(to)</i>",
+                "often <b>necesse est</b> + inf., <i>it is necessary</i> <i>(to)</i>",
                 ""
             ],
             "flags": 0,
@@ -16607,7 +16607,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "oportet, oportēre, oportuit,&nbsp;",
+                "oportet, oportēre, oportuit, ",
                 "(impers. + infin.) it is proper, right, necessary",
                 "[sound:oportet.mp3]",
                 "",
@@ -16911,7 +16911,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōnne&nbsp;",
+                "nōnne ",
                 "interrog. adv. which introduces questions expecting the answer \"yes\"",
                 "[sound:nonne.mp3]",
                 "",

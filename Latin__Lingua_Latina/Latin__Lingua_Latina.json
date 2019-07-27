@@ -5364,7 +5364,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "exspectō, exspectāre, exspectāvī, exspectātum&nbsp;",
+                "exspectō, exspectāre, exspectāvī, exspectātum ",
                 "ex-spectāre",
                 "",
                 "wait (for), expect",
@@ -9009,7 +9009,7 @@
             "fields": [
                 "modo",
                 "modo = tantum, sōlum",
-                "Aemilia puerō aegrō mālum rubrum dat, neque is malum esse potest. Māter eī pōculum aquae dat.&nbsp;<div>Aemilia: \"Bibe aquam modo!\"</div>",
+                "Aemilia puerō aegrō mālum rubrum dat, neque is malum esse potest. Māter eī pōculum aquae dat. <div>Aemilia: \"Bibe aquam modo!\"</div>",
                 "only, just",
                 "",
                 "",
@@ -9655,7 +9655,7 @@
             "data": "",
             "fields": [
                 "appōnere",
-                "ap-pōnere &lt; ad + pōnere&nbsp;",
+                "ap-pōnere &lt; ad + pōnere ",
                 "Medicus pedem Quīntī spectat atque digitum ad pedem appōnit",
                 "place (on), serve",
                 "",
@@ -10223,7 +10223,7 @@
             "fields": [
                 "-iciō, -icere, -iēcī, -iectum",
                 "adiciō, adicere, adiēcī, adiectum",
-                "adiciō, ēiciō, prōiciō, abiciō,&nbsp;",
+                "adiciō, ēiciō, prōiciō, abiciō, ",
                 "< iacere",
                 "",
                 "",
@@ -10586,7 +10586,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēfendō,&nbsp;dēfendere,&nbsp;dēfendī,&nbsp;dēfēnsum",
+                "dēfendō, dēfendere, dēfendī, dēfēnsum",
                 "dē-fendere",
                 "",
                 "defend",
@@ -13688,7 +13688,7 @@
             "data": "",
             "fields": [
                 "reddō, reddere, reddidī, redditum",
-                "red-dere (&lt; red + dare) = rūrsus dare&nbsp;",
+                "red-dere (&lt; red + dare) = rūrsus dare ",
                 "Redde mihi mālum meum, Tite!",
                 "give back, give",
                 "",
@@ -15171,7 +15171,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "impleō, implēre,&nbsp;implēvī, implētum",
+                "impleō, implēre, implēvī, implētum",
                 "im-plēre",
                 "",
                 "fill, complete",
@@ -16581,7 +16581,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "computō, computāre, computāvī, computātus&nbsp;",
+                "computō, computāre, computāvī, computātus ",
                 "com-putāre &lt; con + putāre",
                 "discipulus digitīs computat",
                 "calculate, reckon",
@@ -18647,7 +18647,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ergā&nbsp;",
+                "ergā ",
                 "prp +acc",
                 "",
                 "toward",
@@ -19293,7 +19293,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "occurrō, occurrere, occurrī, occursum (+&nbsp;<i>dat</i>)&nbsp;",
+                "occurrō, occurrere, occurrī, occursum (+ <i>dat</i>) ",
                 "ob+currō",
                 "Tum vērō Syra, quae eō ipsō tempore peristȳlum intrat ūnā cum Iuliā, dominae in ōstiō occurrit.<div><br></div><div>Syra Aemiliae in ōstiō occurrit<br></div>",
                 "meet, (run to) meet",
@@ -19904,7 +19904,7 @@
             "data": "",
             "fields": [
                 "adversus",
-                "prp +acc&nbsp; ; ad ōstium versus = adversus ōstium&nbsp;",
+                "prp +acc  ; ad ōstium versus = adversus ōstium ",
                 "Aemilia surgit atque gradum adversus ōstium facit.<div>Iūlius: \"Nolī abīre! Tēcum colloquī volō.\"</div><div>Aemilia alterum gradum ad ōstium versus facit, tum incerta cōnsistit.</div>",
                 "toward, against",
                 "",
@@ -20045,7 +20045,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "solum, solī&nbsp;",
+                "solum, solī ",
                 "solum -ī n",
                 "",
                 "floor, lowest part; soil, ground",
@@ -20371,7 +20371,7 @@
             "data": "",
             "fields": [
                 "excūsō, excūsāre, excūsāvī, excūsātus",
-                "ex-cūsāre &lt;-&gt;&nbsp; &nbsp;ac-cūsāre&nbsp; &nbsp;cf. ac-cūsō, ad/ex causa",
+                "ex-cūsāre &lt;-&gt;   ac-cūsāre   cf. ac-cūsō, ad/ex causa",
                 "Mārcus sē et Titum excūsāre cōnātur: \"At pugnāvimus cum puerō māiōre!\"",
                 "excuse ",
                 "",
@@ -20657,7 +20657,7 @@
             "data": "",
             "fields": [
                 "ain'",
-                "ain'? = ais-ne?&nbsp;",
+                "ain'? = ais-ne? ",
                 "Aemilia: \"Ain' tū? Porcusne ātrium intrāvit?\"",
                 "really? did you say?",
                 "",
@@ -21456,7 +21456,7 @@
             "data": "",
             "fields": [
                 "forās adv",
-                "forās (adv) = ē foribus, ē&nbsp;domō<br><br>",
+                "forās (adv) = ē foribus, ē domō<br><br>",
                 "Nōlī iterum mē forās in imbrem pellere !",
                 "out through the doors, out of doors,   forth, out",
                 "",
@@ -21782,7 +21782,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "accēdō, accēdere, accessī, accessum,&nbsp;",
+                "accēdō, accēdere, accessī, accessum, ",
                 "ac-cēdere",
                 "",
                 "approach, come near",
@@ -22006,8 +22006,8 @@
             "data": "",
             "fields": [
                 "pudeō, pudēre, (puduī aut puditum est)",
-                "<div>pudēre: mē pudet = intellegō mē indignē fēcisse / indignē factum esse&nbsp;</div><div><br></div><div>pudēre (+ <i>gen</i>): factī suī : ob factum suum</div>",
-                "Nōnne tē pudet hoc fēcisse? Profectō mē pudet hoc ā meō fīliō factum esse!\"&nbsp;<div><br></div><div>Puerum pudet factī suī. (Is quem factōrum suōrum pudet rubēre solet.)</div>",
+                "<div>pudēre: mē pudet = intellegō mē indignē fēcisse / indignē factum esse </div><div><br></div><div>pudēre (+ <i>gen</i>): factī suī : ob factum suum</div>",
+                "Nōnne tē pudet hoc fēcisse? Profectō mē pudet hoc ā meō fīliō factum esse!\" <div><br></div><div>Puerum pudet factī suī. (Is quem factōrum suōrum pudet rubēre solet.)</div>",
                 "It shames me / I am ashamed (of)",
                 "",
                 "",
@@ -22026,7 +22026,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prōmittō, prōmittere, prōmīsī, prōmissum&nbsp;",
+                "prōmittō, prōmittere, prōmīsī, prōmissum ",
                 "prō + mittere",
                 "Hoc vōbīs prōmittō, pater et māter! Mihi crēdite!\"",
                 "promise",
@@ -22230,7 +22230,7 @@
             "data": "",
             "fields": [
                 "-nam. (e.g. quisnam? quidnam?)",
-                "quisnam? = quis?&nbsp; quidnam? = quid?",
+                "quisnam? = quis?  quidnam? = quid?",
                 "Iulius: Quidnam hoc est? Quisnam Tūsculō epistulam ad mē mīsit?",
                 "…ever? (e.g. whoever? who in the world? what in the world? whatever?)",
                 "",
@@ -22330,7 +22330,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "īnscrībō, īnscrībere, īnscrīpsī, īnscrīptus&nbsp;",
+                "īnscrībō, īnscrībere, īnscrīpsī, īnscrīptus ",
                 "īn-scrībere",
                 "",
                 "write on, inscribe",
@@ -22661,7 +22661,7 @@
             "fields": [
                 "valdē",
                 "valdē &lt; validē",
-                "Quam ob rem Mārcus sīc clāmat ac&nbsp;forem tam valdē percutit?\"",
+                "Quam ob rem Mārcus sīc clāmat ac forem tam valdē percutit?\"",
                 "strongly, very (much)",
                 "",
                 "",
@@ -23432,7 +23432,7 @@
             "fields": [
                 "trahō, trahere, trāxī, tractum",
                 "",
-                "An cupis audīre fābulam dē Achille, duce Graecōrum, quī Hectorem, ducem&nbsp;Trōiānum, interfēcit atque corpus ēius mortuum post currum suum trāxit circum moenia urbis Trōiae?",
+                "An cupis audīre fābulam dē Achille, duce Graecōrum, quī Hectorem, ducem Trōiānum, interfēcit atque corpus ēius mortuum post currum suum trāxit circum moenia urbis Trōiae?",
                 "drag, pull",
                 "",
                 "",
@@ -24000,8 +24000,8 @@
             "data": "",
             "fields": [
                 "interficiō, interficere, interfēcī, interfectus",
-                "inter-ficere&nbsp;= mortuum fa­cere",
-                "An cupis audīre fābulam dē Achille, duce Graecōrum, quī Hectorem, ducem&nbsp;Trōiānum, interfēcit ?",
+                "inter-ficere = mortuum fa­cere",
+                "An cupis audīre fābulam dē Achille, duce Graecōrum, quī Hectorem, ducem Trōiānum, interfēcit ?",
                 "kill",
                 "",
                 "",
@@ -24625,7 +24625,7 @@
             "data": "",
             "fields": [
                 "summus -a -um",
-                "&nbsp;(sup)",
+                " (sup)",
                 "",
                 "highest, greatest",
                 "",
@@ -24888,7 +24888,7 @@
             "data": "",
             "fields": [
                 "perficiō, perficere, perfēcī, perfectum",
-                "per-ficere &nbsp;&lt; per + facere",
+                "per-ficere  &lt; per + facere",
                 "Audāx quidem est cōnsilium tuum\" inquit Īcarus, \"sed omne cōn­silium fugiendī mē dēlectat, ac tu id quod semel excōgi­tāvistī perficere solēs. \"",
                 "complete, accomplish, do thoroughly",
                 "",
@@ -25862,7 +25862,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ūtor, ūtī, ūsus sum&nbsp;",
+                "ūtor, ūtī, ūsus sum ",
                 "(+abl)",
                 "Qui arat arātrō ūtitur; quī metit falce ūtitur; quī serit manū suā ūtitur.",
                 "use, enjoy",
@@ -26349,8 +26349,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prōsum, prōdesse<b>,</b>&nbsp;prōfuī",
-                "prōd-esse (+dat) = bonum esse &lt; prō + esse&nbsp; &nbsp;",
+                "prōsum, prōdesse<b>,</b> prōfuī",
+                "prōd-esse (+dat) = bonum esse &lt; prō + esse   ",
                 "Nihil enim vīneīs magis prōdest quam sōl et calor, nec<br>quidquam iīs magis nocet quam imber et frīgus",
                 "be useful, do good",
                 "",
@@ -27548,7 +27548,7 @@
             "fields": [
                 "velut",
                 "= vel-ut",
-                "PIūtō autem rēgnāret apud Īnferōs, ubi&nbsp;animae mortuōrum velut umbrae versārī dīcuntur.",
+                "PIūtō autem rēgnāret apud Īnferōs, ubi animae mortuōrum velut umbrae versārī dīcuntur.",
                 "even as, just as, like as, as",
                 "velut",
                 "*ve-lut",
@@ -27588,7 +27588,7 @@
             "fields": [
                 "ūniversus, ūniversa, ūniversum",
                 "ūniversus -a -um = tōtus",
-                "Ex ūniversā Iudaeā hominēs aegrī,&nbsp;qui fāmam dē factīs eius mīrābilibus audīverant, ad&nbsp;eum conveniēbant.",
+                "Ex ūniversā Iudaeā hominēs aegrī, qui fāmam dē factīs eius mīrābilibus audīverant, ad eum conveniēbant.",
                 "the whole of, entire",
                 "universus, universa, universum",
                 "ū-ni-*ver-sus, ūniversa, ūniversum",
@@ -27689,7 +27689,7 @@
             "data": "",
             "fields": [
                 "tībīcen, tībīcinis",
-                "tībīcen -inis m&nbsp; &lt; tībiae, tībiārum f pl",
+                "tībīcen -inis m  &lt; tībiae, tībiārum f pl",
                 "Et veniēns Iēsūs in domum prīncipis vidēns tībīcinēs et turbam tumultuantem dīcēbat: \"Discēdite! Nōn enim mortua est puella sed dor­mit.\"",
                 "flute-player",
                 "",
@@ -27873,12 +27873,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rēgnō, rēgnāre, rēgnāvī, rēgnātum&nbsp;",
+                "rēgnō, rēgnāre, rēgnāvī, rēgnātum ",
                 "",
                 "",
                 "reign, rule",
                 "",
-                "*rēng-nō, rēng-*nā-re, rēng-*nā-vī, rēng-*nā-tum&nbsp;",
+                "*rēng-nō, rēng-*nā-re, rēng-*nā-vī, rēng-*nā-tum ",
                 "[sound:ankidroid_audiorec76937040.mp3]",
                 ""
             ],
@@ -28035,7 +28035,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "persuādeō,&nbsp;persuādēre, persuāsī, persuāsus",
+                "persuādeō, persuādēre, persuāsī, persuāsus",
                 "per-suādēre +dat",
                 "Mihi nēmō persuādēbit hominem super mare ambulāre posse!",
                 "persuade, convince",
@@ -28889,12 +28889,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "suspiciō, suspicere,&nbsp;suspēxī, suspectus",
+                "suspiciō, suspicere, suspēxī, suspectus",
                 "sub+spicere",
                 "",
                 "look up (at)",
                 "",
-                "su-*spi-ci-ō, su-*spi-ce-re,&nbsp;su-*spē-xī, su-*spec-tus",
+                "su-*spi-ci-ō, su-*spi-ce-re, su-*spē-xī, su-*spec-tus",
                 "[sound:ankidroid_audiorec147710749.mp3]",
                 ""
             ],
@@ -28910,7 +28910,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "surripiō,&nbsp;surripere, surripuī, surreptum",
+                "surripiō, surripere, surripuī, surreptum",
                 "sur-ripere",
                 "",
                 "steal",
@@ -28931,7 +28931,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "subeō, subīre,&nbsp;subiī",
+                "subeō, subīre, subiī",
                 "sub-īre",
                 "",
                 "go under, undergo",
@@ -28957,7 +28957,7 @@
                 "",
                 "advise",
                 "",
-                "su-*ā-de-ō,&nbsp;su-ā-*dē-re,&nbsp;su-*ā-sī, su-*ā-sus",
+                "su-*ā-de-ō, su-ā-*dē-re, su-*ā-sī, su-*ā-sus",
                 "[sound:ankidroid_audiorec257939610.mp3]",
                 ""
             ],
@@ -29136,12 +29136,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "redūcō, redūcere,&nbsp;redūxī, reductus",
+                "redūcō, redūcere, redūxī, reductus",
                 "re-dūcere",
                 "",
                 "lead back, bring back",
                 "",
-                "re-*dū-cō, re-*dū-ce-re,&nbsp;re-*dūc-sī, re-*duc-tus",
+                "re-*dū-cō, re-*dū-ce-re, re-*dūc-sī, re-*duc-tus",
                 "[sound:ankidroid_audiorec1081658065.mp3]",
                 ""
             ],
@@ -29322,7 +29322,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "perturbō,&nbsp;perturbāre,&nbsp;perturbāvī, perturbātus",
+                "perturbō, perturbāre, perturbāvī, perturbātus",
                 "",
                 "",
                 "upset",
@@ -29343,7 +29343,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "permoveō,&nbsp;permovēre, permōvī, permōtus",
+                "permoveō, permovēre, permōvī, permōtus",
                 "per-movēre",
                 "",
                 "move deeply",
@@ -29987,7 +29987,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "expōnō,&nbsp;expōnere,&nbsp;exposuī, expositus",
+                "expōnō, expōnere, exposuī, expositus",
                 "ex-pōnere",
                 "",
                 "put out/ashore, expose",
@@ -30111,12 +30111,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēterreō, dēterrēre, dēterruī, dēterritus&nbsp;",
+                "dēterreō, dēterrēre, dēterruī, dēterritus ",
                 "dē-terrēre",
                 "",
                 "deter",
                 "",
-                "dē-*ter-re-ō, dē-ter-*rē-re, dē-*ter-ru-ī, dē-*ter-ri-tus&nbsp;",
+                "dē-*ter-re-ō, dē-ter-*rē-re, dē-*ter-ru-ī, dē-*ter-ri-tus ",
                 "",
                 ""
             ],
@@ -30442,7 +30442,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "abstineō,&nbsp;abstinēre,&nbsp;abstinuī,&nbsp;abstentus",
+                "abstineō, abstinēre, abstinuī, abstentus",
                 "abs + tenēre",
                 "",
                 "keep off",
@@ -30727,7 +30727,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "requiēscō, requiēscere, requiēvī, requiētus&nbsp;",
+                "requiēscō, requiēscere, requiēvī, requiētus ",
                 "re-quiēscere",
                 "",
                 "rest",
@@ -30748,7 +30748,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "recipiō, recipere, recēpī, receptus&nbsp;",
+                "recipiō, recipere, recēpī, receptus ",
                 "re-cipere",
                 "",
                 "receive, admit",
@@ -30769,7 +30769,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prōferō, prōferre, prōtulī, prōlātus&nbsp;",
+                "prōferō, prōferre, prōtulī, prōlātus ",
                 "prō-ferre",
                 "",
                 "bring forth, produce",
@@ -30829,7 +30829,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pōtō, pōtāre, pōtāvī, pōtātum&nbsp;",
+                "pōtō, pōtāre, pōtāvī, pōtātum ",
                 "",
                 "",
                 "drink",
@@ -30871,7 +30871,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "perferō, perferre, pertulī, perlātus&nbsp;",
+                "perferō, perferre, pertulī, perlātus ",
                 "per-ferre",
                 "",
                 "carry, endure",
@@ -31379,7 +31379,7 @@
             "fields": [
                 "fruor, fruī, frūctus sum<div><br></div><div><br></div>",
                 "fruī (<i>+abl</i>)",
-                "Post tanta negōtia magis quam umquam ōtiō&nbsp;fruor.&nbsp;<div><br></div><div>Nec vērō iūcundē vīvō nisi cotīdiē bonō vīnō&nbsp;fruor.<br></div>",
+                "Post tanta negōtia magis quam umquam ōtiō fruor. <div><br></div><div>Nec vērō iūcundē vīvō nisi cotīdiē bonō vīnō fruor.<br></div>",
                 "enjoy",
                 "",
                 "",
@@ -31438,7 +31438,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "exhauriō,&nbsp;exhaurīre, exhausī, exhaustus",
+                "exhauriō, exhaurīre, exhausī, exhaustus",
                 "ex-haurīre",
                 "",
                 "drain, empty",
@@ -31864,7 +31864,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "aspergō, aspergere, aspersī,&nbsp; aspersum",
+                "aspergō, aspergere, aspersī,  aspersum",
                 "ad + spargō",
                 "",
                 "sprinkle, scatter (on)",
@@ -37007,7 +37007,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "modo…modo<div>Ludi circenses me non minus iuvant quam gladiatorii: <b>modo</b>&nbsp;in amphitheatrum, <b>modo</b> in circum eo.</div>",
+                "modo…modo<div>Ludi circenses me non minus iuvant quam gladiatorii: <b>modo</b> in amphitheatrum, <b>modo</b> in circum eo.</div>",
                 "",
                 "",
                 "now…now",
@@ -37027,7 +37027,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "misellus -a -um<div><br></div><div>Cum Quintus heri de alta arbore cecidisset, pedem eius turgidum vix tetigit, sed <b>misello</b>&nbsp;puero sanguinem misit.</div>",
+                "misellus -a -um<div><br></div><div>Cum Quintus heri de alta arbore cecidisset, pedem eius turgidum vix tetigit, sed <b>misello</b> puero sanguinem misit.</div>",
                 "",
                 "",
                 "poor, wretched",
@@ -37210,7 +37210,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "inter-dum<div><br></div><div>Consonantes <i>br</i>, <i>gr</i>, <i>cr</i>, <i>tr</i>, quae initium syllabae facere solent (ut <i>li-bri</i>), <b>interdum</b>&nbsp;dividuntur: <i>nig-ros</i>, <i>pat-rem</i></div>",
+                "inter-dum<div><br></div><div>Consonantes <i>br</i>, <i>gr</i>, <i>cr</i>, <i>tr</i>, quae initium syllabae facere solent (ut <i>li-bri</i>), <b>interdum</b> dividuntur: <i>nig-ros</i>, <i>pat-rem</i></div>",
                 "",
                 "",
                 "now and then",
@@ -37578,7 +37578,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēliciae -ārum f pl<div><br></div><div>Incipiam a carmine de morte passeris quem Lesbia in <b>deliciis</b>&nbsp;habuerat...</div>",
+                "dēliciae -ārum f pl<div><br></div><div>Incipiam a carmine de morte passeris quem Lesbia in <b>deliciis</b> habuerat...</div>",
                 "",
                 "",
                 "delight, pet",
@@ -37983,7 +37983,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "speciēs -ēī f<div><br></div><div>Potestas coniunctionum quot <b>species</b>&nbsp;habet? &nbsp;(Quinque: Copulativas, disunctivas, expletivas, causales, rationales)</div>",
+                "speciēs -ēī f<div><br></div><div>Potestas coniunctionum quot <b>species</b> habet?  (Quinque: Copulativas, disunctivas, expletivas, causales, rationales)</div>",
                 "",
                 "",
                 "appearance, aspect, sort",
@@ -38938,7 +38938,7 @@
             "data": "",
             "fields": [
                 "sub (+ abl/acc)",
-                "sub + abl/acc:&nbsp;<div>&nbsp; &nbsp;sub tēctō esse&nbsp;</div><div>&nbsp; &nbsp;sub tēctum īre</div>",
+                "sub + abl/acc: <div>   sub tēctō esse </div><div>   sub tēctum īre</div>",
                 "Admitte mē sub tēctum, iānitor -- amābō tē!",
                 "under",
                 "",
