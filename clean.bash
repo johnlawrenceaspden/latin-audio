@@ -1,12 +1,17 @@
 #!/bin/bash
 
-cd ~/ankiexport
+
+if [ $(pwd) == $HOME/ankiexport ] ; then echo "yay" ;  else echo "nay"; exit -1 ; fi;
+
 rm -rf Latin__Latin_phrases/media
 rm -rf Latin__Lingua_Latina/media
 rm -rf Latin__Wheelock_Latin_with_Audio/media
 rm -rf Latin__latin_misc/media
 rm -rf Latin__llspi_pensa/media
 
-# find pesky html that keeps getting sneaked in
-for i in $(find . -name "*.json"); do echo "$i" ; grep '<[/]*div[^>]*>' "$i" ; done
-for i in $(find . -name "*.json"); do echo "$i" ; grep '&nbsp;' "$i" ; done
+rm Latin__Latin_phrases/deck.json
+rm Latin__Lingua_Latina/deck.json
+rm Latin__Wheelock_Latin_with_Audio/deck.json
+rm Latin__latin_misc/deck.json
+rm Latin__llspi_pensa/deck.json
+
