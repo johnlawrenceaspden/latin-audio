@@ -1,7 +1,19 @@
 {
     "__type__": "Deck",
     "activeTags": [
-        "cap29"
+        "cap29",
+        "cp02",
+        "cp05",
+        "cp08",
+        "cp09",
+        "cp10",
+        "cp11",
+        "cp12",
+        "cp20",
+        "cp21",
+        "cp22",
+        "cp23",
+        "cp24"
     ],
     "children": [],
     "crowdanki_uuid": "d0175162-a1d2-11e9-b09e-74867a15fbd5",
@@ -111,6 +123,7 @@
         "ankidroid_audiorec1108027485.mp3",
         "ankidroid_audiorec1108356989.mp3",
         "ankidroid_audiorec1110510778.mp3",
+        "ankidroid_audiorec1112946456.3gp",
         "ankidroid_audiorec1116804752.mp3",
         "ankidroid_audiorec1116844948.mp3",
         "ankidroid_audiorec1117670465.mp3",
@@ -160,6 +173,7 @@
         "ankidroid_audiorec120174289.mp3",
         "ankidroid_audiorec1203366707.mp3",
         "ankidroid_audiorec120361381.mp3",
+        "ankidroid_audiorec1203922046.3gp",
         "ankidroid_audiorec1206410889.mp3",
         "ankidroid_audiorec1208197749.mp3",
         "ankidroid_audiorec1211609782.mp3",
@@ -365,6 +379,7 @@
         "ankidroid_audiorec1632297304.mp3",
         "ankidroid_audiorec163780616.mp3",
         "ankidroid_audiorec1638908041.mp3",
+        "ankidroid_audiorec1639613671.3gp",
         "ankidroid_audiorec1642997594.mp3",
         "ankidroid_audiorec1645944272.mp3",
         "ankidroid_audiorec1648060064.mp3",
@@ -425,6 +440,7 @@
         "ankidroid_audiorec1776816694.mp3",
         "ankidroid_audiorec177717537.mp3",
         "ankidroid_audiorec1777219438.mp3",
+        "ankidroid_audiorec1778017989.3gp",
         "ankidroid_audiorec1779096007.mp3",
         "ankidroid_audiorec1779576315.mp3",
         "ankidroid_audiorec1780216034.mp3",
@@ -577,6 +593,7 @@
         "ankidroid_audiorec2133194275.mp3",
         "ankidroid_audiorec2134784852.mp3",
         "ankidroid_audiorec2135489391.mp3",
+        "ankidroid_audiorec2136237518.3gp",
         "ankidroid_audiorec2137361101.mp3",
         "ankidroid_audiorec2137634756.mp3",
         "ankidroid_audiorec2138396302.mp3",
@@ -660,6 +677,7 @@
         "ankidroid_audiorec353928718.mp3",
         "ankidroid_audiorec356055484.mp3",
         "ankidroid_audiorec35975051.mp3",
+        "ankidroid_audiorec360394049.3gp",
         "ankidroid_audiorec361043916.mp3",
         "ankidroid_audiorec362829375.mp3",
         "ankidroid_audiorec363189155.mp3",
@@ -667,6 +685,7 @@
         "ankidroid_audiorec367024980.mp3",
         "ankidroid_audiorec367141929.mp3",
         "ankidroid_audiorec367242659.mp3",
+        "ankidroid_audiorec367932995.3gp",
         "ankidroid_audiorec368849964.mp3",
         "ankidroid_audiorec369817229.mp3",
         "ankidroid_audiorec370195165.mp3",
@@ -704,6 +723,7 @@
         "ankidroid_audiorec42360086.mp3",
         "ankidroid_audiorec424647089.mp3",
         "ankidroid_audiorec429208099.mp3",
+        "ankidroid_audiorec43139159.3gp",
         "ankidroid_audiorec431444351.mp3",
         "ankidroid_audiorec431488302.mp3",
         "ankidroid_audiorec432701455.mp3",
@@ -744,6 +764,7 @@
         "ankidroid_audiorec477643962.mp3",
         "ankidroid_audiorec481364127.mp3",
         "ankidroid_audiorec486795788.mp3",
+        "ankidroid_audiorec487619017.3gp",
         "ankidroid_audiorec492326219.mp3",
         "ankidroid_audiorec493254548.mp3",
         "ankidroid_audiorec494080719.mp3",
@@ -753,6 +774,7 @@
         "ankidroid_audiorec501029865.mp3",
         "ankidroid_audiorec506813039.mp3",
         "ankidroid_audiorec508971929.mp3",
+        "ankidroid_audiorec514561979.3gp",
         "ankidroid_audiorec515132725.mp3",
         "ankidroid_audiorec515587171.mp3",
         "ankidroid_audiorec516091457.mp3",
@@ -937,6 +959,7 @@
         "ankidroid_audiorec88520796.mp3",
         "ankidroid_audiorec892011384.mp3",
         "ankidroid_audiorec8922412.mp3",
+        "ankidroid_audiorec894451880.3gp",
         "ankidroid_audiorec895458500.mp3",
         "ankidroid_audiorec897185597.mp3",
         "ankidroid_audiorec898051380.mp3",
@@ -991,7 +1014,7 @@
         "ankidroid_audiorec998867256.mp3",
         "ankidroid_audiorec998962131.mp3"
     ],
-    "mid": 1559947276057,
+    "mid": 1344003470257,
     "name": "Latin::Lingua Latina",
     "note_models": [
         {
@@ -1085,7 +1108,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "cp24"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n<br>\n\n{{Audiō}}\n\n<br>\n\n{{Exempla}}{{Audiō Exempla}}\n\n<br><br>\n\n{{Annōtātiōnēs}}\n<br><br>\n\n{{Prōnūntiātiō}}\n\n<br><br>\n\n\n\n{{English}} \n",
@@ -1312,7 +1337,7 @@
                 "also, too",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec514561979.3gp]",
                 ""
             ],
             "flags": 0,
@@ -2902,7 +2927,7 @@
                 "I, me, myself",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec487619017.3gp]",
                 ""
             ],
             "flags": 0,
@@ -3520,7 +3545,8 @@
             "guid": "d:?i#GYVt0",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap04"
+                "cap04",
+                "cp02"
             ]
         },
         {
@@ -5488,7 +5514,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "claudere -sisse -sum",
+                "claudō, claudere, clausī, clausum",
                 "",
                 "",
                 "shut, close",
@@ -5536,7 +5562,7 @@
                 "arrive",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1778017989.3gp]",
                 ""
             ],
             "flags": 0,
@@ -5551,13 +5577,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "adeo, adīre, adivī, aditus",
+                "adeō , adīre, adīvī, aditus",
                 "",
                 "",
                 "go to, approach",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec367932995.3gp]",
                 ""
             ],
             "flags": 0,
@@ -5585,7 +5611,8 @@
             "guid": "h[JwqU@qW<",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap08"
+                "cap08",
+                "cp02"
             ]
         },
         {
@@ -5921,7 +5948,7 @@
                 "too, too much",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1203922046.3gp]",
                 ""
             ],
             "flags": 0,
@@ -5957,7 +5984,7 @@
             "data": "",
             "fields": [
                 "medius -a -um",
-                "",
+                "in mediā viā = in mediā parte viae",
                 "",
                 "mid, middle",
                 "",
@@ -6096,7 +6123,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "emere ēmisse ēmptum",
+                "emō, emere, ēmī, ēmptum",
                 "",
                 "",
                 "buy",
@@ -6159,7 +6186,7 @@
             "data": "",
             "fields": [
                 "cōnstāre ex",
-                "",
+                "= efficī ex",
                 "",
                 "consist of",
                 "",
@@ -6343,8 +6370,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "accipiō, accipere, accēpī, acceptus",
                 "ac-cipere",
-                "",
                 "",
                 "receive",
                 "",
@@ -6890,7 +6917,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lūceō, lūcēre, lūxī",
+                "lūceō, lūcēre, lūxī, -----",
                 "",
                 "",
                 "shine",
@@ -6973,7 +7000,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "iaceō, iacēre, iacuī",
+                "iaceō, iacēre, iacuī, iacitum",
                 "",
                 "",
                 "lie",
@@ -7109,8 +7136,7 @@
             "guid": "gTl{k+@X}r",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap09",
-                "verb"
+                "cap09"
             ]
         },
         {
@@ -7443,7 +7469,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "volō, velle, voluī",
+                "volō, velle, voluī, ----",
                 "",
                 "",
                 "want, be willing",
@@ -7484,8 +7510,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "sustineō, sustinēre, sustinuī, sustentus",
                 "sus-tinēre",
-                "",
                 "",
                 "support, sustain, endure",
                 "",
@@ -7706,8 +7732,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "per-territus -a -um",
-                "",
+                "perterritus -a -um",
+                "per-territus",
                 "",
                 "terrified",
                 "",
@@ -7719,8 +7745,7 @@
             "guid": "kVkDlh.A<5",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap10",
-                "verb"
+                "cap10"
             ]
         },
         {
@@ -8376,8 +8401,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "audēre ausum esse",
-                "",
+                "audeō, audēre,&nbsp; ausus sum",
+                "<i>semideponent</i>",
                 "",
                 "dare, venture",
                 "",
@@ -9000,7 +9025,8 @@
             "guid": "m*^yNpxct[",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap11"
+                "cap11",
+                "cp08"
             ]
         },
         {
@@ -9310,8 +9336,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dolēre",
-                "",
+                "doleō, dolēre, doluī, dolitūrus",
+                "dolēre &lt;-&gt; gaudēre",
                 "",
                 "hurt, feel pain, grieve",
                 "",
@@ -9654,7 +9680,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "appōnere",
+                "appōnō, appōnere, apposuī, appositus",
                 "ap-pōnere &lt; ad + pōnere ",
                 "Medicus pedem Quīntī spectat atque digitum ad pedem appōnit",
                 "place (on), serve",
@@ -9736,8 +9762,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vesperī adv",
-                "",
+                "vesperī",
+                "vesperī (<i>adv</i>)",
                 "",
                 "in the evening",
                 "",
@@ -9802,7 +9828,7 @@
                 "sad",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec43139159.3gp]",
                 ""
             ],
             "flags": 0,
@@ -10180,8 +10206,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "incolō, incolere, incoluī, -----",
                 "in-colere",
-                "",
                 "",
                 "inhabit",
                 "",
@@ -11414,7 +11440,7 @@
                 "now",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1112946456.3gp]",
                 ""
             ],
             "flags": 0,
@@ -12144,7 +12170,8 @@
             "guid": "e+sy6Ja)9U",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap13"
+                "cap13",
+                "cp11"
             ]
         },
         {
@@ -12492,7 +12519,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vestīre",
+                "vestiō, vestīre, vestīvī, vestītus",
                 "",
                 "",
                 "dress",
@@ -12533,7 +12560,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "valēre",
+                "valeō, valēre, valuī, valitūrus",
                 "",
                 "",
                 "be strong, be well",
@@ -12567,7 +12594,8 @@
             "guid": "g<ajWhV-4/",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap14"
+                "cap14",
+                "cp12"
             ]
         },
         {
@@ -12775,7 +12803,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "solēre -itum esse",
+                "soleō, solēre, solitus sum",
                 "",
                 "",
                 "be accustomed",
@@ -13221,7 +13249,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "frīgēre",
+                "frīgeo, frīgēre, -----, -----",
                 "",
                 "",
                 "be cold",
@@ -13749,7 +13777,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pūnīre",
+                "pūniō, pūnīre, pūnīvī, pūnītus",
                 "",
                 "",
                 "punish",
@@ -14718,7 +14746,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "orīrī ortum",
+                "orior, orīrī, ortus sum",
                 "",
                 "",
                 "rise, appear",
@@ -15109,8 +15137,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "intersum, interesse, interfuī, interfutūrus",
                 "inter-esse",
-                "",
                 "",
                 "be between",
                 "",
@@ -15398,8 +15426,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "cōnsōlor, cōnsōlārī, cōnsōlātus sum&nbsp;",
                 "cōn-sōlārī",
-                "",
                 "",
                 "comfort, console",
                 "",
@@ -15606,7 +15634,7 @@
             "data": "",
             "fields": [
                 "tot",
-                "",
+                "tot ... quot = tam multī quam",
                 "",
                 "so many (Indeclinable)",
                 "",
@@ -15787,7 +15815,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "reprehendere",
+                "reprehendō, reprehendere, reprehendī, reprehēnsus",
                 "re-prehendere",
                 "",
                 "blame, censure; hold back, restrain",
@@ -15808,7 +15836,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "repōnere",
+                "repōnō, repōnere, reposuī, repositus",
                 "re-pōnere",
                 "",
                 "put back",
@@ -16233,7 +16261,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nescīre",
+                "nesciō, nescīre, nescīvī, -----",
                 "ne-scīre",
                 "",
                 "not know",
@@ -16295,7 +16323,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "largīrī",
+                "largior, largīrī, largītus sum",
                 "",
                 "",
                 "give generously",
@@ -16883,8 +16911,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "supersum, superesse, superfuī, ------",
                 "super-esse",
-                "",
                 "",
                 "be left, be in excess",
                 "",
@@ -17418,7 +17446,7 @@
                 "numerous, frequent",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1639613671.3gp]",
                 ""
             ],
             "flags": 0,
@@ -17452,7 +17480,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "exaudiō, exaudīre",
+                "exaudiō, exaudīre, exaudīvī, exaudītus",
                 "ex-audīre",
                 "",
                 "hear (clearly, from afar)",
@@ -17596,7 +17624,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēsum, dēesse, dēfuī",
+                "dēsum, dēesse, dēfuī, -----",
                 "de-esse (+dat)",
                 "",
                 "be missing, fail",
@@ -17859,7 +17887,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "animadvertere",
+                "animadvertō, animadvertere, animadvertī, animadversus",
                 "anima-ad-vertere = vidēre vel audīre",
                 "Magister vērō hoc nōn animadvertit.",
                 "notice",
@@ -18283,7 +18311,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōsculārī",
+                "ōsculor, ōsculārī, ōsculātus sum",
                 "",
                 "",
                 "kiss",
@@ -18680,7 +18708,8 @@
             "guid": "i*4xTX]mML",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap19"
+                "cap19",
+                "cp11"
             ]
         },
         {
@@ -18968,7 +18997,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vāgīre",
+                "vāgiō, vāgīre, vagiī, -----",
                 "",
                 "",
                 "wail, squall",
@@ -19089,7 +19118,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "silēre",
+                "sileō, silēre, siluī, -----",
                 "",
                 "",
                 "be silent",
@@ -19698,7 +19727,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "decēre",
+                "decet: decēre",
                 "= dignus esse; eam decet = eā dignus est, eī convenit",
                 "Ea nōmina ā tē audīre nōlumus. Ita loquuntur parvulī īnfantēs, nec sermō īnfantium tē decet.",
                 "be fitting, become",
@@ -19719,7 +19748,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēbēre",
+                "dēbeō, dēbēre, dēbuī, dēbitus",
                 "",
                 "",
                 "owe, be obliged",
@@ -19923,8 +19952,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "advehō, advehere, advēxī, advectus",
                 "ad-vehere",
-                "",
                 "",
                 "carry, convey (to)",
                 "",
@@ -20207,7 +20236,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mentīrī",
+                "mentior, mentīrī, mentītus sum",
                 "",
                 "",
                 "lie",
@@ -20438,7 +20467,7 @@
                 "blood (from wound), gore",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2136237518.3gp]",
                 ""
             ],
             "flags": 0,
@@ -20596,7 +20625,7 @@
             "data": "",
             "fields": [
                 "angustus -a -um",
-                "",
+                "angustus &lt;-&gt; lātus",
                 "",
                 "narrow",
                 "",
@@ -20608,7 +20637,8 @@
             "guid": "jYfDFY60E0",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap21"
+                "cap21",
+                "cp20"
             ]
         },
         {
@@ -20987,8 +21017,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "removeō, removēre, remōvī, remōtus",
                 "re-movēre",
-                "",
                 "",
                 "remove",
                 "",
@@ -21069,8 +21099,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "prōcēdō, prōcēdere, prōcessī, ------",
                 "prō-cēdere",
-                "",
                 "",
                 "go forward, advance",
                 "",
@@ -21226,6 +21256,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22",
+                "cp09",
                 "verb"
             ]
         },
@@ -21233,7 +21264,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "monēre",
+                "moneō, monēre, monuī, monitus",
                 "",
                 "",
                 "remind, advise, warn",
@@ -21395,7 +21426,7 @@
             "data": "",
             "fields": [
                 "heus!",
-                "",
+                "heus! : audī!",
                 "",
                 "hey! hello!",
                 "",
@@ -21407,7 +21438,8 @@
             "guid": "j)j&^2]~n-",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap22"
+                "cap22",
+                "cp21"
             ]
         },
         {
@@ -21555,8 +21587,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "dērīdeō, dērīdēre, dērīsī, dērīsus&nbsp;",
                 "dē-rīdēre",
-                "",
                 "",
                 "laugh at, make fun of",
                 "",
@@ -21576,7 +21608,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cūstōdīre",
+                "cūstōdiō, cūstōdīre, cūstōdīvī, cūstōdītus",
                 "",
                 "",
                 "guard",
@@ -21761,8 +21793,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "admittō, admittere, admīsī, admissum",
                 "ad-mittere",
-                "",
                 "",
                 "let in, admit",
                 "",
@@ -21944,7 +21976,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rubeō, rubēre",
+                "rubeō, rubēre, -----, -----",
                 "",
                 "",
                 "be red, blush",
@@ -22514,8 +22546,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dī-mittere",
-                "= ā sē mittere, iubēre discēdere",
+                "dīmittō, dīmittere, dīmīsī, dīmissus",
+                "dī-mittere = ā sē mittere, iubēre discēdere",
                 "\"Recēde hinc ad canem tuum!\" Sīc Iūlius iānitōrem dīmittit.",
                 "send away, dismiss",
                 "",
@@ -22982,7 +23014,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mīrārī",
+                "mīror, mīrārī, mīrātus sum",
                 "",
                 "",
                 "wonder (at), be surprised",
@@ -23430,7 +23462,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "trahō, trahere, trāxī, tractum",
+                "trahō, trahere, trāxī, trāctum",
                 "",
                 "An cupis audīre fābulam dē Achille, duce Graecōrum, quī Hectorem, ducem Trōiānum, interfēcit atque corpus ēius mortuum post currum suum trāxit circum moenia urbis Trōiae?",
                 "drag, pull",
@@ -23497,7 +23529,7 @@
                 "bull",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec360394049.3gp]",
                 ""
             ],
             "flags": 0,
@@ -25040,7 +25072,8 @@
             "guid": "u2y]<yVKi6",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap26"
+                "cap26",
+                "cp20"
             ]
         },
         {
@@ -25606,7 +25639,7 @@
                 "cautious",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec894451880.3gp]",
                 ""
             ],
             "flags": 0,
@@ -25795,7 +25828,8 @@
             "guid": "k7.f>I(Kua",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap27"
+                "cap27",
+                "cp20"
             ]
         },
         {
@@ -26896,7 +26930,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "invehere",
+                "invehō, invehere, invexī, invectus&nbsp;",
                 "in-vehere",
                 "Frūmentum minōris pretiī est, quia magna cōpia frūmentī ex Āfricā in Ītaliam invehitur.",
                 "carry in, bring in, import",
@@ -28563,8 +28597,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "disiungō, disiungere, disiunxī, disiunctum",
                 "dis-iungere",
-                "",
                 "",
                 "separate",
                 "",
@@ -28953,7 +28987,7 @@
             "data": "",
             "fields": [
                 "suādeō, suādēre, suāsī, suāsus",
-                "suādēre (+dat)",
+                "suādēre<i>&nbsp;</i>(+<i>dat</i>)",
                 "",
                 "advise",
                 "",
@@ -30444,7 +30478,7 @@
             "fields": [
                 "abstineō, abstinēre, abstinuī, abstentus",
                 "abs + tenēre",
-                "",
+                "Nautae precibus ēius ita permōtī sunt ut manūs quidem ab eō abstinērent; sed tamen imperāvērunt ut statim in mare dēsilīret!",
                 "keep off",
                 "",
                 "",
@@ -31439,7 +31473,7 @@
             "data": "",
             "fields": [
                 "exhauriō, exhaurīre, exhausī, exhaustus",
-                "ex-haurīre",
+                "ex-haurīre &lt;-&gt; implēre",
                 "",
                 "drain, empty",
                 "",
@@ -31452,6 +31486,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap30",
+                "cp20",
                 "verb"
             ]
         },
@@ -31479,7 +31514,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ēligo, ēligere, elēgī, ēlēctum",
+                "ēligō, ēligere, elēgī, ēlēctum",
                 "ex + legō",
                 "",
                 "choose, select",
@@ -32250,8 +32285,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "retrahō, retrahere, retrāxī, retrāctus",
                 "re-trahere",
-                "",
                 "",
                 "pull back, bring back",
                 "",
@@ -32692,7 +32727,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "latēre",
+                "lateō, latēre, latuī, -----",
                 "",
                 "",
                 "be hidden, hide",
@@ -33034,9 +33069,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fīdere fīsum esse +dat",
-                "",
-                "",
+                "fīdo, fīdere, fīsus sum",
+                "<i>(+dat/abl) </i>= credere<i>;&nbsp;semi-deponent</i>",
+                "Iūlius: \"Centum circiter sēstertiōs. Atque ego illī servō praeter cēterōs fīdēbam!\"",
                 "trust, rely on",
                 "",
                 "",
@@ -33055,9 +33090,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fābulārī",
-                "",
-                "",
+                "fābulor, fābulārī, fābulātus sum",
+                "= loquī",
+                "Paulā: \"iam tacē! Satis est. Nōnne tē pudet ita ab ōvō usque ad māla fābulārī? Sānē pudendum est! \"",
                 "talk, chat",
                 "",
                 "",
@@ -33219,8 +33254,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōn-fidere +dat",
-                "",
+                "cōnfīdō, cōnfīdere, cōnfīsus, cōnfīsum",
+                "cōn-fidere <i>+dat</i>",
                 "",
                 "trust",
                 "",
@@ -33280,8 +33315,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "au-fugere",
-                "",
+                "aufugiō, aufugere, aufūgī, ------",
+                "ab + fugere",
                 "",
                 "run away, escape",
                 "",
@@ -33361,8 +33396,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "abdūcō, abdūcere, abdūxī, abductus",
                 "ab-dūcere",
-                "",
                 "",
                 "take away, carry off",
                 "",
@@ -33562,7 +33597,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tuērī tūtum",
+                "tueor, tuērī, tūtus sum",
                 "",
                 "",
                 "guard, protect",
@@ -33625,8 +33660,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "submergō, submergere, submersī, submersus",
                 "sub-mergere",
-                "",
                 "",
                 "sink",
                 "",
@@ -33989,8 +34024,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "minārī +dat",
-                "",
+                "minor, minārī, minātus sum",
+                "minārī <i>+dat</i>",
                 "",
                 "threaten",
                 "",
@@ -34373,8 +34408,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "ēdūcō, ēdūcere, ēdūxī, ēductus",
                 "ē-dūcere",
-                "",
                 "",
                 "bring out, draw out",
                 "",
@@ -34414,8 +34449,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "dissuādeo, dissuādēre, dissuāsī, dissuāsus",
                 "dis-suādēre",
-                "",
                 "",
                 "advise not to",
                 "",
@@ -34981,8 +35016,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "studēre +dat",
-                "",
+                "studeō, studēre, studuī, ------",
+                "studēre <i>+dat</i>",
                 "",
                 "devote oneself to",
                 "",
@@ -35283,8 +35318,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prō-currere -rrisse -rsum",
-                "",
+                "prōcurrō, prōcurrere, prōcurrī, prōcursum",
+                "prō-currere",
                 "",
                 "run forward, charge",
                 "",
@@ -35344,8 +35379,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prae-stāre -stitisse",
-                "",
+                "praestō, praestāre, praestitī, praestatus",
+                "prae-stāre&nbsp;",
                 "",
                 "furnish, fulfill",
                 "",
@@ -35465,7 +35500,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mūnīre",
+                "mūniō, mūnīre, mūnīvī, mūnītus",
                 "",
                 "",
                 "fortify",
@@ -35566,8 +35601,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "īn-struere -ūxisse -ūctum",
-                "",
+                "īnstruō, īnstruere, īnstruxī, īnstrūctus",
+                "īn-struere",
                 "",
                 "draw up, arrange",
                 "",
@@ -35647,7 +35682,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hortārī",
+                "hortor, hortārī, hortātus sum",
                 "",
                 "",
                 "encourage, urge",
@@ -35770,8 +35805,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ex-currere -rrisse -rsum",
-                "",
+                "excurrō, excurrere,&nbsp;&nbsp;excurrī, excursum",
+                "ex-currere",
                 "",
                 "run out, rush out",
                 "",
@@ -35831,8 +35866,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ē-rumpere",
-                "",
+                "ērumpō, ērumpere, ērūpī, ēruptus",
+                "ēx + rumpere",
                 "",
                 "break out",
                 "",
@@ -35872,8 +35907,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ef-fundere",
-                "",
+                "effundō, effundere, effūdī, effusus",
+                "ex + fundō",
                 "",
                 "pour out, shed",
                 "",
@@ -36037,8 +36072,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōgere co-ēgisse -āctum",
-                "",
+                "cōgō, cōgere,&nbsp;coēgisse, coāctum",
+                "com + agō",
                 "",
                 "compel, force",
                 "",
@@ -36259,8 +36294,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "adiungō, adiungere, adiūnxī, adiūnctum",
                 "ad-iungere",
-                "",
                 "",
                 "join to, add",
                 "",
@@ -36560,7 +36595,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sapere -iō -iisse",
+                "sapiō,&nbsp;sapere, sapivī, ----&nbsp;",
                 "",
                 "",
                 "be wise, have sense",
@@ -36662,8 +36697,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prō-silīre -uisse",
-                "",
+                "prōsiliō, prōsilīre, prōsiluī, ------",
+                "prō + salīre",
                 "",
                 "spring forth",
                 "",
@@ -36743,8 +36778,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "plaudere -sisse (+dat)",
-                "",
+                "plaudō, plaudere,&nbsp;plausī, plausus",
+                "(+<i>dat</i>)",
                 "",
                 "clap, applaud",
                 "",
@@ -36765,7 +36800,7 @@
             "data": "",
             "fields": [
                 "pīpiō, pīpiāre, pīpiāvī, pīpiātus",
-                "",
+                "pullus pīpiat: \"pīpīpī!\"",
                 "",
                 "chirp",
                 "",
@@ -36778,6 +36813,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
+                "cp10",
                 "verb"
             ]
         },
@@ -36946,8 +36982,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nūbere -psisse +dat",
-                "",
+                "nūbō, nūbere, nūpsī, nūptum",
+                "nūbere (<i>+dat</i>)",
                 "",
                 "marry",
                 "",
@@ -37048,7 +37084,7 @@
             "data": "",
             "fields": [
                 "mēns mentis f",
-                "",
+                "mēns &lt;-&gt; corpus",
                 "",
                 "mind",
                 "",
@@ -37060,7 +37096,8 @@
             "guid": "mQ*J.YbV0y",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap34"
+                "cap34",
+                "cp20"
             ]
         },
         {
@@ -37087,7 +37124,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lūgēre -xisse",
+                "lūgeō, lūgēre,&nbsp;lūxī, lūctus",
                 "",
                 "",
                 "mourn",
@@ -37169,7 +37206,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "laedere -sisse -sum",
+                "laedō, laedere, laesī,&nbsp; laesus",
                 "",
                 "",
                 "injure, hurt",
@@ -37270,8 +37307,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "im-plicāre -uisse -itum",
-                "",
+                "implicō, implicāre, implicavī,&nbsp; implicātus",
+                "in + plicāre",
                 "",
                 "enfold",
                 "",
@@ -37371,8 +37408,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "favēre fāvisse +dat",
-                "",
+                "faveō, favēre,&nbsp;fāvī, fautūrus",
+                "&nbsp;+dat",
                 "",
                 "favor, support",
                 "",
@@ -37433,8 +37470,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ē-rubēscere -buisse",
-                "",
+                "ērubēscō, ērubēscere, ērubuī, -----",
+                "ē-rubēscere",
                 "",
                 "blush",
                 "",
@@ -37474,8 +37511,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ē-līdere -sisse -sum",
-                "",
+                "ēlīdō, ēlīdere, ēlīsī, ēlīsum",
+                "ex + laedō",
                 "",
                 "omit, elide",
                 "",
@@ -37679,8 +37716,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "circum-silīre",
-                "",
+                "circumsiliō, circumsilīre, ----,-----",
+                "circum + salīre",
                 "",
                 "hop about",
                 "",
@@ -37942,7 +37979,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "accendere -disse -ēnsum",
+                "accendō, accendere,&nbsp;&nbsp;accendī, accēnsum",
                 "",
                 "",
                 "light, inflame",
@@ -38304,7 +38341,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "luctārī",
+                "luctor, luctārī, luctātus sum",
                 "",
                 "",
                 "wrestle",
@@ -38487,7 +38524,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dēmere -mpsisse -mptum",
+                "dēmō, dēmere, dēmpsī, dēmptus",
                 "",
                 "",
                 "remove",
@@ -38508,8 +38545,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "coniungō, coniungere, coniunxī, coniunctum",
                 "con-iungere",
-                "",
                 "",
                 "join, connect",
                 "",
@@ -38589,8 +38626,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ad-nectere -xuisse -xum",
-                "",
+                "adnectō, adnectere,&nbsp;&nbsp;adnexuī, adnexum",
+                "ad-nectere",
                 "",
                 "attach, connect",
                 "",
@@ -39006,6 +39043,386 @@
             "guid": ";|cLF",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nōnāgintā&nbsp;",
+                "= XC&nbsp;",
+                "",
+                "ninety",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dS4oJPB=HO",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tūsculānus -a -um&nbsp;",
+                "&lt; Tūsculum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m~7K(*3QXJ",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "templōne?",
+                "&nbsp;= templō + ne",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P}qGzWVFS|",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fac! facīte!",
+                "&nbsp;(imp facere)&nbsp;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QR,T;MZik#",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sanguinem mittere",
+                "&nbsp;= vēnam aperīre",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z?oO[}_C]H",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "parvum -ī (n)&nbsp;<br>",
+                "= paulum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m7X!K&-p(2",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "philosophus -ī (m)",
+                "",
+                "",
+                "philosopher",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E/OG@Y:_</",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "particula -ae (f)&nbsp;",
+                "= parva pars",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m!:m]Z11xr",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "atomus -ī (f!)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L?N:U9{p$U",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pōns pontis (m)&nbsp;",
+                "",
+                "",
+                "bridge",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qo2~d=KxRh",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "alpha",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AExv89vOEd",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bēta",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g3(e`Od0ZT",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gamma",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tDr#2ZUjdY",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fūmus -i (m)",
+                "",
+                "",
+                "smoke",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sx#TLMG1`U",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ignis -is (m)&nbsp;",
+                "",
+                "",
+                "fire",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IyASJJrZh`",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ārdeō, ārdēre, ārsī, ārsus",
+                "",
+                "",
+                "burn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xj6U9Ot(:y",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "incendium -ī (n)&nbsp;",
+                "= domus ārdēns",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BA{(LsD^+l",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "excurrō, excurrere, excurrī, excursus&nbsp;",
+                "ex + currere",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B=F`Y]%9qp",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "concurrō, concurrere, concurrī, concursus&nbsp;",
+                ": con + currere = simul in eundem locum currere",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q7@xzfPu)W",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cp24"
+            ]
         }
     ]
 }
