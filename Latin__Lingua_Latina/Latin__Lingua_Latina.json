@@ -2,18 +2,18 @@
     "__type__": "Deck",
     "activeTags": [
         "cap29",
-        "cp02",
-        "cp05",
-        "cp08",
-        "cp09",
-        "cp10",
-        "cp11",
-        "cp12",
-        "cp20",
-        "cp21",
-        "cp22",
-        "cp23",
-        "cp24"
+        "cp-cap02 ",
+        "cp-cap05 ",
+        "cp-cap08 ",
+        "cp-cap09 ",
+        "cp-cap10 ",
+        "cp-cap11 ",
+        "cp-cap12 ",
+        "cp-cap20 ",
+        "cp-cap21 ",
+        "cp-cap22 ",
+        "cp-cap23 ",
+        "cp-cap24 "
     ],
     "children": [],
     "crowdanki_uuid": "d0175162-a1d2-11e9-b09e-74867a15fbd5",
@@ -1109,7 +1109,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ],
             "tmpls": [
                 {
@@ -3546,7 +3546,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap04",
-                "cp02"
+                "cp-cap02 "
             ]
         },
         {
@@ -5612,7 +5612,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap08",
-                "cp02"
+                "cp-cap02 "
             ]
         },
         {
@@ -9026,7 +9026,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap11",
-                "cp08"
+                "cp-cap08 "
             ]
         },
         {
@@ -12171,7 +12171,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap13",
-                "cp11"
+                "cp-cap11 "
             ]
         },
         {
@@ -12595,7 +12595,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap14",
-                "cp12"
+                "cp-cap12 "
             ]
         },
         {
@@ -18709,7 +18709,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap19",
-                "cp11"
+                "cp-cap11 "
             ]
         },
         {
@@ -20638,7 +20638,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap21",
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -21256,7 +21256,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22",
-                "cp09",
+                "cp-cap09 ",
                 "verb"
             ]
         },
@@ -21439,7 +21439,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22",
-                "cp21"
+                "cp-cap21 "
             ]
         },
         {
@@ -25073,7 +25073,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap26",
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -25829,7 +25829,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap27",
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -31486,7 +31486,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap30",
-                "cp20",
+                "cp-cap20 ",
                 "verb"
             ]
         },
@@ -36813,7 +36813,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
-                "cp10",
+                "cp-cap10 ",
                 "verb"
             ]
         },
@@ -37097,7 +37097,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39061,7 +39061,7 @@
             "guid": "dS4oJPB=HO",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp05"
+                "cp-cap05 "
             ]
         },
         {
@@ -39081,7 +39081,7 @@
             "guid": "m~7K(*3QXJ",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp05"
+                "cp-cap05 "
             ]
         },
         {
@@ -39101,7 +39101,7 @@
             "guid": "P}qGzWVFS|",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp05"
+                "cp-cap05 "
             ]
         },
         {
@@ -39121,7 +39121,7 @@
             "guid": "QR,T;MZik#",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39141,7 +39141,7 @@
             "guid": "z?oO[}_C]H",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39161,7 +39161,7 @@
             "guid": "m7X!K&-p(2",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39181,7 +39181,7 @@
             "guid": "E/OG@Y:_</",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39201,7 +39201,7 @@
             "guid": "m!:m]Z11xr",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39221,7 +39221,7 @@
             "guid": "L?N:U9{p$U",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp20"
+                "cp-cap20 "
             ]
         },
         {
@@ -39241,7 +39241,7 @@
             "guid": "Qo2~d=KxRh",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp22"
+                "cp-cap22 "
             ]
         },
         {
@@ -39261,7 +39261,7 @@
             "guid": "AExv89vOEd",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp23"
+                "cp-cap23 "
             ]
         },
         {
@@ -39281,7 +39281,7 @@
             "guid": "g3(e`Od0ZT",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp23"
+                "cp-cap23 "
             ]
         },
         {
@@ -39301,7 +39301,7 @@
             "guid": "tDr#2ZUjdY",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp23"
+                "cp-cap23 "
             ]
         },
         {
@@ -39321,7 +39321,7 @@
             "guid": "sx#TLMG1`U",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         },
         {
@@ -39341,7 +39341,7 @@
             "guid": "IyASJJrZh`",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         },
         {
@@ -39361,7 +39361,7 @@
             "guid": "xj6U9Ot(:y",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         },
         {
@@ -39381,7 +39381,7 @@
             "guid": "BA{(LsD^+l",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         },
         {
@@ -39401,7 +39401,7 @@
             "guid": "B=F`Y]%9qp",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         },
         {
@@ -39421,7 +39421,7 @@
             "guid": "Q7@xzfPu)W",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp24"
+                "cp-cap24 "
             ]
         }
     ]
