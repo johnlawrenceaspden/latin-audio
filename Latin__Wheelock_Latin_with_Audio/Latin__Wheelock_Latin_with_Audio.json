@@ -2113,9 +2113,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>agricola, agricolae (m)[sound:agricola.mp3]</div>",
+                "agricola, agricolae (m)",
                 "farmer",
-                "",
+                "[sound:agricola.mp3]",
                 "",
                 "",
                 "",
@@ -2284,9 +2284,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>puer, puerī (m)[sound:puer.mp3]</div>",
+                "puer, puerī (m)",
                 "boy; boys, children (pl.)",
-                "",
+                "[sound:puer.mp3]",
                 "",
                 "",
                 "",
@@ -4775,7 +4775,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "trahō, trahere, trāxī, trāctum",
+                "trahō, trahere, trāxī, trāctus",
                 "to draw, drag; derive, acquire",
                 "[sound:traho.mp3]",
                 "",
@@ -6808,7 +6808,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "turba, turbae (f)",
+                "turba, turbae (f) (----a)",
                 "uproar, disturbance; mob, crowd, multitude",
                 "[sound:turba.mp3]",
                 "",

@@ -1,19 +1,15 @@
 {
     "__type__": "Deck",
     "activeTags": [
+        "cap23",
+        "cap24",
+        "cap25",
+        "cap26",
+        "cap27",
+        "cap28",
         "cap29",
-        "cp-cap02 ",
-        "cp-cap05 ",
-        "cp-cap08 ",
-        "cp-cap09 ",
-        "cp-cap10 ",
-        "cp-cap11 ",
-        "cp-cap12 ",
-        "cp-cap20 ",
-        "cp-cap21 ",
-        "cp-cap22 ",
-        "cp-cap23 ",
-        "cp-cap24 "
+        "cap30",
+        "cap31"
     ],
     "children": [],
     "crowdanki_uuid": "d0175162-a1d2-11e9-b09e-74867a15fbd5",
@@ -72,6 +68,7 @@
     "inactiveTags": [],
     "media_files": [
         "ankidroid_audiorec1003914320.mp3",
+        "ankidroid_audiorec1006075997.3gp",
         "ankidroid_audiorec1008369047.mp3",
         "ankidroid_audiorec1010050313.mp3",
         "ankidroid_audiorec1010301535.mp3",
@@ -87,6 +84,7 @@
         "ankidroid_audiorec1030234305.mp3",
         "ankidroid_audiorec1034580100.mp3",
         "ankidroid_audiorec1037189165.mp3",
+        "ankidroid_audiorec1041030153.3gp",
         "ankidroid_audiorec1048479361.mp3",
         "ankidroid_audiorec1049519207.mp3",
         "ankidroid_audiorec1049654586.mp3",
@@ -112,6 +110,7 @@
         "ankidroid_audiorec1085883456.mp3",
         "ankidroid_audiorec1086626315.mp3",
         "ankidroid_audiorec1088705293.mp3",
+        "ankidroid_audiorec1090694226.3gp",
         "ankidroid_audiorec1090720396.mp3",
         "ankidroid_audiorec1093069240.mp3",
         "ankidroid_audiorec1093773615.mp3",
@@ -123,6 +122,7 @@
         "ankidroid_audiorec1108027485.mp3",
         "ankidroid_audiorec1108356989.mp3",
         "ankidroid_audiorec1110510778.mp3",
+        "ankidroid_audiorec1111477439.3gp",
         "ankidroid_audiorec1112946456.mp3",
         "ankidroid_audiorec1116804752.mp3",
         "ankidroid_audiorec1116844948.mp3",
@@ -135,6 +135,7 @@
         "ankidroid_audiorec1124833829.mp3",
         "ankidroid_audiorec1127452972.mp3",
         "ankidroid_audiorec1129588631.mp3",
+        "ankidroid_audiorec1138099553.3gp",
         "ankidroid_audiorec1138608930.mp3",
         "ankidroid_audiorec1138826141.mp3",
         "ankidroid_audiorec1142214528.mp3",
@@ -197,6 +198,7 @@
         "ankidroid_audiorec1237421072.mp3",
         "ankidroid_audiorec1238750513.mp3",
         "ankidroid_audiorec1238832934.mp3",
+        "ankidroid_audiorec1239236320.3gp",
         "ankidroid_audiorec1242908196.mp3",
         "ankidroid_audiorec1243643080.mp3",
         "ankidroid_audiorec1248430807.mp3",
@@ -217,6 +219,7 @@
         "ankidroid_audiorec128824182.mp3",
         "ankidroid_audiorec1289726263.mp3",
         "ankidroid_audiorec1294249708.mp3",
+        "ankidroid_audiorec1295227689.3gp",
         "ankidroid_audiorec1295348157.mp3",
         "ankidroid_audiorec1297940861.mp3",
         "ankidroid_audiorec1297943182.mp3",
@@ -249,6 +252,7 @@
         "ankidroid_audiorec1352328115.mp3",
         "ankidroid_audiorec1352945337.mp3",
         "ankidroid_audiorec1353328597.mp3",
+        "ankidroid_audiorec1354766480.3gp",
         "ankidroid_audiorec1364571190.mp3",
         "ankidroid_audiorec1366606056.mp3",
         "ankidroid_audiorec136786723.mp3",
@@ -272,6 +276,7 @@
         "ankidroid_audiorec139572278.mp3",
         "ankidroid_audiorec1408839681.mp3",
         "ankidroid_audiorec1410365076.mp3",
+        "ankidroid_audiorec1411732912.3gp",
         "ankidroid_audiorec1413187160.mp3",
         "ankidroid_audiorec1419231034.mp3",
         "ankidroid_audiorec1422327075.mp3",
@@ -286,6 +291,7 @@
         "ankidroid_audiorec1441383083.mp3",
         "ankidroid_audiorec1442391032.mp3",
         "ankidroid_audiorec1442407213.mp3",
+        "ankidroid_audiorec1444597877.3gp",
         "ankidroid_audiorec1446309403.mp3",
         "ankidroid_audiorec1446402458.mp3",
         "ankidroid_audiorec1446781823.mp3",
@@ -319,6 +325,7 @@
         "ankidroid_audiorec1504416346.mp3",
         "ankidroid_audiorec1507758555.mp3",
         "ankidroid_audiorec1509470179.mp3",
+        "ankidroid_audiorec1511976446.3gp",
         "ankidroid_audiorec1513044521.mp3",
         "ankidroid_audiorec1515100287.mp3",
         "ankidroid_audiorec1516805977.mp3",
@@ -411,6 +418,7 @@
         "ankidroid_audiorec1714978496.mp3",
         "ankidroid_audiorec1716370323.mp3",
         "ankidroid_audiorec171744027.mp3",
+        "ankidroid_audiorec1718761908.3gp",
         "ankidroid_audiorec1719298516.mp3",
         "ankidroid_audiorec171979659.mp3",
         "ankidroid_audiorec172011321.mp3",
@@ -466,6 +474,7 @@
         "ankidroid_audiorec1819644477.mp3",
         "ankidroid_audiorec1820398517.mp3",
         "ankidroid_audiorec1830737783.mp3",
+        "ankidroid_audiorec1832756758.3gp",
         "ankidroid_audiorec1833979541.mp3",
         "ankidroid_audiorec1835671424.mp3",
         "ankidroid_audiorec1835796779.mp3",
@@ -479,6 +488,8 @@
         "ankidroid_audiorec1854202463.mp3",
         "ankidroid_audiorec1854285543.mp3",
         "ankidroid_audiorec1854801591.mp3",
+        "ankidroid_audiorec1862356942.3gp",
+        "ankidroid_audiorec1864851153.3gp",
         "ankidroid_audiorec1864934533.mp3",
         "ankidroid_audiorec1873644592.mp3",
         "ankidroid_audiorec1873726752.mp3",
@@ -493,6 +504,7 @@
         "ankidroid_audiorec1888307525.mp3",
         "ankidroid_audiorec1890397400.mp3",
         "ankidroid_audiorec1900652919.mp3",
+        "ankidroid_audiorec1906043429.3gp",
         "ankidroid_audiorec1906550666.mp3",
         "ankidroid_audiorec1907388538.mp3",
         "ankidroid_audiorec1907583001.mp3",
@@ -512,6 +524,7 @@
         "ankidroid_audiorec194551124.mp3",
         "ankidroid_audiorec1946961456.mp3",
         "ankidroid_audiorec1954392305.mp3",
+        "ankidroid_audiorec1954455821.3gp",
         "ankidroid_audiorec1954542588.mp3",
         "ankidroid_audiorec1955836112.mp3",
         "ankidroid_audiorec1955938208.mp3",
@@ -544,10 +557,13 @@
         "ankidroid_audiorec2010762410.mp3",
         "ankidroid_audiorec2012726309.mp3",
         "ankidroid_audiorec2016513055.mp3",
+        "ankidroid_audiorec2016728536.3gp",
         "ankidroid_audiorec201764.mp3",
+        "ankidroid_audiorec2022084704.3gp",
         "ankidroid_audiorec2024018752.mp3",
         "ankidroid_audiorec2028365229.mp3",
         "ankidroid_audiorec2029879509.mp3",
+        "ankidroid_audiorec2036804441.3gp",
         "ankidroid_audiorec2041841736.mp3",
         "ankidroid_audiorec204317355.mp3",
         "ankidroid_audiorec2049120989.mp3",
@@ -562,6 +578,7 @@
         "ankidroid_audiorec2073080861.mp3",
         "ankidroid_audiorec2073276687.mp3",
         "ankidroid_audiorec2073764933.mp3",
+        "ankidroid_audiorec2075487538.3gp",
         "ankidroid_audiorec2079021890.mp3",
         "ankidroid_audiorec2080219768.mp3",
         "ankidroid_audiorec2080265970.mp3",
@@ -584,6 +601,7 @@
         "ankidroid_audiorec211272057.mp3",
         "ankidroid_audiorec2116539377.mp3",
         "ankidroid_audiorec2117633014.mp3",
+        "ankidroid_audiorec2119135398.3gp",
         "ankidroid_audiorec2120134597.mp3",
         "ankidroid_audiorec212295391.mp3",
         "ankidroid_audiorec2125440718.mp3",
@@ -667,10 +685,12 @@
         "ankidroid_audiorec328624462.mp3",
         "ankidroid_audiorec330839726.mp3",
         "ankidroid_audiorec338693461.mp3",
+        "ankidroid_audiorec338771651.3gp",
         "ankidroid_audiorec340217981.mp3",
         "ankidroid_audiorec342507586.mp3",
         "ankidroid_audiorec344589018.mp3",
         "ankidroid_audiorec345404635.mp3",
+        "ankidroid_audiorec346041867.3gp",
         "ankidroid_audiorec34819017.mp3",
         "ankidroid_audiorec350199638.mp3",
         "ankidroid_audiorec353783223.mp3",
@@ -691,9 +711,11 @@
         "ankidroid_audiorec370195165.mp3",
         "ankidroid_audiorec370271873.mp3",
         "ankidroid_audiorec37049559.mp3",
+        "ankidroid_audiorec372079213.3gp",
         "ankidroid_audiorec373234319.mp3",
         "ankidroid_audiorec373422498.mp3",
         "ankidroid_audiorec377852291.mp3",
+        "ankidroid_audiorec379001265.3gp",
         "ankidroid_audiorec385002312.mp3",
         "ankidroid_audiorec387433192.mp3",
         "ankidroid_audiorec387616209.mp3",
@@ -702,6 +724,7 @@
         "ankidroid_audiorec391550587.mp3",
         "ankidroid_audiorec392014364.mp3",
         "ankidroid_audiorec394446478.mp3",
+        "ankidroid_audiorec397323792.3gp",
         "ankidroid_audiorec398630586.mp3",
         "ankidroid_audiorec398751257.mp3",
         "ankidroid_audiorec40381649.mp3",
@@ -729,6 +752,7 @@
         "ankidroid_audiorec432701455.mp3",
         "ankidroid_audiorec433106845.mp3",
         "ankidroid_audiorec435479255.mp3",
+        "ankidroid_audiorec435793392.3gp",
         "ankidroid_audiorec436490255.mp3",
         "ankidroid_audiorec440961760.mp3",
         "ankidroid_audiorec443178708.mp3",
@@ -772,9 +796,11 @@
         "ankidroid_audiorec497459141.mp3",
         "ankidroid_audiorec49861597.mp3",
         "ankidroid_audiorec501029865.mp3",
+        "ankidroid_audiorec505001849.3gp",
         "ankidroid_audiorec506813039.mp3",
         "ankidroid_audiorec508971929.mp3",
         "ankidroid_audiorec514561979.mp3",
+        "ankidroid_audiorec515096675.3gp",
         "ankidroid_audiorec515132725.mp3",
         "ankidroid_audiorec515587171.mp3",
         "ankidroid_audiorec516091457.mp3",
@@ -789,8 +815,10 @@
         "ankidroid_audiorec53429931.mp3",
         "ankidroid_audiorec537282561.mp3",
         "ankidroid_audiorec537716491.mp3",
+        "ankidroid_audiorec539487166.3gp",
         "ankidroid_audiorec544832914.mp3",
         "ankidroid_audiorec545030437.mp3",
+        "ankidroid_audiorec546316617.3gp",
         "ankidroid_audiorec549907327.mp3",
         "ankidroid_audiorec554186749.mp3",
         "ankidroid_audiorec555535643.mp3",
@@ -829,6 +857,7 @@
         "ankidroid_audiorec629541233.mp3",
         "ankidroid_audiorec631126520.mp3",
         "ankidroid_audiorec632098289.mp3",
+        "ankidroid_audiorec636627791.3gp",
         "ankidroid_audiorec63667733.mp3",
         "ankidroid_audiorec640817112.mp3",
         "ankidroid_audiorec640850961.mp3",
@@ -856,8 +885,10 @@
         "ankidroid_audiorec677868513.mp3",
         "ankidroid_audiorec679865038.mp3",
         "ankidroid_audiorec681216294.mp3",
+        "ankidroid_audiorec692419192.3gp",
         "ankidroid_audiorec693254380.mp3",
         "ankidroid_audiorec694405246.mp3",
+        "ankidroid_audiorec694474316.3gp",
         "ankidroid_audiorec695349379.mp3",
         "ankidroid_audiorec69752543.mp3",
         "ankidroid_audiorec705608721.mp3",
@@ -871,6 +902,7 @@
         "ankidroid_audiorec713903309.mp3",
         "ankidroid_audiorec714906667.mp3",
         "ankidroid_audiorec716354158.mp3",
+        "ankidroid_audiorec722706405.3gp",
         "ankidroid_audiorec726260370.mp3",
         "ankidroid_audiorec727274791.mp3",
         "ankidroid_audiorec727347507.mp3",
@@ -899,6 +931,7 @@
         "ankidroid_audiorec76937040.mp3",
         "ankidroid_audiorec771880192.mp3",
         "ankidroid_audiorec772796442.mp3",
+        "ankidroid_audiorec775404330.3gp",
         "ankidroid_audiorec776610361.mp3",
         "ankidroid_audiorec778001819.mp3",
         "ankidroid_audiorec786259089.mp3",
@@ -928,6 +961,7 @@
         "ankidroid_audiorec826120570.mp3",
         "ankidroid_audiorec828311551.mp3",
         "ankidroid_audiorec829434291.mp3",
+        "ankidroid_audiorec8294506.3gp",
         "ankidroid_audiorec829574713.mp3",
         "ankidroid_audiorec830075523.mp3",
         "ankidroid_audiorec840258856.mp3",
@@ -946,6 +980,7 @@
         "ankidroid_audiorec861711785.mp3",
         "ankidroid_audiorec86218763.mp3",
         "ankidroid_audiorec863946732.mp3",
+        "ankidroid_audiorec864871763.3gp",
         "ankidroid_audiorec86652337.mp3",
         "ankidroid_audiorec868339157.mp3",
         "ankidroid_audiorec868383097.mp3",
@@ -957,6 +992,7 @@
         "ankidroid_audiorec88229725.mp3",
         "ankidroid_audiorec882538251.mp3",
         "ankidroid_audiorec88520796.mp3",
+        "ankidroid_audiorec89098956.3gp",
         "ankidroid_audiorec892011384.mp3",
         "ankidroid_audiorec8922412.mp3",
         "ankidroid_audiorec894451880.mp3",
@@ -989,6 +1025,7 @@
         "ankidroid_audiorec95306015.mp3",
         "ankidroid_audiorec953449894.mp3",
         "ankidroid_audiorec953907374.mp3",
+        "ankidroid_audiorec956505510.3gp",
         "ankidroid_audiorec95695240.mp3",
         "ankidroid_audiorec959053537.mp3",
         "ankidroid_audiorec959452895.mp3",
@@ -1978,7 +2015,7 @@
                 "slave, servant",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1138099553.3gp]",
                 ""
             ],
             "flags": 0,
@@ -2172,13 +2209,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "līberī -ōrum m pl",
+                "līberī -ōrum (m pl)",
                 "",
                 "",
                 "children",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1511976446.3gp]",
                 ""
             ],
             "flags": 0,
@@ -3334,7 +3371,7 @@
                 "obey",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1354766480.3gp]",
                 ""
             ],
             "flags": 0,
@@ -3538,7 +3575,7 @@
                 "ten",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec338771651.3gp]",
                 ""
             ],
             "flags": 0,
@@ -3546,7 +3583,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap04",
-                "cp-cap02 "
+                "cp-cap02"
             ]
         },
         {
@@ -5604,7 +5641,7 @@
                 "twenty",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec8294506.3gp]",
                 ""
             ],
             "flags": 0,
@@ -5612,7 +5649,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap08",
-                "cp-cap02 "
+                "cp-cap02"
             ]
         },
         {
@@ -9026,7 +9063,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap11",
-                "cp-cap08 "
+                "cp-cap08"
             ]
         },
         {
@@ -9505,7 +9542,7 @@
                 "color",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2119135398.3gp]",
                 ""
             ],
             "flags": 0,
@@ -10009,7 +10046,7 @@
                 "native country/town",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec636627791.3gp]",
                 ""
             ],
             "flags": 0,
@@ -12163,7 +12200,7 @@
                 "twelfth",
                 "",
                 "du-o-*de-ci-mus, du-o-*de-ci-ma, du-o-*de-ci-mum",
-                "[sound:ankidroid_audiorec1534660039.mp3]",
+                "<br>[sound:ankidroid_audiorec1534660039.mp3]",
                 ""
             ],
             "flags": 0,
@@ -12171,7 +12208,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap13",
-                "cp-cap11 "
+                "cp-cap11"
             ]
         },
         {
@@ -12587,7 +12624,7 @@
                 "farewell, goodbye",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec864871763.3gp]",
                 ""
             ],
             "flags": 0,
@@ -12595,7 +12632,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap14",
-                "cp-cap12 "
+                "cp-cap12"
             ]
         },
         {
@@ -13700,7 +13737,7 @@
                 "go back, return",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2022084704.3gp]",
                 ""
             ],
             "flags": 0,
@@ -15903,7 +15940,7 @@
                 "fifty",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1444597877.3gp]",
                 ""
             ],
             "flags": 0,
@@ -17121,7 +17158,7 @@
                 "five times",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1862356942.3gp]",
                 ""
             ],
             "flags": 0,
@@ -18461,7 +18498,7 @@
                 "smaller, younger",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1864851153.3gp]",
                 ""
             ],
             "flags": 0,
@@ -18709,7 +18746,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap19",
-                "cp-cap11 "
+                "cp-cap11"
             ]
         },
         {
@@ -19733,7 +19770,7 @@
                 "be fitting, become",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1239236320.3gp]",
                 ""
             ],
             "flags": 0,
@@ -19958,7 +19995,7 @@
                 "carry, convey (to)",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2075487538.3gp]",
                 ""
             ],
             "flags": 0,
@@ -20638,7 +20675,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap21",
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -20686,13 +20723,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ain'",
+                "ain'?",
                 "ain'? = ais-ne? ",
                 "Aemilia: \"Ain' tū? Porcusne ātrium intrāvit?\"",
                 "really? did you say?",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec372079213.3gp]",
                 ""
             ],
             "flags": 0,
@@ -21256,7 +21293,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22",
-                "cp-cap09 ",
+                "cp-cap09",
                 "verb"
             ]
         },
@@ -21439,7 +21476,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22",
-                "cp-cap21 "
+                "cp-cap21"
             ]
         },
         {
@@ -23896,7 +23933,7 @@
                 "delay",
                 "mora, morae",
                 "*mo-ra, *mo-rae",
-                "",
+                "[sound:ankidroid_audiorec694474316.3gp]",
                 ""
             ],
             "flags": 0,
@@ -24662,7 +24699,7 @@
                 "highest, greatest",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec89098956.3gp]",
                 ""
             ],
             "flags": 0,
@@ -25065,7 +25102,7 @@
                 "nature",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1718761908.3gp]",
                 ""
             ],
             "flags": 0,
@@ -25073,7 +25110,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap26",
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -25537,7 +25574,7 @@
                 "spend, consume",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec397323792.3gp]",
                 ""
             ],
             "flags": 0,
@@ -25829,7 +25866,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap27",
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -26638,7 +26675,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap27",
-                "fs-cap-xxvi",
+                "fs-cap25",
                 "verb"
             ]
         },
@@ -26851,7 +26888,7 @@
             "fields": [
                 "loca, locōrum",
                 "loca -ōrum n pl = regiō",
-                "Ītalia est terra fertilis, sed multa loca Ītaliae nōn arantur nec ūllās frūgēs ferunt praeter herbam.",
+                "Italia est terra fertilis, sed multa loca Italiae nōn arantur nec ūllās frūgēs ferunt praeter herbam.",
                 "regions, parts",
                 "",
                 "",
@@ -28863,8 +28900,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vēlōx -ōcis adi",
-                "",
+                "vēlōx -ōcis ",
+                "adi",
                 "",
                 "swift, rapid",
                 "",
@@ -29900,7 +29937,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fīniō, fīnīre, finīvī, finītus",
+                "fīniō, fīnīre, fīnīvī, fīnītus",
                 "",
                 "",
                 "limit, finish",
@@ -29961,8 +29998,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fēlīx -īcis adi",
-                "",
+                "fēlīx -īcis",
+                "adi",
                 "",
                 "fortunate, lucky",
                 "",
@@ -30001,8 +30038,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fallāx -ācis adi",
-                "",
+                "fallāx -ācis ",
+                "(adi)",
                 "",
                 "deceitful",
                 "",
@@ -30479,7 +30516,7 @@
                 "abstineō, abstinēre, abstinuī, abstentus",
                 "abs + tenēre",
                 "Nautae precibus ēius ita permōtī sunt ut manūs quidem ab eō abstinērent; sed tamen imperāvērunt ut statim in mare dēsilīret!",
-                "keep off",
+                "keep away from, keep off of, abstain from",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1123804450.mp3]",
@@ -30519,8 +30556,8 @@
             "data": "",
             "fields": [
                 "vīso, vīsere, vīsī, vīsus",
-                "",
-                "",
+                "vīsere = vīsum īre",
+                "Nōnnumquam tē vīsere voluī, nec prius urbem relinquere potuī prae mūltīs et magnīs negōtiīs meīs.",
                 "go and see, visit",
                 "",
                 "",
@@ -30641,7 +30678,7 @@
             "fields": [
                 "sternō, sternere, strāvī, strātum",
                 "",
-                "",
+                "Ante convīvium trīclī­nium flōribus exōrnātur et vestis pretiōsa super lectōs sternitur.",
                 "spread",
                 "",
                 "",
@@ -30804,8 +30841,8 @@
             "data": "",
             "fields": [
                 "prōferō, prōferre, prōtulī, prōlātus ",
-                "prō-ferre",
-                "",
+                "prō-ferre = prōmerē&nbsp;",
+                "Age, puer, profer Falernum quod optimum habeō!",
                 "bring forth, produce",
                 "",
                 "",
@@ -30906,8 +30943,8 @@
             "data": "",
             "fields": [
                 "perferō, perferre, pertulī, perlātus ",
-                "per-ferre",
-                "",
+                "per-ferre = ferre (usque ad fīnem), diū patī&nbsp;",
+                "Num tū sitim perferre māvīs quam aquam bibere?",
                 "carry, endure",
                 "",
                 "",
@@ -31027,7 +31064,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "miscō, miscēre, miscuī, mixtum",
+                "misceō, miscēre, miscuī, mixtum",
                 "",
                 "",
                 "mix",
@@ -31392,7 +31429,7 @@
             "fields": [
                 "fundō, fundere, fūdī, fūsum",
                 "",
-                "",
+                "Iam ministrī vīnum et calidam in pōcula fundunt",
                 "pour, shed",
                 "",
                 "",
@@ -31477,8 +31514,8 @@
                 "",
                 "drain, empty",
                 "",
-                "",
-                "",
+                "ex-*hau-ri-ō, ex-hau-*rī-re, ex-*hau-sī, ex-*hau-stus",
+                "[sound:ankidroid_audiorec692419192.3gp]",
                 ""
             ],
             "flags": 0,
@@ -31486,7 +31523,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap30",
-                "cp-cap20 ",
+                "cp-cap20",
                 "verb"
             ]
         },
@@ -31514,7 +31551,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ēligō, ēligere, elēgī, ēlēctum",
+                "ēligō, ēligere, ēlēgī, ēlēctum",
                 "ex + legō",
                 "",
                 "choose, select",
@@ -31718,8 +31755,8 @@
             "data": "",
             "fields": [
                 "compleō, complēre, complēvī, complētum",
-                "com + pleō",
-                "",
+                "com-plēre = implēre",
+                "Pōculum Orontis prīmum Falernō complētur, nam is iam prīdem pōculum suum exhausit.",
                 "fill, complete",
                 "",
                 "",
@@ -31900,8 +31937,8 @@
             "data": "",
             "fields": [
                 "aspergō, aspergere, aspersī,  aspersum",
-                "ad + spargō",
-                "",
+                "ad + spargō : cibum sale aspergere = cibō salem aspergere&nbsp;",
+                "\"Ego cocum nōn laudō\" inquit Orontēs et salem carnī aspergit, \"quī sale nōn ūtitur! Optima quidem est carō, sed sale caret. \"",
                 "sprinkle, scatter (on)",
                 "",
                 "",
@@ -31961,8 +31998,8 @@
             "data": "",
             "fields": [
                 "apportō, apportāre, apportāvī, apportātus",
-                "ap-portāre",
-                "",
+                "&lt; ad + portāre",
+                "Statim minister mel apportat, quod Paula in pōculum suum fundit.",
                 "bring",
                 "",
                 "",
@@ -32104,10 +32141,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "supplicium -ī n",
-                "",
-                "",
-                "(capital) punishment",
+                "supplicium -i (n)",
+                "supplicium -ī n = poena sevērissima, poena ca­pitis ( : vītae)&nbsp;",
+                "At profectō aliud est patrem suum necāre, longē aliud servum scelestum capite pūnīre, illud enim turpissīmum scelus, hoc supplicium iūstum est.",
+                "(capital) punishment (because criminals were beheaded kneeling)",
                 "",
                 "",
                 "",
@@ -32124,8 +32161,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "super prp +abl",
-                "",
+                "super (prp +abl)",
+                "super (<i>prp +abl</i>)",
                 "",
                 "on, about",
                 "",
@@ -32146,7 +32183,7 @@
             "fields": [
                 "statuō, statuere, statuī, statūtum",
                 "",
-                "",
+                "Cornēlius: \"Quantum pecūniae dabis? Certum praemium statuere oportet.\"",
                 "fix, determine",
                 "",
                 "",
@@ -32165,9 +32202,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "simul atque +perf",
-                "",
-                "",
+                "simul atque",
+                "simul atque = eōdem tempore quō, cum prīmum&nbsp;",
+                "Midās enim, quamquam terram, lignum , ferrum manū tangendō in aurum mūtāre poterat, famē et sitī moriēbātur, cum cibus quoque et pōtiō, simul atque ā rēge tācta erat, aurum fieret.",
                 "as soon as",
                 "",
                 "",
@@ -32306,9 +32343,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quis-quis",
-                "",
-                "",
+                "quisquis",
+                "quis-quis = omnis homo quī",
+                "Quisquis fēminās amat, pōculum tollat et bibat mēcum! Nunc merum bibendum est!",
                 "whoever, anyone who",
                 "",
                 "",
@@ -32326,9 +32363,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quid-quid",
-                "",
-                "",
+                "quidquid",
+                "quid-quid = omnis rēs quae",
+                "Tum Bacchus deus, quī ob quoddam beneficium rēgī bene volēbat, \"Dabō tibi\" inquit \"quidquid optāverīs.\"",
                 "whatever, anything that",
                 "",
                 "",
@@ -32347,8 +32384,8 @@
             "data": "",
             "fields": [
                 "quantum -ī n",
-                "",
-                "",
+                "quantum = quam multum",
+                "Cornēlius: \"Quantum pecūniae abstulit?\"",
                 "how much, (as much) as",
                 "",
                 "",
@@ -32366,9 +32403,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quam-ob-rem",
-                "",
-                "",
+                "quamobrem",
+                "quam-ob-rem = cur",
+                "At Aemilia, quae fābulam ignōrat, ab Oronte quaerit 'quamobrem id mūnus pessimum' sit?'",
                 "why",
                 "",
                 "",
@@ -32487,9 +32524,9 @@
             "data": "",
             "fields": [
                 "optō, optāre, optāvī, optātus",
-                "",
-                "",
-                "wish",
+                "optāre = cupere&nbsp;",
+                "Ōlim vīvēbat rēx quīdam avārus, nōmine Midās, quī nihil magis optābat quam dīvitiās",
+                "choose, select, prefer; wish",
                 "",
                 "",
                 "",
@@ -32507,9 +32544,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ōdisse",
-                "",
-                "",
+                "ōdī, ōdisse",
+                "ōdisse (<i>perf</i>) &lt;-&gt; amāre",
+                "Servī enim dominum clēmen­tem amant, sevērum ōdērunt.",
                 "hate",
                 "",
                 "",
@@ -32568,8 +32605,8 @@
             "data": "",
             "fields": [
                 "nimius -a -um",
-                "",
-                "",
+                "nimius -ā -um = nimis magnum",
+                "<div>Orontēs: \"Centum tantum sēstertiōs? Sānē nōn nī­mium praemium prōmittis! \"<br></div>",
                 "too big",
                 "",
                 "",
@@ -32608,8 +32645,8 @@
             "data": "",
             "fields": [
                 "namque",
-                "",
-                "",
+                "nam-que = nam<br>",
+                "Iūlius: \"Certē pater tam inhūmānus sevērē pūniendus est, namque īnfantēs invalidōs expōnere est mōs fierī solet antīquus atque crūdēlis.",
                 "for",
                 "",
                 "",
@@ -32689,7 +32726,7 @@
             "fields": [
                 "longē",
                 "",
-                "",
+                "At profectō aliud est patrem suum necāre, longē aliud servum scelestum capite pūnīre, illud enim turpissimum scelus, hoc supplicium iūstum est.",
                 "far, by far",
                 "",
                 "",
@@ -32728,8 +32765,8 @@
             "data": "",
             "fields": [
                 "lateō, latēre, latuī, -----",
-                "",
-                "",
+                "latēre = sē occultāre, occultārī",
+                "Cornēlius : \"Etiam sī adhūc Rōmae latet, difficile erit servum fugitīvum in tantā urbe reperīre.\"",
                 "be hidden, hide",
                 "",
                 "",
@@ -32888,7 +32925,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "īn-fidus -a -um",
+                "īnfīdus -a -um",
                 "",
                 "",
                 "faithless",
@@ -32949,8 +32986,8 @@
             "data": "",
             "fields": [
                 "ignōscō, ignōscere, ignōvī, ignōtus",
-                "ignōscere +dat",
-                "",
+                "ignōscere (<i>+ dat)</i>: alicui ignōscere = maleficia alicūius oblīvīscī / nōn pūnīre&nbsp;",
+                "Nimis clēmentēs sunt mulierēs: quam facile virīs nēquissimīs ignōscunt! At nostra melior est memoria!",
                 "forgive",
                 "",
                 "",
@@ -32969,9 +33006,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "id-eō",
-                "",
-                "",
+                "ideō",
+                "id-eō = ob eam rem",
+                "Num ideō cēnsēs cīvī Athēniēnsī licuisse patrem suum necāre?",
                 "for that reason",
                 "",
                 "",
@@ -32989,9 +33026,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "funditus adv",
-                "",
-                "",
+                "funditus",
+                "funditus (adv) = ā fundō",
+                "Vīvat Bacchus, deus vīnī! Vīvāmus omnēs et bibāmus! Pōcula funditus exhauriāmus!",
                 "to the bottom, utterly",
                 "",
                 "",
@@ -33030,8 +33067,8 @@
             "data": "",
             "fields": [
                 "fīdus -a -um",
-                "",
-                "",
+                "fīdus -a -um &lt;-&gt; īnfīdus",
+                "In familiā meā ūnum solum servum fīdum esse crēdō.",
                 "faithful, reliable",
                 "",
                 "",
@@ -33069,7 +33106,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fīdo, fīdere, fīsus sum",
+                "fīdō, fīdere, fīsus sum",
                 "<i>(+dat/abl) </i>= credere<i>;&nbsp;semi-deponent</i>",
                 "Iūlius: \"Centum circiter sēstertiōs. Atque ego illī servō praeter cēterōs fīdēbam!\"",
                 "trust, rely on",
@@ -33194,8 +33231,8 @@
             "data": "",
             "fields": [
                 "crūdēlis -e",
-                "",
-                "",
+                "crūdēlis -ē = saevus atque inhūmānus&nbsp;",
+                "Sānē pater crūdēlis fuit Mānlius, sed illō suppliciō sevērissimō cēterī mīlitēs dēterrēbantur nē officium dēsererent",
                 "cruel",
                 "",
                 "",
@@ -33357,8 +33394,8 @@
             "data": "",
             "fields": [
                 "asinīnus -a -um",
-                "",
-                "",
+                "asinīnus -a -um &lt; asinus",
+                "Orontēs: \"Hūius quidem fābulae fīnis est, sed aliam fābulam dē eōdem rēge nōvī. Deus Apollō effēcerat ut Midās aurēs asinīnās habēret . . . \"",
                 "ass’s",
                 "",
                 "",
@@ -33376,9 +33413,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ali-quantum",
-                "",
-                "",
+                "aliquantum",
+                "alī-quantum = haud paū­lum (nesciō quantum)&nbsp;",
+                "Redeāmus ad meum Mēdum servum, quī herī au­fugit aliquantum pecūniae sēcum auferēns.",
                 "a good deal",
                 "",
                 "",
@@ -33653,7 +33690,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap32",
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -36805,7 +36842,7 @@
                 "chirp",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1006075997.3gp]",
                 ""
             ],
             "flags": 0,
@@ -36813,7 +36850,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
-                "cp-cap10 ",
+                "cp-cap10",
                 "verb"
             ]
         },
@@ -37089,7 +37126,7 @@
                 "mind",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec775404330.3gp]",
                 ""
             ],
             "flags": 0,
@@ -37097,7 +37134,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -37199,7 +37236,7 @@
             "guid": "dhX&k:X,Z8",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -37566,7 +37603,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
-                "fs-cap-xxvi",
+                "fs-cap25",
                 "verb"
             ]
         },
@@ -38701,7 +38738,7 @@
             "guid": "1>c#L",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38721,7 +38758,7 @@
             "guid": "W:J!8",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38741,7 +38778,7 @@
             "guid": "I5+lD",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38761,7 +38798,7 @@
             "guid": "xJcWH",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38781,7 +38818,7 @@
             "guid": "fdtUE",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38801,7 +38838,7 @@
             "guid": "}%gKE",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -38929,7 +38966,7 @@
             "guid": "hjMhI",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap-xxvi"
+                "fs-cap25"
             ]
         },
         {
@@ -39048,40 +39085,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōnāgintā&nbsp;",
-                "= XC&nbsp;",
+                "nōnāgintā",
+                "= XC",
                 "",
                 "ninety",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec379001265.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "dS4oJPB=HO",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap05 "
+                "cp-cap05"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tūsculānus -a -um&nbsp;",
+                "Tūsculānus -a -um",
                 "&lt; Tūsculum",
                 "",
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec346041867.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "m~7K(*3QXJ",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap05 "
+                "cp-cap05"
             ]
         },
         {
@@ -39094,14 +39131,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1295227689.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "P}qGzWVFS|",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap05 "
+                "cp-cap05"
             ]
         },
         {
@@ -39109,19 +39146,19 @@
             "data": "",
             "fields": [
                 "fac! facīte!",
-                "&nbsp;(imp facere)&nbsp;",
+                "(imp facere)",
                 "",
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1111477439.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "QR,T;MZik#",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -39134,34 +39171,34 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1832756758.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "z?oO[}_C]H",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "parvum -ī (n)&nbsp;<br>",
+                "parvum -ī (n)<br>",
                 "= paulum",
                 "",
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec539487166.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "m7X!K&-p(2",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -39174,14 +39211,14 @@
                 "philosopher",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1090694226.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "E/OG@Y:_</",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -39194,14 +39231,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec505001849.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "m!:m]Z11xr",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -39214,14 +39251,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1411732912.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "L?N:U9{p$U",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap20 "
+                "cp-cap20"
             ]
         },
         {
@@ -39234,14 +39271,14 @@
                 "bridge",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2016728536.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "Qo2~d=KxRh",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap22 "
+                "cp-cap22"
             ]
         },
         {
@@ -39254,14 +39291,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec956505510.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "AExv89vOEd",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap23 "
+                "cp-cap23"
             ]
         },
         {
@@ -39274,14 +39311,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1041030153.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "g3(e`Od0ZT",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap23 "
+                "cp-cap23"
             ]
         },
         {
@@ -39294,14 +39331,14 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec546316617.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "tDr#2ZUjdY",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap23 "
+                "cp-cap23"
             ]
         },
         {
@@ -39314,34 +39351,34 @@
                 "smoke",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2036804441.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "sx#TLMG1`U",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ignis -is (m)&nbsp;",
+                "ignis -is (m)",
                 "",
                 "",
                 "fire",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec515096675.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "IyASJJrZh`",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         },
         {
@@ -39354,14 +39391,14 @@
                 "burn",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec722706405.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "xj6U9Ot(:y",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         },
         {
@@ -39374,54 +39411,54 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec435793392.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "BA{(LsD^+l",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "excurrō, excurrere, excurrī, excursus&nbsp;",
+                "excurrō, excurrere, excurrī, excursus",
                 "ex + currere",
                 "",
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1954455821.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "B=F`Y]%9qp",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "concurrō, concurrere, concurrī, concursus&nbsp;",
+                "concurrō, concurrere, concurrī, concursus",
                 ": con + currere = simul in eundem locum currere",
                 "",
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1906043429.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "Q7@xzfPu)W",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cp-cap24 "
+                "cp-cap24"
             ]
         }
     ]
