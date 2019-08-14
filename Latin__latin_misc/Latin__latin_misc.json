@@ -56,30 +56,30 @@
     "extendRev": 50,
     "media_files": [
         "ankidroid_audiorec1139360258.mp3",
-        "ankidroid_audiorec1139476183.3gp",
+        "ankidroid_audiorec1139476183.mp3",
         "ankidroid_audiorec1216378771.mp3",
         "ankidroid_audiorec1244829549.mp3",
-        "ankidroid_audiorec1293975886.3gp",
+        "ankidroid_audiorec1293975886.mp3",
         "ankidroid_audiorec1362545299.mp3",
-        "ankidroid_audiorec1433927221.3gp",
+        "ankidroid_audiorec1433927221.mp3",
         "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec1529894196.mp3",
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
-        "ankidroid_audiorec1578169482.3gp",
-        "ankidroid_audiorec1648961998.3gp",
-        "ankidroid_audiorec1684993130.3gp",
+        "ankidroid_audiorec1578169482.mp3",
+        "ankidroid_audiorec1648961998.mp3",
+        "ankidroid_audiorec1684993130.mp3",
         "ankidroid_audiorec1699049385.mp3",
-        "ankidroid_audiorec1728267003.3gp",
+        "ankidroid_audiorec1728267003.mp3",
         "ankidroid_audiorec181499073.mp3",
-        "ankidroid_audiorec1836493504.3gp",
-        "ankidroid_audiorec18924827.3gp",
+        "ankidroid_audiorec1836493504.mp3",
+        "ankidroid_audiorec18924827.mp3",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
-        "ankidroid_audiorec1989930703.3gp",
+        "ankidroid_audiorec1989930703.mp3",
         "ankidroid_audiorec204651044.mp3",
-        "ankidroid_audiorec207502509.3gp",
+        "ankidroid_audiorec207502509.mp3",
         "ankidroid_audiorec2077816925.mp3",
         "ankidroid_audiorec2125598793.mp3",
         "ankidroid_audiorec281336224.mp3",
@@ -87,17 +87,17 @@
         "ankidroid_audiorec393531230.mp3",
         "ankidroid_audiorec427714694.mp3",
         "ankidroid_audiorec504910668.mp3",
-        "ankidroid_audiorec51484233.3gp",
-        "ankidroid_audiorec570171787.3gp",
-        "ankidroid_audiorec585687543.3gp",
+        "ankidroid_audiorec51484233.mp3",
+        "ankidroid_audiorec570171787.mp3",
+        "ankidroid_audiorec585687543.mp3",
         "ankidroid_audiorec596699706.mp3",
-        "ankidroid_audiorec617338681.3gp",
+        "ankidroid_audiorec617338681.mp3",
         "ankidroid_audiorec67821746.mp3",
         "ankidroid_audiorec682514073.mp3",
         "ankidroid_audiorec716678691.mp3",
         "ankidroid_audiorec718656581.mp3",
         "ankidroid_audiorec747209477.mp3",
-        "ankidroid_audiorec807192658.3gp",
+        "ankidroid_audiorec807192658.mp3",
         "ankidroid_audiorec819145255.mp3",
         "ankidroid_audiorec826053439.mp3",
         "ankidroid_audiorec945429629.mp3",
@@ -401,7 +401,7 @@
             "fields": [
                 "amārī: amor",
                 "*a-mor, a-*mā-ris, a-*mā-tur; a-*mā-mur, a-*mā-mi-nī, a-*man-tur",
-                "[sound:ankidroid_audiorec1648961998.3gp]"
+                "[sound:ankidroid_audiorec1648961998.mp3]"
             ],
             "flags": 0,
             "guid": "oe%K1",
@@ -482,7 +482,7 @@
             "fields": [
                 "decline ager",
                 "*a-ger, *a-grum, *a-grī, *a-grō, *a-grō <br><br>*a-grī, *a-grōs, a-*grō-rum, *a-grīs, *a-grīs",
-                "[sound:ankidroid_audiorec570171787.3gp]"
+                "[sound:ankidroid_audiorec570171787.mp3]"
             ],
             "flags": 0,
             "guid": "WWM8D",
@@ -546,7 +546,7 @@
             "fields": [
                 "declinā altum mare",
                 "altum mare, altum mare, altī maris, altō marī, altō marī ;<br><br>alta maria , alta maria, altōrum marium, altīs maribus, altīs maribus ",
-                "[sound:ankidroid_audiorec1216378771.mp3]  ;   [sound:ankidroid_audiorec1578169482.3gp]"
+                "[sound:ankidroid_audiorec1216378771.mp3]  ;   [sound:ankidroid_audiorec1578169482.mp3]"
             ],
             "flags": 0,
             "guid": "QxYsB",
@@ -678,7 +678,7 @@
             "fields": [
                 "agō: agam",
                 "*a-gam, *a-gās, *a-gat; a-*gā-mus, a-*gā-tis, *a-gant",
-                "[sound:ankidroid_audiorec51484233.3gp]"
+                "[sound:ankidroid_audiorec51484233.mp3]"
             ],
             "flags": 0,
             "guid": "w`%_J",
@@ -933,7 +933,7 @@
             "data": "",
             "fields": [
                 "Dominus: \"Intr{{c1::ā}}, serve! Claud{{c2::e}} forem! Tac{{c3::ē}} et aud{{c4::ī}}!\"<br><br>Dominus servō imperat ut intr{{c5::et}}, forem claud{{c6::at}}, tac{{c7::eat}} et aud{{c8::iat}}.<br><br>Servus intr{{c12::at}}, forem claud{{c11::it}}, tac{{c10::et}} et aud{{c9::it}}.",
-                "[sound:ankidroid_audiorec1293975886.3gp]"
+                "[sound:ankidroid_audiorec1293975886.mp3]"
             ],
             "flags": 0,
             "guid": "v0%a%vD)Ef",
@@ -945,7 +945,7 @@
             "data": "",
             "fields": [
                 "{{c1::dēleō}}, {{c2::dēlēre}}, {{c3::dēlēvī}}, {{c4::dēlētum}}",
-                "[sound:ankidroid_audiorec1433927221.3gp]"
+                "[sound:ankidroid_audiorec1433927221.mp3]"
             ],
             "flags": 0,
             "guid": "gIL}~o^3sK",
@@ -957,7 +957,7 @@
             "data": "",
             "fields": [
                 "{{c1::iuvō}}, {{c2::iuvāre}}, {{c3::iūvī}}, {{c4::iūtum}}",
-                "[sound:ankidroid_audiorec617338681.3gp]"
+                "[sound:ankidroid_audiorec617338681.mp3]"
             ],
             "flags": 0,
             "guid": "m]n.$g<}E`",
@@ -969,7 +969,7 @@
             "data": "",
             "fields": [
                 "{{c1::Amīcus certus}} in {{c2::rē incertā}} {{c3::cernitur}} -- {{c4::Ennius}}",
-                "[sound:ankidroid_audiorec1836493504.3gp]"
+                "[sound:ankidroid_audiorec1836493504.mp3]"
             ],
             "flags": 0,
             "guid": "yhD]@*F8#9",
@@ -981,7 +981,7 @@
             "data": "",
             "fields": [
                 "{{c1::Dōnec}} eris {{c2::fēlīx}}, multōs {{c3::numerābis}} amicōs. Tempora sī {{c4::fuerint}} {{c5::nūbila}}, sōlus eris!&nbsp; -- Ovidius Tristia I.9.5-6",
-                "[sound:ankidroid_audiorec585687543.3gp]"
+                "[sound:ankidroid_audiorec585687543.mp3]"
             ],
             "flags": 0,
             "guid": "d|0_je-R3t",
@@ -993,7 +993,7 @@
             "data": "",
             "fields": [
                 "Sī āēr {{c2::tranquillus}} est, necesse est ventum {{c1::opperīrī}}",
-                "[sound:ankidroid_audiorec807192658.3gp]"
+                "[sound:ankidroid_audiorec807192658.mp3]"
             ],
             "flags": 0,
             "guid": "NyD_xz@JZn",
@@ -1005,7 +1005,7 @@
             "data": "",
             "fields": [
                 "Puer aegrōtus iterum iterumque super lectum sē {{c1::convertit}} nec dormīre potest.",
-                "[sound:ankidroid_audiorec18924827.3gp]"
+                "[sound:ankidroid_audiorec18924827.mp3]"
             ],
             "flags": 0,
             "guid": "vc|c5`^(}>",
@@ -1017,7 +1017,7 @@
             "data": "",
             "fields": [
                 "Ferrum est māteria dūra ex quā cultrī, gladiī, stilī aliaeque rēs multae {{c1::efficiuntur}}.",
-                "[sound:ankidroid_audiorec1684993130.3gp]"
+                "[sound:ankidroid_audiorec1684993130.mp3]"
             ],
             "flags": 0,
             "guid": "v4[s[G7xBS",
@@ -1029,7 +1029,7 @@
             "data": "",
             "fields": [
                 "Iūlius: \"Centum circiter sēstertiōs. Atque ego illī servō praeter cēterōs {{c1::fīdēbam}}!\"",
-                "[sound:ankidroid_audiorec1139476183.3gp]"
+                "[sound:ankidroid_audiorec1139476183.mp3]"
             ],
             "flags": 0,
             "guid": "dn.$Yj~[@`",
@@ -1041,7 +1041,7 @@
             "data": "",
             "fields": [
                 "Mēnse Augustō frūmentum {{c1::metitur}} et ex agrīs vehitur. Deinde agrī arantur et novum frūmentum {{c2::seritur}}.",
-                "[sound:ankidroid_audiorec1989930703.3gp]"
+                "[sound:ankidroid_audiorec1989930703.mp3]"
             ],
             "flags": 0,
             "guid": "Ij7BS*~]SE",
@@ -1053,7 +1053,7 @@
             "data": "",
             "fields": [
                 "Rōmae {{c1::plūrēs}} hominēs habitant quam in ūllā aliā urbe imperiī Rōmānī",
-                "[sound:ankidroid_audiorec1728267003.3gp]"
+                "[sound:ankidroid_audiorec1728267003.mp3]"
             ],
             "flags": 0,
             "guid": "jSAj+`pi6D",
@@ -1065,7 +1065,7 @@
             "data": "",
             "fields": [
                 "Omnēs enim quī {{c1::cēperint}} gladium, gladiō {{c2::perībunt}}.",
-                "[sound:ankidroid_audiorec207502509.3gp]"
+                "[sound:ankidroid_audiorec207502509.mp3]"
             ],
             "flags": 0,
             "guid": "Li|PZb$hzq",
