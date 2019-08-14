@@ -16,7 +16,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0.0
+                "mult": 0
             },
             "maxTaken": 60,
             "name": "allnewcards",
@@ -42,10 +42,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 1,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 1000
+                "perDay": 9999
             },
             "timer": 0
         }
@@ -56,20 +56,30 @@
     "extendRev": 50,
     "media_files": [
         "ankidroid_audiorec1139360258.mp3",
-        "ankidroid_audiorec1169838510.mp3",
+        "ankidroid_audiorec1139476183.3gp",
         "ankidroid_audiorec1216378771.mp3",
         "ankidroid_audiorec1244829549.mp3",
+        "ankidroid_audiorec1293975886.3gp",
         "ankidroid_audiorec1362545299.mp3",
+        "ankidroid_audiorec1433927221.3gp",
         "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec1529894196.mp3",
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
+        "ankidroid_audiorec1578169482.3gp",
+        "ankidroid_audiorec1648961998.3gp",
+        "ankidroid_audiorec1684993130.3gp",
         "ankidroid_audiorec1699049385.mp3",
+        "ankidroid_audiorec1728267003.3gp",
         "ankidroid_audiorec181499073.mp3",
+        "ankidroid_audiorec1836493504.3gp",
+        "ankidroid_audiorec18924827.3gp",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
+        "ankidroid_audiorec1989930703.3gp",
         "ankidroid_audiorec204651044.mp3",
+        "ankidroid_audiorec207502509.3gp",
         "ankidroid_audiorec2077816925.mp3",
         "ankidroid_audiorec2125598793.mp3",
         "ankidroid_audiorec281336224.mp3",
@@ -77,18 +87,23 @@
         "ankidroid_audiorec393531230.mp3",
         "ankidroid_audiorec427714694.mp3",
         "ankidroid_audiorec504910668.mp3",
+        "ankidroid_audiorec51484233.3gp",
+        "ankidroid_audiorec570171787.3gp",
+        "ankidroid_audiorec585687543.3gp",
         "ankidroid_audiorec596699706.mp3",
+        "ankidroid_audiorec617338681.3gp",
         "ankidroid_audiorec67821746.mp3",
         "ankidroid_audiorec682514073.mp3",
         "ankidroid_audiorec716678691.mp3",
         "ankidroid_audiorec718656581.mp3",
         "ankidroid_audiorec747209477.mp3",
+        "ankidroid_audiorec807192658.3gp",
         "ankidroid_audiorec819145255.mp3",
         "ankidroid_audiorec826053439.mp3",
         "ankidroid_audiorec945429629.mp3",
         "ankidroid_audiorec956036805.mp3"
     ],
-    "mid": 1342702532888,
+    "mid": "1563809454650",
     "name": "Latin::latin misc",
     "note_models": [
         {
@@ -163,16 +178,16 @@
                     "name": "Front",
                     "ord": 0,
                     "rtl": false,
-                    "size": 12,
+                    "size": 20,
                     "sticky": false
                 },
                 {
-                    "font": "Arial",
+                    "font": "Arimo",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
                     "rtl": false,
-                    "size": 12,
+                    "size": 20,
                     "sticky": false
                 }
             ],
@@ -274,6 +289,96 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (llpsi pensum)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
     "notes": [
@@ -295,8 +400,8 @@
             "data": "",
             "fields": [
                 "amārī: amor",
-                "amor, amāris, amātur; amāmur, amāminī, amantur",
-                ""
+                "*a-mor, a-*mā-ris, a-*mā-tur; a-*mā-mur, a-*mā-mi-nī, a-*man-tur",
+                "[sound:ankidroid_audiorec1648961998.3gp]"
             ],
             "flags": 0,
             "guid": "oe%K1",
@@ -368,8 +473,7 @@
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -378,15 +482,14 @@
             "fields": [
                 "decline ager",
                 "*a-ger, *a-grum, *a-grī, *a-grō, *a-grō <br><br>*a-grī, *a-grōs, a-*grō-rum, *a-grīs, *a-grīs",
-                ""
+                "[sound:ankidroid_audiorec570171787.3gp]"
             ],
             "flags": 0,
             "guid": "WWM8D",
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -402,8 +505,7 @@
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -419,8 +521,7 @@
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -436,8 +537,7 @@
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -446,15 +546,14 @@
             "fields": [
                 "declinā altum mare",
                 "altum mare, altum mare, altī maris, altō marī, altō marī ;<br><br>alta maria , alta maria, altōrum marium, altīs maribus, altīs maribus ",
-                "[sound:ankidroid_audiorec1216378771.mp3]  ;   [sound:ankidroid_audiorec1169838510.mp3]"
+                "[sound:ankidroid_audiorec1216378771.mp3]  ;   [sound:ankidroid_audiorec1578169482.3gp]"
             ],
             "flags": 0,
             "guid": "QxYsB",
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": [
                 "declinations",
-                "latin",
-                "noun"
+                "latin"
             ]
         },
         {
@@ -473,7 +572,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ferō : feram",
+                "ferō : ferēs",
                 "*fe-ram *fe-rēs *fe-ret ; fe-*rē-mus fe-*rē-tis *fe-rent",
                 "[sound:ankidroid_audiorec1529894196.mp3]"
             ],
@@ -579,7 +678,7 @@
             "fields": [
                 "agō: agam",
                 "*a-gam, *a-gās, *a-gat; a-*gā-mus, a-*gā-tis, *a-gant",
-                ""
+                "[sound:ankidroid_audiorec51484233.3gp]"
             ],
             "flags": 0,
             "guid": "w`%_J",
@@ -603,7 +702,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "capiō : capiam",
+                "capiō : capiās",
                 "capiam, capiās, capiat; capiāmus, capiātis, capiant",
                 "[sound:ankidroid_audiorec2125598793.mp3]"
             ],
@@ -616,25 +715,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sum, esse: sim",
+                "esse: sim",
                 "sim, sīs, sit; sīmus, sītis, sint",
                 "[sound:ankidroid_audiorec181499073.mp3]"
             ],
             "flags": 0,
             "guid": "FNT-B",
-            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "conjūnctīvus, tempus praesēns, āctīvum",
-                "Dominus: \"Intrā, serve! Claude forem! Tacē et audī!\"<br><br>Dominus servō imperat ut intret, forem claudat, taceat et audiat.<br><br>Servus intrat, forem claudit, tacet et audit.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "ci@b2",
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": []
         },
@@ -668,8 +754,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "īre : ībam",
-                "ībam, ībās, ībat ; ībāmus, ībātis, ībant",
+                "īre : ībam (imp. indic.)",
+                "*ī-bam, *ī-bās, *ī-bat ; ī-*bā-mus, ī-*bā-tis, *ī-bant",
                 "[sound:ankidroid_audiorec945429629.mp3]"
             ],
             "flags": 0,
@@ -840,6 +926,150 @@
             "flags": 0,
             "guid": "?*C,N",
             "note_model_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dominus: \"Intr{{c1::ā}}, serve! Claud{{c2::e}} forem! Tac{{c3::ē}} et aud{{c4::ī}}!\"<br><br>Dominus servō imperat ut intr{{c5::et}}, forem claud{{c6::at}}, tac{{c7::eat}} et aud{{c8::iat}}.<br><br>Servus intr{{c12::at}}, forem claud{{c11::it}}, tac{{c10::et}} et aud{{c9::it}}.",
+                "[sound:ankidroid_audiorec1293975886.3gp]"
+            ],
+            "flags": 0,
+            "guid": "v0%a%vD)Ef",
+            "note_model_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::dēleō}}, {{c2::dēlēre}}, {{c3::dēlēvī}}, {{c4::dēlētum}}",
+                "[sound:ankidroid_audiorec1433927221.3gp]"
+            ],
+            "flags": 0,
+            "guid": "gIL}~o^3sK",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::iuvō}}, {{c2::iuvāre}}, {{c3::iūvī}}, {{c4::iūtum}}",
+                "[sound:ankidroid_audiorec617338681.3gp]"
+            ],
+            "flags": 0,
+            "guid": "m]n.$g<}E`",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Amīcus certus}} in {{c2::rē incertā}} {{c3::cernitur}} -- {{c4::Ennius}}",
+                "[sound:ankidroid_audiorec1836493504.3gp]"
+            ],
+            "flags": 0,
+            "guid": "yhD]@*F8#9",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Dōnec}} eris {{c2::fēlīx}}, multōs {{c3::numerābis}} amicōs. Tempora sī {{c4::fuerint}} {{c5::nūbila}}, sōlus eris!&nbsp; -- Ovidius Tristia I.9.5-6",
+                "[sound:ankidroid_audiorec585687543.3gp]"
+            ],
+            "flags": 0,
+            "guid": "d|0_je-R3t",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sī āēr {{c2::tranquillus}} est, necesse est ventum {{c1::opperīrī}}",
+                "[sound:ankidroid_audiorec807192658.3gp]"
+            ],
+            "flags": 0,
+            "guid": "NyD_xz@JZn",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puer aegrōtus iterum iterumque super lectum sē {{c1::convertit}} nec dormīre potest.",
+                "[sound:ankidroid_audiorec18924827.3gp]"
+            ],
+            "flags": 0,
+            "guid": "vc|c5`^(}>",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ferrum est māteria dūra ex quā cultrī, gladiī, stilī aliaeque rēs multae {{c1::efficiuntur}}.",
+                "[sound:ankidroid_audiorec1684993130.3gp]"
+            ],
+            "flags": 0,
+            "guid": "v4[s[G7xBS",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius: \"Centum circiter sēstertiōs. Atque ego illī servō praeter cēterōs {{c1::fīdēbam}}!\"",
+                "[sound:ankidroid_audiorec1139476183.3gp]"
+            ],
+            "flags": 0,
+            "guid": "dn.$Yj~[@`",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mēnse Augustō frūmentum {{c1::metitur}} et ex agrīs vehitur. Deinde agrī arantur et novum frūmentum {{c2::seritur}}.",
+                "[sound:ankidroid_audiorec1989930703.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Ij7BS*~]SE",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rōmae {{c1::plūrēs}} hominēs habitant quam in ūllā aliā urbe imperiī Rōmānī",
+                "[sound:ankidroid_audiorec1728267003.3gp]"
+            ],
+            "flags": 0,
+            "guid": "jSAj+`pi6D",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Omnēs enim quī {{c1::cēperint}} gladium, gladiō {{c2::perībunt}}.",
+                "[sound:ankidroid_audiorec207502509.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Li|PZb$hzq",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": []
         }
     ]

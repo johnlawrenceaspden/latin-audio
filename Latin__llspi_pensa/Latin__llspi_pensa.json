@@ -17,7 +17,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0.0
+                "mult": 0
             },
             "maxTaken": 60,
             "name": "allnewcards",
@@ -43,10 +43,10 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 1,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 1000
+                "perDay": 9999
             },
             "timer": 0
         }
@@ -57,34 +57,51 @@
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
+        "ankidroid_audiorec1015713829.3gp",
         "ankidroid_audiorec1034162675.mp3",
+        "ankidroid_audiorec1042030302.3gp",
         "ankidroid_audiorec1046285885.mp3",
-        "ankidroid_audiorec1062859873.mp3",
         "ankidroid_audiorec1075528962.mp3",
-        "ankidroid_audiorec1084286442.mp3",
         "ankidroid_audiorec111361776.mp3",
+        "ankidroid_audiorec1124660305.3gp",
         "ankidroid_audiorec1171175800.mp3",
+        "ankidroid_audiorec1171220808.3gp",
         "ankidroid_audiorec117925156.mp3",
         "ankidroid_audiorec1240046595.mp3",
         "ankidroid_audiorec1242842753.mp3",
+        "ankidroid_audiorec1275479633.3gp",
         "ankidroid_audiorec1299913332.mp3",
+        "ankidroid_audiorec1304745336.3gp",
         "ankidroid_audiorec1332566194.mp3",
         "ankidroid_audiorec1337837243.mp3",
         "ankidroid_audiorec1338152087.mp3",
         "ankidroid_audiorec1361988710.mp3",
+        "ankidroid_audiorec1364421043.3gp",
         "ankidroid_audiorec1379504559.mp3",
         "ankidroid_audiorec1387151430.mp3",
         "ankidroid_audiorec1419201757.mp3",
+        "ankidroid_audiorec1440491253.3gp",
         "ankidroid_audiorec1493673751.mp3",
         "ankidroid_audiorec1501155883.mp3",
+        "ankidroid_audiorec1502928318.3gp",
         "ankidroid_audiorec1515900178.mp3",
+        "ankidroid_audiorec152066152.3gp",
         "ankidroid_audiorec152079388.mp3",
         "ankidroid_audiorec1524042263.mp3",
         "ankidroid_audiorec1559215139.mp3",
+        "ankidroid_audiorec1572071265.3gp",
+        "ankidroid_audiorec1623741645.3gp",
         "ankidroid_audiorec1626963697.mp3",
+        "ankidroid_audiorec164999280.3gp",
         "ankidroid_audiorec165421701.mp3",
+        "ankidroid_audiorec1655745082.3gp",
+        "ankidroid_audiorec1699248490.3gp",
+        "ankidroid_audiorec1755934287.3gp",
         "ankidroid_audiorec177008940.mp3",
+        "ankidroid_audiorec1821471230.3gp",
         "ankidroid_audiorec1835914158.mp3",
+        "ankidroid_audiorec185824196.3gp",
+        "ankidroid_audiorec1866171535.3gp",
         "ankidroid_audiorec1867474579.mp3",
         "ankidroid_audiorec19065634.mp3",
         "ankidroid_audiorec1909274094.mp3",
@@ -94,40 +111,71 @@
         "ankidroid_audiorec1962540051.mp3",
         "ankidroid_audiorec199410763.mp3",
         "ankidroid_audiorec2012666847.mp3",
+        "ankidroid_audiorec2014656768.3gp",
+        "ankidroid_audiorec2052219033.3gp",
+        "ankidroid_audiorec2069065563.3gp",
         "ankidroid_audiorec2079499262.mp3",
         "ankidroid_audiorec2086683592.mp3",
+        "ankidroid_audiorec208675245.3gp",
         "ankidroid_audiorec2099294529.mp3",
         "ankidroid_audiorec2113381777.mp3",
         "ankidroid_audiorec2115176576.mp3",
+        "ankidroid_audiorec2133603197.3gp",
+        "ankidroid_audiorec2133824332.3gp",
+        "ankidroid_audiorec2136255547.3gp",
         "ankidroid_audiorec2137831154.mp3",
         "ankidroid_audiorec214165867.mp3",
         "ankidroid_audiorec2144289791.mp3",
         "ankidroid_audiorec219340021.mp3",
         "ankidroid_audiorec224825499.mp3",
         "ankidroid_audiorec246373455.mp3",
+        "ankidroid_audiorec248664901.3gp",
+        "ankidroid_audiorec280134966.3gp",
         "ankidroid_audiorec308202586.mp3",
         "ankidroid_audiorec32408457.mp3",
+        "ankidroid_audiorec337573938.3gp",
         "ankidroid_audiorec337683231.mp3",
         "ankidroid_audiorec353018517.mp3",
+        "ankidroid_audiorec380803027.3gp",
         "ankidroid_audiorec412982738.mp3",
+        "ankidroid_audiorec418722430.3gp",
         "ankidroid_audiorec421166224.mp3",
+        "ankidroid_audiorec431380585.3gp",
+        "ankidroid_audiorec452096530.3gp",
+        "ankidroid_audiorec484290379.3gp",
+        "ankidroid_audiorec517301445.3gp",
+        "ankidroid_audiorec536817057.3gp",
+        "ankidroid_audiorec549471326.3gp",
+        "ankidroid_audiorec552804801.3gp",
         "ankidroid_audiorec554726495.mp3",
         "ankidroid_audiorec559848563.mp3",
+        "ankidroid_audiorec569803100.3gp",
+        "ankidroid_audiorec570800740.3gp",
         "ankidroid_audiorec586976426.mp3",
         "ankidroid_audiorec593495294.mp3",
+        "ankidroid_audiorec623314477.3gp",
         "ankidroid_audiorec650620565.mp3",
         "ankidroid_audiorec655375320.mp3",
         "ankidroid_audiorec786118718.mp3",
         "ankidroid_audiorec792452709.mp3",
+        "ankidroid_audiorec828997281.3gp",
         "ankidroid_audiorec837384228.mp3",
+        "ankidroid_audiorec837676637.3gp",
         "ankidroid_audiorec847313466.mp3",
         "ankidroid_audiorec85909426.mp3",
+        "ankidroid_audiorec889938538.3gp",
+        "ankidroid_audiorec890670530.3gp",
+        "ankidroid_audiorec894755332.3gp",
         "ankidroid_audiorec894789397.mp3",
         "ankidroid_audiorec90737952.mp3",
+        "ankidroid_audiorec947333097.3gp",
         "ankidroid_audiorec957187860.mp3",
-        "ankidroid_audiorec980336577.mp3"
+        "ankidroid_audiorec974610439.3gp",
+        "ankidroid_audiorec980336577.mp3",
+        "ankidroid_audiorec991165891.3gp",
+        "ankidroid_audiorec994648332.3gp"
     ],
-    "mid": "1563837964255",
+    "mid": 1481122545813,
     "name": "Latin::llspi pensa",
     "note_models": [
         {
@@ -158,10 +206,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
-            "tags": [
-                "cap30",
-                "pensumC"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -235,7 +280,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap30",
+                "cap31",
                 "pensumC"
             ],
             "tmpls": [
@@ -393,7 +438,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tantus atque tālis deus est Iuppiter {{c1::ut}} Optimus Māximus appell{{c2::ārētur}}",
+                "Tantus atque tālis deus est Iuppiter {{c1::ut}} Optimus Māximus appell{{c2::ētur}}",
                 "[sound:ankidroid_audiorec586976426.mp3]"
             ],
             "flags": 0,
@@ -408,7 +453,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::accēderent}} ac fluviī {{c3::rapidī}} cōnsisterent",
+                "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::appropinquārent}} ac fluviī {{c3::rapidī}} cōnsisterent",
                 "[sound:ankidroid_audiorec337683231.mp3]"
             ],
             "flags": 0,
@@ -423,8 +468,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Etiam ad {{c1::Īnferōs}} dēscen­dit, ut {{c2::inde}} uxōrem suam redūceret",
-                "[sound:ankidroid_audiorec1062859873.mp3]"
+                "Etiam ad {{c1::Īnferōs}} dēscen­dit Orpheus, ut {{c2::inde}} uxōrem suam {{c3::redūceret}}",
+                "[sound:ankidroid_audiorec380803027.3gp]"
             ],
             "flags": 0,
             "guid": "h/2-u[Q:2l",
@@ -543,7 +588,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nautae, cum Arīonem {{c1::appārēre}} vidērent, {{c2::prōtinus}} {{c3::maleficium}} suum cōnfessī sunt.",
+                "Nautae {{c4::stupentēs}}, cum Arīonem {{c1::appārēre}} vidērent, {{c2::prōtinus}} {{c3::maleficium}} suum cōnfessī sunt.",
                 "[sound:ankidroid_audiorec2086683592.mp3]"
             ],
             "flags": 0,
@@ -560,8 +605,8 @@
             "fields": [
                 "Quōmodo mercātōrēs lucrum faciunt?",
                 "[sound:ankidroid_audiorec2012666847.mp3]",
-                "",
-                ""
+                "Lūcrum faciunt mercēs emendō et māiōre pretiō vēndendō.",
+                "[sound:ankidroid_audiorec1699248490.3gp]"
             ],
             "flags": 0,
             "guid": "zU1xs_HVkn",
@@ -577,8 +622,8 @@
             "fields": [
                 "Cūr mercātor Rōmānus trīstis est?",
                 "[sound:ankidroid_audiorec1951796769.mp3]",
-                "",
-                ""
+                "Quia mercēs eius ēiectae sunt.",
+                "[sound:ankidroid_audiorec991165891.3gp]"
             ],
             "flags": 0,
             "guid": "QNj!TT}BIt",
@@ -594,8 +639,8 @@
             "fields": [
                 "Quārē mercēs ēiectae sunt?",
                 "[sound:ankidroid_audiorec246373455.mp3]",
-                "",
-                ""
+                "Mercēs ēiectae sunt, nē nāvis mergerētur.",
+                "[sound:ankidroid_audiorec1572071265.3gp]"
             ],
             "flags": 0,
             "guid": "F.09-qyx2(",
@@ -611,8 +656,8 @@
             "fields": [
                 "Quid mercātor deōs precātur?",
                 "[sound:ankidroid_audiorec792452709.mp3]",
-                "",
-                ""
+                "Deōs precātur ut mercēs sibi reddant.",
+                "[sound:ankidroid_audiorec974610439.3gp]"
             ],
             "flags": 0,
             "guid": "f.&@AKG17Q",
@@ -628,7 +673,7 @@
             "fields": [
                 "Quārē ad Īnferōs dēscendit Orpheus?",
                 "[sound:ankidroid_audiorec980336577.mp3]",
-                "",
+                "Ut uxōrem suam inde redūceret",
                 ""
             ],
             "flags": 0,
@@ -645,7 +690,7 @@
             "fields": [
                 "Num nautae Arīonem gladiīs interfēcērunt?",
                 "[sound:ankidroid_audiorec957187860.mp3]",
-                "",
+                "Nōn ita, sed imperāvērunt ut in mare dēsilīret.",
                 ""
             ],
             "flags": 0,
@@ -662,8 +707,8 @@
             "fields": [
                 "Quōmodo Arīōn servātus est?",
                 "[sound:ankidroid_audiorec1034162675.mp3]",
-                "",
-                ""
+                "Arīōn servatus est ā delphīnō, quī dorsō suō eum ad lītus vēxit.",
+                "[sound:ankidroid_audiorec894755332.3gp]"
             ],
             "flags": 0,
             "guid": "H-2{-~<QlA",
@@ -679,8 +724,8 @@
             "fields": [
                 "Quid nōs monet haec fābula?",
                 "[sound:ankidroid_audiorec1361988710.mp3]",
-                "",
-                ""
+                "Fābula nōs monet nē umquam salūtem dēspērēmus.",
+                "[sound:ankidroid_audiorec1124660305.3gp]"
             ],
             "flags": 0,
             "guid": "F5Z,DBtT<J",
@@ -696,8 +741,8 @@
             "fields": [
                 "Cūr Polycratēs ānulum suum abiēcit?",
                 "[sound:ankidroid_audiorec1299913332.mp3]",
-                "Polycratēs ānulum suum abiēcit, quia ita deōrum invidiam āvertī posse spērābat",
-                ""
+                "Polycratēs ānulum suum abiēcit, quia ita deōrum invidiam āvertī posse spērābat.",
+                "[sound:ankidroid_audiorec1364421043.3gp]"
             ],
             "flags": 0,
             "guid": "oO@:?lq52C",
@@ -713,7 +758,7 @@
             "fields": [
                 "Ubi ānulus ēius inventus est?",
                 "[sound:ankidroid_audiorec1501155883.mp3]",
-                "Ānulus ēius piscis in ventrī inventus est.",
+                "Ānulus ēius in ventre piscis&nbsp;inventus est.",
                 ""
             ],
             "flags": 0,
@@ -728,7 +773,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Syra: \"Iam dormī, Quīnte! Cum bene dormīv{{c1::eris}}, valēbis.\" Quīntus: \"Nōn dormiam antequam tū mihi fābulam nārrāverīs. Cum fābulam audīv{{c2::erō}}, bene dormiam. Cum bene dormīv{{c3::erō}}, brevī sānus erō, nisi medicus mē necāv{{c4::erit}}!\"",
+                "Syra: \"Iam dorm{{c6::ī}}, Quīnt{{c7::e}}! Cum bene dormīv{{c1::eris}}, val{{c8::ēbis}}.\" Quīntus: \"Nōn dorm{{c9::iam}} antequam tū mihi fābulam nārrāv{{c5::eris}}. Cum fābulam audīv{{c2::erō}}, bene dorm{{c10::iam}}. Cum bene dormīv{{c3::erō}}, brevī sānus {{c11::erō}}, nisi medicus mē necāv{{c4::erit}}!\"",
                 "[sound:ankidroid_audiorec650620565.mp3]"
             ],
             "flags": 0,
@@ -743,7 +788,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Patria salva erit sī mīlitēs nostrī fortiter pugnāv{{c1::erint}}. Dux: \"Nisi vōs fortiter pugnāv{{c2::eritis}}, mīlitēs, hostēs castra nostra expugnābunt.\" Mīlitēs: \"Num quid nōbīs dabitur, sī fortiter pugnāv{{c3::erimus}}\"",
+                "Patria salva erit sī mīlitēs nostrī fortiter pugnāv{{c1::erint}}. Dux: \"Nisi vōs fortiter pugnāv{{c2::eritis}}, mīlitēs, hostēs castra nostra expugn{{c4::ābunt}}.\" Mīlitēs: \"Num quid nōbīs d{{c5::abitur}}, sī fortiter pugnāv{{c3::erimus}}\"",
                 "[sound:ankidroid_audiorec308202586.mp3]"
             ],
             "flags": 0,
@@ -788,7 +833,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Aemilia eōs {{c1::salvēre}} iubet [= salūtat] et marītum suum {{c2::tardum}} excūsat.",
+                "Aemilia eōs {{c1::salvēre}} iubet et marītum suum {{c2::tardum}} excūsat.",
                 "[sound:ankidroid_audiorec1171175800.mp3]"
             ],
             "flags": 0,
@@ -803,7 +848,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Cornēlius ad vīllam suam reversus ōtiō {{c1::fruitur}}.<br>",
+                "Cornēlius ad vīllam suam reversus {{c2::ōtiō}} {{c1::fruitur}}.<br>",
                 "[sound:ankidroid_audiorec85909426.mp3]"
             ],
             "flags": 0,
@@ -818,7 +863,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Orontēs, quī ex longō {{c1::itinere}} revertit, vītam rūsticam nōn {{c2::fruitur}}, sed {{c3::molesta}} esse cēnset.",
+                "Orontēs, quī ex longō {{c1::itinere}} revertit, vītam rūsticam nōn {{c2::iūcundam}}, sed {{c3::molestam}} esse cēnset.",
                 "[sound:ankidroid_audiorec1419201757.mp3]"
             ],
             "flags": 0,
@@ -863,7 +908,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "In {{c1::trīclīniō}} sunt trēs lectī: lēctus summus, medius, {{c2::īmus}}; in singulīs lectīs aut {{c3::singulī}} aut {{c4::binī}} aut ternī {{c6::convīvae}} accubant.",
+                "In {{c1::trīclīniō}} sunt trēs lectī: lectus summus, medius, {{c2::īmus}}; in singulīs lectīs aut {{c3::singulī}} aut {{c4::bīnī}} aut {{c7::ternī}} {{c6::convīvae}} accubant.",
                 "[sound:ankidroid_audiorec1909274094.mp3]"
             ],
             "flags": 0,
@@ -938,7 +983,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::ministrī}} [= servī] vīnum in pōcula {{c2::fundunt}}.<br>",
+                "{{c1::Ministrī}} vīnum in pōcula {{c2::fundunt}}.<br>",
                 "[sound:ankidroid_audiorec1867474579.mp3]"
             ],
             "flags": 0,
@@ -953,7 +998,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Orontēs vīnum merum {{c1::pōtat}} [=bibit] , cēterī convīvae aquam vīnō {{c2::mīscent}}.",
+                "Orontēs vīnum merum {{c1::pōtat}}, cēterī convīvae aquam vīnō {{c2::miscent}}.",
                 "[sound:ankidroid_audiorec1338152087.mp3]"
             ],
             "flags": 0,
@@ -983,7 +1028,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::famēs}} mala rēs est, sed multō pēior est {{c2::sitis}}.",
+                "{{c1::Famēs}} mala rēs est, sed multō pēior est {{c2::sitis}}.",
                 "[sound:ankidroid_audiorec2137831154.mp3]"
             ],
             "flags": 0,
@@ -1015,8 +1060,8 @@
             "fields": [
                 "Quī sunt Cornēlius et Orontēs?",
                 "[sound:ankidroid_audiorec214165867.mp3]",
-                "Cornēlius et Orontēs amīcī et hospitēs sunt Iūliī.",
-                "[sound:ankidroid_audiorec1084286442.mp3]"
+                "Cornēlius et Orontēs amīcī et hospitēs Iūliī sunt.",
+                ""
             ],
             "flags": 0,
             "guid": "N}?;Nk9pYi",
@@ -1066,7 +1111,7 @@
             "fields": [
                 "Nōnne iūcunda est vīta rūstica?",
                 "[sound:ankidroid_audiorec1835914158.mp3]",
-                "Vīta rūstica iūcunda quidem est, nisi necesse est in agrīs laborāre!",
+                "Certē vīta rūstica iūcunda est, nisi necesse est in agrīs laborāre!",
                 "[sound:ankidroid_audiorec1242842753.mp3]"
             ],
             "flags": 0,
@@ -1083,7 +1128,7 @@
             "fields": [
                 "Quid est cocī negōtium?",
                 "[sound:ankidroid_audiorec1075528962.mp3]",
-                "Negotium cocī parāre est cibum.",
+                "Cocī negōtium est cibum coquere.",
                 "[sound:ankidroid_audiorec353018517.mp3]"
             ],
             "flags": 0,
@@ -1100,7 +1145,7 @@
             "fields": [
                 "Num Rōmānī in sellīs sedentēs cēnant?",
                 "[sound:ankidroid_audiorec1493673751.mp3]",
-                "Rōmānī nōn in sellīs sedentēs cēnant, sed in lectīs cubantēs.",
+                "Rōmānī nōn in sellīs sedentēs, sed in lectīs cubantēs cēnant.",
                 "[sound:ankidroid_audiorec2079499262.mp3]"
             ],
             "flags": 0,
@@ -1134,7 +1179,7 @@
             "fields": [
                 "Quot convīvae in singulīs lectīs accubant?",
                 "[sound:ankidroid_audiorec655375320.mp3]",
-                "In singulīs lectīs accubant convīvae aut singulī aut binī aut ternī.",
+                "In singulīs lectīs singulī aut binī aut ternī convīvae accubant.",
                 "[sound:ankidroid_audiorec894789397.mp3]"
             ],
             "flags": 0,
@@ -1177,6 +1222,568 @@
             "tags": [
                 "cap30",
                 "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In hīs exemplīs syllabae quae dēsunt add{{c1::endae}} sunt.<br>",
+                "[sound:ankidroid_audiorec517301445.3gp]"
+            ],
+            "flags": 0,
+            "guid": "(8{E@,BH%",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mercēs ad diem solv{{c1::enda}} est.<br>",
+                "[sound:ankidroid_audiorec569803100.3gp]"
+            ],
+            "flags": 0,
+            "guid": "I0ES=&Vgjn",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quī fūrtum fēcit pūn{{c1::iendus}} est.<br>",
+                "[sound:ankidroid_audiorec570800740.3gp]"
+            ],
+            "flags": 0,
+            "guid": "w1e)Q9cVUW",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quidquid dux imperāvit mīlitibus fac{{c1::iendum}} est.&nbsp;<br>",
+                "[sound:ankidroid_audiorec1304745336.3gp]"
+            ],
+            "flags": 0,
+            "guid": "drP*+(VgU~",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid magis opt{{c1::andum}} est quam vīta beāta?&nbsp;<br>",
+                "[sound:ankidroid_audiorec2069065563.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Jb0j.X>OST",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ē malīs minimum ēlig{{c1::endum}} est.<br>",
+                "[sound:ankidroid_audiorec2136255547.3gp]"
+            ],
+            "flags": 0,
+            "guid": "y]|=;wqs=O",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In perīculīs dēspēr{{c1::andum}} nōn est.<br>",
+                "[sound:ankidroid_audiorec280134966.3gp]"
+            ],
+            "flags": 0,
+            "guid": "iXYg~s7HOx",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pater dīcit 'fīlium pūn{{c1::iendum}} esse, nōn laud{{c2::andum}}.'",
+                "[sound:ankidroid_audiorec1171220808.3gp]"
+            ],
+            "flags": 0,
+            "guid": "CoWaqM={6M",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In exemplīs quae sequuntur vocābula add{{c1::enda}} sunt.<br>",
+                "[sound:ankidroid_audiorec1866171535.3gp]"
+            ],
+            "flags": 0,
+            "guid": "wWF({+39o.",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Herī Mēdus ā dominō {{c3::aufūgit}} {{c1::aliquantum}} pecūniae sēcum {{c2::auferēns}}.",
+                "[sound:ankidroid_audiorec431380585.3gp]"
+            ],
+            "flags": 0,
+            "guid": "qgcwiQ@ZsL",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mēdus dominum suum nōn amat, sed {{c1::ōdit}}<br>",
+                "[sound:ankidroid_audiorec164999280.3gp]"
+            ],
+            "flags": 0,
+            "guid": "pTIw]Z.Oa#",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius, quī Mēdum Rōmae {{c1::latēre}} putat, magnum {{c3::praemium}} dabit eī quī eum invēnerit {{c2::priusquam}} Italiam relīquerit.",
+                "[sound:ankidroid_audiorec418722430.3gp]"
+            ],
+            "flags": 0,
+            "guid": "jY*{A]EfPK",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius dīcit 'mulierēs nimis {{c1::clēmentēs}} esse ac facile virīs nēquissimīs {{c2::ignōscere}}.'<br>",
+                "[sound:ankidroid_audiorec1015713829.3gp]"
+            ],
+            "flags": 0,
+            "guid": "E%q$Qs(EP=",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Quidquid}} dominus imperāvit servō faciendum est.<br>",
+                "[sound:ankidroid_audiorec552804801.3gp]"
+            ],
+            "flags": 0,
+            "guid": "bMw[m>I|&~",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Solō, vir {{c1::sapiēns}}, Athēniēnsibus {{c2::lēgēs}} optimās scrīpsit.",
+                "[sound:ankidroid_audiorec837676637.3gp]"
+            ],
+            "flags": 0,
+            "guid": "l2qq>CPznB",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patrem suum necāre {{c1::scelus}} inhūmānum est.",
+                "[sound:ankidroid_audiorec947333097.3gp]"
+            ],
+            "flags": 0,
+            "guid": "NArGnb[=2%",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius nōndum {{c1::senex}} est ut Nestor, sed adhūc {{c2::iuvenis}} ut Paris ille quī Helenam ā marītō {{c3::abdūxit}}.<br>",
+                "[sound:ankidroid_audiorec248664901.3gp]"
+            ],
+            "flags": 0,
+            "guid": "y}QXl);h*r",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "\"{{c1::Quisquis}} amat valeat!\" cantat Orontēs, quī {{c2::ēbrius}} est quod {{c3::nimium}} vīnī pōtāvit.<br>",
+                "[sound:ankidroid_audiorec2133603197.3gp]"
+            ],
+            "flags": 0,
+            "guid": "CZx]zr3U&C",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quis fuit Midās?<br>",
+                "",
+                "Midās fuit rēx cuiusdam urbis Asiae, quī aurī cupidus erat.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lBD2):Q$t^",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quamobrem Midās famē et sitī cruciābātur?",
+                "[sound:ankidroid_audiorec484290379.3gp]",
+                "Midās famē et sitī cruciābātur quia quidquid tetigerat rex in aurum mūtābātur.",
+                "[sound:ankidroid_audiorec1821471230.3gp]"
+            ],
+            "flags": 0,
+            "guid": "J<[svz1]}i",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Iūlius illam fābulam audīre nōn vult?<br>",
+                "[sound:ankidroid_audiorec452096530.3gp]",
+                "Iūlius illam fābulam iam nōvit.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "crZzV>D}~e",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubi Cornēlius servum Iūliī vīdit?<br>",
+                "[sound:ankidroid_audiorec208675245.3gp]",
+                "Cornēlius Mēdum vīdit herī in viā Latīnā.",
+                "[sound:ankidroid_audiorec889938538.3gp]"
+            ],
+            "flags": 0,
+            "guid": "E^|2U[)tmF",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quantum pecūniae Mēdus sēcum abstulit?<br>",
+                "[sound:ankidroid_audiorec828997281.3gp]",
+                "Mēdus sēcum abstulit circiter centum sestertiōs.",
+                "[sound:ankidroid_audiorec994648332.3gp]"
+            ],
+            "flags": 0,
+            "guid": "x{XUPewLTX",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Estne Mēdus adhūc Rōmae?",
+                "[sound:ankidroid_audiorec1440491253.3gp]",
+                "Mēdus Rōmam iam relīquit. Mēdus iam nōn est Rōmae, sed in nāve in Marī Īnferō.",
+                "[sound:ankidroid_audiorec2014656768.3gp]"
+            ],
+            "flags": 0,
+            "guid": "EC:`X$l9ZO",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid faciet Iūlius sī Mēdum invēnerit?",
+                "[sound:ankidroid_audiorec185824196.3gp]",
+                "Sī Mēdum invēnerit Iūlius, eum verberābit atque omnibus modīs cruciābit!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rN??r2Yj}u",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quōmodo hominēs ā maleficiīs dēterrentur?<br>",
+                "[sound:ankidroid_audiorec1655745082.3gp]",
+                "Poenīs sevērīs hominēs ā maleficiīs dēterrentur",
+                "[sound:ankidroid_audiorec152066152.3gp]"
+            ],
+            "flags": 0,
+            "guid": "hRQk>X[T}[",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quam fēminam Paris abdūxit?",
+                "[sound:ankidroid_audiorec1502928318.3gp]",
+                "Paris Helenam, pulcherimmam omnium fēminārum, et uxōrem Menelāī, rēgis Spartae abdūxisse nārrātur.",
+                "[sound:ankidroid_audiorec2133824332.3gp]"
+            ],
+            "flags": 0,
+            "guid": "dh3Rd%Crvg",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quī hominēs ad bēstiās mittuntur?",
+                "[sound:ankidroid_audiorec1623741645.3gp]",
+                "Hominēs scelestī et inhūmānī ad bēstiās mittuntur.",
+                "[sound:ankidroid_audiorec536817057.3gp]"
+            ],
+            "flags": 0,
+            "guid": "H,V9SH24gy",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Orontēs pedibus stāre nōn potest?",
+                "[sound:ankidroid_audiorec1042030302.3gp]",
+                "Orontēs sub mēnsam lābitur, quia nimium vīnum pōtāvit, et ēbrius est.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kwUWVvbVuH",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::tangere}} {{c2::tetigisse}} {{c3::tāctum}}<br>",
+                "[sound:ankidroid_audiorec2052219033.3gp]"
+            ],
+            "flags": 0,
+            "guid": "s>)s,2N@j&",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::accipere}} {{c2::accēpisse}} {{c3::acceptum}}<br>",
+                "[sound:ankidroid_audiorec549471326.3gp]"
+            ],
+            "flags": 0,
+            "guid": "swCBYfiGWa",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::auferre}} {{c2::abstulisse}} {{c3::ablātum}}<br>",
+                "[sound:ankidroid_audiorec1755934287.3gp]"
+            ],
+            "flags": 0,
+            "guid": "f.rXn18DjR",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::statuere}} {{c2::statuisse}} {{c3::statūtum}}<br>",
+                "[sound:ankidroid_audiorec890670530.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Maef7PE*R.",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::intellegere}} {{c2::intellēxisse}} {{c3::intellēctum}}<br>",
+                "[sound:ankidroid_audiorec1275479633.3gp]"
+            ],
+            "flags": 0,
+            "guid": "ML72HKE;Db",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::bibere}} {{c2::bibisse}}",
+                "[sound:ankidroid_audiorec337573938.3gp]"
+            ],
+            "flags": 0,
+            "guid": "hVG:<1I1db",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::audēre}} {{c2::ausum esse}}",
+                "[sound:ankidroid_audiorec623314477.3gp]"
+            ],
+            "flags": 0,
+            "guid": "k)kQ6m*8g>",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31",
+                "pensum-verba"
             ]
         }
     ]

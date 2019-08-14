@@ -907,13 +907,13 @@
         "vulnus.mp3",
         "vultus.mp3"
     ],
-    "mid": 1421950416556,
+    "mid": "1563809454650",
     "name": "Latin::Wheelock Latin with Audio",
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n.notes {\n\tfont-size:18px;\n}\n",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color:;\n}\n.notes {\n\tfont-size:18px;\n}\n",
             "flds": [
                 {
                     "font": "Arimo",
@@ -1105,9 +1105,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōn[sound:non.mp3]",
+                "nōn",
                 "not",
-                "",
+                "[sound:non.mp3]",
                 "",
                 "",
                 "",
@@ -1162,9 +1162,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "amō, amāre, amāvī, amātum[sound:amo.mp3]",
+                "amō, amāre, amāvī, amātum",
                 "to love, like",
-                "",
+                "[sound:amo.mp3]",
                 "",
                 "",
                 "",
@@ -1250,8 +1250,7 @@
             "guid": "B~6b2K7^IR",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-1",
-                "marked"
+                "Chapter-1"
             ]
         },
         {
@@ -1410,9 +1409,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "valē, valēte[sound:vale.mp3]",
+                "valē, valēte",
                 "goodbye, farewell",
-                "",
+                "[sound:vale.mp3]",
                 "",
                 "",
                 "",
@@ -1487,7 +1486,7 @@
             "data": "",
             "fields": [
                 "fāma, fāmae (f)",
-                "rumor, report; fame, reputation",
+                "rumor, report; fame, reputation (f___)",
                 "[sound:fama.mp3]",
                 "",
                 "",
@@ -1733,9 +1732,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rosa, rosae (f)[sound:rosa.mp3]",
+                "rosa, rosae (f)",
                 "rose",
-                "",
+                "[sound:rosa.mp3]",
                 "",
                 "",
                 "",
@@ -1790,7 +1789,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>antīqua, antīquae</div>",
+                "antīqua, antīquae",
                 "ancient, old-time (feminine nom/gen sg)",
                 "[sound:antiqua.mp3]",
                 "",
@@ -1904,9 +1903,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "multa, multae[sound:multa.mp3]",
+                "multa, multae",
                 "much, many (feminine nom/gen)",
-                "",
+                "[sound:multa.mp3]",
                 "",
                 "",
                 "",
@@ -1980,9 +1979,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "et[sound:et.mp3]",
+                "et",
                 "and; even",
-                "",
+                "[sound:et.mp3]",
                 "",
                 "",
                 "",
@@ -2265,9 +2264,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>populus, populī (m)[sound:populus.mp3]</div>",
+                "populus, populī (m)",
                 "the people, a people, a nation (not natio!)",
-                "",
+                "[sound:populus.mp3]",
                 "",
                 "",
                 "",
@@ -2285,7 +2284,7 @@
             "data": "",
             "fields": [
                 "puer, puerī (m)",
-                "boy; boys, children (pl.)",
+                "boy; (pl) boys or children",
                 "[sound:puer.mp3]",
                 "",
                 "",
@@ -2322,9 +2321,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>vir, virī (m)[sound:vir.mp3]</div>",
+                "vir, virī (m)",
                 "man, hero",
-                "",
+                "[sound:vir.mp3]",
                 "",
                 "",
                 "",
@@ -2417,9 +2416,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>in (+abl.)[sound:in.mp3]</div>",
+                "in (+abl.)",
                 "in, on",
-                "",
+                "[sound:in.mp3]",
                 "",
                 "",
                 "",
@@ -2512,7 +2511,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>bāsium, bāsiī (n)</div>",
+                "bāsium, bāsiī (n)",
                 "kiss",
                 "[sound:basium.mp3]",
                 "",
@@ -2588,7 +2587,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>dōnum, dōnī (n)</div>",
+                "dōnum, dōnī (n)",
                 "gift, present",
                 "[sound:donum.mp3]",
                 "",
@@ -2683,7 +2682,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>oculus, oculī (m)</div>",
+                "oculus, oculī (m)",
                 "eye",
                 "[sound:oculus.mp3]",
                 "",
@@ -2759,7 +2758,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>remedium, remediī (n)</div>",
+                "remedium, remediī (n)",
                 "cure, remedy",
                 "[sound:remedium.mp3]",
                 "",
@@ -2797,7 +2796,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>bonus, bona, bonum</div>",
+                "bonus, bona, bonum",
                 "good, kind",
                 "[sound:bonus.mp3]",
                 "",
@@ -2892,7 +2891,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>stultus, stultī (m)</div>",
+                "stultus, stultī (m)",
                 "a fool",
                 "[sound:stultus stulti.mp3]",
                 "",
@@ -2950,7 +2949,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>sum, esse, fuī, futūrum</div>",
+                "sum, esse, fuī, futūrum",
                 "to be, exist",
                 "[sound:sum.mp3]",
                 "",
@@ -3045,7 +3044,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>culpa, culpae (f)</div>",
+                "culpa, culpae (f)",
                 "fault, blame",
                 "[sound:culpa.mp3]",
                 "",
@@ -3064,7 +3063,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>glōria, glōriae (f)</div>",
+                "glōria, glōriae (f)",
                 "glory, fame",
                 "[sound:gloria.mp3]",
                 "",
@@ -3368,7 +3367,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>cēnō, cēnāre, cēnāvī, cēnātum</div>",
+                "cēnō, cēnāre, cēnāvī, cēnātum",
                 "to dine",
                 "[sound:ceno.mp3]",
                 "",
@@ -3406,7 +3405,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>remaneō, remanēre, remānsī, remānsum</div>",
+                "remaneō, remanēre, remānsī, remānsum",
                 "to remain, stay, stay behind, abide, continue (with re-)",
                 "[sound:remaneo.mp3]",
                 "",
@@ -3864,7 +3863,7 @@
             "data": "",
             "fields": [
                 "tolerō, tolerāre, tolerāvī, tolerātum",
-                "to bear, endure",
+                "to bear, endure (t___)",
                 "[sound:tolero.mp3]",
                 "",
                 "",
@@ -4015,8 +4014,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>litterae, litterārum (f)</div>",
-                "a letter (epistle), literature",
+                "litterae, litterārum (f)",
+                "a letter, literature, letters",
                 "[sound:litterae.mp3]",
                 "",
                 "",
@@ -4053,10 +4052,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mōrēs, mōrum (m pl)",
+                "mōrēs, mōrum",
                 "habits, morals, character",
                 "[sound:mores.mp3]",
-                "",
+                "m pl",
                 "",
                 "",
                 ""
@@ -4186,7 +4185,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>uxor, uxōris (f)</div>",
+                "uxor, uxōris (f)",
                 "wife",
                 "[sound:uxor.mp3]",
                 "",
@@ -4338,7 +4337,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Cicerō, Cicerōnis (m)</div>",
+                "Cicerō, Cicerōnis (m)",
                 "(Marcus Tullius) Cicero",
                 "[sound:cicero.mp3]",
                 "",
@@ -4605,7 +4604,7 @@
             "data": "",
             "fields": [
                 "tamen",
-                "nevertheless, yet, still, however, for all that",
+                "nevertheless, yet, still, however, for all that (t____)",
                 "[sound:tamen.mp3]",
                 "",
                 "",
@@ -4642,7 +4641,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>grātiās agere (+dat)</div>",
+                "grātiās agere (+dat)",
                 "to thank someone; to give thanks to",
                 "[sound:gratiasagere.mp3]",
                 "",
@@ -4832,7 +4831,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>loca, locōrum (n pl)</div>",
+                "loca, locōrum (n pl)",
                 "places, region",
                 "[sound:loca.mp3]",
                 "",
@@ -4889,7 +4888,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>studium, studiī (n)</div>",
+                "studium, studiī (n)",
                 "eagerness, zeal, pursuit, study",
                 "[sound:studium.mp3]",
                 "",
@@ -5003,7 +5002,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>alter, altera, alterum</div>",
+                "alter, altera, alterum",
                 "the other (of two), second",
                 "[sound:alter.mp3]",
                 "",
@@ -5022,7 +5021,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>neuter, neutra, neutrum</div>",
+                "neuter, neutra, neutrum",
                 "neither",
                 "[sound:neuter.mp3]",
                 "",
@@ -5041,7 +5040,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>nūllus, nūlla, nūllum</div>",
+                "nūllus, nūlla, nūllum",
                 "not any, no, none",
                 "[sound:nullus.mp3]",
                 "",
@@ -5060,7 +5059,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>sōlus, sōla, sōlum</div>",
+                "sōlus, sōla, sōlum",
                 "alone, only, the only",
                 "[sound:solus.mp3]",
                 "",
@@ -5117,7 +5116,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>ūllus, ūlla, ūllum</div>",
+                "ūllus, ūlla, ūllum",
                 "any",
                 "[sound:ullus.mp3]",
                 "",
@@ -5403,7 +5402,7 @@
             "data": "",
             "fields": [
                 "beātus, beāta, beātum",
-                "blessed, happy, fortunate",
+                "blessed, happy, fortunate (b____)",
                 "[sound:beatus.mp3]",
                 "",
                 "",
@@ -6219,7 +6218,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cadō, cadere, cecidī, cāsūrum",
+                "cadō, cadere, cecidī, cāsum",
                 "to fall",
                 "[sound:cado.mp3]",
                 "",
@@ -6808,8 +6807,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "turba, turbae (f) (----a)",
-                "uproar, disturbance; mob, crowd, multitude",
+                "turba, turbae (f)",
+                "uproar, disturbance; mob, crowd, multitude  (----a)",
                 "[sound:turba.mp3]",
                 "",
                 "",
@@ -7866,7 +7865,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quīntus",
+                "quīntus, quīnta, quīntum",
                 "fifth",
                 "[sound:ankidroid_audiorec1248672578.mp3]",
                 "",
@@ -7885,7 +7884,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sextus",
+                "sextus, -a, -um",
                 "sixth",
                 "[sound:ankidroid_audiorec1338130329.mp3]",
                 "",
@@ -7961,7 +7960,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "decimus",
+                "decimus -a -um",
                 "tenth",
                 "[sound:ankidroid_audiorec-1478571547.mp3]",
                 "",
@@ -8208,7 +8207,7 @@
             "data": "",
             "fields": [
                 "levis, leve",
-                "light; easy; slight, trivial",
+                "light; easy; slight, trivial (l___)",
                 "[sound:levis.mp3]",
                 "",
                 "",
@@ -9094,8 +9093,7 @@
             "guid": "q+O(x`LC2W",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-19",
-                "marked"
+                "Chapter-19"
             ]
         },
         {
@@ -11192,8 +11190,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fidēlis, fidēle",
-                "faithful, loyal",
+                "fidēlis, fidēle ",
+                "faithful, loyal (-is -e)",
                 "[sound:fidelis.mp3]",
                 "",
                 "",
