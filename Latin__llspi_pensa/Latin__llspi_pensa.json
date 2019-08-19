@@ -144,6 +144,7 @@
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
         "ankidroid_audiorec517301445.mp3",
+        "ankidroid_audiorec527312973.3gp",
         "ankidroid_audiorec536817057.mp3",
         "ankidroid_audiorec549471326.mp3",
         "ankidroid_audiorec552804801.mp3",
@@ -175,7 +176,7 @@
         "ankidroid_audiorec991165891.mp3",
         "ankidroid_audiorec994648332.mp3"
     ],
-    "mid": 1481122545813,
+    "mid": "1563837964255",
     "name": "Latin::llspi pensa",
     "note_models": [
         {
@@ -280,7 +281,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap31",
+                "cap32",
                 "pensumC"
             ],
             "tmpls": [
@@ -453,7 +454,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::appropinquārent}} ac fluviī {{c3::rapidī}} cōnsisterent",
+                "Orpheus, fidicen {{c1::nōbilissimus}}, tam pulchrē canēbat ut ferae {{c2::appropinquārent}} ac fluviī rapidī {{c3::cōnsisterent}} ",
                 "[sound:ankidroid_audiorec337683231.mp3]"
             ],
             "flags": 0,
@@ -698,6 +699,7 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
+                "marked",
                 "pensumC"
             ]
         },
@@ -758,8 +760,8 @@
             "fields": [
                 "Ubi ānulus ēius inventus est?",
                 "[sound:ankidroid_audiorec1501155883.mp3]",
-                "Ānulus ēius in ventre piscis&nbsp;inventus est.",
-                ""
+                "Ānulus ēius in ventre piscis inventus est.",
+                "[sound:ankidroid_audiorec527312973.3gp]"
             ],
             "flags": 0,
             "guid": "r/Uyj]fnbv",
@@ -1784,6 +1786,568 @@
             "tags": [
                 "cap31",
                 "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dominus dubitat num pāstor ovēs bene cūrāv{{c1::erit}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "put!!y({Id",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dominus: \"Dīc mihi, pāstor, utrum in campō dormīv{{c1::erīs}} an vigilāv{{c1::erīs}}.\"<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d;nKRqON{]",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pāstor: \"Mīror cūr mē interrogēs utrum dormīv{{c1::erim}} an vigilāv{{c1::erim}}.&nbsp;Semper officium meum faciō.\"<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M|=q=-B{Dw",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dominus: \"Ergō dīc mihi cūr herī ovis ē grege aberrāv{{c1::erit}} ac paene ā lupō captā {{c2::sit}}.\"&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "$W7>#cmeC",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pāstor mīrātur unde dominus hoc audīv{{c1::erit}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pp+wG2^p)I",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius servōs interrogat num Mēdum vīd{{c1::erint}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eZ5*<jss^m",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Servī: \"Nescīmus quō fug{{c1::erit}}, ut tibi dīximus. Cūr nōs interrogās num eum vīd{{c2::erīmus}}?\"&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v~[OdGfq@>",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iūlius: \"Id interrogō, quia dubitō vērumne dīx{{c1::erītis}}!\"<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K]t|C/BJrr",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::vincere}} {{c2::vīcisse}} {{c3::victum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z&#=AYA6C^",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::agere}} {{c2::ēgisse}} {{c3::āctum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CiMZVtrFiZ",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::flectere}} {{c2::flexisse}} {{c3::flexum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ofj>v!z-@r",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::offerre}} {{c2::obtulisse}} {{c3::oblātum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DUseA:|9`x",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::redimere}} {{c2::redēmisse}} {{c3::redēmptum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vPNMZ8{|$=",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::tollere}} {{c2::sustulisse}} {{c3::sublātum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q@e=c_bK3z",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::adesse}} {{c2::affuisse}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qzf+kAeO[(",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Priusquam Pompēius, dux {{c1::ēgregius}}, {{c2::classī}} Rōmānae praepositus est, {{c3::cūncta}} maria {{c4::īnfēsta}} erant praedōnibus, quī Rōmānōs ita {{c5::contemnēbant}} ut etiam portūs Italiae {{c6::oppugnārent}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sV/Gh!^480",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tanta erat {{c1::vīs}} praedōnum ut nēmō iīs {{c2::resistere}} posset.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p9-aE45_QS",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nēmō sine metū mortis aut {{c1::servitūtis}} nāvigābat.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bGm0%[j95v",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Aliquot}} īnsulae ab {{c2::incolīs}} relinquēbantur.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bQ=D`0xqAk",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rōmae frūmentum tam {{c1::cārum}} erat ut multī pauperēs famē (= {{c2::inopiā}} cibī) perīrent.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K/-2]rv,YG",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pīrātae, quī {{c1::aliquandō}} Caesarem cēperant, XX talenta {{c2::seu}} D mīlia sēstertium ab eō postulāvērunt, sed Caesar, vir {{c3::superbus}}, L talenta iīs {{c4::obtulit}}. Tantō pretiō Caesar {{c5::redēmptus}} est.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JO1)t8|<Vg",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Omnēs amīcī prō beneficiīs {{c1::grātiās}} agunt, sed paucī posteā {{c2::grātiam}} referre volunt.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E7j5,$_{_~",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vēra {{c1::amīcitia}} rāra est.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KO^bk?80C$",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Difficile est beneficiōrum {{c1::meminisse}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Hcrf=s{Gh7",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fortēs fortūna {{c1::adiuvat}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e3[vlDl[Jo",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Pompēius classī Rōmānae praepositus est?&nbsp;<br>",
+                "",
+                "Quia dux ēgregius erat.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "th|sb%l-/y",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr amīcī nostrī ab alterā nāve fugiunt?&nbsp;<br>",
+                "",
+                "Eam nāvem praedōnum esse putant.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l^IIiCSCZ~",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Utrum ventus secundus an adversus est?&nbsp;<br>",
+                "",
+                "Ventus secundus est, sed gūbernator optat ut ventus in adversum vertātur.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ti:XH=LFZV",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quantum gubernātor pīrātīs offerre potest?&nbsp;<br>",
+                "",
+                "Decem mīlia sēstertium<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FSn-RMNk}n",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Num gūbernātor ipse tantum pecūniae possidet?<br>",
+                "",
+                "Quod ipse nōn possidet amīcī prō eō solvent.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l6YM?<%|A$",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quandō vērus amīcus cognōscitur?&nbsp;<br>",
+                "",
+                "In rēbus adversīs cognōscitur vērus amīcus.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f<pYe`H_x@",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quōmodo Mēdus servus factus est?&nbsp;<br>",
+                "",
+                "Cum pecūniam mūtuam reddere nōn posset, servus factus est.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GIv.l[yvjG",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Mēdus adhūc nihil nārrāvit dē eā rē?",
+                "",
+                "Nē quis eum glōriōsum existimāret.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nwF=h+)W]G",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Suntne praedōnēs quī eōs persequuntur?<br>",
+                "",
+                "Nōn praedōnēs, sed nāvēs longae Rōmānae sunt.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vs[;i](~To",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Mēdus etiamnunc perterritus est?<br>",
+                "",
+                "Mēdus timet nē ā mīlitibus capitur.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s($ZNE8O75",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quō nāvēs longae cursum flectunt?<br>",
+                "",
+                "Nāvēs longae ad orientem cursum flectunt.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "noVD;^u!j{",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32",
+                "pensumC"
             ]
         }
     ]

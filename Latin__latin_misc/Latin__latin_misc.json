@@ -292,7 +292,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
+            "crowdanki_uuid": "47349d39-c2b1-11e9-af45-342387e2ac49",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
             "flds": [
                 {
@@ -689,7 +689,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "audiō: audiam",
+                "audiō: audiās",
                 "audiam, audiās, audiat; audiāmus, audiātis, audiant",
                 "[sound:ankidroid_audiorec747209477.mp3]"
             ],
@@ -937,7 +937,7 @@
             ],
             "flags": 0,
             "guid": "v0%a%vD)Ef",
-            "note_model_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
+            "note_model_uuid": "47349d39-c2b1-11e9-af45-342387e2ac49",
             "tags": []
         },
         {
@@ -1069,6 +1069,54 @@
             ],
             "flags": 0,
             "guid": "Li|PZb$hzq",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duōs {{c3::versūs}} {{c1::reminīscor}} ē carmine quod dē hāc rē scrīpsit poēta {{c2::quīdam}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EUeKY9Ng=3",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mēdus: \"Iamne {{c5::oblītus}} es quid modo {{c1::dīxerīs}}? {{c2::Dīxistī}} enim 'tē mortem {{c4::servitūtī}} {{c3::praeferre}}' .\"&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "plTHC1S(?*",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ut Orpheus cantū suō ferās ad sē {{c1::alliciēbat}}, ita tunc Arīōn canendō piscēs {{c1::allēxit}} ad nāvem.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jvbF)io3eG",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At Caesar, vir super­bus, cum id parum esse {{c1::cēnsēret}}, quīnquāgintā talenta {{c2::pīrātīs}} {{c3::obtulit}}, simul vērō {{c6::supplicium}} {{c4::iīs}} {{c5::minātus}} est!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b=qm%pIc2A",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": []
         }

@@ -1428,9 +1428,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "videō, vidēre, vīdī, vīsum[sound:video.mp3]",
+                "videō, vidēre, vīdī, vīsum",
                 "to see, observe; understand",
-                "",
+                "[sound:video.mp3]",
                 "",
                 "",
                 "",
@@ -1535,7 +1535,8 @@
             "guid": "H^V]6YSaa2",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-2"
+                "Chapter-2",
+                "marked"
             ]
         },
         {
@@ -1782,7 +1783,8 @@
             "guid": "c*ZLYJ.&&)",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-2"
+                "Chapter-2",
+                "marked"
             ]
         },
         {
@@ -2200,7 +2202,8 @@
             "guid": "b,pmr#N]LW",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-3"
+                "Chapter-3",
+                "marked"
             ]
         },
         {
@@ -2637,7 +2640,8 @@
             "guid": "pyvR:9(qB[",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-4"
+                "Chapter-4",
+                "marked"
             ]
         },
         {
@@ -2853,7 +2857,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>parvus, parva, parvum</div>",
+                "parvus, parva, parvum",
                 "small, little",
                 "[sound:parvus.mp3]",
                 "",
@@ -3037,7 +3041,8 @@
             "guid": "Ij2l1XP~[@",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-5"
+                "Chapter-5",
+                "marked"
             ]
         },
         {
@@ -4166,7 +4171,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>terra, terrae (f)</div>",
+                "terra, terrae (f)",
                 "earth, ground, land, country",
                 "[sound:terra.mp3]",
                 "",
@@ -4368,7 +4373,8 @@
             "guid": "vWa(_y@|Q7",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-8"
+                "Chapter-8",
+                "marked"
             ]
         },
         {
@@ -4444,7 +4450,8 @@
             "guid": "wLUzaOlXxH",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-8"
+                "Chapter-8",
+                "marked"
             ]
         },
         {
@@ -4945,7 +4952,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>iste, ista, istud</div>",
+                "iste, ista, istud",
                 "that of yours, that; such (as you have, as you speak of); sometimes with contemptuous force, e.g., that dispicable, that wretched",
                 "[sound:iste.mp3]",
                 "",
@@ -6002,7 +6009,8 @@
             "guid": "DO`a#`@ZS^",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-12"
+                "Chapter-12",
+                "marked"
             ]
         },
         {
@@ -6295,18 +6303,19 @@
             "data": "",
             "fields": [
                 "signum, signī (n)",
-                "sign, signal, indication; seal",
+                "sign, signal, indication; seal ; standard, ensign, statue",
                 "[sound:signum.mp3]",
                 "",
                 "",
                 "",
-                ""
+                "cum fascēs, cum tubās, cum signa mīlitāria, cum aquilam illam argenteam"
             ],
             "flags": 0,
             "guid": "vMe=af!1U6",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-13"
+                "Chapter-13",
+                "marked"
             ]
         },
         {
@@ -6420,7 +6429,8 @@
             "guid": "era&c9y?__",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-13"
+                "Chapter-13",
+                "marked"
             ]
         },
         {
@@ -7598,7 +7608,8 @@
             "guid": "GzpPyy,E_|",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-16"
+                "Chapter-16",
+                "marked"
             ]
         },
         {
@@ -8058,7 +8069,9 @@
             "flags": 0,
             "guid": "oQb8py(2:=",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
-            "tags": []
+            "tags": [
+                "marked"
+            ]
         },
         {
             "__type__": "Note",
@@ -8523,7 +8536,8 @@
             "guid": "y{lv1HTbh$",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-18"
+                "Chapter-18",
+                "marked"
             ]
         },
         {
@@ -11107,7 +11121,8 @@
             "guid": "fYI(#!wei6",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-24"
+                "Chapter-24",
+                "marked"
             ]
         },
         {
@@ -11172,7 +11187,7 @@
             "data": "",
             "fields": [
                 "<b>ferōx</b>, gen. <b>ferōcis</b>",
-                "fierce, savage",
+                "fierce, savage (f____)",
                 "[sound:ferox.mp3]",
                 "",
                 "",
@@ -17081,18 +17096,19 @@
             "data": "",
             "fields": [
                 "reperiō, reperīre, repperī, repertum",
-                "to find, discover, learn; get",
+                "to find again, find, meet with, find out, discover, learn (r____)",
                 "[sound:reperio.mp3]",
                 "",
                 "",
                 "",
-                ""
+                "Pāstor: \"Ubi est ovis nigra? Age! quaere ovem, canis, et reperī eam! \" Canis ovem quaerit et vestīgia ēius in terrā reperit, neque ovem ipsam reperit. Canis lātrat."
             ],
             "flags": 0,
             "guid": "k<,)<F/Vyt",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-40"
+                "Chapter-40",
+                "leech"
             ]
         },
         {
