@@ -1523,9 +1523,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fortūna, fortūnae (f)[sound:fortuna.mp3]",
+                "fortūna, fortūnae (f)",
                 "fortune, luck",
-                "",
+                "[sound:fortuna.mp3]",
                 "",
                 "",
                 "",
@@ -1535,8 +1535,7 @@
             "guid": "H^V]6YSaa2",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-2",
-                "marked"
+                "Chapter-2"
             ]
         },
         {
@@ -1562,10 +1561,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nauta, nautae (m)[sound:nauta.mp3]",
+                "nauta, nautae",
                 "sailor",
-                "",
-                "",
+                "[sound:nauta.mp3]",
+                "m",
                 "",
                 "",
                 ""
@@ -1619,9 +1618,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>philosophia, philosophiae (f)[sound:philosophia.mp3]</div>",
+                "philosophia, philosophiae (f)",
                 "philosophy",
-                "",
+                "[sound:philosophia.mp3]",
                 "",
                 "",
                 "",
@@ -1771,9 +1770,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>vīta, vītae (f)[sound:vita.mp3]</div>",
+                "vīta, vītae (f)",
                 "life; mode of life",
-                "",
+                "[sound:vita.mp3]",
                 "",
                 "",
                 "",
@@ -1783,8 +1782,7 @@
             "guid": "c*ZLYJ.&&)",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-2",
-                "marked"
+                "Chapter-2"
             ]
         },
         {
@@ -2038,9 +2036,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ō[sound:o.mp3]",
+                "Ō",
                 "O! Oh!",
-                "",
+                "[sound:o.mp3]",
                 "",
                 "",
                 "",
@@ -2171,9 +2169,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>fēmina, fēminae (f)[sound:femina.mp3]</div>",
+                "fēmina, fēminae (f)",
                 "woman",
-                "",
+                "[sound:femina.mp3]",
                 "",
                 "",
                 "",
@@ -2190,9 +2188,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>fīlia, fīliae (f)[sound:filia.mp3]</div>",
+                "fīlia, fīliae (f)",
                 "daughter",
-                "",
+                "[sound:filia.mp3]",
                 "",
                 "",
                 "",
@@ -2202,8 +2200,7 @@
             "guid": "b,pmr#N]LW",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-3",
-                "marked"
+                "Chapter-3"
             ]
         },
         {
@@ -2628,7 +2625,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>magister, magistrī (m)</div>",
+                "magister, magistrī (m)",
                 "schoolmaster, teacher, master",
                 "[sound:magister.mp3]",
                 "",
@@ -2640,8 +2637,7 @@
             "guid": "pyvR:9(qB[",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-4",
-                "marked"
+                "Chapter-4"
             ]
         },
         {
@@ -3029,7 +3025,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>caelum, caelī (n)</div>",
+                "caelum, caelī (n)",
                 "sky, heaven",
                 "[sound:caelum.mp3]",
                 "",
@@ -3041,8 +3037,7 @@
             "guid": "Ij2l1XP~[@",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-5",
-                "marked"
+                "Chapter-5"
             ]
         },
         {
@@ -4361,7 +4356,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>cōpia, cōpiae (f)</div>",
+                "cōpia, cōpiae (f)",
                 "abundance, supply",
                 "[sound:copia.mp3]",
                 "",
@@ -4373,8 +4368,7 @@
             "guid": "vWa(_y@|Q7",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-8",
-                "marked"
+                "Chapter-8"
             ]
         },
         {
@@ -4450,8 +4444,7 @@
             "guid": "wLUzaOlXxH",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-8",
-                "marked"
+                "Chapter-8"
             ]
         },
         {
@@ -4819,7 +4812,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>locus, locī (m)</div>",
+                "locus, locī (m)",
                 "place; passage in literature",
                 "[sound:locus.mp3]",
                 "",
@@ -6009,8 +6002,7 @@
             "guid": "DO`a#`@ZS^",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-12",
-                "marked"
+                "Chapter-12"
             ]
         },
         {
@@ -6314,8 +6306,7 @@
             "guid": "vMe=af!1U6",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-13",
-                "marked"
+                "Chapter-13"
             ]
         },
         {
@@ -6429,8 +6420,7 @@
             "guid": "era&c9y?__",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-13",
-                "marked"
+                "Chapter-13"
             ]
         },
         {
@@ -7608,8 +7598,7 @@
             "guid": "GzpPyy,E_|",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-16",
-                "marked"
+                "Chapter-16"
             ]
         },
         {
@@ -8069,9 +8058,7 @@
             "flags": 0,
             "guid": "oQb8py(2:=",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
-            "tags": [
-                "marked"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -8536,8 +8523,7 @@
             "guid": "y{lv1HTbh$",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-18",
-                "marked"
+                "Chapter-18"
             ]
         },
         {
@@ -11121,8 +11107,7 @@
             "guid": "fYI(#!wei6",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-24",
-                "marked"
+                "Chapter-24"
             ]
         },
         {
