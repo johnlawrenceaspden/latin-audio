@@ -1,8 +1,10 @@
-A work in progress! Will be constantly updated and improved while my interest sustains itself.
+*This is a beginner's attempt! Don't take the pronunciations here too seriously!*
 
-The words from Orberg's Familia Romana, with my current best attempt at the Restored Pronunciation (In the five-vowels variant proposed by Andrea Calabrese and popularised by Scorpio Martianus <a href="https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ" rel="nofollow">https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ</a>)
+A work in progress. Will be constantly updated and improved while my interest sustains itself.
 
-Which is to say, our current best guess at how Cicero would have said the words, had he been a Yorkshireman in the process of learning Latin from Familia Romana.
+The words from Orberg's Familia Romana and Colloquia Personarum, with my current best attempt at the Restored Pronunciation (In the five-vowels variant proposed by Andrea Calabrese and popularised by Scorpio Martianus <a href="https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ" rel="nofollow">https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ</a>)
+
+Which is to say, an educated guess at how Cicero would have said the words, had he been a Yorkshireman in the process of learning Latin from Familia Romana.
 
 Based on: <a href="https://ankiweb.net/shared/info/1397480336" rel="nofollow">https://ankiweb.net/shared/info/1397480336</a>
 
@@ -12,3 +14,13 @@ Error reports, criticisms, pull requests and offers of collaboration very much a
 
 Where this deck is exported with the crowdanki plugin.
 
+
+-----------------------------------
+
+u/Unbrutal_Russian offered the following critique:
+
+I've listened to only a few, and the most noticeable problem is your alveolar instead of dental /t/ (and consequently /d, n, l/) - half affricated half aspirated in the British manner to boot (which you wouldn't manage to do if they were dental). 
+
+Also, while your short /i/ is very tense, the short /u/ is somewhat unrounded/compressed and possibly lowered and centralised - in two words, noticeably English. You also aspirate initial voiceless stops and devoice initial voiced ones - also a very English thing. That said, in all other respects it sounds very solid!
+
+And of course I can't help but mention yet again that the "C. system" that some, not least Luke, advocate for is most definitely not how Cicero spoke - he identifies the rustic/archaic [e] in what in Classical is vīlla &lt;&lt; veilla with his own /ē/ e.g. in cēna (unless he identifies the rustic short /i/ with it, which is less likely), and has a whole passage on speaking "non vaste, non rustice, non hiulce, sed presse et aequabiliter et leniter" - i.e. not with open, archaic and rustic, but close, modern and Attic vowels. And even less so is it our current best guess on how he spoke - the evidence in the paper ranges from old news and unconvincing to outright wrong (the author doesn't know the sound values of contemporary Greek vowels he adduces as evidence). If you like it, that's fine (it's sure to help you sound less English and more than likely some did speak that way), just don't make it look like it has convincing evidence or any scientific currency as the Classical system.
