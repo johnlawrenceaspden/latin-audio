@@ -55,7 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "ankidroid_audiorec1003906763.3gp",
+        "ankidroid_audiorec1003906763.mp3",
         "ankidroid_audiorec1139360258.mp3",
         "ankidroid_audiorec1139476183.mp3",
         "ankidroid_audiorec1216378771.mp3",
@@ -63,7 +63,7 @@
         "ankidroid_audiorec1293975886.mp3",
         "ankidroid_audiorec1362545299.mp3",
         "ankidroid_audiorec1433927221.mp3",
-        "ankidroid_audiorec1434398023.3gp",
+        "ankidroid_audiorec1434398023.mp3",
         "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec1529894196.mp3",
@@ -74,7 +74,7 @@
         "ankidroid_audiorec1684993130.mp3",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1728267003.mp3",
-        "ankidroid_audiorec1774313981.3gp",
+        "ankidroid_audiorec1774313981.mp3",
         "ankidroid_audiorec181499073.mp3",
         "ankidroid_audiorec1836493504.mp3",
         "ankidroid_audiorec18924827.mp3",
@@ -1080,7 +1080,7 @@
             "data": "",
             "fields": [
                 "Duōs {{c3::versūs}} {{c1::reminīscor}} ē carmine quod dē hāc rē scrīpsit poēta {{c2::quīdam}}",
-                "[sound:ankidroid_audiorec1774313981.3gp]"
+                "[sound:ankidroid_audiorec1774313981.mp3]"
             ],
             "flags": 0,
             "guid": "EUeKY9Ng=3",
@@ -1092,7 +1092,7 @@
             "data": "",
             "fields": [
                 "Mēdus: \"Iamne {{c5::oblītus}} es quid modo {{c1::dīxerīs}}? {{c2::Dīxistī}} enim 'tē mortem {{c4::servitūtī}} {{c3::praeferre}}' .\"&nbsp;",
-                "[sound:ankidroid_audiorec1434398023.3gp]"
+                "[sound:ankidroid_audiorec1434398023.mp3]"
             ],
             "flags": 0,
             "guid": "plTHC1S(?*",
@@ -1116,7 +1116,7 @@
             "data": "",
             "fields": [
                 "At Caesar, vir super­bus, cum id parum esse {{c1::cēnsēret}}, quīnquāgintā talenta {{c2::pīrātīs}} {{c3::obtulit}}, simul vērō {{c6::supplicium}} {{c4::iīs}} {{c5::minātus}} est!",
-                "[sound:ankidroid_audiorec1003906763.3gp]"
+                "[sound:ankidroid_audiorec1003906763.mp3]"
             ],
             "flags": 0,
             "guid": "b=qm%pIc2A",
