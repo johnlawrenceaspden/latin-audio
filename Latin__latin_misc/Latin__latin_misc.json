@@ -72,15 +72,15 @@
         "ankidroid_audiorec1578169482.mp3",
         "ankidroid_audiorec1648961998.mp3",
         "ankidroid_audiorec1684993130.mp3",
-        "ankidroid_audiorec1695762459.3gp",
+        "ankidroid_audiorec1695762459.mp3",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1728267003.mp3",
         "ankidroid_audiorec1774313981.mp3",
         "ankidroid_audiorec181499073.mp3",
         "ankidroid_audiorec1836493504.mp3",
         "ankidroid_audiorec18924827.mp3",
-        "ankidroid_audiorec190794644.3gp",
-        "ankidroid_audiorec1910737633.3gp",
+        "ankidroid_audiorec190794644.mp3",
+        "ankidroid_audiorec1910737633.mp3",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec1989930703.mp3",
@@ -90,12 +90,12 @@
         "ankidroid_audiorec2125598793.mp3",
         "ankidroid_audiorec281336224.mp3",
         "ankidroid_audiorec311621732.mp3",
-        "ankidroid_audiorec361116970.3gp",
+        "ankidroid_audiorec361116970.mp3",
         "ankidroid_audiorec393531230.mp3",
         "ankidroid_audiorec427714694.mp3",
         "ankidroid_audiorec504910668.mp3",
         "ankidroid_audiorec51484233.mp3",
-        "ankidroid_audiorec558551899.3gp",
+        "ankidroid_audiorec558551899.mp3",
         "ankidroid_audiorec570171787.mp3",
         "ankidroid_audiorec585687543.mp3",
         "ankidroid_audiorec596699706.mp3",
@@ -421,7 +421,7 @@
             "fields": [
                 "dēclīnā īnsula",
                 "īnsula, īnsulam, īnsulae, īnsulae, īnsulā<br><br>īnsulae, īnsulās, īnsulārum, īnsulīs, īnsulīs",
-                "[sound:ankidroid_audiorec1910737633.3gp]"
+                "[sound:ankidroid_audiorec1910737633.mp3]"
             ],
             "flags": 0,
             "guid": ">8*7N",
@@ -1044,7 +1044,7 @@
             "data": "",
             "fields": [
                 "Ut Orpheus cantū suō ferās ad sē {{c1::alliciēbat}}, ita tunc Arīōn canendō piscēs {{c1::allēxit}} ad nāvem.",
-                "[sound:ankidroid_audiorec361116970.3gp]"
+                "[sound:ankidroid_audiorec361116970.mp3]"
             ],
             "flags": 0,
             "guid": "jvbF)io3eG",
@@ -1096,7 +1096,7 @@
             "data": "",
             "fields": [
                 "Magister: \"Posthāc bonus discipulus {{c1::estō}}, puer! Semper mihi {{c1::pārētō}} Dīligenter {{c1::audītō}}! Pulchrē {{c1::recitātō}} et rēctē {{c1::scrībitō}}\"<br>",
-                "[sound:ankidroid_audiorec190794644.3gp]"
+                "[sound:ankidroid_audiorec190794644.mp3]"
             ],
             "flags": 0,
             "guid": "i%RpioD,x%",
@@ -1110,7 +1110,7 @@
             "data": "",
             "fields": [
                 "Magister: \"Posthāc bonī discipulī {{c1::estōte}}, puerī! Semper mihi {{c1::pārētōte}}! Dīligenter {{c1::audītōte}}! Pulchrē {{c1::recitātōte}} et rēctē {{c1::scrībitōte}}!\"<br>",
-                "[sound:ankidroid_audiorec558551899.3gp]"
+                "[sound:ankidroid_audiorec558551899.mp3]"
             ],
             "flags": 0,
             "guid": "H]<.(hqgZK",
@@ -1124,7 +1124,7 @@
             "data": "",
             "fields": [
                 "Quis fuit {{c2::horrendōs}} prīmus quī {{c3::prōtulit}} ēnsēs?<br>Quam ferus et {{c4::vērē}} {{c5::ferreus}} ille fuit!<br>Tum {{c6::caedēs}} {{c7::hominum generī}}, tum {{c8::proelia nāta}},<br>tum {{c9::brevior dīrae}} {{c10::mortis aperta via}} est!<br><div><br></div><div>[{{c1::Tibullus}} 1.10.14]<br></div>",
-                "[sound:ankidroid_audiorec1695762459.3gp]"
+                "[sound:ankidroid_audiorec1695762459.mp3]"
             ],
             "flags": 0,
             "guid": "n/R09r&>#7",
