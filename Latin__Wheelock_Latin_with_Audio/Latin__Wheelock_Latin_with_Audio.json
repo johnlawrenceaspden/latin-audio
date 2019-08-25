@@ -2530,7 +2530,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>bellum, bellī (n)</div>",
+                "bellum, bellī (n)",
                 "war",
                 "[sound:bellum.mp3]",
                 "",
@@ -2606,7 +2606,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>exitium, exitiī (n)</div>",
+                "exitium, exitiī (n)",
                 "destruction, ruin",
                 "[sound:exitium.mp3]",
                 "",
@@ -3120,7 +3120,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>līber, lībera, līberum</div>",
+                "līber, lībera, līberum",
                 "free",
                 "[sound:liber.mp3]",
                 "",
@@ -5154,7 +5154,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>uter, utra, utrum</div>",
+                "uter, utra, utrum",
                 "either, which (of two)",
                 "[sound:uter.mp3]",
                 "",
@@ -7941,7 +7941,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nōnus",
+                "nōnus -a -um",
                 "ninth",
                 "[sound:ankidroid_audiorec2117114809.mp3]",
                 "",
@@ -8226,8 +8226,8 @@
             "data": "",
             "fields": [
                 "aut",
-                "or (a__)",
-                "[sound:aut.mp3]<br>",
+                "or (au_)",
+                "[sound:aut.mp3]",
                 "",
                 "",
                 "",

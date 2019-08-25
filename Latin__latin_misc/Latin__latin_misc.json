@@ -72,12 +72,15 @@
         "ankidroid_audiorec1578169482.mp3",
         "ankidroid_audiorec1648961998.mp3",
         "ankidroid_audiorec1684993130.mp3",
+        "ankidroid_audiorec1695762459.3gp",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1728267003.mp3",
         "ankidroid_audiorec1774313981.mp3",
         "ankidroid_audiorec181499073.mp3",
         "ankidroid_audiorec1836493504.mp3",
         "ankidroid_audiorec18924827.mp3",
+        "ankidroid_audiorec190794644.3gp",
+        "ankidroid_audiorec1910737633.3gp",
         "ankidroid_audiorec1932481410.mp3",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec1989930703.mp3",
@@ -87,10 +90,12 @@
         "ankidroid_audiorec2125598793.mp3",
         "ankidroid_audiorec281336224.mp3",
         "ankidroid_audiorec311621732.mp3",
+        "ankidroid_audiorec361116970.3gp",
         "ankidroid_audiorec393531230.mp3",
         "ankidroid_audiorec427714694.mp3",
         "ankidroid_audiorec504910668.mp3",
         "ankidroid_audiorec51484233.mp3",
+        "ankidroid_audiorec558551899.3gp",
         "ankidroid_audiorec570171787.mp3",
         "ankidroid_audiorec585687543.mp3",
         "ankidroid_audiorec596699706.mp3",
@@ -172,61 +177,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "d79cbfc2-a415-11e9-b09e-74867a15fbd5",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #FFFFFF; }",
-            "flds": [
-                {
-                    "font": "Arimo",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arimo",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "cap29",
-                "pensumC"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Forward",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "5df1720a-a899-11e9-9bae-342387e2ac49",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -295,7 +245,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "dbe615ab-c4f6-11e9-af45-342387e2ac49",
+            "crowdanki_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
             "flds": [
                 {
@@ -366,7 +316,9 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "cap34"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -469,7 +421,7 @@
             "fields": [
                 "dēclīnā īnsula",
                 "īnsula, īnsulam, īnsulae, īnsulae, īnsulā<br><br>īnsulae, īnsulās, īnsulārum, īnsulīs, īnsulīs",
-                ""
+                "[sound:ankidroid_audiorec1910737633.3gp]"
             ],
             "flags": 0,
             "guid": ">8*7N",
@@ -558,18 +510,6 @@
                 "declinations",
                 "latin"
             ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "nōn vīribus aut vēlōcitātibus aut celeritāte corporum rēs magnae geruntur",
-                "not by strength or by speed or by quickness of body great things are done"
-            ],
-            "flags": 0,
-            "guid": "HnY0P",
-            "note_model_uuid": "d79cbfc2-a415-11e9-b09e-74867a15fbd5",
-            "tags": []
         },
         {
             "__type__": "Note",
@@ -940,7 +880,7 @@
             ],
             "flags": 0,
             "guid": "v0%a%vD)Ef",
-            "note_model_uuid": "dbe615ab-c4f6-11e9-af45-342387e2ac49",
+            "note_model_uuid": "b5e1ac6f-bedb-11e9-b09e-74867a15fbd5",
             "tags": []
         },
         {
@@ -1104,7 +1044,7 @@
             "data": "",
             "fields": [
                 "Ut Orpheus cantū suō ferās ad sē {{c1::alliciēbat}}, ita tunc Arīōn canendō piscēs {{c1::allēxit}} ad nāvem.",
-                ""
+                "[sound:ankidroid_audiorec361116970.3gp]"
             ],
             "flags": 0,
             "guid": "jvbF)io3eG",
@@ -1122,6 +1062,130 @@
             "guid": "b=qm%pIc2A",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pater fīlium interrogāvit 'num bonus discipulus {{c1::fuisset}}: num magistrō {{c1::pāruisset}}, attentē {{c1::audīvisset}}, rēctē {{c1::scrīpsisset}} et pulchrē {{c1::recitāvisset}}.'<br><br>Fīlius nōn respondit. <br><br>Tum pater ab eō quaesīvit 'num ā magistrō {{c2::laudātus esset}}.' <br><br>Cum fīlius id {{c3::negāvisset}}, \"Ergō\" inquit pater \"malus discipulus fuistī; nam sī bonus discipulus {{c3::fuissēs}}, magister tē {{c3::laudāvisset}}. <br><br>Sī magistrō {{c4::pāruissēs}}, attentē {{c4::audīvissēs}}, rēctē {{c4::scrīpsissēs}} et pulchrē {{c4::recitāvissēs}}, ā magistrō {{c5::laudātus essēs}}.\"<br><br>Fīlius: \"Etiam sī industrius {{c6::fuissem}}, magister mē nōn {{c6::laudāvisset}}.\"<br><br>Pater: \"Quid?\" Fīlius: \"Etiam sī magistrō {{c8::pāruissem}}, attentē {{c8::audīvissem}}, rēctē {{c8::scrīpsissem}} et pulchrē {{c8::recitāvissem}}, {{c8::laudātus}} nōn {{c8::essem}} ab illō magistrō iniūstō!\"&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HK;VSpof!k",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pater fīliōs interrogāvit 'num bonī discipulī {{c1::fuissent}}: num magistrō {{c1::pāruissent}}, attentē {{c1::audīvissent}}, rēctē {{c1::scrīpsissent}} et pulchrē {{c1::recitāvissent}}.'<br><br>Fīliī nōn respondērunt. <br><br>Tum pater ab iīs quaesīvit 'num ā magistrō {{c2::laudātī essent.}}'<br><br>Cum fīliī id {{c2::negāvissent}}, \"Ergō\" inquit pater \"malī discipulī fuistis; nam sī bonī discipulī {{c2::fuissētis}}, magister vōs {{c2::laudāvisset}}. <br><br>Sī magistrō {{c3::pāruissētis}}, attentē {{c3::audīvissētis}}, rēctē {{c3::scrīpsissētis}} et pulchrē {{c3::recitāvissētis}}, ā magistrō {{c3::laudātī essētis}}.\" <br><br>Fīliī: \"Etiam sī magistrō {{c4::pāruissēmus}}, attentē {{c4::audīvissēmus}}, rēctē {{c4::scrīpsissēmus}} et pulchrē {{c4::recitāvissēmus}}, {{c4::laudātī}} nōn {{c4::essēmus}} ab illō magistrō iniūstō!\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AFJieNE^!i",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Magister: \"Posthāc bonus discipulus {{c1::estō}}, puer! Semper mihi {{c1::pārētō}} Dīligenter {{c1::audītō}}! Pulchrē {{c1::recitātō}} et rēctē {{c1::scrībitō}}\"<br>",
+                "[sound:ankidroid_audiorec190794644.3gp]"
+            ],
+            "flags": 0,
+            "guid": "i%RpioD,x%",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Magister: \"Posthāc bonī discipulī {{c1::estōte}}, puerī! Semper mihi {{c1::pārētōte}}! Dīligenter {{c1::audītōte}}! Pulchrē {{c1::recitātōte}} et rēctē {{c1::scrībitōte}}!\"<br>",
+                "[sound:ankidroid_audiorec558551899.3gp]"
+            ],
+            "flags": 0,
+            "guid": "H]<.(hqgZK",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quis fuit {{c2::horrendōs}} prīmus quī {{c3::prōtulit}} ēnsēs?<br>Quam ferus et {{c4::vērē}} {{c5::ferreus}} ille fuit!<br>Tum {{c6::caedēs}} {{c7::hominum generī}}, tum {{c8::proelia nāta}},<br>tum {{c9::brevior dīrae}} {{c10::mortis aperta via}} est!<br><div><br></div><div>[{{c1::Tibullus}} 1.10.14]<br></div>",
+                "[sound:ankidroid_audiorec1695762459.3gp]"
+            ],
+            "flags": 0,
+            "guid": "n/R09r&>#7",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c4::Spectātum}} {{c1::veniunt}}, {{c1::veniunt}} {{c2::spectentur}} {{c5::ut}} {{c3::ipsae}}!&nbsp; -- {{c6::Ovidius}}: Ars am. I.99",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LS6=CI{*~U",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nōn ego {{c3::nōbilium}} sedeō {{c4::studiōsus}} equōrum;<br>&nbsp; &nbsp; &nbsp; cui tamen {{c14::ipsa favēs}} vincat {{c13::ut ille precor}}. <br>Ut {{c6::loquerer}} tēcum vēnī tēcumque {{c5::sedērem}}, <br>&nbsp; &nbsp; &nbsp; nē tibi nōn nōtus {{c12::quem facis esset amor}}. <br>Tū {{c7::cursūs}} spectās ego tē - {{c8::spectēmus}} {{c9::uterque}} <br>&nbsp; &nbsp; &nbsp; quod iuvat, {{c10::atque oculōs}} {{c11::pāscat}} uterque suōs!<br><div><br></div><div>[{{c1::Ovidius}}: {{c2::Amōrēs}} III.2]<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P{%,4CdRyD",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saepe meae \"Tandem\" dīxī \"discēde!\" puellae <br> -- in gremiō sēdit {{c3::prōtinus}} illa meō! <br>Saepe \"Pudet\" dīxī. Lacrimīs vix illa retentīs <br>\"Mē {{c4::miseram}}! Iam tē\" dīxit \"{{c5::amāre pudet}}?\"<br><br>{{c6::Implicuitque}} suōs circum mea colla {{c7::lacertōs}} <br> et, quae mē {{c8::perdunt}}, ōscula mīlle dedit! <br>{{c9::Vincor}}, et {{c10::ingenium}} {{c11::sūmptīs}} revocātur ab armīs, <br> &nbsp;&nbsp;rēsque domī {{c12::gestās}} et {{c13::mea bella}} canō.\"<br><div><br></div><div>[{{c1::Ovidius}}: {{c2::Amōrēs}} II.18]<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f/IiQSz~v[",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Lūgēte}}, Ō Venerēs {{c2::Cupīdinēsque}}<br>et quantum est hominum {{c3::venustiōrum}}! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa {{c4::oculīs suīs}} amābat; <br>nam {{c5::mellītus}} erat {{c6::suamque nōrat}}<br>ipsam tam bene quam puella {{c7::mātrem}}, <br>nec sēsē ā gremiō {{c8::illĭus}} movēbat,<br>sed {{c9::circumsiliēns}} modo hūc modo illūc <br>ad {{c11::sōlam dominam}} usque {{c10::pīpiābat}}. <br><br>Quī nunc it per iter {{c12::tenebricōsum}}<br>illūc unde {{c14::negant}} redīre {{c13::quemquam}}.<br> <br>At {{c15::vōbīs}} male sit, malae tenebrae <br>{{c16::Orcī}}, quae omnia bella {{c17::dēvorātis}}:<br>tam bellum mihi passerem {{c18::abstulistis}}. <br><br>Ō factum male! Ō misellē passer! <br>Tuā nunc operā meae puellae <br>{{c19::flendō}} {{c20::turgidulī}} rubent ocellī!<br><div><br></div><div>[{{c21::Catullus 3}}]<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uB6xk-;TyI",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
         }
     ]
 }

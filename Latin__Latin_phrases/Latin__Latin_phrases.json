@@ -13379,9 +13379,9 @@
             "fields": [
                 "flectere si nequeo superos, Acheronta movebo",
                 "flectere sī nequeō superōs, Acheronta movēbō",
-                "*flec-te-re sī *ne-que-ō *su-pe-rōs, A-che-*ron-ta mo-*vē-bō",
-                "*flec-te-re sī *ne-que-ō *su-pe-rōs, A-che-*ron-ta mo-*vē-bō",
-                "*o.. o *..o *..o ..o..*oo",
+                "*flec-te-re *sī *ne-que-ō *su-pe-rōs, A-che-*ron-ta mo-*vē-bō",
+                "*flec-te-re *sī *ne-que-ō *su-pe-rōs, A-che-*ron-ta mo-*vē-bō",
+                "*o.. *o *..o *..o.. *o..*oo",
                 "[sound:ankidroid_audiorec1230476460.mp3]",
                 "",
                 "if I can not reach Heaven I will raise Hell",
@@ -35018,7 +35018,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "solamen miseris socios habuisse doloris<br><br><br>",
+                "solamen miseris socios habuisse doloris",
                 "sōlāmen miserīs sociōs habuisse dolōris",
                 "sō-*lā-men *mi-se-rīs *so-ci-ōs ha-bu-*is-se do-*lō-ris",
                 "",
@@ -38420,10 +38420,10 @@
             "data": "",
             "fields": [
                 "ut supra",
-                "ut sūprā",
-                "ut *sū-prā",
+                "ut suprā",
+                "ut *su-prā",
                 "",
-                "o*oo",
+                "o*.o",
                 "[sound:ankidroid_audiorec614487741.mp3]",
                 "",
                 "as above",
@@ -39583,7 +39583,7 @@
                 "vē-ri-*tā-tem cong-*nōs-ce-re",
                 "",
                 "*o. *ooo *o..",
-                "[sound:ankidroid_audiorec1710004277.mp3][sound:ankidroid_audiorec1710004277.mp3]",
+                "[sound:ankidroid_audiorec1710004277.mp3]",
                 "",
                 "to know truth",
                 "Motto of the Clandestine Service of the United States Central Intelligence Agency ."
@@ -41294,9 +41294,9 @@
                 "nōn *vī-ri-bu s_aut vē-lō-ci-*tā-ti-bu s_aut ce-le-ri-*tā-te *cor-po-rum rēs *mang-nae ge-*run-tur",
                 "o *o.. *ooo. *o.. *o... *o. *o.o *o *oo. *oo",
                 "[sound:ankidroid_audiorec602669527.mp3]",
+                "not by strengths or by speeds or by quickness of bodies great things are done",
                 "",
-                "",
-                ""
+                "Cicero, De Senectutis"
             ],
             "flags": 0,
             "guid": "t;1gpvD)E0",
