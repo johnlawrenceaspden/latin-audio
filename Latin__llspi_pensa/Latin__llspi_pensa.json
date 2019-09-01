@@ -62,7 +62,9 @@
         "ankidroid_audiorec1042030302.mp3",
         "ankidroid_audiorec1044655038.mp3",
         "ankidroid_audiorec1046285885.mp3",
+        "ankidroid_audiorec1061992898.3gp",
         "ankidroid_audiorec1075528962.mp3",
+        "ankidroid_audiorec1098857424.3gp",
         "ankidroid_audiorec1103121988.mp3",
         "ankidroid_audiorec111361776.mp3",
         "ankidroid_audiorec1124660305.mp3",
@@ -72,6 +74,7 @@
         "ankidroid_audiorec117107469.mp3",
         "ankidroid_audiorec1171175800.mp3",
         "ankidroid_audiorec1171220808.mp3",
+        "ankidroid_audiorec1174791701.3gp",
         "ankidroid_audiorec117925156.mp3",
         "ankidroid_audiorec1217348907.mp3",
         "ankidroid_audiorec1240046595.mp3",
@@ -87,11 +90,13 @@
         "ankidroid_audiorec1337893716.mp3",
         "ankidroid_audiorec1338152087.mp3",
         "ankidroid_audiorec1343610894.mp3",
+        "ankidroid_audiorec1359129676.3gp",
         "ankidroid_audiorec1361988710.mp3",
         "ankidroid_audiorec1364421043.mp3",
         "ankidroid_audiorec1379504559.mp3",
         "ankidroid_audiorec1387151430.mp3",
         "ankidroid_audiorec1387420939.mp3",
+        "ankidroid_audiorec1397345903.3gp",
         "ankidroid_audiorec1410886727.mp3",
         "ankidroid_audiorec1414579712.mp3",
         "ankidroid_audiorec1419201757.mp3",
@@ -113,6 +118,7 @@
         "ankidroid_audiorec1572071265.mp3",
         "ankidroid_audiorec1596302817.mp3",
         "ankidroid_audiorec1607148231.mp3",
+        "ankidroid_audiorec1623707738.3gp",
         "ankidroid_audiorec1623741645.mp3",
         "ankidroid_audiorec1626963697.mp3",
         "ankidroid_audiorec1634204540.mp3",
@@ -138,6 +144,7 @@
         "ankidroid_audiorec1867474579.mp3",
         "ankidroid_audiorec19065634.mp3",
         "ankidroid_audiorec1909274094.mp3",
+        "ankidroid_audiorec1921112147.3gp",
         "ankidroid_audiorec1927446273.mp3",
         "ankidroid_audiorec1934405220.mp3",
         "ankidroid_audiorec1935160555.mp3",
@@ -150,10 +157,12 @@
         "ankidroid_audiorec2004314604.mp3",
         "ankidroid_audiorec2012666847.mp3",
         "ankidroid_audiorec2014656768.mp3",
+        "ankidroid_audiorec202618136.3gp",
         "ankidroid_audiorec2032213864.mp3",
         "ankidroid_audiorec2051817996.mp3",
         "ankidroid_audiorec2052219033.mp3",
         "ankidroid_audiorec2069065563.mp3",
+        "ankidroid_audiorec207300013.3gp",
         "ankidroid_audiorec2079499262.mp3",
         "ankidroid_audiorec2084129918.mp3",
         "ankidroid_audiorec2086038402.mp3",
@@ -204,11 +213,13 @@
         "ankidroid_audiorec564140725.mp3",
         "ankidroid_audiorec569803100.mp3",
         "ankidroid_audiorec570800740.mp3",
+        "ankidroid_audiorec579540794.3gp",
         "ankidroid_audiorec582610363.mp3",
         "ankidroid_audiorec586976426.mp3",
         "ankidroid_audiorec593495294.mp3",
         "ankidroid_audiorec610184921.mp3",
         "ankidroid_audiorec623314477.mp3",
+        "ankidroid_audiorec646209912.3gp",
         "ankidroid_audiorec650620565.mp3",
         "ankidroid_audiorec655375320.mp3",
         "ankidroid_audiorec682450713.mp3",
@@ -279,7 +290,7 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap34"
+                "cap16"
             ],
             "tmpls": [
                 {
@@ -1925,7 +1936,7 @@
             "data": "",
             "fields": [
                 "Pāstor mīrātur unde dominus hoc audīv{{c1::erit}}.<br>",
-                ""
+                "[sound:ankidroid_audiorec1359129676.3gp]"
             ],
             "flags": 0,
             "guid": "pp+wG2^p)I",
@@ -2164,7 +2175,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Pīrātae, quī {{c1::aliquandō}} Caesarem cēperant, XX talenta {{c2::seu}} D mīlia sēstertium ab eō postulāvērunt, sed Caesar, vir {{c3::superbus}}, L talenta iīs {{c4::obtulit}}. Tantō pretiō Caesar {{c5::redēmptus}} est.",
+                "Pīrātae, quī {{c1::aliquandō}} Caesarem cēperant, XX ({{c6::vīgintī}}) talenta {{c2::seu}} D ({{c7::quīngenta}}) mīlia sēstertium ab eō postulāvērunt, sed Caesar, vir {{c3::superbus}}, L ({{c8::quīnquāgintā}}) talenta iīs {{c4::obtulit}}. Tantō pretiō Caesar {{c5::redēmptus}} est.",
                 "[sound:ankidroid_audiorec787994996.mp3]"
             ],
             "flags": 0,
@@ -2273,10 +2284,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Utrum ventus secundus an adversus est?&nbsp;<br>",
-                "",
-                "Ventus secundus est, sed gūbernator optat ut ventus in adversum vertātur.<br>",
-                ""
+                "Utrum ventus secundus an adversus est?",
+                "[sound:ankidroid_audiorec1098857424.3gp]",
+                "Ventus secundus est, sed gūbernator optat ut ventus in adversum vertātur.",
+                "[sound:ankidroid_audiorec646209912.3gp]"
             ],
             "flags": 0,
             "guid": "ti:XH=LFZV",
@@ -2359,9 +2370,9 @@
             "data": "",
             "fields": [
                 "Cūr Mēdus adhūc nihil nārrāvit dē eā rē?",
-                "",
+                "[sound:ankidroid_audiorec202618136.3gp]",
                 "Nē quis eum glōriōsum existimāret.<br>",
-                ""
+                "[sound:ankidroid_audiorec1623707738.3gp]"
             ],
             "flags": 0,
             "guid": "nwF=h+)W]G",
@@ -2426,7 +2437,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Magister epistulam ad Iūlium scrīpsit, cum Mārcus in lūdō {{c1::dormīvisset}} nec magistrō {{c1::pārūisset}}.",
+                "Magister epistulam ad Iūlium scrīpsit, cum Mārcus in lūdō {{c1::dormīvisset}} nec magistrō {{c1::pāruisset}}.",
                 "[sound:ankidroid_audiorec833930066.mp3]"
             ],
             "flags": 0,
@@ -2532,7 +2543,7 @@
             "data": "",
             "fields": [
                 "{{c1::īnstruere}} {{c2::īnstrūxisse}} {{c3::īnstrūctum}}<br>",
-                ""
+                "[sound:ankidroid_audiorec207300013.3gp]"
             ],
             "flags": 0,
             "guid": "mgPwv1G#G#",
@@ -2636,8 +2647,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::prōgredī}} {{c2::progressum esse}}&nbsp;<br>",
-                ""
+                "{{c1::prōgredī}} {{c2::prōgressum esse}}",
+                "[sound:ankidroid_audiorec1921112147.3gp]"
             ],
             "flags": 0,
             "guid": "PF_KTyD5*k",
@@ -2651,7 +2662,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ūna {{c1::legiō}} {{c3::cōnstat}} ex V vel VI {{c4::mīlibus}} {{c5::hominum}}, quī in X {{c2::cohortēs}} dīviduntur.",
+                "Ūna {{c1::legiō}} {{c3::cōnstat}} ex V ({{c6::quīnque}}) vel VI ({{c7::sex}}) {{c4::mīlibus}} {{c5::hominum}}, quī in X ({{c8::decem}}) {{c2::cohortēs}} dīviduntur.",
                 "[sound:ankidroid_audiorec547608466.mp3]"
             ],
             "flags": 0,
@@ -2756,7 +2767,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tabellārius {{c4::pūblicus}} XV {{c1::ferē}} {{c3::diēbus}} {{c5::Rōmā}} {{c6::in Germāniam}} {{c2::properāre}} potest.",
+                "Tabellārius {{c4::pūblicus}} XV ({{c7::quīndecim}}) {{c1::ferē}} {{c3::diēbus}} {{c5::Rōmā}} {{c6::in Germāniam}} {{c2::properāre}} potest.",
                 "[sound:ankidroid_audiorec1815274124.mp3]"
             ],
             "flags": 0,
@@ -2869,10 +2880,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Quō Aemilius adulēscēns missus est?&nbsp;<br>",
-                "",
+                "Quō Aemilius adulēscēns missus est?",
+                "[sound:ankidroid_audiorec1061992898.3gp]",
                 "In Germāniam ad exercitum missus est.<br>",
-                ""
+                "[sound:ankidroid_audiorec579540794.3gp]"
             ],
             "flags": 0,
             "guid": "JHvrmxXH^|",
@@ -2954,10 +2965,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Num Tibullus vītam mīlitārem laudat?<br>",
-                "",
-                "Tibullus vītam mīlitārem ōderat.<br>",
-                ""
+                "Num Tibullus vītam mīlitārem laudat?",
+                "[sound:ankidroid_audiorec1174791701.3gp]",
+                "Tibullus vītam mīlitārem ōderat.",
+                "[sound:ankidroid_audiorec1397345903.3gp]"
             ],
             "flags": 0,
             "guid": "opEH>Y%AW^",

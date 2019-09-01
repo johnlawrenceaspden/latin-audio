@@ -1466,9 +1466,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "servō, servāre, servāvī, servātum[sound:servo.mp3]",
+                "servō, servāre, servāvī, servātum",
                 "to preserve, save, keep, guard",
-                "",
+                "[sound:servo.mp3]",
                 "",
                 "",
                 "",
@@ -1998,9 +1998,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "et...et[sound:et et.mp3]",
+                "et...et",
                 "both...and",
-                "",
+                "[sound:et et.mp3]",
                 "",
                 "",
                 "",
@@ -2226,9 +2226,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>numerus, numerī (m)[sound:numerus.mp3]</div>",
+                "numerus, numerī (m)",
                 "number",
-                "",
+                "[sound:numerus.mp3]",
                 "",
                 "",
                 "",
@@ -2397,7 +2397,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>dē (+abl.)</div>",
+                "dē (+abl.)",
                 "down from, from; concerning, about",
                 "[sound:de.mp3]",
                 "",
@@ -2941,8 +2941,7 @@
             "guid": "v[Px$x6zDh",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-4",
-                "leech"
+                "Chapter-4"
             ]
         },
         {
@@ -3519,7 +3518,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>discipulus, discipulī (m)</div>",
+                "discipulus, discipulī (m)",
                 "learner, pupil, student (m)",
                 "[sound:discipulus.mp3]",
                 "",
@@ -3569,8 +3568,7 @@
             "guid": "ze;e%<]%1~",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-6",
-                "leech"
+                "Chapter-6"
             ]
         },
         {
@@ -3696,14 +3694,15 @@
                 "[sound:salvus.mp3]",
                 "",
                 "",
-                "Mars pater, tē precor, pastōrēs pecuaque salva servassis duisque bonam salūtem valētūdinem mihi",
+                "Mārs pater, tē precor, pāstōrēs pecuaque salva servāssis duīsque bonam salūtem valētūdinem mihi",
                 ""
             ],
             "flags": 0,
             "guid": "psx}s0gT}:",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-6"
+                "Chapter-6",
+                "marked"
             ]
         },
         {
@@ -7827,7 +7826,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tertius",
+                "tertius -a -um",
                 "third",
                 "[sound:ankidroid_audiorec201947937.mp3]",
                 "",
@@ -7846,7 +7845,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quārtus",
+                "quārtus -a -um",
                 "fourth",
                 "[sound:ankidroid_audiorec1579947221.mp3]",
                 "",
@@ -8370,8 +8369,7 @@
             "guid": "q)X;<0hz`|",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-17",
-                "leech"
+                "Chapter-17"
             ]
         },
         {
@@ -9842,7 +9840,7 @@
             "data": "",
             "fields": [
                 "iterum (adv.)",
-                "again, a second time",
+                "again, a second time (i____)",
                 "[sound:iterum.mp3]",
                 "",
                 "",
@@ -17092,8 +17090,7 @@
             "guid": "k<,)<F/Vyt",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-40",
-                "leech"
+                "Chapter-40"
             ]
         },
         {
