@@ -55,12 +55,12 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "ankidroid_audiorec1749513295.3gp",
-        "ankidroid_audiorec2124081096.3gp",
-        "ankidroid_audiorec493477128.3gp",
-        "ankidroid_audiorec508388929.3gp",
-        "ankidroid_audiorec606158391.3gp",
-        "ankidroid_audiorec728960329.3gp"
+        "ankidroid_audiorec1749513295.mp3",
+        "ankidroid_audiorec2124081096.mp3",
+        "ankidroid_audiorec493477128.mp3",
+        "ankidroid_audiorec508388929.mp3",
+        "ankidroid_audiorec606158391.mp3",
+        "ankidroid_audiorec728960329.mp3"
     ],
     "name": "Latin::Latin Poetry",
     "note_models": [
@@ -192,7 +192,7 @@
                 "*Nōn *a-mō *tē *Sa-bi-dī *nec *pos-sum *dī-ce-re *quā-rē <br> *Hoc *tan-tum *pos-sum *dī-ce-re *nōn *a-mō *tē",
                 "*Nō&nbsp; *na mō *tē *Sa bi dī *nec *pos sum *dī ce re *quā rē *Hoc *tan tum *pos sum *dī ce re *nō *na mō *tē",
                 "*Nō *na mo | &nbsp;*tē *Sa bi | dī *nec &nbsp;| *pos sum | *dī ce re | *quā rē<br>&nbsp;*Hoc *tan | tum *pos | sum || *dī ce re | *nō *na mo | *tē",
-                "[sound:ankidroid_audiorec728960329.3gp]",
+                "[sound:ankidroid_audiorec728960329.mp3]",
                 "",
                 "",
                 "Martial I 32"
@@ -213,7 +213,7 @@
                 "*Nīl *mi-hi *dās *vī-vus, *dī-cis *post *fā-ta da-*tū-rum.&nbsp;<div>*Sī *nōn *es *stul-tus, *scīs, *Ma-ro, quid *cu-pi-am!<br></div>",
                 "*Nīl *mi hi *dās *vī vus *dī cis *post *fā ta da *tū rum&nbsp;<div>*Sī *nō *nes *stul tus *scīs *Ma ro quid *cu pi am!<br></div>",
                 "*Nīl *mi hi | *dās *vī | vus *dī | cis *post | *fā ta da | *tū rum <br> &nbsp;&nbsp;*Sī *nō | *nes *stul | tus || *scīs *Ma ro | quid *cu pi | am!<br>",
-                "[sound:ankidroid_audiorec606158391.3gp]",
+                "[sound:ankidroid_audiorec606158391.mp3]",
                 "Nothing to me you give alive you say after death a future gift<div>If not you are stupid you know Maro what I would like</div>",
                 "",
                 ""
@@ -234,7 +234,7 @@
                 "'*Es-se *ni-hil' *dī-cis, *quid-quid *pe-tis, *im-pro-be *Cin-na. *Sī *nīl, *Cin-na, *pe-tis, *nīl *ti-bi, *Cin-na, *ne-gō!&nbsp;<br>",
                 "*Es se *ni hil *dī cis *quid quid *pe ti *sim pro be *Cin na *Sī *nīl *Cin na *pe-tis *nīl *ti bi *Cin na *ne gō<br>",
                 "*Es se *ni | hil *dī | cis *quid | quid *pe ti | *sim pro be | *Cin na <br> &nbsp;*Sī *nīl | *Cin na *pe | tis || *nīl *ti bi | *Cin na *ne | gō<br>",
-                "[sound:ankidroid_audiorec508388929.3gp]",
+                "[sound:ankidroid_audiorec508388929.mp3]",
                 "to be nothing you say whatever you ask worthless Cinna<div>If nothing Cinna you ask nothing to you Cinna I deny</div>",
                 "",
                 "Martial III.61<br>"
@@ -276,7 +276,7 @@
                 "*Cūr *nōn *mit-tō *me-ōs *ti-bi, Pon-ti-li-*ā-ne, li-*bel-lōs? <br>*Nē *mi-hi *tū *mit-tās, Pon-ti-li-*ā-ne, *tu-ōs!<br>",
                 "*Cūr *nōn *mit tō *me ōs *ti bi Pon ti li *ā ne li *bel lōs <br>*Nē *mi hi *tū *mit tās Pon ti li *ā ne *tu ōs<br>",
                 "*Cūr *nōn | *mit to *me | ōs *ti bi | Pon ti li | *ā ne li | *bel lōs <br>*Nē *mi hi | *tū *mit | tās || Pon ti li | *ā ne | *tu ōs<br>",
-                "[sound:ankidroid_audiorec2124081096.3gp]",
+                "[sound:ankidroid_audiorec2124081096.mp3]",
                 "",
                 "",
                 "Martial VII.3"
@@ -381,7 +381,7 @@
                 "",
                 "",
                 "*Sae pe *me | ae *Tan | dem *dī | xī dis | *cē de pu | *el lae <br> &nbsp;in *gre mi | ō *sē | dit || *prō ti nu | *sil la *me | ō <br>*Sae pe *Pu | det *dī | xī *La cri | mīs *vic | *sil la re | *ten tīs <br>*Mē *mi se | ram *Iam | *tē || *dīc si ta | *mā re *pu | det<br><br>Im pli *cu | it que *su | ōs *cir | cum *me a | *col la la | *cer tōs <br> *et *quae | *mē *per | dunt || &nbsp;*ōs cu la | *mīl le *de | dit <br>*Vin co *re | tin *ge ni | um *sūmp | tīs re vo | *cā tu *ra | *bar mīs<br>  *rēs que *do | mī *ges | tās || *et *me a | *bel la *ca | nō<br>",
-                "[sound:ankidroid_audiorec1749513295.3gp]",
+                "[sound:ankidroid_audiorec1749513295.mp3]",
                 "",
                 "",
                 "Ovidius: Amōrēs II.18<br>"
@@ -423,7 +423,7 @@
                 "*Quis *fu-it hor-*ren-dōs *prī-mus *quī *prō-tu-lit *ēn-sēs?<br>*Quam *fe-ru-*set *vē-rē *fer-re-us *il-le fu-it!<br>*Tum *cae-dēs *ho-mi-num *ge-ne-rī, *tum *proe-li-a *nā-ta,<br>*tum *bre-vi-or *dī-rae *mor-tis a-*per-ta *vi-a *est!<br>",
                 "*Quis *fu it hor *ren dōs *prī mus *quī *prō tu lit *ēn sēs?<br>*Quam *fe ru *set *vē rē *fer re us *il le fu it!<br>*Tum *cae dēs *ho mi num *ge ne rī, *tum *proe li a *nā ta,<br>*tum *bre vi or *dī rae *mor ti sa *per ta *vi a_*est!<br>",
                 "*Quis *fu it | hor *ren | dōs *prī | mus *quī | *prō tu li | *tēn sēs?<br>*Quam *fe ru | *set *vē | rē || *fer re us | *il le fu | it!<br>*Tum *cae | dēs *ho mi | num *ge ne | rī *tum | *proe li a | *nā ta<br>*tum *bre vi | or *dī | rae || *mor ti sa | *per ta *vi | a_*est!<br>",
-                "[sound:ankidroid_audiorec493477128.3gp]",
+                "[sound:ankidroid_audiorec493477128.mp3]",
                 "",
                 "",
                 "Tibullus 1.10.14"
