@@ -1,0 +1,544 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "ba580210-ccdc-11e9-824e-342387e2ac49",
+    "deck_config_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "allnewcards",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "ankidroid_audiorec1749513295.3gp",
+        "ankidroid_audiorec2124081096.3gp",
+        "ankidroid_audiorec493477128.3gp",
+        "ankidroid_audiorec508388929.3gp",
+        "ankidroid_audiorec606158391.3gp",
+        "ankidroid_audiorec728960329.3gp"
+    ],
+    "name": "Latin::Latin Poetry",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "css": ".card {\n font-family: arial;\n font-size: 30px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Latin",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Latin with Macrons",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Syllabification",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Elision",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Scansion",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Audio",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Literal English",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "English",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Notes",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Latin Poetry",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "cap34"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<div style='font-family: Arimo; font-size: 25px;'>{{Scansion}}</div>\n\n{{Audio}}\n<hr id=answer>\n{{Notes}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Latin}}\n\n\n\n\n\n\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Non amo te Sabidi, nec possum dicere quare<br> &nbsp;Hoc tantum possum dicere non amo te",
+                "Nōn amō tē Sabidī, nec possum dīcere quārē <br> Hoc tantum possum dīcere nōn amō tē",
+                "*Nōn *a-mō *tē *Sa-bi-dī *nec *pos-sum *dī-ce-re *quā-rē <br> *Hoc *tan-tum *pos-sum *dī-ce-re *nōn *a-mō *tē",
+                "*Nō&nbsp; *na mō *tē *Sa bi dī *nec *pos sum *dī ce re *quā rē *Hoc *tan tum *pos sum *dī ce re *nō *na mō *tē",
+                "*Nō *na mo | &nbsp;*tē *Sa bi | dī *nec &nbsp;| *pos sum | *dī ce re | *quā rē<br>&nbsp;*Hoc *tan | tum *pos | sum || *dī ce re | *nō *na mo | *tē",
+                "[sound:ankidroid_audiorec728960329.3gp]",
+                "",
+                "",
+                "Martial I 32"
+            ],
+            "flags": 0,
+            "guid": "rlWua5UDkK",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nil mihi das vivus, dicis 'post fata daturum.'<br>Si non es stultus, scis, Maro, quid cupiam!<br>",
+                "Nīl mihi dās vīvus, dīcis 'post fāta datūrum.'&nbsp;<div>Sī nōn es stultus, scīs, Marō, quid cupiam!&nbsp;<br></div>",
+                "*Nīl *mi-hi *dās *vī-vus, *dī-cis *post *fā-ta da-*tū-rum.&nbsp;<div>*Sī *nōn *es *stul-tus, *scīs, *Ma-ro, quid *cu-pi-am!<br></div>",
+                "*Nīl *mi hi *dās *vī vus *dī cis *post *fā ta da *tū rum&nbsp;<div>*Sī *nō *nes *stul tus *scīs *Ma ro quid *cu pi am!<br></div>",
+                "*Nīl *mi hi | *dās *vī | vus *dī | cis *post | *fā ta da | *tū rum <br> &nbsp;&nbsp;*Sī *nō | *nes *stul | tus || *scīs *Ma ro | quid *cu pi | am!<br>",
+                "[sound:ankidroid_audiorec606158391.3gp]",
+                "Nothing to me you give alive you say after death a future gift<div>If not you are stupid you know Maro what I would like</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EQ[Wk[z6va",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "'Esse nihil' dicis, quidquid petis, improbe Cinna.<br>Si nil, Cinna, petis, nil tibi, Cinna, nego!<br>",
+                "'Esse nihil' dīcis, quidquid petis, improbe Cinna. Sī nīl, Cinna, petis, nīl tibi, Cinna, negō!",
+                "'*Es-se *ni-hil' *dī-cis, *quid-quid *pe-tis, *im-pro-be *Cin-na. *Sī *nīl, *Cin-na, *pe-tis, *nīl *ti-bi, *Cin-na, *ne-gō!&nbsp;<br>",
+                "*Es se *ni hil *dī cis *quid quid *pe ti *sim pro be *Cin na *Sī *nīl *Cin na *pe-tis *nīl *ti bi *Cin na *ne gō<br>",
+                "*Es se *ni | hil *dī | cis *quid | quid *pe ti | *sim pro be | *Cin na <br> &nbsp;*Sī *nīl | *Cin na *pe | tis || *nīl *ti bi | *Cin na *ne | gō<br>",
+                "[sound:ankidroid_audiorec508388929.3gp]",
+                "to be nothing you say whatever you ask worthless Cinna<div>If nothing Cinna you ask nothing to you Cinna I deny</div>",
+                "",
+                "Martial III.61<br>"
+            ],
+            "flags": 0,
+            "guid": "GX7.-=dI=G",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nescio tam multis quid scribas Fauste, puellis.<br>Hoc scio: quod scribit nulla puella tibi!<br>",
+                "Nesciō tam multīs quid scrībās Faustē, puellīs. <br>Hoc sciō: quod scrībit nūlla puella tibi!<br>",
+                "*Nes-ci-ō *tam *mul-tīs *quid *scrī-bās *Faus-tē, *pu-el-līs. <br>*Hoc *sci-ō: *quod *scrī-bit *nūl-la *pu-el-la *ti-bi!<br>",
+                "*Nes ci ō *tam *mul tīs *quid *scrī bās *Faus tē, *pu el līs <br>*Hoc *sci ō *quod *scrī bit *nūl la *pu el la *ti bi<br>",
+                "*Nes ci ō | *tam *mul | tīs *quid | *scrī bās | *Faus te *pu | el līs <br>*Hoc *sci o | *quod *scrī | bit || *nūl &nbsp;la *pu | el la *ti | bi<br>",
+                "",
+                "",
+                "",
+                "Martial III.64"
+            ],
+            "flags": 0,
+            "guid": "B;:=T+-T&k",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cur non mitto meos tibi, Pontiliane, libellos?<br>Ne mihi tu mittas, Pontiliane, tuos!<br>",
+                "Cūr nōn mittō meōs tibi, Pontiliāne, libellōs? <br>Nē mihi tū mittās, Pontiliāne, tuōs!<br>",
+                "*Cūr *nōn *mit-tō *me-ōs *ti-bi, Pon-ti-li-*ā-ne, li-*bel-lōs? <br>*Nē *mi-hi *tū *mit-tās, Pon-ti-li-*ā-ne, *tu-ōs!<br>",
+                "*Cūr *nōn *mit tō *me ōs *ti bi Pon ti li *ā ne li *bel lōs <br>*Nē *mi hi *tū *mit tās Pon ti li *ā ne *tu ōs<br>",
+                "*Cūr *nōn | *mit to *me | ōs *ti bi | Pon ti li | *ā ne li | *bel lōs <br>*Nē *mi hi | *tū *mit | tās || Pon ti li | *ā ne | *tu ōs<br>",
+                "[sound:ankidroid_audiorec2124081096.3gp]",
+                "",
+                "",
+                "Martial VII.3"
+            ],
+            "flags": 0,
+            "guid": "rENLE$OY@x",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Versiculos in me narratur scribere Cinna.<br>Non scribit cuius carmina nemo legit!<br>",
+                "Versiculōs in mē nārrātur scrībere Cinnā. <br>Nōn scrībit cūius carmina nēmō legit!<br>",
+                "Ver-*si-cu-lōs *in *mē nār-*rā-tur *scrī-be-re *Cin-nā. <br>*Nōn *scrī-bit *cui-ius *car-mi-na *nē-mō le-git!<br>",
+                "Ver *si cu lōs *in *mē nār *rā tur *scrī be re *Cin nā. <br>*Nōn *scrī bit *cui ius *car mi na *nē mō le git<br>",
+                "Ver *si cu | lō *sin | *mē nār | *rā tur | *scrī be re | *Cin nā. <br>*Nōn *scrī | bit *cui | ius || *car mi na | *nē mō | le git<br>",
+                "",
+                "Little verses against me it is said to write Cinna<div>Not he writes whose poems no one reads</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wPIQX;z^jT",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nil recitas - et vis, Mamerce, poeta videri.<br>Quidquid vis, esto - dummodo nil recites!<br>",
+                "Nīl recitās - et vīs, Māmerce, poēta vidērī. <br>Quidquid vīs, ēstō - dummodo nīl recitēs!&nbsp;<br>",
+                "*Nīl *re-ci-tās - *et *vīs, Mā-*mer-ce, po-*ē-ta vi-*dē-rī. <br>*Quid-quid *vīs, *ēs-tō - *dum-modo nīl *re-ci-tēs!&nbsp;<br>",
+                "*Nīl *re ci tā *set *vīs, Mā *mer ce, po *ē ta vi *dē rī. <br>*Quid quid *vīs *ēs tō &nbsp;&nbsp;*dum modo nīl *re ci tēs!&nbsp;<br>",
+                "*Nīl *re ci | tā *set | *vīs &nbsp;Mā | *mer ce, po | *ē ta vi | *dē rī. <br>*Quid quid | *vīs *ēs | tō || *dum modo | nīl *re ci | tēs!&nbsp;<br>",
+                "",
+                "Nothing you recite and you wish Mamerce a poet to be seen<div>Whatever you wish, be As long as nothing you recite!</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F>=j2it7ZP",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Spectatum veniunt, veniunt spectentur ut ipsae!<br>",
+                "Spectātum veniunt, veniunt spectentur ut ipsae!<br>",
+                "*Spec-tā-tum *ve-ni-unt, *ve-ni-unt spec-*ten-tur ut *ip-sae!<br>",
+                "*Spec tā tum *ve ni unt, *ve ni unt spec *ten tu ru *tip sae!<br>",
+                "*Spec tā | tum *ve ni | unt, *ve ni | unt spec | *ten tu ru | *tip sae!<br>",
+                "",
+                "To see they come, they come they should be seen themselves",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NhW=vP)IAN",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lūgēte, Ō Venerēs Cupīdinēsque<br>et quantum est hominum venustiōrum!&nbsp;<br><br>Passer mortuus est meae puellae,&nbsp;<br>passer, dēliciae meae puellae,&nbsp;<br>quem plūs illa oculīs suīs amābat;&nbsp;<br>nam mellītus erat suamque nōrat<br>ipsam tam bene quam puella mātrem,&nbsp;<br>nec sēsē ā gremiō illĭus movēbat,<br>sed circumsiliēns modo hūc modo illūc&nbsp;<br>ad sōlam dominam usque pīpiābat.&nbsp;<br><br>Quī nunc it per iter tenebricōsum<br>illūc unde negant redīre quemquam.<br><br>At vōbīs male sit, malae tenebrae&nbsp;<br>Orcī, quae omnia bella dēvorātis:<br>tam bellum mihi passerem abstulistis.&nbsp;<br><br>Ō factum male! Ō misellē passer!&nbsp;<br>Tuā nunc operā meae puellae&nbsp;<br>flendō turgidulī rubent ocellī!",
+                "Lūgēte, Ō Venerēs Cupīdinēsque<br>et quantum est hominum venustiōrum! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa oculīs suīs amābat; <br>nam mellītus erat suamque nōrat<br>ipsam tam bene quam puella mātrem, <br>nec sēsē ā gremiō illĭus movēbat,<br>sed circumsiliēns modo hūc modo illūc <br>ad sōlam dominam usque pīpiābat. <br><br>Quī nunc it per iter tenebricōsum<br>illūc unde negant redīre quemquam.<br> <br>At vōbīs male sit, malae tenebrae <br>Orcī, quae omnia bella dēvorātis:<br>tam bellum mihi passerem abstulistis. <br><br>Ō factum male! Ō misellē passer! <br>Tuā nunc operā meae puellae <br>flendō turgidulī rubent ocellī!<br>",
+                "",
+                "",
+                "Lū *gē | *tŌ&nbsp; Ve *ne | rēs &nbsp;Cu | pī di | *nēs que<br>*et *quan | *tus *to mi | num ve | nus ti | *ō rum <br><br>*Pas ser | *mor tu u | *sest *me | ae pu | *el lae <br>*pas ser | dē *li ci | ae *me | ae pu | *el lae <br>*quem *plū | *sil lo cu | līs *su | ī sa | *mā bat <br>*nam mel | *lī tu *se | rat su | *am que | *nō rat<br>*ip sam | *tam *be ne | *quam pu | *el la | *mā trem <br>*nec *sē | sā *gre mi | ōl *li | us mo | *vē bat<br>*sed cir | cum *si li | ēns *mo | *dūc *mo | *dil lūc <br>ad *sō | lam *do mi | nūs que | pī pi | *ā bat <br><br>*Quī *nun | *cit *pe *ri | ter te | neb ri | *cō sum<br>*il lū | *cun de *ne | gant re | *dī re | *quem quam.<br> <br>At *vō | bīs *ma le | *sit *ma | lae *te | neb rae <br>*Or cī | *quom ni a | *bel la | dē vo | *rā tis<br>*tam *bel | lum *mi hi | *pas se | rab stu | *lis tis. <br><br>*Ō *fac | tum *ma le | *Ō mi | *sel le | *pas ser <br>*Tū ā | nun *co pe | rā *me | ae pu | *el lae <br>*flen dō | tur *gi du | lī *ru | ben to | *cel lī!<br>",
+                "",
+                "Weep Venuses Cupids-and<div>and how many of men charming</div><div>Sparrow dead is of my girl&nbsp;</div><div>Sparrow beloved of my girl</div><div>Which more she than eyes her loved</div><div>for honey-sweet it was her-and knew</div><div>herself so well as girl mother</div><div>nor itself from lap of her it moved</div><div>but leapt around sometimes here sometimes there</div><div>to only mistress continuously chirped</div><div><br></div><div>Which now goes by road shadowy</div><div>to there from where they deny to come back anyone</div><div><br></div><div>But to you evil be, evil shades</div><div>of Orcus, which all nice things you devour</div><div>so nice to me sparrow you have stolen</div><div><br></div><div>Oh doing evil O wretched sparrow</div><div>your now by work my girl's</div><div>with weeping swollen redden eyes</div>",
+                "",
+                "Catullus 3"
+            ],
+            "flags": 0,
+            "guid": "kU-hh;1qU%",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Saepe meae \"Tandem\" dīxī \"discēde!\" puellae <br> -- in gremiō sēdit prōtinus illa meō! <br>Saepe \"Pudet\" dīxī. Lacrimīs vix illa retentīs <br>\"Mē miseram! Iam tē\" dīxit \"amāre pudet?\"<br><br>Implicuitque suōs circum mea colla lacertōs <br>  et, quae mē perdunt, ōscula mīlle dedit! <br>Vincor, et ingenium sūmptīs revocātur ab armīs<br>  rēsque domī gestās et mea bella canō.\"<br>",
+                "Saepe meae \"Tandem\" dīxī \"discēde!\" puellae <br> -- in gremiō sēdit prōtinus illa meō! <br>Saepe \"Pudet\" dīxī. Lacrimīs vix illa retentīs <br>\"Mē miseram! Iam tē\" dīxit \"amāre pudet?\"<br><br>Implicuitque suōs circum mea colla lacertōs <br> et, quae mē perdunt, ōscula mīlle dedit! <br>Vincor, et ingenium sūmptīs revocātur ab armīs<br>  rēsque domī gestās et mea bella canō.\"<br>",
+                "",
+                "",
+                "*Sae pe *me | ae *Tan | dem *dī | xī dis | *cē de pu | *el lae <br> &nbsp;in *gre mi | ō *sē | dit || *prō ti nu | *sil la *me | ō <br>*Sae pe *Pu | det *dī | xī *La cri | mīs *vic | *sil la re | *ten tīs <br>*Mē *mi se | ram *Iam | *tē || *dīc si ta | *mā re *pu | det<br><br>Im pli *cu | it que *su | ōs *cir | cum *me a | *col la la | *cer tōs <br> *et *quae | *mē *per | dunt || &nbsp;*ōs cu la | *mīl le *de | dit <br>*Vin co *re | tin *ge ni | um *sūmp | tīs re vo | *cā tu *ra | *bar mīs<br>  *rēs que *do | mī *ges | tās || *et *me a | *bel la *ca | nō<br>",
+                "[sound:ankidroid_audiorec1749513295.3gp]",
+                "",
+                "",
+                "Ovidius: Amōrēs II.18<br>"
+            ],
+            "flags": 0,
+            "guid": "rIF*1OPe|o",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nōn ego nōbilium sedeō studiōsus equōrum;<br> cui tamen ipsa favēs vincat ut ille precor. <br>Ut loquerer tēcum vēnī tēcumque sedērem, <br> nē tibi nōn nōtus quem facis esset amor. <br>Tū cursūs spectās ego tē - spectēmus uterque <br> &nbsp;quod iuvat, atque oculōs pāscat uterque suōs!<br>",
+                "Nōn ego nōbilium sedeō studiōsus equōrum;<br> cui tamen ipsa favēs vincat ut ille precor. <br>Ut loquerer tēcum vēnī tēcumque sedērem, <br> nē tibi nōn nōtus quem facis esset amor. <br>Tū cursūs spectās ego tē - spectēmus uterque <br> &nbsp;quod iuvat, atque oculōs pāscat uterque suōs!<br>",
+                "*Nōn *e-go nō-*bi-li-um *se-de-ō stu-di-*ō-sus e-*quō-rum;<br> *cui *ta-men *ip-sa *fa-vēs *vin-cat *ut *il-le *pre-cor. <br>*Ut lo-*que-rer *tē-cum *vē-nī tē-*cum-que se-*dē-rem, <br> *nē *ti-bi *nōn *nō-tus *quem *fa-cis *es-set *a-mor. <br>Tū *cur-sūs *spec-tās *e-go *tē - spec-*tē-mus u-*ter-que <br> &nbsp;*quod *iu-vat, *at-que *o-cu-lōs *pās-cat *u ter-que *su-ōs!<br>",
+                "*Nō *ne go nō *bi li um *se de ō stu di *ō su se *quō rum;<br> *cui *ta me *nip sa *fa vēs *vin ca *tu *til le *pre cor. <br>*Ut lo *que rer *tē cum *vē nī tē *cum que se *dē rem, <br> *nē *ti bi *nōn *nō tus *quem *fa ci *ses se *ta mor. <br>Tū *cur sūs *spec tā *se go *tē &nbsp;&nbsp;spec *tē mu su *ter que <br> &nbsp;*quod *iu va *tat que_*o cu lōs *pās ca *tu ter que *su ōs!<br>",
+                "*Nō *ne go | nō-*bi li | um *se de | ō stu di | *ō su se | *quō rum<br> *cui *ta me | *nip sa *fa | vēs || *vin ca *tu | *til le | *pre cor <br>*Ut lo *que | rer *tē | cum *vē | nī tē | *cum que se | *dē rem <br> *nē *ti bi | *nōn *nō | tus || *quem *fa ci | *ses se *ta | &nbsp;mor. <br>Tū *cur | sūs *spec | tā *se go | *tē spec | *tē mu su | *ter que <br> &nbsp;*quod *iu va | *tat que_*o cu | lōs &nbsp;|| *pās ca *tu | ter que *su ōs!<br>",
+                "",
+                "",
+                "",
+                "Ovidius: Amōrēs III.2"
+            ],
+            "flags": 0,
+            "guid": "PUfoHOy1p+",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quis fuit horrendōs prīmus quī prōtulit ēnsēs?<br>Quam ferus et vērē ferreus ille fuit!<br>Tum caedēs hominum generī, tum proelia nāta,<br>tum brevior dīrae mortis aperta via est!<br>",
+                "Quis fuit horrendōs prīmus quī prōtulit ēnsēs?<br>Quam ferus et vērē ferreus ille fuit!<br>Tum caedēs hominum generī, tum proelia nāta,<br>tum brevior dīrae mortis aperta via est!<br>",
+                "*Quis *fu-it hor-*ren-dōs *prī-mus *quī *prō-tu-lit *ēn-sēs?<br>*Quam *fe-ru-*set *vē-rē *fer-re-us *il-le fu-it!<br>*Tum *cae-dēs *ho-mi-num *ge-ne-rī, *tum *proe-li-a *nā-ta,<br>*tum *bre-vi-or *dī-rae *mor-tis a-*per-ta *vi-a *est!<br>",
+                "*Quis *fu it hor *ren dōs *prī mus *quī *prō tu lit *ēn sēs?<br>*Quam *fe ru *set *vē rē *fer re us *il le fu it!<br>*Tum *cae dēs *ho mi num *ge ne rī, *tum *proe li a *nā ta,<br>*tum *bre vi or *dī rae *mor ti sa *per ta *vi a_*est!<br>",
+                "*Quis *fu it | hor *ren | dōs *prī | mus *quī | *prō tu li | *tēn sēs?<br>*Quam *fe ru | *set *vē | rē || *fer re us | *il le fu | it!<br>*Tum *cae | dēs *ho mi | num *ge ne | rī *tum | *proe li a | *nā ta<br>*tum *bre vi | or *dī | rae || *mor ti sa | *per ta *vi | a_*est!<br>",
+                "[sound:ankidroid_audiorec493477128.3gp]",
+                "",
+                "",
+                "Tibullus 1.10.14"
+            ],
+            "flags": 0,
+            "guid": "vcOOe&:@FM",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vivamus, mea Lesbia, atque amemus,<br>rumoresque senum severiorum<br>omnes unius aestimemus assis!<br>Soles occidere et redire possunt ­<br>nobis, cum semel occidit brevis lux,<br>nox est perpetua una dormienda.<br>Da mi basia mille, deinde centum,<br>dein mille altera, dein secunda centum,<br>deinde usque altera mille, deinde centum!<br>Dein, cum milia multa fecerimus,<br>conturbabimus illa, ne sciamus,<br>aut ne quis malus invidere possit,<br>cum tantum sciat esse basiorum.<br>",
+                "Vīvāmus, mea Lesbia, atque amēmus, <br>rūmōrēsque senum sevēriōrum <br>omnēs ūnīus aestimēmus assīs! <br>Sōlēs occidēre et redīre possunt ­ <br>nōbīs, cum semel occidit brevis lūx, <br>nox est perpetua ūna dormienda. <br>Dā mī bāsia mīlle, deinde centum,<br>dein mīlle altera, dein secunda centum, <br>deinde ūsque altera mīlle, deinde centum! <br>Dein, cum mīlia multa fēcerīmus, <br>conturbābimus illa, nē sciāmus, <br>aut nē quis malus invidēre possit, <br>cum tantum sciat esse bāsiōrum.&nbsp;<br>",
+                "",
+                "",
+                "Vī *vā &nbsp;&nbsp;&nbsp;&nbsp;| mus *me a &nbsp;&nbsp;&nbsp;| *Les bi | *at qua | *mē mus <br>rū mō &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| *rēs que *se | num se | vē ri | *ō rum <br>*om nē &nbsp;&nbsp;&nbsp;&nbsp;| sū *ni u &nbsp;&nbsp;&nbsp;&nbsp;| saes ti | *mē mu | *sas sīs! <br>*Sō lēs &nbsp;&nbsp;&nbsp;| oc ci *de &nbsp;&nbsp;&nbsp;| ret re | *dī re | *pos sunt<br>*nō bīs &nbsp;&nbsp;&nbsp;| *cum *se me &nbsp;| *loc ci | dit *bre | vis *lūx <br>*noc *sest | per *pe tu &nbsp;&nbsp;| ū na | &nbsp;dor mi | *en da <br>*Dā *mī &nbsp;&nbsp;&nbsp;| *bā si a &nbsp;&nbsp;&nbsp;&nbsp;| *mīl le | *dein de | *cen tum<br>*dein *mīl | *lal te ra | *dein se | *cun da | *cen tum<br>*dein *dūs | *qual te ra | &nbsp;*mīl le | *dein de | *cen tum<br>*Dein *cum | *mī li a &nbsp;&nbsp;&nbsp;&nbsp;| *mul ta | fē ce | *rī mus<br>con tur &nbsp;&nbsp;&nbsp;| *bā bi mu &nbsp;&nbsp;&nbsp;| *sil la | *nē sci | *ā mus<br>*aut *nē &nbsp;&nbsp;| *quis *ma lu | sin vi | *dē re | *pos sit<br>*cum *tan &nbsp;| tum *sci a &nbsp;&nbsp;| *tes se | bā si | *ō rum<br>",
+                "",
+                "",
+                "",
+                "Catullus 5"
+            ],
+            "flags": 0,
+            "guid": "xn`_sthRo2",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "'Nulli se' dicit mulier mea 'nubere malle<br>&nbsp; &nbsp; quam mihi, non si se Iuppiter ipse petat!'<br>Dicit. Sed mulier cupido quod dicit amanti<br>&nbsp; &nbsp; in vento et rapida scribere oportet aqua!<br>",
+                "'Nūllī sē' dīcit mulier mea 'nūbere mālle &nbsp;<br>&nbsp; &nbsp; quam mihi, nōn sī sē Iuppiter ipse petat!' <br>Dīcit. Sed mulier cupidō quod dīcit amantī <br>&nbsp; &nbsp;in ventō et rapidā scrībere oportet aquā!&nbsp;<br>",
+                "",
+                "*Nūl lī *sē *dī cit *mu li er *me a *nū be re *māl le &nbsp;<br> &nbsp;*quam *mi hi *nōn *sī *sē *Iup pi te *rip se *pe tat <br>*dī cit *sed *mu li er *cu pi dō *quod *dī ci ta *man tī <br> &nbsp;*in *ven tō_*et *ra pi dā *scrī be re_o *por te *ta quā&nbsp;<br>",
+                "*Nūl lī | *sē *dī | cit *mu li | er *me a | *nū be re | *māl le &nbsp;<br> &nbsp;*quam *mi hi | *nōn *sī | *sē || *Iup pi te | *rip se *pe | tat <br>*dī cit | *sed *mu li | er *cu pi | dō *quod | *dī ci ta | *man tī <br> &nbsp;*in *ven | toet *ra pi | dā || *scrī be ro | *por te *ta | quā&nbsp;<br>",
+                "",
+                "",
+                "",
+                "Catullus 70"
+            ],
+            "flags": 0,
+            "guid": "H=`lN*@6{/",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Odi et amo! Quare id faciam, fortasse requiris?<br>Nescio ; sed fieri sentio - et excrucior!<br>",
+                "Ōdī et amō! Quārē id faciam, fortasse requīris? <br>Nesciō ; sed fierī sentiō - et excrucior!&nbsp;<br>",
+                "",
+                "*Ō dī_*e *ta mō! *Quā rē_*id *fa ci am for *tas se re *quī ris <br>*Nes ci o *sed *fi e rī *sen ti ō_*e tecs *cru ci or",
+                "*Ō *di *ta | mō! *Quā | rēd *fa ci | am for | *tas se re | *quī ris <br>*Nes ci o | *sed *fi e | rī || *sen ti *o | tec *scru ci | or&nbsp;<br>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g}Vlp5,Z./",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cenabis bene, mi Fabulle, apud me<br>paucis, si tibi di favent, diebus<br>si tecum attuleris bonam atque magnam<br>cenam, non sine candida puella<br>et vino et sale et omnibus cachinnis.<br>Haec si, inquam, attuleris, venuste noster,<br>cenabis bene - nam tui Catulli<br>plenus sacculus est aranearum!\"<br>",
+                "Cēnābis bene, mī Fabulle, apud mē <br>paucīs, sī tibi dī favent, diēbus <br>sī tēcum attuleris bonam atque magnam <br>cēnam, nōn sine candidā puellā <br>et vīnō et sale et omnibus cachinnīs. <br>Haec sī, inquam, attuleris, venuste noster,<br>cēnābis bene - nam tuī Catullī <br>plēnus sacculus est arāneārum!\"&nbsp;<br>",
+                "",
+                "Cē *nā bis *be ne *mī Fa *bul le_*a pud *mē&nbsp;<br>*pau cīs *sī *ti bi *dī *fa vent di *ē bus&nbsp;<br>*sī *tē *cu(m)at *tu le ris *bo na(m)*at que *mang nam&nbsp;<br>*cē nam *nōn *si ne *can di dā pu *el lā&nbsp;<br>*et *vī nō_et *sa le_e *tom ni bus ca *chin nīs.&nbsp;<br>*Haec *sī_in qua(m)at *tu le ris ve *nus te *nos ter<br>cē *nā bis *be ne *nam *tu ī Ca *tul lī&nbsp;<br>*plē nus *sac cu lu *ses ta rā ne *ā rum&nbsp;",
+                "Cē *nā | bis *be ne | *mī Fa | *bul la | pud *mē <br>*pau cīs | *sī *ti bi | *dī *fa | vent di | *ē bus <br>*sī *tē | *cat *tu le | ris *bo | *nat que | *mang nam <br>*cē nam | *nōn *si ne | *can di | dā pu | *el lā <br>*et *vī | nōet *sa le | *tom ni | bus ca | *chin nīs. <br>*Haec *sīn | quat *tu le | ris ve | *nus te | *nos ter<br>cē *nā | bis *be ne | *nam *tu | ī Ca | *tul lī <br>*plē nus | *sac cu lu | *ses ta | rā ne | *ā rum&nbsp;<br>",
+                "",
+                "",
+                "",
+                "Catullus 13"
+            ],
+            "flags": 0,
+            "guid": "iTpw9k+;L^",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Laudat, amat, cantat nostros mea Roma libellos,<br>&nbsp; &nbsp;meque sinus omnes, me manus omnis habet.<br>Ecce rubet quidam, pallet, stupet, oscitat, odit.<br>&nbsp; &nbsp;Hoc volo: nunc nobis carmina nostra placent.<br>",
+                "Laudat, amat, cantat nostrōs mea Rōma libellōs, <br>&nbsp; &nbsp; mēque sinūs omnēs, mē manūs omnis habet. <br>Ecce rubet quīdam, pallet, stupet, ōscitat, ōdit. <br>&nbsp; &nbsp; Hoc volō: nunc nōbīs carmina nostra placent.<br>",
+                "",
+                "*Lau da *ta mat *can tat *nos trōs *me a *Rō ma li *bel lōs <br>*mē que *si nū *som nēs *mē *ma nūs *om nis *ha bet <br>*Ec ce *ru bet *quī dam *pal let *stu pe *tōs ci ta *tō dit <br>*Hoc *vo lō *nunc *nō bīs *car mi na *nos tra *pla cent<br>",
+                "*Lau da *ta | mat *can | tat *nos | trōs *me a | *Rō ma li | *bel lōs <br>*mē que *si | nū *som | nēs || *mē *ma nu | *som ni s*ha | bet <br>*Ec ce *ru | bet *quī | dam *pal | let *stu pe | *tōs ci ta | *tō dit <br>*Hoc *vo lo | *nunc *nō | bīs || *car mi na | *nos tra | *pla cent<br>",
+                "",
+                "she praises, she loves, she sings our my Rome books<div>me-and folds all&nbsp; me hand of all has</div><div>See reddens a certain one pales is stunned kisses hates</div><div>This I want now for us poems ours they please</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hR@AG;3Cug",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
+            "tags": [
+                "cap34"
+            ]
+        }
+    ]
+}
