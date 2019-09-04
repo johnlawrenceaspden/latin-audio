@@ -55,27 +55,27 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "ankidroid_audiorec1032501942.3gp",
-        "ankidroid_audiorec1096098993.3gp",
-        "ankidroid_audiorec1408024258.3gp",
-        "ankidroid_audiorec1718853179.3gp",
+        "ankidroid_audiorec1032501942.mp3",
+        "ankidroid_audiorec1096098993.mp3",
+        "ankidroid_audiorec1408024258.mp3",
+        "ankidroid_audiorec1718853179.mp3",
         "ankidroid_audiorec1749513295.mp3",
-        "ankidroid_audiorec1889242172.3gp",
+        "ankidroid_audiorec1889242172.mp3",
         "ankidroid_audiorec2124081096.mp3",
-        "ankidroid_audiorec411793053.3gp",
-        "ankidroid_audiorec423793385.3gp",
-        "ankidroid_audiorec445444972.3gp",
+        "ankidroid_audiorec411793053.mp3",
+        "ankidroid_audiorec423793385.mp3",
+        "ankidroid_audiorec445444972.mp3",
         "ankidroid_audiorec493477128.mp3",
         "ankidroid_audiorec508388929.mp3",
         "ankidroid_audiorec606158391.mp3",
-        "ankidroid_audiorec70960609.3gp",
+        "ankidroid_audiorec70960609.mp3",
         "ankidroid_audiorec728960329.mp3",
-        "ankidroid_audiorec738074951.3gp",
-        "ankidroid_audiorec740251448.3gp",
-        "ankidroid_audiorec758673055.3gp",
-        "ankidroid_audiorec824388501.3gp",
-        "ankidroid_audiorec909669275.3gp",
-        "ankidroid_audiorec911599255.3gp"
+        "ankidroid_audiorec738074951.mp3",
+        "ankidroid_audiorec740251448.mp3",
+        "ankidroid_audiorec758673055.mp3",
+        "ankidroid_audiorec824388501.mp3",
+        "ankidroid_audiorec909669275.mp3",
+        "ankidroid_audiorec911599255.mp3"
     ],
     "name": "Latin::Latin Poetry",
     "note_models": [
@@ -270,7 +270,7 @@
                 "*Nes-ci-ō *tam *mul-tīs *quid *scrī-bās *Faus-tē, *pu-el-līs. <br>*Hoc *sci-ō: *quod *scrī-bit *nūl-la *pu-el-la *ti-bi!",
                 "*Nes ci ō *tam *mul tīs *quid *scrī bās *Faus tē, *pu el līs <br>*Hoc *sci ō *quod *scrī bit *nūl la *pu el la *ti bi",
                 "*Nes ci ō | *tam *mul | tīs *quid | *scrī bās | *Faus te *pu | el līs <br>*Hoc *sci o | *quod *scrī | bit || *nūl la *pu | el la *ti | bi",
-                "[sound:ankidroid_audiorec411793053.3gp]",
+                "[sound:ankidroid_audiorec411793053.mp3]",
                 "",
                 "",
                 "Martial III.64"
@@ -354,7 +354,7 @@
                 "*Spec-tā-tum *ve-ni-unt, *ve-ni-unt spec-*ten-tur ut *ip-sae!<br>",
                 "*Spec tā tum *ve ni unt, *ve ni unt spec *ten tu ru *tip sae!<br>",
                 "*Spec tā | tum *ve ni | unt, *ve ni | unt spec | *ten tu ru | *tip sae!<br>",
-                "[sound:ankidroid_audiorec423793385.3gp]",
+                "[sound:ankidroid_audiorec423793385.mp3]",
                 "To see they come, they come they should be seen themselves",
                 "",
                 ""
@@ -375,7 +375,7 @@
                 "",
                 "",
                 "Lū *gē | *tŌ&nbsp; Ve *ne | rēs &nbsp;Cu | pī di | *nēs que<br>*et *quan | *tus *to mi | num ve | nus ti | *ō rum <br><br>*Pas ser | *mor tu u | *sest *me | ae pu | *el lae <br>*pas ser | dē *li ci | ae *me | ae pu | *el lae <br>*quem *plū | *sil lo cu | līs *su | ī sa | *mā bat <br>*nam mel | *lī tu *se | rat su | *am que | *nō rat<br>*ip sam | *tam *be ne | *quam pu | *el la | *mā trem <br>*nec *sē | sā *gre mi | ōl *li | us mo | *vē bat<br>*sed cir | cum *si li | ēns *mo | *dūc *mo | *dil lūc <br>ad *sō | lam *do mi | nūs que | pī pi | *ā bat <br><br>*Quī *nun | *cit *pe *ri | ter te | neb ri | *cō sum<br>*il lū | *cun de *ne | gant re | *dī re | *quem quam.<br> <br>At *vō | bīs *ma le | *sit *ma | lae *te | neb rae <br>*Or cī | *quom ni a | *bel la | dē vo | *rā tis<br>*tam *bel | lum *mi hi | *pas se | rab stu | *lis tis. <br><br>*Ō *fac | tum *ma le | *Ō mi | *sel le | *pas ser <br>*Tū ā | nun *co pe | rā *me | ae pu | *el lae <br>*flen dō | tur *gi du | lī *ru | ben to | *cel lī!<br>",
-                "[sound:ankidroid_audiorec1889242172.3gp]",
+                "[sound:ankidroid_audiorec1889242172.mp3]",
                 "Weep Venuses Cupids-and<div>and how many of men charming</div><div>Sparrow dead is of my girl&nbsp;</div><div>Sparrow beloved of my girl</div><div>Which more she than eyes her loved</div><div>for honey-sweet it was her-and knew</div><div>herself so well as girl mother</div><div>nor itself from lap of her it moved</div><div>but leapt around sometimes here sometimes there</div><div>to only mistress continuously chirped</div><div><br></div><div>Which now goes by road shadowy</div><div>to there from where they deny to come back anyone</div><div><br></div><div>But to you evil be, evil shades</div><div>of Orcus, which all nice things you devour</div><div>so nice to me sparrow you have stolen</div><div><br></div><div>Oh doing evil O wretched sparrow</div><div>your now by work my girl's</div><div>with weeping swollen redden eyes</div>",
                 "",
                 "Catullus 3"
@@ -417,7 +417,7 @@
                 "*Nōn *e-go nō-*bi-li-um *se-de-ō stu-di-*ō-sus e-*quō-rum;<br> *cui *ta-men *ip-sa *fa-vēs *vin-cat *ut *il-le *pre-cor. <br>*Ut lo-*que-rer *tē-cum *vē-nī tē-*cum-que se-*dē-rem, <br> *nē *ti-bi *nōn *nō-tus *quem *fa-cis *es-set *a-mor. <br>Tū *cur-sūs *spec-tās *e-go *tē - spec-*tē-mus u-*ter-que <br> *quod *iu-vat, *at-que *o-cu-lōs *pās-cat *u ter-que *su-ōs!<br>",
                 "*Nō *ne go nō *bi li um *se de ō stu di *ō su se *quō rum;<br> *cui *ta me *nip sa *fa vēs *vin ca *tu *til le *pre cor. <br>*Ut lo *que rer *tē cum *vē nī tē *cum que se *dē rem, <br> *nē *ti bi *nōn *nō tus *quem *fa ci *ses se *ta mor. <br>Tū *cur sūs *spec tā *se go *tē spec *tē mu su *ter que <br>  *quod *iu va *tat que_*o cu lōs *pās ca *tu ter que *su ōs!<br>",
                 "*Nō *ne go | nō *bi li | um *se de | ō stu di | *ō su se | *quō rum<br> *cui *ta me | *nip sa *fa | vēs || *vin ca *tu | *til le | *pre cor <br>*Ut lo *que | rer *tē | cum *vē | nī tē | *cum que se | *dē rem <br> *nē *ti bi | *nōn *nō | tus || *quem *fa ci | *ses se *ta | mor. <br>Tū *cur | sūs *spec | tā *se go | *tē spec | *tē mu su | *ter que<br>    *quod *iu va | *tat quo cu | lōs || *pās ca *tu | ter que *su ōs!",
-                "[sound:ankidroid_audiorec1032501942.3gp]",
+                "[sound:ankidroid_audiorec1032501942.mp3]",
                 "",
                 "",
                 "Ovidius: Amōrēs III.2"
@@ -459,7 +459,7 @@
                 "",
                 "",
                 "Vī *vā | mus *me a | *Les bi | *at qua | *mē mus <br>rū mō | *rēs que *se | num se | vē ri | *ō rum <br>*om nē | sū *ni u | saes ti | *mē mu | *sas sīs! <br>*Sō lēs | oc ci *de &nbsp;&nbsp;&nbsp;| ret re | *dī re | *pos sunt<br>*nō bīs &nbsp;&nbsp;&nbsp;| *cum *se me &nbsp;| *loc ci | dit *bre | vis *lūx <br>*noc *sest | per *pe tu &nbsp;&nbsp;| ū na | &nbsp;dor mi | *en da <br>*Dā *mī &nbsp;&nbsp;&nbsp;| *bā si a &nbsp;&nbsp;&nbsp;&nbsp;| *mīl le | *dein de | *cen tum<br>*dein *mīl | *lal te ra | *dein se | *cun da | *cen tum<br>*dein *dus | *qual te ra | &nbsp;*mīl le | *dein de | *cen tum<br>*Dein *cum | *mī li a &nbsp;&nbsp;&nbsp;&nbsp;| *mul ta | fē ce | *rī mus<br>con tur &nbsp;&nbsp;&nbsp;| *bā bi mu &nbsp;&nbsp;&nbsp;| *sil la | *nē sci | *ā mus<br>*aut *nē &nbsp;&nbsp;| *quis *ma lu | sin vi | *dē re | *pos sit<br>*cum *tan &nbsp;| tum *sci a &nbsp;&nbsp;| *tes se | bā si | *ō rum<br>",
-                "[sound:ankidroid_audiorec1408024258.3gp]",
+                "[sound:ankidroid_audiorec1408024258.mp3]",
                 "",
                 "",
                 "Catullus 5"
@@ -480,7 +480,7 @@
                 "",
                 "*Nūl lī *sē *dī cit *mu li er *me a *nū be re *māl le &nbsp;<br> &nbsp;*quam *mi hi *nōn *sī *sē *Iup pi te *rip se *pe tat <br>*dī cit *sed *mu li er *cu pi dō *quod *dī ci ta *man tī <br> &nbsp;*in *ven tō_*et *ra pi dā *scrī be re_o *por te *ta quā&nbsp;<br>",
                 "*Nūl lī | *sē *dī | cit *mu li | er *me a | *nū be re | *māl le &nbsp;<br> &nbsp;*quam *mi hi | *nōn *sī | *sē || *Iup pi te | *rip se *pe | tat <br>*dī cit | *sed *mu li | er *cu pi | dō *quod | *dī ci ta | *man tī <br> &nbsp;*in *ven | toet *ra pi | dā || *scrī be ro | *por te *ta | quā&nbsp;<br>",
-                "[sound:ankidroid_audiorec758673055.3gp]",
+                "[sound:ankidroid_audiorec758673055.mp3]",
                 "",
                 "",
                 "Catullus 70"
@@ -501,7 +501,7 @@
                 "",
                 "*Ō dī_*e *ta mō! *Quā rē_*id *fa ci am for *tas se re *quī ris <br>*Nes ci o *sed *fi e rī *sen ti ō_*e tecs *cru ci or",
                 "*Ō *di *ta | mō! *Quā | rēd *fa ci | am for | *tas se re | *quī ris <br>*Nes ci o | *sed *fi e | rī || *sen ti *o | tec *scru ci | or&nbsp;<br>",
-                "[sound:ankidroid_audiorec740251448.3gp]",
+                "[sound:ankidroid_audiorec740251448.mp3]",
                 "",
                 "",
                 ""
@@ -522,7 +522,7 @@
                 "",
                 "Cē *nā bis *be ne *mī Fa *bul le_*a pud *mē&nbsp;<br>*pau cīs *sī *ti bi *dī *fa vent di *ē bus&nbsp;<br>*sī *tē *cu(m)at *tu le ris *bo na(m)*at que *mang nam&nbsp;<br>*cē nam *nōn *si ne *can di dā pu *el lā&nbsp;<br>*et *vī nō_et *sa le_e *tom ni bus ca *chin nīs.&nbsp;<br>*Haec *sī_in qua(m)at *tu le ris ve *nus te *nos ter<br>cē *nā bis *be ne *nam *tu ī Ca *tul lī&nbsp;<br>*plē nus *sac cu lu *ses ta rā ne *ā rum&nbsp;",
                 "Cē *nā | bis *be ne | *mī Fa | *bul la | pud *mē <br>*pau cīs | *sī *ti bi | *dī *fa | vent di | *ē bus <br>*sī *tē | *cat *tu le | ris *bo | *nat que | *mang nam <br>*cē nam | *nōn *si ne | *can di | dā pu | *el lā <br>*et *vī | nōet *sa le | *tom ni | bus ca | *chin nīs. <br>*Haec *sīn | quat *tu le | ris ve | *nus te | *nos ter<br>cē *nā | bis *be ne | *nam *tu | ī Ca | *tul lī <br>*plē nus | *sac cu lu | *ses ta | rā ne | *ā rum&nbsp;<br>",
-                "[sound:ankidroid_audiorec909669275.3gp]",
+                "[sound:ankidroid_audiorec909669275.mp3]",
                 "<div>You will dine well my Fabullus with me</div><div>in a few if to you gods favour, days</div><div>if with you you will have brought good and big</div><div>dinner, not without shining white girl</div><div>and wine and wit and all laughter</div><div>these things if I say you will have brought, charming our</div><div>you will dine well - for your Catullus's</div><div>full wallet is of spiders/webs</div>",
                 "",
                 "Catullus 13"
@@ -543,7 +543,7 @@
                 "",
                 "*Lau da *ta mat *can tat *nos trōs *me a *Rō ma li *bel lōs <br>*mē que *si nū *som nēs *mē *ma nūs *om nis *ha bet <br>*Ec ce *ru bet *quī dam *pal let *stu pe *tōs ci ta *tō dit <br>*Hoc *vo lō *nunc *nō bīs *car mi na *nos tra *pla cent<br>",
                 "*Lau da *ta | mat *can | tat *nos | trōs *me a | *Rō ma li | *bel lōs <br>*mē que *si | nū *som | nēs || *mē *ma nu | *som ni s*ha | bet <br>*Ec ce *ru | bet *quī | dam *pal | let *stu pe | *tōs ci ta | *tō dit <br>*Hoc *vo lo | *nunc *nō | bīs || *car mi na | *nos tra | *pla cent<br>",
-                "[sound:ankidroid_audiorec1718853179.3gp]",
+                "[sound:ankidroid_audiorec1718853179.mp3]",
                 "she praises, she loves, she sings our my Rome books<div>me-and folds all&nbsp; me hand of all has</div><div>See reddens a certain one pales is stunned kisses hates</div><div>This I want now for us poems ours they please</div>",
                 "",
                 ""
@@ -564,7 +564,7 @@
                 "",
                 "",
                 "*Thā i sha | bet *nig | rōs *ni ve | ōs Lae | *cā ni a | *den tēs. <br>*Quae *ra ti | *ōs *tĒmp | tōs || *haec *ha be | *til la *su | ōs!&nbsp;<br>",
-                "[sound:ankidroid_audiorec1096098993.3gp]",
+                "[sound:ankidroid_audiorec1096098993.mp3]",
                 "",
                 "",
                 ""
@@ -606,7 +606,7 @@
                 "",
                 "",
                 "*Nū be re | *Pau la *cu | pit *nō | bī *se go | *dū ce re | *Pau lam <br>*nō *la nu | *sest *vel | lem || *sī *ma gi | *ses se *ta | nus",
-                "[sound:ankidroid_audiorec445444972.3gp]",
+                "[sound:ankidroid_audiorec445444972.mp3]",
                 "",
                 "",
                 ""
@@ -627,7 +627,7 @@
                 "",
                 "",
                 "*Dī cis | fōr *mō | sam *dī | cis *tē | *Bas sa pu | *el lam <br>*Is tud | *quae *nō | *nest || *dī ce re | *Bas sa *so | let",
-                "[sound:ankidroid_audiorec824388501.3gp]",
+                "[sound:ankidroid_audiorec824388501.mp3]",
                 "",
                 "",
                 "Martial V.45"
@@ -648,7 +648,7 @@
                 "",
                 "",
                 "*Sem per | *pau pe *re | ris *sī | *pau pe *re | *sAe mi li | *ā nē <br>*Dan tu *ro | pēs *nūl | līs || *nunc *ni si | dī *vi ti | bus.&nbsp;<br>",
-                "[sound:ankidroid_audiorec738074951.3gp]",
+                "[sound:ankidroid_audiorec738074951.mp3]",
                 "",
                 "",
                 "Martial V.81"
@@ -669,7 +669,7 @@
                 "",
                 "",
                 "Ā *mis | sum *nōn | *flet *cum | *sō *lest | *Gel li a | *pat rem <br>*sī *qui *sa | dest *ius sae || prō *si li | unt *la cri | mae <br>*Nōn *lū | get *quis | quis lau | *dā rī | *Gel li a | *quae rit<br>*il le *do | let *vē | rē || *quī *si ne | *tes te *do | let",
-                "[sound:ankidroid_audiorec911599255.3gp]",
+                "[sound:ankidroid_audiorec911599255.mp3]",
                 "lost not cries when alone is Gellia father<div>if anyone is present bidden spring forth tears</div><div>not mourns whoever to be praised Gellia seeks</div><div>he hurts truly who without witness hurts</div>",
                 "",
                 "Martial I.33"
@@ -690,7 +690,7 @@
                 "",
                 "",
                 "*Cui lē | *gis se *sa | tis *nōn | *es te pi | *gram ma ta | *cen tum <br>*nīl *il | lī *sa ti | *sest || Cae di ci | *ā ne *ma | lī",
-                "[sound:ankidroid_audiorec70960609.3gp]",
+                "[sound:ankidroid_audiorec70960609.mp3]",
                 "who to have read enough not is epigrams hundred<div>nothing to him enough is Caedicianus of badness</div>",
                 "",
                 "Martial I.118"

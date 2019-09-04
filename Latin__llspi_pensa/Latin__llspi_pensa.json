@@ -138,7 +138,7 @@
         "ankidroid_audiorec1822711848.mp3",
         "ankidroid_audiorec1834799625.mp3",
         "ankidroid_audiorec1835914158.mp3",
-        "ankidroid_audiorec1844426104.3gp",
+        "ankidroid_audiorec1844426104.mp3",
         "ankidroid_audiorec185824196.mp3",
         "ankidroid_audiorec1860980809.mp3",
         "ankidroid_audiorec1866171535.mp3",
@@ -202,7 +202,7 @@
         "ankidroid_audiorec449483554.mp3",
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
-        "ankidroid_audiorec507074086.3gp",
+        "ankidroid_audiorec507074086.mp3",
         "ankidroid_audiorec517301445.mp3",
         "ankidroid_audiorec527143567.mp3",
         "ankidroid_audiorec527312973.mp3",
@@ -224,7 +224,7 @@
         "ankidroid_audiorec646209912.mp3",
         "ankidroid_audiorec650620565.mp3",
         "ankidroid_audiorec655375320.mp3",
-        "ankidroid_audiorec679145539.3gp",
+        "ankidroid_audiorec679145539.mp3",
         "ankidroid_audiorec682450713.mp3",
         "ankidroid_audiorec695186310.mp3",
         "ankidroid_audiorec72830303.mp3",
@@ -2224,7 +2224,7 @@
             "data": "",
             "fields": [
                 "Difficile est {{c2::beneficiōrum}}  {{c1::meminisse}}.",
-                "[sound:ankidroid_audiorec507074086.3gp]"
+                "[sound:ankidroid_audiorec507074086.mp3]"
             ],
             "flags": 0,
             "guid": "Hcrf=s{Gh7",
@@ -2407,9 +2407,9 @@
             "data": "",
             "fields": [
                 "Cūr Mēdus etiamnunc perterritus est?",
-                "[sound:ankidroid_audiorec679145539.3gp]",
+                "[sound:ankidroid_audiorec679145539.mp3]",
                 "Mēdus timet nē ā mīlitibus capiātur.",
-                "[sound:ankidroid_audiorec1844426104.3gp]"
+                "[sound:ankidroid_audiorec1844426104.mp3]"
             ],
             "flags": 0,
             "guid": "s($ZNE8O75",
