@@ -1295,9 +1295,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "moneō, monēre, monuī, monitum[sound:moneo.mp3]",
+                "moneō, monēre, monuī, monitum",
                 "to remind, advise, warn",
-                "",
+                "[sound:moneo.mp3]",
                 "",
                 "",
                 "",
@@ -3309,7 +3309,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>sī quandō</div>",
+                "sī quandō",
                 "if ever",
                 "[sound:si quando.mp3]",
                 "",
@@ -3701,8 +3701,7 @@
             "guid": "psx}s0gT}:",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-6",
-                "marked"
+                "Chapter-6"
             ]
         },
         {
@@ -3747,7 +3746,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>-que</div>",
+                "-que",
                 "(enclitic) and ",
                 "[sound:que.mp3]",
                 "",

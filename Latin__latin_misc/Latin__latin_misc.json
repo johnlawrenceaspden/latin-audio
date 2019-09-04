@@ -62,6 +62,7 @@
         "ankidroid_audiorec1244829549.mp3",
         "ankidroid_audiorec1293975886.mp3",
         "ankidroid_audiorec1362545299.mp3",
+        "ankidroid_audiorec1388732796.3gp",
         "ankidroid_audiorec139826522.mp3",
         "ankidroid_audiorec1433927221.mp3",
         "ankidroid_audiorec1434398023.mp3",
@@ -72,6 +73,7 @@
         "ankidroid_audiorec1573955468.mp3",
         "ankidroid_audiorec1576308537.mp3",
         "ankidroid_audiorec1578169482.mp3",
+        "ankidroid_audiorec1608999117.3gp",
         "ankidroid_audiorec1648961998.mp3",
         "ankidroid_audiorec1684993130.mp3",
         "ankidroid_audiorec1695762459.mp3",
@@ -89,6 +91,7 @@
         "ankidroid_audiorec204651044.mp3",
         "ankidroid_audiorec207502509.mp3",
         "ankidroid_audiorec2077816925.mp3",
+        "ankidroid_audiorec2112538712.3gp",
         "ankidroid_audiorec2125598793.mp3",
         "ankidroid_audiorec240891741.mp3",
         "ankidroid_audiorec281336224.mp3",
@@ -104,6 +107,7 @@
         "ankidroid_audiorec570171787.mp3",
         "ankidroid_audiorec585687543.mp3",
         "ankidroid_audiorec596699706.mp3",
+        "ankidroid_audiorec606420325.3gp",
         "ankidroid_audiorec617338681.mp3",
         "ankidroid_audiorec67821746.mp3",
         "ankidroid_audiorec682514073.mp3",
@@ -323,7 +327,7 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap16"
+                "cap34"
             ],
             "tmpls": [
                 {
@@ -1226,7 +1230,7 @@
             "data": "",
             "fields": [
                 "Aemilia: \"Nōn omnēs {{c1::vērī}} sunt rūmōrēs quī {{c2::afferuntur}} {{c3::super}} {{c4::Chrīstiānīs}}.\"",
-                ""
+                "[sound:ankidroid_audiorec606420325.3gp]"
             ],
             "flags": 0,
             "guid": "HIZn@vF;59",
@@ -1240,7 +1244,7 @@
             "data": "",
             "fields": [
                 "Tum vērō ventus cadere incipit! Iam flūctūs {{c1::nōn tantī}} sunt {{c2::quantī}} {{c3::paulō ante}}",
-                ""
+                "[sound:ankidroid_audiorec1388732796.3gp]"
             ],
             "flags": 0,
             "guid": "c|l^1PKRVh",
@@ -1254,13 +1258,27 @@
             "data": "",
             "fields": [
                 "{{c2::Paulō}} {{c1::post}} nihil ā nāve {{c3::cernitur}} {{c4::praeter}} {{c5::mare et caelum}}.<br>",
-                ""
+                "[sound:ankidroid_audiorec1608999117.3gp]"
             ],
             "flags": 0,
             "guid": "AR1j1afAf0",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ab omnibus {{c1::rogātus}} ut epigrammata {{c2::recitet}}, Cornēlius libellum {{c3::ēvolvit}}",
+                "[sound:ankidroid_audiorec2112538712.3gp]"
+            ],
+            "flags": 0,
+            "guid": "HxbKifaX*9",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
             ]
         }
     ]

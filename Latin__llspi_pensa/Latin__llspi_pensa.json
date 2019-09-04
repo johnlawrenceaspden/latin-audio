@@ -138,6 +138,7 @@
         "ankidroid_audiorec1822711848.mp3",
         "ankidroid_audiorec1834799625.mp3",
         "ankidroid_audiorec1835914158.mp3",
+        "ankidroid_audiorec1844426104.3gp",
         "ankidroid_audiorec185824196.mp3",
         "ankidroid_audiorec1860980809.mp3",
         "ankidroid_audiorec1866171535.mp3",
@@ -201,6 +202,7 @@
         "ankidroid_audiorec449483554.mp3",
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
+        "ankidroid_audiorec507074086.3gp",
         "ankidroid_audiorec517301445.mp3",
         "ankidroid_audiorec527143567.mp3",
         "ankidroid_audiorec527312973.mp3",
@@ -222,6 +224,7 @@
         "ankidroid_audiorec646209912.mp3",
         "ankidroid_audiorec650620565.mp3",
         "ankidroid_audiorec655375320.mp3",
+        "ankidroid_audiorec679145539.3gp",
         "ankidroid_audiorec682450713.mp3",
         "ankidroid_audiorec695186310.mp3",
         "ankidroid_audiorec72830303.mp3",
@@ -290,7 +293,7 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap16"
+                "cap34"
             ],
             "tmpls": [
                 {
@@ -1602,7 +1605,7 @@
             "fields": [
                 "Quamobrem Midās famē et sitī cruciābātur?",
                 "[sound:ankidroid_audiorec484290379.mp3]",
-                "Midās famē et sitī cruciābātur quia quidquid tetigerat rex in aurum mūtābātur.",
+                "Midās famē et sitī cruciābātur quia quidquid tetigerat rēx in aurum mūtābātur.",
                 "[sound:ankidroid_audiorec1821471230.mp3]"
             ],
             "flags": 0,
@@ -2100,7 +2103,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Priusquam Pompēius, dux {{c1::ēgregius}}, {{c2::classī}} Rōmānae praepositus est, {{c3::cūncta}} maria {{c4::īnfēsta}} erant praedōnibus, quī Rōmānōs ita {{c5::contemnēbant}} ut etiam portūs Italiae {{c6::oppugnārent}}.<br>",
+                "Priusquam Pompēius, dux {{c1::ēgregius}}, {{c2::classī}} Rōmānae {{c7::praepositus est}}, {{c3::cūncta}} maria {{c4::īnfēsta}} erant praedōnibus, quī Rōmānōs ita {{c5::contemnēbant}} ut etiam portūs Italiae {{c6::oppugnārent}}.<br>",
                 "[sound:ankidroid_audiorec1414579712.mp3]"
             ],
             "flags": 0,
@@ -2220,8 +2223,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Difficile est beneficiōrum {{c1::meminisse}}.&nbsp;<br>",
-                ""
+                "Difficile est {{c2::beneficiōrum}}  {{c1::meminisse}}.",
+                "[sound:ankidroid_audiorec507074086.3gp]"
             ],
             "flags": 0,
             "guid": "Hcrf=s{Gh7",
@@ -2403,10 +2406,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Cūr Mēdus etiamnunc perterritus est?<br>",
-                "",
-                "Mēdus timet nē ā mīlitibus capiātur.<br>",
-                ""
+                "Cūr Mēdus etiamnunc perterritus est?",
+                "[sound:ankidroid_audiorec679145539.3gp]",
+                "Mēdus timet nē ā mīlitibus capiātur.",
+                "[sound:ankidroid_audiorec1844426104.3gp]"
             ],
             "flags": 0,
             "guid": "s($ZNE8O75",
