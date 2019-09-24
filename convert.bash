@@ -20,12 +20,12 @@ done
 # catch all the cases where this has happened and re-convert them
 for i in $(find . -name "*.mp3"); do
     if [[ $(file -b "$i") == "ISO Media, MPEG v4 system, 3GPP" ]] ; then
-    echo "$i" ;
-    file "$i"
-    j="${i/mp3/really.mp3}";
-    echo "$j"
-    ffmpeg -i "$i" -c:a libmp3lame "$j"
-    mv "$j" "$i"
+        echo "$i" ;
+        file "$i"
+        j="${i/mp3/really.mp3}";
+        echo "$j"
+        ffmpeg -i "$i" -c:a libmp3lame "$j"
+        mv "$j" "$i"
     fi
 done
 
