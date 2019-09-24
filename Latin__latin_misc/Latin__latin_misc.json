@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 9999,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -79,6 +79,8 @@
         "ankidroid_audiorec1695762459.mp3",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1728267003.mp3",
+        "ankidroid_audiorec1746804029.3gp",
+        "ankidroid_audiorec1748058840.3gp",
         "ankidroid_audiorec1774313981.mp3",
         "ankidroid_audiorec181499073.mp3",
         "ankidroid_audiorec1836493504.mp3",
@@ -326,9 +328,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
-            "tags": [
-                "cap34"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -397,7 +397,9 @@
             "flags": 0,
             "guid": "Fgh8F",
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
-            "tags": []
+            "tags": [
+                "marked"
+            ]
         },
         {
             "__type__": "Note",
@@ -629,7 +631,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "agō: agam",
+                "agō: agam (coni)",
                 "*a-gam, *a-gās, *a-gat; a-*gā-mus, a-*gā-tis, *a-gant",
                 "[sound:ankidroid_audiorec51484233.mp3]"
             ],
@@ -1187,14 +1189,15 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Lūgēte}}, Ō Venerēs {{c2::Cupīdinēsque}}<br>et quantum est hominum {{c3::venustiōrum}}! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa {{c4::oculīs suīs}} amābat; <br>nam {{c5::mellītus}} erat {{c6::suamque nōrat}}<br>ipsam tam bene quam puella {{c7::mātrem}}, <br>nec sēsē ā gremiō {{c8::illĭus}} movēbat,<br>sed {{c9::circumsiliēns}} modo hūc modo illūc <br>ad {{c11::sōlam dominam}} usque {{c10::pīpiābat}}. <br><br>Quī nunc it per iter {{c12::tenebricōsum}}<br>illūc unde {{c14::negant}} redīre {{c13::quemquam}}.<br> <br>At {{c15::vōbīs}} male sit, malae tenebrae <br>{{c16::Orcī}}, quae omnia bella {{c17::dēvorātis}}:<br>tam bellum mihi passerem {{c18::abstulistis}}. <br><br>Ō factum male! Ō misellē passer! <br>Tuā nunc operā meae puellae <br>{{c19::flendō}} {{c20::turgidulī}} rubent ocellī!<br><br>[{{c21::Catullus 3}}]",
+                "{{c1::Lūgēte}}, Ō Venerēs {{c2::Cupīdinēsque}}<br>et quantum est hominum {{c3::venustiōrum}}! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa {{c4::oculīs suīs}} amābat; <br>nam {{c5::mellītus}} erat {{c6::suamque nōrat}}<br>ipsam tam bene quam puella {{c7::mātrem}}, <br>nec sēsē ā gremiō {{c8::illĭus}} movēbat,<br>sed {{c9::circumsiliēns}} modo hūc modo illūc <br>ad {{c11::sōlam dominam}} ūsque {{c10::pīpiābat}}. <br><br>Quī nunc it per iter {{c12::tenebricōsum}}<br>illūc unde {{c14::negant}} redīre {{c13::quemquam}}.<br> <br>At {{c15::vōbīs}} male sit, malae tenebrae <br>{{c16::Orcī}}, quae omnia bella {{c17::dēvorātis}}:<br>tam bellum mihi passerem {{c18::abstulistis}}. <br><br>Ō factum male! Ō misellē passer! <br>Tuā nunc operā meae puellae <br>{{c19::flendō}} {{c20::turgidulī}} rubent ocellī!<br><br>[{{c21::Catullus 3}}]",
                 "[sound:ankidroid_audiorec409206888.mp3]"
             ],
             "flags": 0,
             "guid": "uB6xk-;TyI",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap34"
+                "cap34",
+                "marked"
             ]
         },
         {
@@ -1280,6 +1283,158 @@
             "tags": [
                 "cap34"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mēdus {{c2::occidentem}} spectat et nūbēs ātrās {{c3::procul}} suprā mare videt; simul mare tran­quillum {{c1::fit}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c]-2zJDlF-",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Lȳdia {{c3::iterum}} magnā vōce Chrīstum invocat: \"Ō Chris­tē! {{c2::iubē}} mare {{c1::tranquillum fierī}}! Servā nōs, domine! \"</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q{dH0/tdP|",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cum syllabae {{c1::iunguntur}}, vocābula {{c2::fiunt}}.",
+                "[sound:ankidroid_audiorec1746804029.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Js#|P_:rt-",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pater noster {{c3::quī es in caelīs}}! {{c1::Fīat voluntās}} tua! Sed {{c2::līberā nōs ā malō}}!",
+                "[sound:ankidroid_audiorec1748058840.3gp]"
+            ],
+            "flags": 0,
+            "guid": "G#u2bydn19",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap32"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pāstor laetus ovem in {{c2::umerōs}} {{c1::impōnit}} {{c3::eamque}} portat {{c4::ad cēterās ovēs}}, {{c5::quae}} {{c6::sine pāstōre}} in campō errant.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Iw(-*dK~!0",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap09"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arīōn, vir {{c1::nōbilis}} {{c2::Lesbī nātus}}, tam pulchrē {{c3::fidibus ca­nēbat}} ut alter Orpheus {{c4::appellārētur}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d5XHT_FO*d",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap29"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quī, cum Quīntus {{c1::herī}} {{c2::dē altā arbore}} {{c3::cecidisset}}, pedem ēius turgidum vix {{c4::tetigit}}, sed {{c5::misellō puerō}} sanguinem mīsit.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wNC:b,$aC]",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Remum frātrem}} {{c2::interfēcit}} quia {{c3::moenia humilia}} {{c4::dērīdēbat}}!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p6]-hq/<3r",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap25"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Fateor}} mē {{c2::lacrimās effūdisse}} cum {{c3::oculōs ēius}} clausissem, sed illae lacrimae et mīlitem et amīcum {{c4::decēbant}}, {{c5::etenim}} malus amīcus fuis­sem, nisi lacrimās effūdissem super corpus amīcī mortuī, cum ille sanguinem suum {{c6::prō mē}} effūdisset.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eNkXu%G0wr",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quae nūllam aut parvam pecūniam ha­bent ōrnāmenta {{c1::aspiciunt}} tantum, nōn {{c2::emunt}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KQ2RtB!{UX",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap08"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::cum}} {{c5::eō eō eō eō}} {{c2::quod}} {{c3::eum}} {{c4::amō}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w6hwp23xHA",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": []
         }
     ]
 }

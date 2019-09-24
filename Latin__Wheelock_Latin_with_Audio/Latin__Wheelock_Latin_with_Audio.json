@@ -110,6 +110,7 @@
         "ankidroid_audiorec1579947221.mp3",
         "ankidroid_audiorec1743101814.mp3",
         "ankidroid_audiorec1757054410.mp3",
+        "ankidroid_audiorec181442289.3gp",
         "ankidroid_audiorec1820789641.mp3",
         "ankidroid_audiorec1864245200.mp3",
         "ankidroid_audiorec1888657165.mp3",
@@ -1048,7 +1049,7 @@
             "data": "",
             "fields": [
                 "mē",
-                "me, myself",
+                "me, myself (acc)",
                 "[sound:me.mp3]",
                 "",
                 "",
@@ -1599,9 +1600,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>pecūnia, pecūniae (f)[sound:pecunia.mp3]</div>",
+                "pecūnia, pecūniae (f)",
                 "money",
-                "",
+                "[sound:pecunia.mp3]",
                 "",
                 "",
                 "",
@@ -1962,7 +1963,7 @@
             "fields": [
                 "tuus, tua, tuum",
                 "your (thy, adj)",
-                "",
+                "[sound:ankidroid_audiorec181442289.3gp]",
                 "",
                 "",
                 "",
@@ -2131,9 +2132,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>amīca, amīcae (f)[sound:amica.mp3]</div>",
+                "amīca, amīcae (f)",
                 "friend (female)",
-                "",
+                "[sound:amica.mp3]",
                 "",
                 "",
                 "",
@@ -2473,9 +2474,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>habeō, habēre, habuī, habitum[sound:habeo.mp3]</div>",
+                "habeō, habēre, habuī, habitum",
                 "to have, hold, possess; consider, regard",
-                "",
+                "[sound:habeo.mp3]",
                 "",
                 "",
                 "",
@@ -3405,7 +3406,7 @@
             "data": "",
             "fields": [
                 "remaneō, remanēre, remānsī, remānsum",
-                "to remain, stay, stay behind, abide, continue (with re-)",
+                "to remain, stay, stay behind, abide, continue (r___)",
                 "[sound:remaneo.mp3]",
                 "",
                 "",
@@ -4487,7 +4488,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>soror, sorōris (f)</div>",
+                "soror, sorōris (f)",
                 "sister",
                 "[sound:soror.mp3]",
                 "",
@@ -4506,7 +4507,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>victōria, victōriae (f)</div>",
+                "victōria, victōriae (f)",
                 "victory",
                 "[sound:victoria.mp3]",
                 "",
@@ -4545,7 +4546,7 @@
             "data": "",
             "fields": [
                 "ad (+ acc)",
-                "to, up to, near to",
+                "to, up to, near to (a_)",
                 "[sound:ad.mp3]",
                 "",
                 "",
@@ -4963,7 +4964,7 @@
             "data": "",
             "fields": [
                 "alius, alia, aliud",
-                "another, other (....., ...., .....)",
+                "another, other (....us, ...a, ...ud)",
                 "[sound:alius.mp3]",
                 "",
                 "",
@@ -5133,7 +5134,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>ūnus, ūna, ūnum</div>",
+                "ūnus, ūna, ūnum",
                 "one, single, alone",
                 "[sound:unus.mp3]",
                 "",
@@ -5913,7 +5914,7 @@
             "data": "",
             "fields": [
                 "mittō, mittere, mīsī, missum",
-                "to send, let go",
+                "to send, let go (m____)",
                 "[sound:mitto.mp3]",
                 "",
                 "",
@@ -6532,7 +6533,8 @@
             "guid": "f.Ah5LX2}R",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-13"
+                "Chapter-13",
+                "leech"
             ]
         },
         {
@@ -9022,7 +9024,7 @@
             "data": "",
             "fields": [
                 "at (conj)",
-                "but; but, mind you; but, you say",
+                "but; but, mind you; but, you say (a__)",
                 "[sound:at.mp3]",
                 "",
                 "",
@@ -9534,7 +9536,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum",
+                "prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum (p_______)",
                 "to proclaim, announce, declaim; pronounce",
                 "[sound:pronuntio.mp3]",
                 "",
@@ -10637,7 +10639,7 @@
             "data": "",
             "fields": [
                 "ostendō, ostendere, ostendī, ostentum",
-                "to show; reveal; make clear, point out, display",
+                "to show; reveal; make clear, point out, display. (o____)",
                 "[sound:ostendo.mp3]",
                 "",
                 "ostentatious",
@@ -11264,7 +11266,7 @@
             "data": "",
             "fields": [
                 "dehinc",
-                "hence; then, next (adv.)",
+                "hence; then, next (adv.) (d___)",
                 "[sound:dehinc.mp3]",
                 "",
                 "",
@@ -13543,7 +13545,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "usque (adv.)",
+                "ūsque (adv.)",
                 "all the way, up (to), even (to), continuously, always",
                 "[sound:usque.mp3]",
                 "",

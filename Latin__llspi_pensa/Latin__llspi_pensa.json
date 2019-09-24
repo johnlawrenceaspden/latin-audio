@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 9999,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -57,6 +57,7 @@
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
+        "ankidroid_audiorec1009522404.3gp",
         "ankidroid_audiorec1015713829.mp3",
         "ankidroid_audiorec1034162675.mp3",
         "ankidroid_audiorec1042030302.mp3",
@@ -68,6 +69,7 @@
         "ankidroid_audiorec1103121988.mp3",
         "ankidroid_audiorec111361776.mp3",
         "ankidroid_audiorec1124660305.mp3",
+        "ankidroid_audiorec1126306607.3gp",
         "ankidroid_audiorec113040586.mp3",
         "ankidroid_audiorec1135724828.mp3",
         "ankidroid_audiorec1162387022.mp3",
@@ -80,6 +82,7 @@
         "ankidroid_audiorec1240046595.mp3",
         "ankidroid_audiorec1242842753.mp3",
         "ankidroid_audiorec1245022260.mp3",
+        "ankidroid_audiorec1271790730.3gp",
         "ankidroid_audiorec1275479633.mp3",
         "ankidroid_audiorec1295542868.mp3",
         "ankidroid_audiorec1296119136.mp3",
@@ -111,9 +114,11 @@
         "ankidroid_audiorec152066152.mp3",
         "ankidroid_audiorec152079388.mp3",
         "ankidroid_audiorec1524042263.mp3",
+        "ankidroid_audiorec1527224519.3gp",
         "ankidroid_audiorec153140159.mp3",
         "ankidroid_audiorec1533035980.mp3",
         "ankidroid_audiorec1559215139.mp3",
+        "ankidroid_audiorec1560932547.3gp",
         "ankidroid_audiorec156919869.mp3",
         "ankidroid_audiorec1572071265.mp3",
         "ankidroid_audiorec1596302817.mp3",
@@ -122,10 +127,12 @@
         "ankidroid_audiorec1623741645.mp3",
         "ankidroid_audiorec1626963697.mp3",
         "ankidroid_audiorec1634204540.mp3",
+        "ankidroid_audiorec1641328668.3gp",
         "ankidroid_audiorec164999280.mp3",
         "ankidroid_audiorec165421701.mp3",
         "ankidroid_audiorec1655745082.mp3",
         "ankidroid_audiorec1693813795.mp3",
+        "ankidroid_audiorec1695996330.3gp",
         "ankidroid_audiorec1696557225.mp3",
         "ankidroid_audiorec1699248490.mp3",
         "ankidroid_audiorec170068250.mp3",
@@ -133,6 +140,7 @@
         "ankidroid_audiorec1738163279.mp3",
         "ankidroid_audiorec1755934287.mp3",
         "ankidroid_audiorec177008940.mp3",
+        "ankidroid_audiorec1784612095.3gp",
         "ankidroid_audiorec1815274124.mp3",
         "ankidroid_audiorec1821471230.mp3",
         "ankidroid_audiorec1822711848.mp3",
@@ -187,6 +195,7 @@
         "ankidroid_audiorec248664901.mp3",
         "ankidroid_audiorec263412612.mp3",
         "ankidroid_audiorec280134966.mp3",
+        "ankidroid_audiorec296090216.3gp",
         "ankidroid_audiorec308202586.mp3",
         "ankidroid_audiorec32408457.mp3",
         "ankidroid_audiorec337573938.mp3",
@@ -203,6 +212,7 @@
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
         "ankidroid_audiorec507074086.mp3",
+        "ankidroid_audiorec514769516.3gp",
         "ankidroid_audiorec517301445.mp3",
         "ankidroid_audiorec527143567.mp3",
         "ankidroid_audiorec527312973.mp3",
@@ -236,6 +246,7 @@
         "ankidroid_audiorec787994996.mp3",
         "ankidroid_audiorec792452709.mp3",
         "ankidroid_audiorec799782803.mp3",
+        "ankidroid_audiorec805287671.3gp",
         "ankidroid_audiorec828997281.mp3",
         "ankidroid_audiorec833930066.mp3",
         "ankidroid_audiorec837384228.mp3",
@@ -292,9 +303,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
-            "tags": [
-                "cap34"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -368,7 +377,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap33",
+                "cap34",
                 "pensumC"
             ],
             "tmpls": [
@@ -1459,6 +1468,7 @@
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap31",
+                "marked",
                 "pensumB"
             ]
         },
@@ -1586,10 +1596,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Quis fuit Midās?<br>",
-                "",
+                "Quis fuit Midās?",
+                "[sound:ankidroid_audiorec514769516.3gp]",
                 "Midās fuit rēx cuiusdam urbis Asiae, quī aurī cupidus erat.",
-                ""
+                "[sound:ankidroid_audiorec1126306607.3gp]"
             ],
             "flags": 0,
             "guid": "lBD2):Q$t^",
@@ -2289,7 +2299,7 @@
             "fields": [
                 "Utrum ventus secundus an adversus est?",
                 "[sound:ankidroid_audiorec1098857424.mp3]",
-                "Ventus secundus est, sed gūbernator optat ut ventus in adversum vertātur.",
+                "Ventus secundus est, sed gūbernator ???? optat ut ventus in adversum vertātur.",
                 "[sound:ankidroid_audiorec646209912.mp3]"
             ],
             "flags": 0,
@@ -2331,6 +2341,7 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap32",
+                "marked",
                 "pensumC"
             ]
         },
@@ -2755,7 +2766,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Aemilius, quī in capitulō XII {{c5:: [= duodecimō] }} {{c1::commemorātus est}}, ūnā cum Valeriō, adulēscente {{c3::ēiusdem}} {{c2::aetātis}}, in Germāniā {{c4::stipendia}} meruit.",
+                "Aemilius, quī in capitulō XII (={{c5:: duodecimō}} ) {{c1::commemorātus est}}, ūnā cum Valeriō, adulēscente {{c3::ēiusdem}} {{c2::aetātis}}, in Germāniā {{c4::stipendia}} meruit.",
                 "[sound:ankidroid_audiorec1607148231.mp3]"
             ],
             "flags": 0,
@@ -2817,7 +2828,7 @@
             "fields": [
                 "Quae arma gerunt auxilia?<br>",
                 "[sound:ankidroid_audiorec448820586.mp3]",
-                "Arma leviōra, ut arcūs sagittaeque gerunt.",
+                "Arma leviōra, ut arcūs sagittāsque gerunt.",
                 "[sound:ankidroid_audiorec1135724828.mp3]"
             ],
             "flags": 0,
@@ -2917,7 +2928,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Quamobrem ipse paucās epistulās scrīpsit?",
+                "Quamobrem [Aemilius] ipse paucās epistulās scrīpsit?",
                 "[sound:ankidroid_audiorec527143567.mp3]",
                 "Quia paulum eī ōtium fuit ad epistulās scrībendās.",
                 "[sound:ankidroid_audiorec682450713.mp3]"
@@ -2978,6 +2989,394 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap33",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dum gladiātōrēs {{c1::certant}}, {{c2::spectātōrēs}} dēlectātī manibus {{c3::plaudunt}}.",
+                "[sound:ankidroid_audiorec1695996330.3gp]"
+            ],
+            "flags": 0,
+            "guid": "QNWvX1/x^{",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Fēminīs}} nōn {{c1::libet}} gladiātōrēs spectāre.",
+                "[sound:ankidroid_audiorec1560932547.3gp]"
+            ],
+            "flags": 0,
+            "guid": "o/c0a)a;VN",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ovidius in {{c1::circō}} sedēns ōrābat ut vinceret ille {{c3::cui}} amīca ēius {{c2::favēbat}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z[-L+!D8#2",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hoc nārrātur in {{c1::prīncipiō}} [ = {{c2::initiō}} ] carminis.",
+                "[sound:ankidroid_audiorec1271790730.3gp]"
+            ],
+            "flags": 0,
+            "guid": "DW>;^-`tz(",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cum poēta {{c1::fātum}} Priamī canere {{c6::vellet}}, puella in {{c2::gremiō}} {{c5::ēius}} sēdit {{c4::eīque}} mīlle {{c3::bāsia}} dedit.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "soT=ki#v<0",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ovidius {{c1::ingenium}} {{c2::mulierum}} bene {{c3::nōverat}}.",
+                "[sound:ankidroid_audiorec1784612095.3gp]"
+            ],
+            "flags": 0,
+            "guid": "n-/cj@!PKe",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Lucernīs}} {{c2::accēnsīs}}, Iūlius recitat carmen {{c3::bellum}} dē {{c4::passere}} {{c7::Lesbiae}} {{c6::mortuō}}: \" {{c5::Lūgēte}}, Ō Venerēs ... !\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q|IEG%5Z=a",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Versibus {{c1::ūltimīs}} [= {{c2::postrēmīs}}] {{c5::dēmōnstrātur}} {{c3::ratiō}} [= {{c4::causa}}] dolōris.",
+                "[sound:ankidroid_audiorec1527224519.3gp]"
+            ],
+            "flags": 0,
+            "guid": "uI<#1e!;rP",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Catullus Lesbiam {{c1::uxōrem dūcere}} {{c4::cupiēbat}}, at illa {{c5::Catullō}} {{c2::nūbere}} {{c3::nōluit}}.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bjtf;4_@3Q",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::mēns}} poētae inter amōrem et {{c2::odium}} {{c3::dīvidēbātur}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m;?S-4ZXaN",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid Rōmānī in amphitheātrō spectant?",
+                "",
+                "Certamina gladiātōrum",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qll4n}WGiF",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid Fabia in theātrō spectāvit?<br>",
+                "",
+                "Fabia cōmoediam Plautī spectāvit<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qovi^fS3Dh",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quis fuit Ovidius?",
+                "",
+                "Ovidius fuit poēta Rōmānus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hi|8Q!0fE^",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quārē Ovidius in circum vēnerat?<br>",
+                "",
+                "Vēnerat ut cum amicā suā sedēret.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FD51x;;-{`",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quae carmina recitat Iūlius?<br>",
+                "",
+                "Iūlius carmina Catullī recitat<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qXv$UBx|gY",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr ocellī Lesbiae turgidī rubēbant?",
+                "[sound:ankidroid_audiorec1641328668.3gp]",
+                "Puella lūgēbat quod passer eius mortuus erat",
+                "[sound:ankidroid_audiorec1009522404.3gp]"
+            ],
+            "flags": 0,
+            "guid": "In[6_9JVLg",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr poēta Lesbiam et amābat et ōderat?&nbsp;<br>",
+                "",
+                "Quia Lesbia īnfīda erat<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q&9IXq4+vQ",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Num sacculus Catullī plēnus erat nummōrum?<br>",
+                "",
+                "Sacculus eius vacuus erat - sīve plēnus arāneārum!<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v!v23K>VnG",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quid scrīpsit Mārtiālis?<br>",
+                "",
+                "Epigrammata scrīpsit<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zV6^ctZQpZ",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Mārtiālis librōs suōs nōn mīsit Pontiliānō?<br>",
+                "",
+                "Nē Pontilānus suōs librōs mitteret Mārtiālī<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h`8A-d#Hhk",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tūne Cinnam bonum poētam fuisse putās?",
+                "[sound:ankidroid_audiorec296090216.3gp]",
+                "Putō eum malum poētam fuisse",
+                "[sound:ankidroid_audiorec805287671.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Kl^<ds3.yU",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cūr Laecāniae dentēs niveī erant?<br>",
+                "",
+                "Quia dentēs eius emptī erant",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L3&tx*K=Ck",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ex quibus syllabīs cōnstat pēs dactylus?<br>",
+                "",
+                "Dactylus cōnstat ex syllabā longā et duābus brevibus<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v3UFQ@/9J%",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ex quibus pedibus cōnstat hexameter?<br>",
+                "",
+                "Ex quīnque dactylīs et ūnō spondēō<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v(zIj{F#8<",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34",
                 "pensumC"
             ]
         }
