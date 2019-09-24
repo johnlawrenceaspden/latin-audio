@@ -79,8 +79,8 @@
         "ankidroid_audiorec1695762459.mp3",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1728267003.mp3",
-        "ankidroid_audiorec1746804029.3gp",
-        "ankidroid_audiorec1748058840.3gp",
+        "ankidroid_audiorec1746804029.mp3",
+        "ankidroid_audiorec1748058840.mp3",
         "ankidroid_audiorec1774313981.mp3",
         "ankidroid_audiorec181499073.mp3",
         "ankidroid_audiorec1836493504.mp3",
@@ -1317,7 +1317,7 @@
             "data": "",
             "fields": [
                 "Cum syllabae {{c1::iunguntur}}, vocābula {{c2::fiunt}}.",
-                "[sound:ankidroid_audiorec1746804029.3gp]"
+                "[sound:ankidroid_audiorec1746804029.mp3]"
             ],
             "flags": 0,
             "guid": "Js#|P_:rt-",
@@ -1331,7 +1331,7 @@
             "data": "",
             "fields": [
                 "Pater noster {{c3::quī es in caelīs}}! {{c1::Fīat voluntās}} tua! Sed {{c2::līberā nōs ā malō}}!",
-                "[sound:ankidroid_audiorec1748058840.3gp]"
+                "[sound:ankidroid_audiorec1748058840.mp3]"
             ],
             "flags": 0,
             "guid": "G#u2bydn19",

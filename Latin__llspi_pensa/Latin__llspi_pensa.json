@@ -57,7 +57,7 @@
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
-        "ankidroid_audiorec1009522404.3gp",
+        "ankidroid_audiorec1009522404.mp3",
         "ankidroid_audiorec1015713829.mp3",
         "ankidroid_audiorec1034162675.mp3",
         "ankidroid_audiorec1042030302.mp3",
@@ -69,7 +69,7 @@
         "ankidroid_audiorec1103121988.mp3",
         "ankidroid_audiorec111361776.mp3",
         "ankidroid_audiorec1124660305.mp3",
-        "ankidroid_audiorec1126306607.3gp",
+        "ankidroid_audiorec1126306607.mp3",
         "ankidroid_audiorec113040586.mp3",
         "ankidroid_audiorec1135724828.mp3",
         "ankidroid_audiorec1162387022.mp3",
@@ -82,7 +82,7 @@
         "ankidroid_audiorec1240046595.mp3",
         "ankidroid_audiorec1242842753.mp3",
         "ankidroid_audiorec1245022260.mp3",
-        "ankidroid_audiorec1271790730.3gp",
+        "ankidroid_audiorec1271790730.mp3",
         "ankidroid_audiorec1275479633.mp3",
         "ankidroid_audiorec1295542868.mp3",
         "ankidroid_audiorec1296119136.mp3",
@@ -114,11 +114,11 @@
         "ankidroid_audiorec152066152.mp3",
         "ankidroid_audiorec152079388.mp3",
         "ankidroid_audiorec1524042263.mp3",
-        "ankidroid_audiorec1527224519.3gp",
+        "ankidroid_audiorec1527224519.mp3",
         "ankidroid_audiorec153140159.mp3",
         "ankidroid_audiorec1533035980.mp3",
         "ankidroid_audiorec1559215139.mp3",
-        "ankidroid_audiorec1560932547.3gp",
+        "ankidroid_audiorec1560932547.mp3",
         "ankidroid_audiorec156919869.mp3",
         "ankidroid_audiorec1572071265.mp3",
         "ankidroid_audiorec1596302817.mp3",
@@ -127,12 +127,12 @@
         "ankidroid_audiorec1623741645.mp3",
         "ankidroid_audiorec1626963697.mp3",
         "ankidroid_audiorec1634204540.mp3",
-        "ankidroid_audiorec1641328668.3gp",
+        "ankidroid_audiorec1641328668.mp3",
         "ankidroid_audiorec164999280.mp3",
         "ankidroid_audiorec165421701.mp3",
         "ankidroid_audiorec1655745082.mp3",
         "ankidroid_audiorec1693813795.mp3",
-        "ankidroid_audiorec1695996330.3gp",
+        "ankidroid_audiorec1695996330.mp3",
         "ankidroid_audiorec1696557225.mp3",
         "ankidroid_audiorec1699248490.mp3",
         "ankidroid_audiorec170068250.mp3",
@@ -140,7 +140,7 @@
         "ankidroid_audiorec1738163279.mp3",
         "ankidroid_audiorec1755934287.mp3",
         "ankidroid_audiorec177008940.mp3",
-        "ankidroid_audiorec1784612095.3gp",
+        "ankidroid_audiorec1784612095.mp3",
         "ankidroid_audiorec1815274124.mp3",
         "ankidroid_audiorec1821471230.mp3",
         "ankidroid_audiorec1822711848.mp3",
@@ -195,7 +195,7 @@
         "ankidroid_audiorec248664901.mp3",
         "ankidroid_audiorec263412612.mp3",
         "ankidroid_audiorec280134966.mp3",
-        "ankidroid_audiorec296090216.3gp",
+        "ankidroid_audiorec296090216.mp3",
         "ankidroid_audiorec308202586.mp3",
         "ankidroid_audiorec32408457.mp3",
         "ankidroid_audiorec337573938.mp3",
@@ -212,7 +212,7 @@
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
         "ankidroid_audiorec507074086.mp3",
-        "ankidroid_audiorec514769516.3gp",
+        "ankidroid_audiorec514769516.mp3",
         "ankidroid_audiorec517301445.mp3",
         "ankidroid_audiorec527143567.mp3",
         "ankidroid_audiorec527312973.mp3",
@@ -246,7 +246,7 @@
         "ankidroid_audiorec787994996.mp3",
         "ankidroid_audiorec792452709.mp3",
         "ankidroid_audiorec799782803.mp3",
-        "ankidroid_audiorec805287671.3gp",
+        "ankidroid_audiorec805287671.mp3",
         "ankidroid_audiorec828997281.mp3",
         "ankidroid_audiorec833930066.mp3",
         "ankidroid_audiorec837384228.mp3",
@@ -1597,9 +1597,9 @@
             "data": "",
             "fields": [
                 "Quis fuit Midās?",
-                "[sound:ankidroid_audiorec514769516.3gp]",
+                "[sound:ankidroid_audiorec514769516.mp3]",
                 "Midās fuit rēx cuiusdam urbis Asiae, quī aurī cupidus erat.",
-                "[sound:ankidroid_audiorec1126306607.3gp]"
+                "[sound:ankidroid_audiorec1126306607.mp3]"
             ],
             "flags": 0,
             "guid": "lBD2):Q$t^",
@@ -2997,7 +2997,7 @@
             "data": "",
             "fields": [
                 "Dum gladiātōrēs {{c1::certant}}, {{c2::spectātōrēs}} dēlectātī manibus {{c3::plaudunt}}.",
-                "[sound:ankidroid_audiorec1695996330.3gp]"
+                "[sound:ankidroid_audiorec1695996330.mp3]"
             ],
             "flags": 0,
             "guid": "QNWvX1/x^{",
@@ -3012,7 +3012,7 @@
             "data": "",
             "fields": [
                 "{{c2::Fēminīs}} nōn {{c1::libet}} gladiātōrēs spectāre.",
-                "[sound:ankidroid_audiorec1560932547.3gp]"
+                "[sound:ankidroid_audiorec1560932547.mp3]"
             ],
             "flags": 0,
             "guid": "o/c0a)a;VN",
@@ -3042,7 +3042,7 @@
             "data": "",
             "fields": [
                 "Hoc nārrātur in {{c1::prīncipiō}} [ = {{c2::initiō}} ] carminis.",
-                "[sound:ankidroid_audiorec1271790730.3gp]"
+                "[sound:ankidroid_audiorec1271790730.mp3]"
             ],
             "flags": 0,
             "guid": "DW>;^-`tz(",
@@ -3072,7 +3072,7 @@
             "data": "",
             "fields": [
                 "Ovidius {{c1::ingenium}} {{c2::mulierum}} bene {{c3::nōverat}}.",
-                "[sound:ankidroid_audiorec1784612095.3gp]"
+                "[sound:ankidroid_audiorec1784612095.mp3]"
             ],
             "flags": 0,
             "guid": "n-/cj@!PKe",
@@ -3102,7 +3102,7 @@
             "data": "",
             "fields": [
                 "Versibus {{c1::ūltimīs}} [= {{c2::postrēmīs}}] {{c5::dēmōnstrātur}} {{c3::ratiō}} [= {{c4::causa}}] dolōris.",
-                "[sound:ankidroid_audiorec1527224519.3gp]"
+                "[sound:ankidroid_audiorec1527224519.mp3]"
             ],
             "flags": 0,
             "guid": "uI<#1e!;rP",
@@ -3232,9 +3232,9 @@
             "data": "",
             "fields": [
                 "Cūr ocellī Lesbiae turgidī rubēbant?",
-                "[sound:ankidroid_audiorec1641328668.3gp]",
+                "[sound:ankidroid_audiorec1641328668.mp3]",
                 "Puella lūgēbat quod passer eius mortuus erat",
-                "[sound:ankidroid_audiorec1009522404.3gp]"
+                "[sound:ankidroid_audiorec1009522404.mp3]"
             ],
             "flags": 0,
             "guid": "In[6_9JVLg",
@@ -3317,9 +3317,9 @@
             "data": "",
             "fields": [
                 "Tūne Cinnam bonum poētam fuisse putās?",
-                "[sound:ankidroid_audiorec296090216.3gp]",
+                "[sound:ankidroid_audiorec296090216.mp3]",
                 "Putō eum malum poētam fuisse",
-                "[sound:ankidroid_audiorec805287671.3gp]"
+                "[sound:ankidroid_audiorec805287671.mp3]"
             ],
             "flags": 0,
             "guid": "Kl^<ds3.yU",

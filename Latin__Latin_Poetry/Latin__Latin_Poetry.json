@@ -55,11 +55,11 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "ankidroid_audiorec100225199.3gp",
+        "ankidroid_audiorec100225199.mp3",
         "ankidroid_audiorec1032501942.mp3",
         "ankidroid_audiorec1096098993.mp3",
         "ankidroid_audiorec1408024258.mp3",
-        "ankidroid_audiorec1707159801.3gp",
+        "ankidroid_audiorec1707159801.mp3",
         "ankidroid_audiorec1718853179.mp3",
         "ankidroid_audiorec1749513295.mp3",
         "ankidroid_audiorec1889242172.mp3",
@@ -75,7 +75,7 @@
         "ankidroid_audiorec738074951.mp3",
         "ankidroid_audiorec740251448.mp3",
         "ankidroid_audiorec758673055.mp3",
-        "ankidroid_audiorec805466187.3gp",
+        "ankidroid_audiorec805466187.mp3",
         "ankidroid_audiorec824388501.mp3",
         "ankidroid_audiorec909669275.mp3",
         "ankidroid_audiorec911599255.mp3"
@@ -316,7 +316,7 @@
                 "Ver-*si-cu-lōs *in *mē nār-*rā-tur *scrī-be-re *Cin-na.<br>*Nōn *scrī-bit *cui-ius *car-mi-na *nē-mō le-git!<br>",
                 "Ver *si cu lōs *in *mē nār *rā tur *scrī be re *Cin na. <br>*Nōn *scrī bit *cui ius *car mi na *nē mō le git<br>",
                 "Ver *si cu | lō *sin | *mē nār | *rā tur | *scrī be re | *Cin na<br>*Nōn *scrī | bit *cui | ius || *car mi na | *nē mō | le git<br>",
-                "[sound:ankidroid_audiorec805466187.3gp]",
+                "[sound:ankidroid_audiorec805466187.mp3]",
                 "Little verses against me it is said to write Cinna<div>Not he writes whose poems no one reads</div>",
                 "",
                 ""
@@ -589,7 +589,7 @@
                 "",
                 "",
                 "*Nū be re | *vīs *Prīs | cō *nōn | *mī ror | *Pau la sa | *pīs tī. <br>*Dū ce re | *tē *nōn | *vult || *Prīs cu *se | *til le | *sa pit",
-                "[sound:ankidroid_audiorec1707159801.3gp]",
+                "[sound:ankidroid_audiorec1707159801.mp3]",
                 "to veil you wish to Priscus not I marvel Paula you had taste<div>to lead you not he wants Priscus and he had taste</div>",
                 "",
                 "-īstī :: -iistī"
@@ -759,7 +759,7 @@
                 "",
                 "",
                 "*Quem *re ci | tās *me u | *sest *Ō | Fī den | *tī ne li | *bel lus<br>*Sed *ma le | cum *re ci | tās || *in ci pi | *tes se *tu | us",
-                "[sound:ankidroid_audiorec100225199.3gp]",
+                "[sound:ankidroid_audiorec100225199.mp3]",
                 "",
                 "",
                 "[Martialis I.38]"
