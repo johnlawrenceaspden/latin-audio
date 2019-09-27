@@ -969,6 +969,7 @@
         "ankidroid_audiorec1961155164.mp3",
         "ankidroid_audiorec196144339.mp3",
         "ankidroid_audiorec1964644335.mp3",
+        "ankidroid_audiorec1964916994.3gp",
         "ankidroid_audiorec1965258528.mp3",
         "ankidroid_audiorec1966513343.mp3",
         "ankidroid_audiorec1967097982.mp3",
@@ -2006,7 +2007,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap16"
+                "cap35"
             ],
             "tmpls": [
                 {
@@ -16082,7 +16083,7 @@
                 "lower",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1964916994.3gp]",
                 ""
             ],
             "flags": 0,
@@ -22896,7 +22897,7 @@
             "fields": [
                 "quisnam, quidnam",
                 "quis-nam, quid-nam",
-                "",
+                "Iūlius: \"Quidnam hoc est? Quisnam Tusculō epistū­lam ad mē mīsit?\"",
                 "who/what ever?",
                 "",
                 "",
@@ -29864,8 +29865,8 @@
             "data": "",
             "fields": [
                 "subeō, subīre, subiī",
-                "sub-īre",
-                "",
+                "sub-īre eum = sub eum īre",
+                "Tum vērō nova et mīra rēs accidit: delphīnus, cantū allectus, repente hominem natantem subiit eumque in dorsō suō sedentem vēxit et in lītore Graeciae salvum exposuit.",
                 "go under, undergo",
                 "",
                 "",
@@ -31024,7 +31025,7 @@
             "fields": [
                 "dētrahō, dētrahere, dētrāxī, dētrāctus",
                 "dē-trahere",
-                "",
+                "Hoc dīcēns Lȳdia ānulum dē digitō dētrahit, sed gubernātor prōtinus bracchium ēius prehendit.",
                 "pull off",
                 "",
                 "*dē-tra-hō, dē-*tra-he-re, dē-*trā-xī, dē-*trāc-tus",
@@ -31250,8 +31251,8 @@
             "data": "",
             "fields": [
                 "appāreō, appārēre, appāruī, appāritūrus",
-                "ad + pārēre",
-                "",
+                "ad + pārēre&nbsp; :&nbsp; appārēre = in cōn­spectum venīre",
+                "Arīōn repente cum fidibus ōrnāmentīsque cum quibus sē in mare iēcerat appāruit&nbsp;",
                 "appear",
                 "",
                 "",
@@ -35268,8 +35269,8 @@
             "data": "",
             "fields": [
                 "etiamnunc",
-                "etiam-nunc",
-                "",
+                "etiam-nunc = adhūc",
+                "Lȳdia magna cum laetitia classem appropinquantem spectat, sed Mēdus etiamnunc perterritus esse vidētur.",
                 "still",
                 "",
                 "e-ti-*am-nunc",
@@ -38899,9 +38900,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tantun-dem",
-                "",
-                "",
+                "tantundem",
+                "tantum­-dem = idem",
+                "[M.:] Prōnōmen quid est? [D.:] Pars ōrātiōnis quae prō nōmine posita tantundem paene significat persōnamque interdum recipit.&nbsp;",
                 "just as much",
                 "",
                 "",
@@ -38920,8 +38921,8 @@
             "data": "",
             "fields": [
                 "speciēs -ēī f",
-                "",
-                "Potestas coniunctionum quot&nbsp;<b>species</b>&nbsp;habet? (Quinque: Copulativas, disunctivas, expletivas, causales, rationales)",
+                "= fōrma, genus",
+                "Potestās coniūnctiōnum quot speciēs habet? (Quīnque: Cōpulātīvās, disūnctīvās, explētīvās, causālēs, ratiōnālēs)",
                 "appearance, aspect, sort",
                 "",
                 "",
@@ -38980,8 +38981,8 @@
             "data": "",
             "fields": [
                 "significātiō -ōnis f",
-                "",
-                "",
+                "&lt; significāre",
+                "[M:] Adverbium quid est?&nbsp;<div>[D:] Pars ōrātiōnis quae adiecta verbō significātiōnem ēius explānat atque implet</div>",
                 "meaning, sense",
                 "",
                 "",
@@ -39000,7 +39001,7 @@
             "data": "",
             "fields": [
                 "scamnum -ī n",
-                "",
+                "= sella",
                 "",
                 "stool",
                 "",
@@ -39020,7 +39021,7 @@
             "data": "",
             "fields": [
                 "sacerdōs sacerdōtis m/f",
-                "",
+                "= vir/fēmina cuius negōtium est diīs servīre",
                 "",
                 "priest, priestess",
                 "",
@@ -39040,7 +39041,7 @@
             "data": "",
             "fields": [
                 "quidnī",
-                "",
+                "= quīn, certē",
                 "",
                 "why not",
                 "",
@@ -39059,8 +39060,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "quā-propter",
-                "",
+                "quāpropter",
+                "quā-propter = quam­obrem",
                 "",
                 "why",
                 "",
@@ -39080,8 +39081,8 @@
             "data": "",
             "fields": [
                 "quantitās -ātis f",
-                "",
-                "",
+                "&lt; quantus",
+                "[M.:] Comparātiōnis gradūs quot sunt? [D.:] Trēs. [M.:] Quī? [D.:] Positīvus, ut doctus comparātīvus, ut doctior, su­perlātīvus, ut doctissimus. [M.:] Quae nōmina comparantur? [D.:] Appellātīva dumtaxat quālitātem aut quantitātem significantia.",
                 "quantity, size",
                 "",
                 "",
@@ -39100,8 +39101,8 @@
             "data": "",
             "fields": [
                 "quālitās -ātis f",
-                "",
-                "",
+                "&lt; quālis",
+                "[M.:] Comparātiōnis gradūs quot sunt? [D.:] Trēs. [M.:] Quī? [D.:] Positīvus, ut doctus comparātīvus, ut doctior, su­perlātīvus, ut doctissimus. [M.:] Quae nōmina comparantur? [D.:] Appellātīva dumtaxat quālitātem aut quantitātem significantia.",
                 "quality",
                 "",
                 "",
@@ -39119,8 +39120,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "propter-eā",
-                "",
+                "proptereā",
+                "propter-eā = ideō&nbsp;<br>",
                 "",
                 "therefore",
                 "",
@@ -39140,8 +39141,8 @@
             "data": "",
             "fields": [
                 "proprius -a -um",
-                "",
-                "",
+                "proprius -a -um &lt;-&gt; commūnis",
+                "Pars ōrātiōnis cum cāsū, corpus aut rem propriē commūniterve significāns . . . ; aut enim ūnīus nōmen est et 'proprium' dīcitur, aut multōrum et 'appellātīvum'.<div><br></div><div>nōmina propria, ut <i>Rōma</i>,<i>Tiberis</i><br></div>",
                 "own, proper",
                 "",
                 "",
@@ -39160,8 +39161,8 @@
             "data": "",
             "fields": [
                 "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus",
-                "",
-                "",
+                "ōrdināre = in ōrdine pōnere",
+                "[M.:] Coniūnctiō quid est? [D.:] Pars ōrātiōnis adnectēns ōrdinānsque sententiam.",
                 "arrange, regulate",
                 "",
                 "",
@@ -39181,8 +39182,8 @@
             "data": "",
             "fields": [
                 "ōrātiō -ōnis f",
-                "",
-                "",
+                "= sermō",
+                "Partēs ōrātiōnis quot sunt?",
                 "speech",
                 "",
                 "",
@@ -39201,7 +39202,7 @@
             "data": "",
             "fields": [
                 "Mūsa -ae f",
-                "",
+                "Mūsae: novem deae quae singulīs artibus praesunt",
                 "",
                 "Muse",
                 "",
@@ -39241,7 +39242,7 @@
             "data": "",
             "fields": [
                 "luctor, luctārī, luctātus sum",
-                "",
+                "certāre com­plectendīs corporibus",
                 "",
                 "wrestle",
                 "",
@@ -39263,7 +39264,7 @@
             "data": "",
             "fields": [
                 "īra -ae f",
-                "",
+                "= animus īrātus",
                 "",
                 "anger",
                 "",
@@ -39303,7 +39304,7 @@
             "data": "",
             "fields": [
                 "forsitan",
-                "",
+                "= fortasse",
                 "",
                 "perhaps, maybe",
                 "",
@@ -39323,8 +39324,8 @@
             "data": "",
             "fields": [
                 "explētīvus, -a, -um",
-                "ex-plētīvus",
-                "",
+                "ex-plētīvus &lt; ex­plēre = vacuum implēre",
+                "[M.:] Dā explētīvās! <br>[D.:] Quidem, equidem, quoque, autem, tamen.&nbsp;&nbsp;<br>",
                 "explanatory",
                 "",
                 "",
@@ -39344,7 +39345,7 @@
             "fields": [
                 "explānō, explānāre, explānāvī, explānātus",
                 "ex-plānāre",
-                "",
+                "[M:] Adverbium quid est?&nbsp;<div>[D:] Pars ōrātiōnis quae adiecta verbō significātiōnem ēius explānat atque implet</div>",
                 "explain",
                 "",
                 "",
@@ -39364,7 +39365,7 @@
             "data": "",
             "fields": [
                 "ēn",
-                "",
+                "= ecce",
                 "",
                 "look, here is",
                 "",
@@ -39384,8 +39385,8 @@
             "data": "",
             "fields": [
                 "dumtaxat",
-                "",
-                "",
+                "= tantum",
+                "[M.:] Comparātiōnis gradūs quot sunt? [D.:] Trēs. [M.:] Quī? [D.:] Positīvus, ut doctus comparātīvus, ut doctior, su­perlātīvus, ut doctissimus. [M.:] Quae nōmina comparantur? [D.:] Appellātīva dumtaxat quālitātem aut quantitātem significantia.",
                 "only, just",
                 "",
                 "",
@@ -39404,8 +39405,8 @@
             "data": "",
             "fields": [
                 "disiūnctīvus, -a, -um",
-                "",
-                "",
+                "&lt; disiungere",
+                "[M.:] Dā disiūnctīvās! <br>[D.:] Aut, -ve, vel, nec, neque.&nbsp;<br>",
                 "contrasting",
                 "",
                 "",
@@ -39424,8 +39425,8 @@
             "data": "",
             "fields": [
                 "dēmō, dēmere, dēmpsī, dēmptus",
-                "",
-                "",
+                "&lt;-&gt; addere",
+                "[M:] Passīva quae sunt?&nbsp;<div>[D:] Quae in -r dēsinunt et eā dēmptā redeunt in āc­tīva, ut legor: lēgō</div>",
                 "remove",
                 "",
                 "",
@@ -39466,7 +39467,7 @@
             "data": "",
             "fields": [
                 "cis prp +acc",
-                "",
+                "= citrā",
                 "",
                 "on this side of",
                 "",
@@ -39486,8 +39487,8 @@
             "data": "",
             "fields": [
                 "causalis, -e",
-                "",
-                "",
+                "&lt; causa",
+                "[M.:] Dā causālēs! <br>[D.:] Sī, etsī, siquidem, quandō, nam, namque, etenim, quamobrem ...&nbsp;<br>",
                 "causal",
                 "",
                 "",
@@ -39526,8 +39527,8 @@
             "data": "",
             "fields": [
                 "adnectō, adnectere,&nbsp;&nbsp;adnexuī, adnexum",
-                "ad-nectere",
-                "",
+                "ad-nectere = adiungere, coniungere&nbsp;",
+                "[M.:] Coniūnctiō quid est? [D.:] Pars ōrātiōnis adnectēns ōrdinānsque sententiam.",
                 "attach, connect",
                 "",
                 "",
@@ -40450,6 +40451,206 @@
             "guid": "39mv3",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "appellātīvus -a -um",
+                "appellātīvus -ā -um &lt; appellāre; nōminā appel­lātīva, ut <i>urbs</i>, <i>flūmen</i>&nbsp;",
+                "Pars ōrātiōnis cum cāsū, corpus aut rem propriē commūniterve significāns . . . ; aut enim ūnīus nōmen est et 'proprium' dīcitur, aut multōrum et 'appellātīvum'.",
+                "",
+                "",
+                "ap-pel-lā-*tī-vus",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dPpf=q%RRZ",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "comparātiō -ōnis f<br><br>",
+                "&lt; comparāre",
+                "[M.:] Comparātiōnis gradūs quot sunt? [D.:] Trēs. [M.:] Quī? [D.:] Positīvus, ut doctus comparātīvus, ut doctior, su­perlātīvus, ut doctissimus. [M.:] Quae nōmina comparantur? [D.:] Appellātīva dumtaxat quālitātem aut quantitātem significantia.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xWTFXA2-np",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "īnflectō, īnflectere, īnflēxī, īnflexus",
+                "&nbsp;= dēclīnāre",
+                "[M.:] Cāsus item prōnōminum quot sunt? [D.:] Sex, quem ad modum et nōminum, per quōs omnium generum prōnōmina īnflectuntur . . .&nbsp;",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K-&Nl@aNAv",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "optātīvus -a -um&nbsp;",
+                "&lt; op­tāre",
+                "[M. :] Modī verbōrum quī sunt? [D. :] Indicātīvus, ut <i>legō</i>, imperātīvus, ut <i>lege</i>, optātī­vus, ut <i>utinam legerem</i>, coniūnctīvus, ut <i>cum legam</i>, īnfī­nītīvus, ut <i>legere</i>.&nbsp;",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wLzBj[i:4:",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "eia!",
+                "= age!",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d7DTp/pEVV",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "participium&nbsp;",
+                "&lt; pars + capere",
+                "[M.] Participium quid est?&nbsp;<div>[D.] Pars ōrātiōnis partem capiēns nōminis, partem verbī: nōminis genera et cāsūs, verbī tempora et signifi­cātiōnēs, utrīusque numerum ...</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N=9>sly$d/",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "coniūnctiō -ōnis f",
+                "&lt; coniungere",
+                "[M.:] Coniūnctiō quid est? [D.:] Pars ōrātiōnis adnectēns ōrdinānsque sententiam.&nbsp;",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s|J;>B)Y4u",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cōpulātīvus -a -um<br>",
+                "&lt; cōpuIāre",
+                "[M.:] Dā cōpulātīvās! <br>[D.:] Et, -que, atque, ac&nbsp;<br>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dIf4.ZxNhO",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ratiōnālis -ē",
+                "&nbsp;&lt; ratiō",
+                "[M.:] Dā ratiōnālēs!<br>[D.:] Itaque, enim, quia, quāpropter; quoniam, ergō, ideō, igitur; scīlicet, proptereā. . . .<br>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Oj370uFJw?",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "praepositiō -ōnis f&nbsp;",
+                "&lt; praepōnere&nbsp;",
+                "[M.:] Praepositiō quid est? [D.:] Pars ōrātiōnis quae praeposita aliīs partibus ōrāti­ōnis significātiōnem eārum aut complet aut mūtat aut minuit ....",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mNtY7,b`AZ",
+            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35"
+            ]
         }
     ]
 }
