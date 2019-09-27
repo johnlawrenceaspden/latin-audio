@@ -969,7 +969,7 @@
         "ankidroid_audiorec1961155164.mp3",
         "ankidroid_audiorec196144339.mp3",
         "ankidroid_audiorec1964644335.mp3",
-        "ankidroid_audiorec1964916994.3gp",
+        "ankidroid_audiorec1964916994.mp3",
         "ankidroid_audiorec1965258528.mp3",
         "ankidroid_audiorec1966513343.mp3",
         "ankidroid_audiorec1967097982.mp3",
@@ -16083,7 +16083,7 @@
                 "lower",
                 "",
                 "",
-                "[sound:ankidroid_audiorec1964916994.3gp]",
+                "[sound:ankidroid_audiorec1964916994.mp3]",
                 ""
             ],
             "flags": 0,
