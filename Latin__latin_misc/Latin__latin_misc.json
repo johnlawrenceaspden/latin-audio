@@ -56,7 +56,7 @@
     "extendRev": 50,
     "media_files": [
         "ankidroid_audiorec1003906763.mp3",
-        "ankidroid_audiorec101499423.3gp",
+        "ankidroid_audiorec101499423.mp3",
         "ankidroid_audiorec1139360258.mp3",
         "ankidroid_audiorec1139476183.mp3",
         "ankidroid_audiorec1216378771.mp3",
@@ -79,9 +79,9 @@
         "ankidroid_audiorec1684993130.mp3",
         "ankidroid_audiorec1695762459.mp3",
         "ankidroid_audiorec1699049385.mp3",
-        "ankidroid_audiorec1713022035.3gp",
+        "ankidroid_audiorec1713022035.mp3",
         "ankidroid_audiorec1728267003.mp3",
-        "ankidroid_audiorec1729225231.3gp",
+        "ankidroid_audiorec1729225231.mp3",
         "ankidroid_audiorec1746804029.mp3",
         "ankidroid_audiorec1748058840.mp3",
         "ankidroid_audiorec1774313981.mp3",
@@ -112,7 +112,7 @@
         "ankidroid_audiorec596699706.mp3",
         "ankidroid_audiorec606420325.mp3",
         "ankidroid_audiorec617338681.mp3",
-        "ankidroid_audiorec66126755.3gp",
+        "ankidroid_audiorec66126755.mp3",
         "ankidroid_audiorec67821746.mp3",
         "ankidroid_audiorec682514073.mp3",
         "ankidroid_audiorec716678691.mp3",
@@ -1456,7 +1456,7 @@
             "data": "",
             "fields": [
                 "{{c1::dīligō}}, {{c2::dīligere}}, {{c3::dīlēxī}}, {{c4::dīlēctum}}",
-                "[sound:ankidroid_audiorec1729225231.3gp]"
+                "[sound:ankidroid_audiorec1729225231.mp3]"
             ],
             "flags": 0,
             "guid": "BOgeJM(a`Z",
@@ -1482,7 +1482,7 @@
             "data": "",
             "fields": [
                 "Mūsae: novem deae quae {{c1::singulīs}} artibus {{c2::praesunt}}",
-                "[sound:ankidroid_audiorec1713022035.3gp]"
+                "[sound:ankidroid_audiorec1713022035.mp3]"
             ],
             "flags": 0,
             "guid": "oWT<sI`q<&",
@@ -1690,7 +1690,7 @@
             "data": "",
             "fields": [
                 "Magister {{c2:: ex sacculō suō}} {{c3::duōs nummōs}} {{c1::prōmit}}",
-                "[sound:ankidroid_audiorec66126755.3gp]"
+                "[sound:ankidroid_audiorec66126755.mp3]"
             ],
             "flags": 0,
             "guid": "n+ec3",
@@ -1702,7 +1702,7 @@
             "data": "",
             "fields": [
                 "{{c1::legō}}, {{c2::legere}}, {{c3::lēgī}}, {{c4::lēctum}}",
-                "[sound:ankidroid_audiorec101499423.3gp]"
+                "[sound:ankidroid_audiorec101499423.mp3]"
             ],
             "flags": 0,
             "guid": "O2Z?c0KUr^",
