@@ -8,7 +8,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+            "crowdanki_uuid": "bbdd975f-a030-11e9-b09e-74867a15fbd5",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -20,7 +20,7 @@
                 "mult": 0
             },
             "maxTaken": 60,
-            "name": "allnewcards",
+            "name": "no new cards",
             "new": {
                 "bury": true,
                 "delays": [
@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 10,
+                "perDay": 1,
                 "separate": true
             },
             "replayq": true,
@@ -46,7 +46,7 @@
                 "ivlFct": 1,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 9999
+                "perDay": 1000
             },
             "timer": 0
         }
@@ -65,6 +65,7 @@
         "ankidroid_audiorec1046285885.mp3",
         "ankidroid_audiorec1061992898.mp3",
         "ankidroid_audiorec1075528962.mp3",
+        "ankidroid_audiorec1087064686.3gp",
         "ankidroid_audiorec1098857424.mp3",
         "ankidroid_audiorec1103121988.mp3",
         "ankidroid_audiorec111361776.mp3",
@@ -119,6 +120,7 @@
         "ankidroid_audiorec1533035980.mp3",
         "ankidroid_audiorec1559215139.mp3",
         "ankidroid_audiorec1560932547.mp3",
+        "ankidroid_audiorec1566180403.3gp",
         "ankidroid_audiorec156919869.mp3",
         "ankidroid_audiorec1572071265.mp3",
         "ankidroid_audiorec1596302817.mp3",
@@ -126,6 +128,7 @@
         "ankidroid_audiorec1623707738.mp3",
         "ankidroid_audiorec1623741645.mp3",
         "ankidroid_audiorec1626963697.mp3",
+        "ankidroid_audiorec1631240722.3gp",
         "ankidroid_audiorec1634204540.mp3",
         "ankidroid_audiorec1641328668.mp3",
         "ankidroid_audiorec164999280.mp3",
@@ -168,6 +171,7 @@
         "ankidroid_audiorec2014656768.mp3",
         "ankidroid_audiorec202618136.mp3",
         "ankidroid_audiorec2032213864.mp3",
+        "ankidroid_audiorec2048381749.3gp",
         "ankidroid_audiorec2051817996.mp3",
         "ankidroid_audiorec2052219033.mp3",
         "ankidroid_audiorec2069065563.mp3",
@@ -193,6 +197,7 @@
         "ankidroid_audiorec224825499.mp3",
         "ankidroid_audiorec246373455.mp3",
         "ankidroid_audiorec248664901.mp3",
+        "ankidroid_audiorec258105006.3gp",
         "ankidroid_audiorec263412612.mp3",
         "ankidroid_audiorec280134966.mp3",
         "ankidroid_audiorec296090216.mp3",
@@ -206,16 +211,19 @@
         "ankidroid_audiorec412982738.mp3",
         "ankidroid_audiorec418722430.mp3",
         "ankidroid_audiorec421166224.mp3",
+        "ankidroid_audiorec429905310.3gp",
         "ankidroid_audiorec431380585.mp3",
         "ankidroid_audiorec448820586.mp3",
         "ankidroid_audiorec449483554.mp3",
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
+        "ankidroid_audiorec494041012.3gp",
         "ankidroid_audiorec507074086.mp3",
         "ankidroid_audiorec514769516.mp3",
         "ankidroid_audiorec517301445.mp3",
         "ankidroid_audiorec527143567.mp3",
         "ankidroid_audiorec527312973.mp3",
+        "ankidroid_audiorec53085921.3gp",
         "ankidroid_audiorec536817057.mp3",
         "ankidroid_audiorec547608466.mp3",
         "ankidroid_audiorec549471326.mp3",
@@ -303,7 +311,9 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "cap18"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -377,7 +387,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap34",
+                "cap35",
                 "pensumC"
             ],
             "tmpls": [
@@ -719,7 +729,7 @@
             "fields": [
                 "Cūr mercātor Rōmānus trīstis est?",
                 "[sound:ankidroid_audiorec1951796769.mp3]",
-                "Quia mercēs eius ēiectae sunt.",
+                "Quia mercēs ēius ēiectae sunt.",
                 "[sound:ankidroid_audiorec991165891.mp3]"
             ],
             "flags": 0,
@@ -788,7 +798,7 @@
                 "Num nautae Arīonem gladiīs interfēcērunt?",
                 "[sound:ankidroid_audiorec957187860.mp3]",
                 "Nōn ita, sed imperāvērunt ut in mare dēsilīret.",
-                ""
+                "[sound:ankidroid_audiorec494041012.3gp]"
             ],
             "flags": 0,
             "guid": "BSH7%55V.",
@@ -1468,7 +1478,6 @@
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap31",
-                "marked",
                 "pensumB"
             ]
         },
@@ -2299,7 +2308,7 @@
             "fields": [
                 "Utrum ventus secundus an adversus est?",
                 "[sound:ankidroid_audiorec1098857424.mp3]",
-                "Ventus secundus est, sed gūbernator ???? optat ut ventus in adversum vertātur.",
+                "Ventus secundus est, sed gubernātor optat ut ventus in adversum vertātur.",
                 "[sound:ankidroid_audiorec646209912.mp3]"
             ],
             "flags": 0,
@@ -2341,7 +2350,6 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap32",
-                "marked",
                 "pensumC"
             ]
         },
@@ -3101,7 +3109,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Versibus {{c1::ūltimīs}} [= {{c2::postrēmīs}}] {{c5::dēmōnstrātur}} {{c3::ratiō}} [= {{c4::causa}}] dolōris.",
+                "Versibus {{c1::ultimīs}} [= {{c2::postrēmīs}}] {{c5::dēmōnstrātur}} {{c3::ratiō}} [= {{c4::causa}}] dolōris.",
                 "[sound:ankidroid_audiorec1527224519.mp3]"
             ],
             "flags": 0,
@@ -3250,7 +3258,7 @@
             "fields": [
                 "Cūr poēta Lesbiam et amābat et ōderat?&nbsp;<br>",
                 "",
-                "Quia Lesbia īnfīda erat<br>",
+                "Quia Lesbia ī???nfīda erat",
                 ""
             ],
             "flags": 0,
@@ -3377,6 +3385,583 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dēclīnā āla, nōmen fēminīnum I dēclīnātiōnis:<div><br></div><div>Singulāris: nōm. {{c1::haec āla}}, acc. {{c2::hanc ālam}}, gen. {{c3::hūius ālae}}, dat. {{c4::huic ālae}}, abl. {{c5::hāc ālā}}.<br>Plūrālis: nom. {{c6::hae ālae}}, acc. {{c7::hās ālās}}, gen. {{c8::hārum ālārum}}, dat. {{c9::hīs ālīs}}, abl. {{c10::hīs ālīs}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LzI+Z:3i3}",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dēclīnā pēs, nōmen masculīnum III dēclīnātiōnis:<div><br></div><div>Singulāris: nom. {{c1::hic pēs}}, acc. {{c2::hunc pedem}}, gen. {{c3::hūius pedis}}, dat. {{c4::huic pedī}}, abl. {{c5::hōc pede}} <br>Plūrālis: nom. {{c6::hī pedēs}}, acc. {{c7::hōs pedēs}}, gen. {{c8::hōrum pedum}}, dat. {{c9::hīs pedibus}}, abl. {{c10::hīs pedibus}}.<br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p#4g$~1[)h",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dēclīnā ōrāre, verbum āctīvum I coniugātiōnis (pers. I sing.):<div><br></div><div>Indicātīvus: praes. {{c1::ōrō}}, imperf. {{c2::ōrābam}}, fut. {{c3::ōrābō}}, perf. {{c4::ōrāvī}}, plusquamperf. {{c5::ōrāveram}}, fut. perf. {{c6::ōrāverō}}. <br><br>Coniūnctīvus: praes. {{c7::ōrem}}, imperf. {{c8::ōrārem}}, perf. {{c9::ōrāverim}}, plusquamperf. {{c10::ōrāvissem}}.<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gAWoW1w7Rx",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dēclīnā dīcere, verbum āctīvum III coniugātiōnis (pers. I sing.):&nbsp;<div><br></div><div>Indicātīvus: praes. {{c1::dīcō}}, imperf. {{c2::dīcēbam}}, fut. {{c3::dīcam}}, perf. {{c4::dīxī}}, plusquamperf. {{c5::dīxeram}}, fut. perf {{c6::dīxerō}}.<br>Coniūnctīvus: praes. {{c7::dīcam}}, imperf. {{c8::dīcerem}} perf. {{c9::dīxerim}}, plusquamperf. {{c10::dīxissem}}.&nbsp;<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ny~bvW}+^t",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::laedere}} {{c2::laesisse}} {{c3::laesum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gTWG;T9jN~",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::implicāre}} {{c3::implicāvisse}} {{c5::implicātum}}; <br>{{c1::implicāre}} {{c4::implicuisse}} {{c6::implicitum}};&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iOy_svJWl3",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::plaudere}} {{c2::plausisse}} {{c3::plausum}};&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Mo<5/h5so7",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::parēre}} {{c2::peperisse}} {{c3::partum}}<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k!4DZH+0y#",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::retinēre}} {{c2::retenuisse}} {{c3::retentum}}",
+                "[sound:ankidroid_audiorec1087064686.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Mj&g;c]d`*",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::accendere}} {{c2::accendisse}} {{c3::accēnsum}}",
+                "[sound:ankidroid_audiorec1631240722.3gp]"
+            ],
+            "flags": 0,
+            "guid": "QI}cw9lNCo",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::dēmere}} {{c2::dēmpsisse}} {{c3::dēmptum}}<br>",
+                "[sound:ankidroid_audiorec2048381749.3gp]"
+            ],
+            "flags": 0,
+            "guid": "n&cD%/GG+6",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::adicere}} {{c2::adiēcisse}} {{c3::adiectum}}<br>",
+                "[sound:ankidroid_audiorec258105006.3gp]"
+            ],
+            "flags": 0,
+            "guid": "p?nPUr?adi",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::sedēre}} {{c2::sēdisse}}",
+                "[sound:ankidroid_audiorec1566180403.3gp]"
+            ],
+            "flags": 0,
+            "guid": "nDLsI08|>y",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::nūbere}} {{c2::nūpsisse}}<br>",
+                "[sound:ankidroid_audiorec53085921.3gp]"
+            ],
+            "flags": 0,
+            "guid": "CaxhZ<*XYl",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::sapere}} {{c2::sapīvisse}}",
+                "[sound:ankidroid_audiorec429905310.3gp]"
+            ],
+            "flags": 0,
+            "guid": "Rg^`a#d(TD",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensum-verba"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nōmen est pars {{c1::ōrātiōnis}} {{c2::quae}} corpus aut rem significat.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "os_KH*FN_<",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::Aemilia et Iūlia}} nōmina {{c1::propria}} sunt, {{c4::māter et fīlia}} sunt nōmina {{c2::appellātīva}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yfR&ita1;f",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Cāsūs}} {{c2::nōminum}} sunt nōminātīvus, genetīvus, cēt.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u_+Z7m#rl`",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Gradūs}} {{c1::comparātiōnis}} sunt trēs: -positīvus, comparātīvus, superlātīvus.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l`LsO{|Jqi",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adiectīva {{c3::quae}} {{c4::comparantur}} {{c1::quālitātem}} aut {{c2::quantitātem}} significant.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G7q{<IwcdK",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Amāre est verbum prīmae {{c1::coniugātiōnis}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FNL}$1<9Y2",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Interiectiō}} mentis {{c1::affectum}}, ut laetitiam vel dolōrem, significat.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Juh=l[jlR_",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Īra}} est {{c2::affectus}} ēius quī īrātus est.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h-VU|19[e|",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Frātrēs {{c2::geminī}} tam {{c1::similēs}} sunt {{c3::quam}} ōva.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cAXgDt7w$&",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Synōnyma}} (vocābula {{c2::quae idem}} ferē significant): {{c3::plānum facere}} et {{c4::explānāre}}, {{c5::fortasse}} et {{c6::forsitan}}, {{c7::ideō}} et {{c8::proptereā}}, {{c9::citrā}} et {{c10::cis}}, {{c11::ecce}} et {{c12::ēn}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BK*`z=i,l4",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Contrāria}} ({{c2::vocābula quae}} {{c3::rēs contrāriās}} significant): {{c4::commūnis}} et {{c5::proprius}}, {{c6::addere}} et {{c7::dēmere}}.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c.ON:J]!ot",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quae sunt partēs ōrātiōnis?",
+                "",
+                "Nōmen, prōnōmen, verbum, adverbium, participium, coniūnctiō, praepositiō, interiectiō",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oVi%V|uKVz",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Estne discipulus nōmen proprium?<br>",
+                "",
+                "Nōmen appellativum est.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mBSLhA-ZGh",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cāsus nōminum quī sunt?<br>",
+                "",
+                "Nōminativus, accūsātīvus, genetīvus, datīvus et ablātivus, vocātīvus.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "znx25^n|b|",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quī sunt gradūs comparātiōnis?<br>",
+                "",
+                "Positīvus, comparātīvus, superlātivus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y6^~C(?QOU",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Prōnōmen quid est? <br>",
+                "",
+                "Pars ōrātiōnis quae prō nōmine pōnitur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qduuS+V/OK",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quot sunt coniugātiōnēs verbōrum? <br>",
+                "",
+                "Sunt quattuor.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hmG<V=D8GI",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Num intus et forīs adverbia temporis sunt?<br>",
+                "",
+                "Non adverbia temporis, sed locī sunt.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C9+wHTYPs2",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cui cāsuī iungitur inter praepositiō?<br>",
+                "",
+                "Inter cāsuī accusātīvō iungitur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lhh/QZDPwo",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quae praepositiōnēs ablātīvō iunguntur? <br>",
+                "",
+                "Praepositiōnēs ab/ā, cum, dē, ex/ē, prae prō, sine, cōram.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n(9TiA/W2i",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quibus cāsibus iungitur in praepositiō?<br>",
+                "",
+                "Ablātīvō aut accūsātivō.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t7{dqNRVGJ",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
+                "pensumC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Interiectiō quid significat? <br>",
+                "",
+                "Interiectiō significat mentis affectum.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sC.fOzmx{W",
+            "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap35",
                 "pensumC"
             ]
         }

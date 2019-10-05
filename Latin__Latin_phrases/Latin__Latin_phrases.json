@@ -17,7 +17,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0.0
+                "mult": 0
             },
             "maxTaken": 60,
             "name": "no new cards",
@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 0,
+                "perDay": 1,
                 "separate": true
             },
             "replayq": true,
@@ -43,7 +43,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 1,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 1000
@@ -89,6 +89,7 @@
         "ankidroid_audiorec1269136747.mp3",
         "ankidroid_audiorec1272074530.mp3",
         "ankidroid_audiorec1277620768.mp3",
+        "ankidroid_audiorec1300205543.3gp",
         "ankidroid_audiorec131636739.mp3",
         "ankidroid_audiorec1318991999.mp3",
         "ankidroid_audiorec1321258235.mp3",
@@ -175,6 +176,7 @@
         "ankidroid_audiorec214340441.mp3",
         "ankidroid_audiorec2145518845.mp3",
         "ankidroid_audiorec218978969.mp3",
+        "ankidroid_audiorec226907793.3gp",
         "ankidroid_audiorec229514304.mp3",
         "ankidroid_audiorec231989202.mp3",
         "ankidroid_audiorec264864633.mp3",
@@ -193,6 +195,7 @@
         "ankidroid_audiorec351433315.mp3",
         "ankidroid_audiorec366345866.mp3",
         "ankidroid_audiorec37091288.mp3",
+        "ankidroid_audiorec387502751.3gp",
         "ankidroid_audiorec387816979.mp3",
         "ankidroid_audiorec408611047.mp3",
         "ankidroid_audiorec409321185.mp3",
@@ -200,6 +203,7 @@
         "ankidroid_audiorec413115030.mp3",
         "ankidroid_audiorec417450007.mp3",
         "ankidroid_audiorec424883266.mp3",
+        "ankidroid_audiorec425162774.3gp",
         "ankidroid_audiorec436057203.mp3",
         "ankidroid_audiorec458097545.mp3",
         "ankidroid_audiorec472998767.mp3",
@@ -470,9 +474,7 @@
             "flags": 0,
             "guid": "nZ$a;VXkct",
             "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac49",
-            "tags": [
-                "marked"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -708,9 +710,9 @@
             "fields": [
                 "ab invito",
                 "ab invītō",
-                "ab in-*vī-tō",
-                "a bin-*vī-tō",
-                ".o*oo",
+                "*ab in-*vī-tō",
+                "*a bin *vī tō",
+                "*.o *oo",
                 "[sound:ankidroid_audiorec410667281.mp3]",
                 "from one unwilling",
                 "unwillingly",
@@ -8117,11 +8119,11 @@
             "data": "",
             "fields": [
                 "decessit sine prole legitima",
-                "dēcessit sine prōle lēgitimā&nbsp;<br>",
+                "dēcessit sine prōle lēgitimā",
+                "dē-*ces-sit *si-ne *prō-le lē-*gi-ti-mā",
                 "",
-                "",
-                "",
-                "",
+                "*o *oo *.. *o.o *..o",
+                "[sound:ankidroid_audiorec1300205543.3gp]",
                 "",
                 "died without legitimate issue",
                 "Used in genealogical records, often abbreviated as d.s.p.l. , to indicate a person who died without having had any children with a spouse."
@@ -8897,10 +8899,10 @@
             "fields": [
                 "Deo gratias",
                 "Deō grātiās",
+                "*De-ō *grā-ti-ās",
                 "",
                 "",
-                "",
-                "",
+                "[sound:ankidroid_audiorec425162774.3gp]",
                 "",
                 "Thanks [be] to God",
                 "A frequent phrase in the Roman Catholic liturgy , especially after the recitation of the first and second readings at Holy Mass in the Ordinary Form and after the recitation of the first reading and the final gospel (of St. John ) in the Extraordinary Form."
@@ -15528,9 +15530,9 @@
             "fields": [
                 "ignotum per ignotius",
                 "ignōtum per ignōtius",
-                "ing-*nō-tum per ing-*nō-ti-us",
-                "ing-*nō-tum pe ring-*nō-ti-us",
-                "o*oo.o*o.o",
+                "ing-*nō-tum *per ing-*nō-ti-us",
+                "ing-*nō-tum *pe ring-*nō-ti-us",
+                "o *oo *.o *o.o",
                 "[sound:ankidroid_audiorec1448347588.mp3]",
                 "",
                 "unknown by means of the more unknown",
@@ -19860,9 +19862,9 @@
             "fields": [
                 "lupus non mordet lupum",
                 "lupus nōn mordet lupum",
-                "*lu-pus nōn *mor-det *lu-pum",
+                "*lu-pus *nōn *mor-det *lu-pum",
                 "",
-                "*.o o *oo *.o",
+                "*.o *o *oo *.o",
                 "[sound:ankidroid_audiorec961296306.mp3]",
                 "",
                 "a wolf does not bite a wolf",
@@ -21171,9 +21173,9 @@
             "fields": [
                 "mēns agitat mōlem",
                 "mēns agitat mōlem",
-                "mēns *a-gi-tat *mō-lem",
-                "mēn *sa-gi-tat *mō-lem",
-                "o*..o*oo",
+                "*mēns *a-gi-tat *mō-lem",
+                "*mēn *sa gi tat *mō lem",
+                "*o *..o *oo",
                 "[sound:ankidroid_audiorec298761503.mp3]",
                 "",
                 "the mind moves the mass",
@@ -22313,8 +22315,8 @@
                 "nātūra nihil frūstra facit",
                 "nā-*tū-ra *ni-hil *frūs-tra *fa-cit",
                 "",
-                "o*o.*.o*o.*.o",
-                "[sound:ankidroid_audiorec1038945050.mp3][sound:ankidroid_audiorec1038945050.mp3]",
+                "o *o. *.o *o. *.o",
+                "[sound:ankidroid_audiorec1038945050.mp3]",
                 "",
                 "nature does nothing in vain",
                 "Cf. Aristotle : \"οὐθὲν γάρ, ὡς φαμέν, μάτην ἡ φύσις ποιεῖ\" (Politics I 2, 1253a9) and Leucippus : \"Everything that happens does so for a reason and of necessity.\""
@@ -23261,9 +23263,9 @@
             "fields": [
                 "nil desperandum",
                 "nīl dēspērandum",
-                "nīl dēs-pē-*ran-dum",
+                "*nīl dēs-pē-*ran-dum",
                 "",
-                "o oo*oo",
+                "*ooo *oo",
                 "[sound:ankidroid_audiorec1318991999.mp3]",
                 "",
                 "nothing must be despaired at",
@@ -24307,8 +24309,8 @@
                 "non omnis moriar",
                 "nōn omnis moriar",
                 "nōn *om-nis *mo-ri-ar",
-                "nō  *nom-nis *mo-ri-ar",
-                "o*oo*..o",
+                "*nō  *nom nis *mo ri ar",
+                "*o *oo *..o",
                 "[sound:ankidroid_audiorec795877223.mp3]",
                 "",
                 "I shall not all die",
@@ -25066,10 +25068,10 @@
             "fields": [
                 "numerus clausus",
                 "numerus clausus",
+                "*nu-me-rus *clau-sus",
                 "",
                 "",
-                "",
-                "",
+                "[sound:ankidroid_audiorec387502751.3gp]",
                 "",
                 "closed number",
                 "A method to limit the number of students who may study at a university."
@@ -31754,7 +31756,7 @@
             "fields": [
                 "regnat populus",
                 "regnat populus",
-                "*reg-nat *po-pu-lus",
+                "*reng-nat *po-pu-lus",
                 "",
                 "*oo*..o",
                 "[sound:ankidroid_audiorec1810532345.mp3]",
@@ -34530,7 +34532,7 @@
                 "sine honōris titulō",
                 "*si-ne ho-*nō-ris *ti-tu-lō",
                 "*si-ne(h)o-*nō-ris *ti-tu-lō",
-                "*o..oo *..o",
+                "*o.. *oo *..o",
                 "[sound:ankidroid_audiorec1272074530.mp3]",
                 "",
                 "without honorary title",
@@ -40342,10 +40344,10 @@
             "fields": [
                 "Vires acquirit eundo",
                 "Vīrēs acquīrit eundō",
-                "",
-                "",
-                "",
-                "",
+                "*Vī-rēs ac-*quī-rit e-*un-dō",
+                "*Vī rē sac *quī ri te *un dō",
+                "*ooo *o.. *oo",
+                "[sound:ankidroid_audiorec226907793.3gp]",
                 "",
                 "she gathers strength as she goes",
                 "A quotation from Vergil's Aeneid , Book 4, 175, which in the original context refers to Pheme . The motto on the Coat of arms of Melbourne ."
