@@ -2019,97 +2019,52 @@ P
 pabulum -i n = cibus pecoris et equorum
 pabulari = pabulum petere
 pacare = ad pacem cogere, subigere
-pacisci pactum = condicionem ferre, ex
-composito postulare
+pacisci pactum = condicionem ferre, ex composito postulare
 pacto = quo pacto: quo modo
 paelex -icis f = altera uxor
-paenitêre = 1. me ( acc ) paenitet ita fecisse:
-doleo quod ita feci; 2. me paenitet facti:
-me paenitet ita fecisse; 3. me paenitet
-rei ( gen ): mihi displicet respalam = 1. ↔ clam; 2. p. facere: patefacere
+paenitêre = 1. me ( acc ) paenitet ita fecisse: doleo quod ita feci; 2. me paenitet facti: me paenitet ita fecisse; 3. me paenitet rei ( gen ): mihi displicet res
+palam = 1. ↔ clam; 2. p. facere: patefacere
 palari = errare
-pallescere -uisse = pallêre incipere, pallidus
-fieri
-palma -ae f = 1. ramus qui victor accipit;
-2. manus
+pallescere -uisse = pallêre incipere, pallidus fieri
+palma -ae f = 1. ramus qui victor accipit; 2. manus
 paludamentum -i n = pallium militis
 palus -udis f = locus umidus
 palus -i m = stipes
-pandere -disse passum = 1. late extendere;
-2. agmen extendi iubêre
+pandere -disse passum = 1. late extendere; 2. agmen extendi iubêre
 Pantheum /- on -i n = altum templum rotundum
 papaver -eris n = flos quidam
-par paris = 1. aequus; 2. alteri par: similis,
-tam bonus/validus ... quàm alter;
-3. virtuti par: qui virtutem aequat
-parare = 1. paratum facere; 2. paratus esse;
-3. (fugam) parare: facere quod opus est
-(ad fugam); 4. res paratas habêre ad
-aliquid; 5. emere; 6. aliquem mercede
-corrumpere
-paratus -a -um = 1. qui aliquam rem facere
-potest quia omnia habet quae necesse
-sunt ut rem faciat; 2. alicui paratus: ad
-aliquid paratus
-parcere pepercisse -rsum = 1. alicui
-parcere: aliquem non necare, salvum
-esse sinere; 2. servare; 3. abstinêre
+par paris = 1. aequus; 2. alteri par: similis, tam bonus/validus ... quàm alter; 3. virtuti par: qui virtutem aequat
+parare = 1. paratum facere; 2. paratus esse; 3. (fugam) parare: facere quod opus est (ad fugam); 4. res paratas habêre ad aliquid; 5. emere; 6. aliquem mercede corrumpere
+paratus -a -um = 1. qui aliquam rem facere potest quia omnia habet quae necesse sunt ut rem faciat; 2. alicui paratus: ad aliquid paratus
+parcere pepercisse -rsum = 1. alicui parcere: aliquem non necare, salvum esse sinere; 2. servare; 3. abstinêre
 parens -entis m/f = pater/mater
-parere -io peperisse partum = 1. ovum
-expellere; 2. femina feta filium nondum
-natum expellere; 3. pacem parere:
-pacem facere; 4. facere, dare; 5. per se
-facere
+parere -io peperisse partum = 1. ovum expellere; 2. femina feta filium nondum natum expellere; 3. pacem parere: pacem facere; 4. facere, dare; 5. per se facere
 paries -etis m = murus domûs
-pariter = 1. aeque, eodem modo; 2. pariter
-cum: simul cum
-parricidium -i n <parricida = nex parentis/
-cognati
-pars -rtis f = 1. aliquid ex toto; 2. unus ex
-toto aeque diviso; 3. locus; 4. pars /
-partes: factio; 5. magnâ (ex) parte:
-paene totus; 6. decima pars: 1/10
+pariter = 1. aeque, eodem modo; 2. pariter cum: simul cum
+parricidium -i n <parricida = nex parentis/ cognati
+pars -rtis f = 1. aliquid ex toto; 2. unus ex toto aeque diviso; 3. locus; 4. pars / partes: factio; 5. magnâ (ex) parte: paene totus; 6. decima pars: 1/10
 particeps -ipis ↔ expers
-partim = in parte; partim ... alias: alias ...
-alias
-partiri = 1. dividere (in partes); 2. aliquid in
-partes dividere et dare
+partim = in parte; partim ... alias: alias ... alias
+partiri = 1. dividere (in partes); 2. aliquid in partes dividere et dare
 parturire = pariturus esse (< parere)
-partus -us m = 1. < parere; 2. partu edere:
-parere
+partus -us m = 1. < parere; 2. partu edere: parere
 parum = 1. non satis; 2. haud; 3. vix
 parum-per = paulisper
 passim = longe lateque, ubique
 pastio -onis f < pascere
-pate-facere = 1. aperire; 2. in lucem efferre,
-publice ostendere
+pate-facere = 1. aperire; 2. in lucem efferre, publice ostendere
 pate-fieri pass; pate-facere act
-pater -tris m = 1. vir caput familiae; 2. vir
-qui liberos habet; 3. vir qui aliquem
-genuit; 4. pater familias: pater (dominus)
-familiae; 5. patres (conscripti): senatores,
-sic honoris causâ appellati
-patera -ae f = vas humile ex quo vini
-sacrificium fit
-patêre = 1. apertus esse; 2. locus esse qui
-transiri potest; 3. se extendere, locatus
-esse in loco lato; 4. fuga patêre: fugere
-licêre; 5. longus/latus esse; 6. patet:
-apparet, ostenditur
+pater -tris m = 1. vir caput familiae; 2. vir qui liberos habet; 3. vir qui aliquem genuit; 4. pater familias: pater (dominus) familiae; 5. patres (conscripti): senatores, sic honoris causâ appellati
+patera -ae f = vas humile ex quo vini sacrificium fit
+patêre = 1. apertus esse; 2. locus esse qui transiri potest; 3. se extendere, locatus esse in loco lato; 4. fuga patêre: fugere licêre; 5. longus/latus esse; 6. patet: apparet, ostenditur
 paternus -a -um <pater
-patescere -uisse = patêre incipere, patens
-fieri
-pati passum = 1. ferre (dolorem); 2. aequo
-animo ferre; 3. sinere; 4. moleste/aegre/
-indigne p. aliquid: iratus esse ob aliquid
+patescere -uisse = patêre incipere, patens fieri
+pati passum = 1. ferre (dolorem); 2. aequo animo ferre; 3. sinere; 4. moleste/aegre/indigne p. aliquid: iratus esse ob aliquid
 patrare = perficere
-patricii -orum m = 1. homines nobili generi
-nati ↔ plebeii; 2. liberi Patrum
-(senatorum)
+patricii -orum m = 1. homines nobili generi nati ↔ plebeii; 2. liberi Patrum (senatorum)
 patrimonium -i n = bona patris familiae
 patrius -a -um < pater
-patrocinium -i n = 1. officium patroni;
-2. auxilium
+patrocinium -i n = 1. officium patroni; 2. auxilium
 patronus -i m = defensor
 patruus -i m = frater patris
 paucitas -atis f < pauci
@@ -2117,87 +2072,64 @@ paulatim = paulùm ac paulùm (↔ subitò)
 paululum = paulùm
 pavêre = pavidus esse
 pavidus -a -um = timidus, territus
-pavor -oris m = timor subituspeccare = delinquere
+pavor -oris m = timor subitus
+peccare = delinquere
 peccatum -i n = delictum
-pectus -oris n = 1. pars corporis sub collo
-et super ventrem; 2. pars corporis
-feminarum quae lac dat; 3. animus, mens
+pectus -oris n = 1. pars corporis sub collo et super ventrem; 2. pars corporis feminarum quae lac dat; 3. animus, mens
 pecua -um n = pecudes
 peculatus -us m = furtum pecuniae publicae
-pecus -udis f = 1. bestia qua utitur agricola;
-2. ovis
+pecus -udis f = 1. bestia qua utitur agricola; 2. ovis
 pedester -tris -tre <pes = peditum
 pellere pepulisse pulsum = fugare
-Penates -ium m pl = 1. di qui domum vel
-patriam tuentur; 2. domus
-pendere pependisse pensum (pecuniam) =
-solvere
+Penates -ium m pl = 1. di qui domum vel patriam tuentur; 2. domus
+pendere pependisse pensum (pecuniam) = solvere
 penes adv = apud
 penetralia -ium n pl = domus interior
 penetrare = vi intrare
-penitus = 1. ex interiore parte; 2. in partem
-interiorem; penitus pervenire: penetrare
+penitus = 1. ex interiore parte; 2. in partem interiorem; penitus pervenire: penetrare
 pensare = reputare
 pensio -onis f = pecunia solvenda
 pensitare = pendere
 penuria -ae f = inopia
 per- = valde ...
-per-agere = 1. perficere, exsequi; 2. finire,
-ad finem agere; 3. diebus aliquibus
-peractis: d. a. pòst
+per-agere = 1. perficere, exsequi; 2. finire, ad finem agere; 3. diebus aliquibus peractis: d. a. pòst
 per-agrare = pererrare
 per-angustus -a -um = valde angustus
 per-blandus -a -um = valde blandus
 per-brevis -e = valde brevis
 per-celeris -e = valde celeris
-per-cellere -culisse -culsum = 1. percutere
-(animum), perturbare; 2. perculsus:
-perterritus
+per-cellere -culisse -culsum = 1. percutere (animum), perturbare; 2. perculsus: perterritus
 per-censêre = enumerare
 perceptio -onis f = collectio
 per-contari = interrogare
 per-contatio -onis f < percontari
-per-dere -didisse -ditum = 1. ↔ servare;
-2. (tempus) frustra ponere; 3. ruinam
-afferre; 4. amittere
+per-dere -didisse -ditum = 1. ↔ servare; 2. (tempus) frustra ponere; 3. ruinam afferre; 4. amittere
 per-domare = funditus domare, subigere
-perduellio -onis f = scelus maximum contra
-rem publicam
+perduellio -onis f = scelus maximum contra rem publicam
 peregrinus -a -um = cui alia patria est
 perennis -e = 1. semper fluens; 2. perpetuus
 per-errare = p. terram: errare per terram
 per-exiguus -a -um = valde exiguus
-perfectus -a -um = 1. finitus; 2. qui melior
-fieri non potest
-per-ferre = 1. ferre (usque ad finem); 2. diu
-pati; 3. perferri: fama ferri ad aliquem/
-in aliquem locum
+perfectus -a -um = 1. finitus; 2. qui melior fieri non potest
+per-ferre = 1. ferre (usque ad finem); 2. diu pati; 3. perferri: fama ferri ad aliquem/ in aliquem locum
 perfidia -ae f <perfidus
 per-fidus -a -um = qui fidem fallit
-perfuga -ae m = miles qui ad hostem
-perfugit/transfugit
+perfuga -ae m = miles qui ad hostem perfugit/transfugit
 per-fugere = confugere
 perfugium -i n = asylum
-per-fundere -fudisse -fusum = 1. totum
-afficere, permovêre; 2. rigare
+per-fundere -fudisse -fusum = 1. totum afficere, permovêre; 2. rigare
 per-fungi = defungi
-pergere perrexisse = 1. non desinere; 2. ire
-pergere; 3. progredi, proficisci
-per-hibêre = habêre, existimare; perhibetur:
-narratur
-per-imere -emisse -emptum = interimere,
-perdere
+pergere perrexisse = 1. non desinere; 2. ire pergere; 3. progredi, proficisci
+per-hibêre = habêre, existimare; perhibetur: narratur
+per-imere -emisse -emptum = interimere, perdere
 periocha -ae f = breviarium
-per-ire = 1. perdi, mori (↔ servari); 2. abire;
-3. se perdere, non fieri; 4. deleri, absumi
+per-ire = 1. perdi, mori (↔ servari); 2. abire; 3. se perdere, non fieri; 4. deleri, absumi
 peritus -a -um ↔ ignarus
 per-magnus -a -um = valde magnus, maximus
 per-manêre = diu manêre
 per-miscêre = miscêre
-per-mittere = 1. alicui p.: aliquem sinere;
-2.tradere,credere;3.mandare,committere
-permixtio -onis f (< permiscêre) =
-perturbatio
+per-mittere = 1. alicui p.: aliquem sinere; 2.tradere,credere;3.mandare,committere
+permixtio -onis f (< permiscêre) = perturbatio
 per-molestus -a -um = valde molestus
 per-multi -ae -a = plurimi
 per-mutare = inter se mutare
@@ -2205,117 +2137,68 @@ permutatio -onis f <permutare
 pernicies -ei f = caedes, strages
 perniciosus -a -um = nocens, ↔ saluber
 per-orare = orationis finem facere
-per-pellere -pulisse -pulsum = persuadendo
-pellere (ad agendum)
+per-pellere -pulisse -pulsum = persuadendo pellere (ad agendum)
 per-rogare = ordine interrogare (senatores)
-per-saepe = valde saepeper-sequi = 1. (fugientem) sequi; 2. sequi,
-comitari; 3. sequi, imitari
-per-severare = firme stare, constans manêre,
-↔ cessare
+per-saepe = valde saepe
+per-sequi = 1. (fugientem) sequi; 2. sequi, comitari; 3. sequi, imitari
+per-severare = firme stare, constans manêre, ↔ cessare
 per-solvere = solvere, praestare
 per-spicere = plane vidêre
 per-stare = firme stare, perseverare
 per-timescere -uisse = expavescere
 per-tinêre ad = attingere, afficere
-per-turbare = 1. valde turbare, miscêre;
-2. animos permovêre, commovêre,
-afficere
-per-vadere = per aliquam rem vadere
-(aliquid mali; Hispanice “cundir”)
+per-turbare = 1. valde turbare, miscêre; 2. animos permovêre, commovêre, afficere
+per-vadere = per aliquam rem vadere (aliquid mali; Hispanice “cundir”)
 per-vastare = funditus vastare
 per-volare = pervenire volando
 pessum dare = perdere
 pesti-fer -era -erum = qui pestem fert
-pestilentia -ae f = morbus gravis qui multos
-simul afficit
+pestilentia -ae f = morbus gravis qui multos simul afficit
 pestis -is f = mors
 petitio -onis f < petere
-phalerae -arum f pl = ornamenta rotunda
-quae viri nobiles ac milites in pectore
-gestabant honoris causa
-pharetra -ae f = locus quo sagittae
-continentur
-philosophia -ae f = p. naturalis: id quod
-docetur de rerum natura
-philosophus -i m = vir sapiens qui docet
-philosophiam
-pietas -atis f <pius = amor deum/parentum/
-patriae
-piger -gra -grum = 1. ↔ industrius; 2. piger
-campus: sterilis campus
+phalerae -arum f pl = ornamenta rotunda quae viri nobiles ac milites in pectore gestabant honoris causa
+pharetra -ae f = locus quo sagittae continentur
+philosophia -ae f = p. naturalis: id quod docetur de rerum natura
+philosophus -i m = vir sapiens qui docet philosophiam
+pietas -atis f <pius = amor deum/parentum/patriae
+piger -gra -grum = 1. ↔ industrius; 2. piger campus: sterilis campus
 pigêre = taedêre; me piget: me taedet
-pignus -oris n = res cara data fidei causâ
-(pro pecuniâ mutuâ)
-pilleus -i m = res e lanâ facta quae in caput
-induitur
-pingere pinxisse pictum = 1. colore operire,
-imaginibus ornare; 2. vestis picta:
-vestis filis ornata quae lineis pulchris
-faciunt; 3. tabula picta: imago in tabula
-picta
+pignus -oris n = res cara data fidei causâ (pro pecuniâ mutuâ)
+pilleus -i m = res e lanâ facta quae in caput induitur
+pingere pinxisse pictum = 1. colore operire, imaginibus ornare; 2. vestis picta: vestis filis ornata quae lineis pulchris faciunt; 3. tabula picta: imago in tabula picta
 piraticus -a -um < pirata
-pius -a -um = qui deos et patriam et
-parentes diligit
-placêre -uisse/-itum esse = 1. alicui
-placêre: iucundus esse; 2. patribus
-placet: patres volunt; 3. placuit ut/ne:
-decretum est ut/ne; 4. placitum est:
-ei/iis placuit
-placidus -a -um = quietus, non turbatus
-(↔ acer)
+pius -a -um = qui deos et patriam et parentes diligit
+placêre -uisse/-itum esse = 1. alicui placêre: iucundus esse; 2. patribus placet: patres volunt; 3. placuit ut/ne: decretum est ut/ne; 4. placitum est: ei/iis placuit
+placidus -a -um = quietus, non turbatus (↔ acer)
 placitus -a -um = qui placet, gratus
-planus -a -um = 1. qui facilè intellegitur;
-2. (locus) planus: aequus
+planus -a -um = 1. qui facilè intellegitur; 2. (locus) planus: aequus
 plausus -us m <plaudere
-plebeii -orum m = homines humili generi
-nati ↔ patricii
+plebeii -orum m = homines humili generi nati ↔ patricii
 plebes -is f = plebs
-plebs -bis f = plebeii, populus Romanus
-praeter patres et patricios
-pleri-que plerae-que plera-que = prope
-omnes
+plebs -bis f = plebeii, populus Romanus praeter patres et patricios
+pleri-que plerae-que plera-que = prope omnes
 plerum-que n = maior pars
 plerum-que adv = propè semper
-plerus-que plera-que plerum-que =
-1. plerique; 2. pleraque pars: maior pars
+plerus-que plera-que plerum-que = 1. plerique; 2. pleraque pars: maior pars
 pluma -ae f = penna
-plumbum -i n = metallum grave ac vile
-quod facilè mollitur
+plumbum -i n = metallum grave ac vile quod facilè mollitur
 plurimùm = maxime multùm
 plurimus -a -um sup <multus
-poema -atis n ( pl abl -atis) = opus versibus
-scriptum, carmen
-poena -ae f = 1. > punire; 2. poenas dare
-alicui: puniri ab aliquo; 3. poenas ab
-aliquo recipio: aliquis mihi poenas dare
-(a me punitur)
+poema -atis n ( pl abl -atis) = opus versibus scriptum, carmen
+poena -ae f = 1. > punire; 2. poenas dare alicui: puniri ab aliquo; 3. poenas ab aliquo recipio: aliquis mihi poenas dare (a me punitur)
 poetria -ae f = femina poeta
 pollens -entis = potens
 pollêre = valêre
 pollicitari = polliceri
-pollicitatio -onis f (< pollicitari) =
-promissum
-polluere -uisse -utum= sordidum facere
-(↔ purgare)
-pomerium -i n = spatium intra et extra
-moenia quod neque habitari neque arari
-fas estpompa -ae f = agmen hominum festo die
-procedentium
+pollicitatio -onis f (< pollicitari) = promissum
+polluere -uisse -utum = sordidum facere (↔ purgare)
+pomerium -i n = spatium intra et extra moenia quod neque habitari neque arari fas est
+pompa -ae f = agmen hominum festo die procedentium
 pondo abl <pondus (=pondere)
-pondus -eris n = 1. onus grave magnum
-pondus habet; 2. moles gravis
-ponere posuisse positum = 1. aliquid
-movêre ut in mensâ situs sit; 2. (vestem)
-ponere: ↔ induere; 3. castra ponere:
-castra exstruere; 4. arma ponere: arma
-deponere, se dedere; 5. in medio ponere:
-palam ostendere; 6. bellum ponere:
-bellum finire; 7. positâ morâ: sine
-morâ; 8. positus: situs
-pons pontis m = opus exstructum ad flumen
-transiendum
-pontifex -icis m = summus sacerdos
-omnibus praepositus
+pondus -eris n = 1. onus grave magnum pondus habet; 2. moles gravis
+ponere posuisse positum = 1. aliquid movêre ut in mensâ situs sit; 2. (vestem) ponere: ↔ induere; 3. castra ponere: castra exstruere; 4. arma ponere: arma deponere, se dedere; 5. in medio ponere: palam ostendere; 6. bellum ponere: bellum finire; 7. positâ morâ: sine morâ; 8. positus: situs
+pons pontis m = opus exstructum ad flumen transiendum
+pontifex -icis m = summus sacerdos omnibus praepositus
 pontus -i m = mare
 populares -ium m pl = cives
 populari = vastare
@@ -2325,217 +2208,117 @@ populus -i m = 1. cuncti cives; 2. plebs
 por-rigere -exisse -ectum = extendere
 porro ↔ retro
 portare = 1. vehere; 2. ferre; 3. transportare
-por-tendere -disse -tum = rem futuram
-ostendere
-portentum -i n = prodigium quo fatum
-portenditur
+por-tendere -disse -tum = rem futuram ostendere
+portentum -i n = prodigium quo fatum portenditur
 porticus -us f = ordo columnarus tectus
 portuosus -a -um = portûs habens
 poscere = dari iubêre
 posse potuisse = 1. potestatem/facultatem
-habêre ad aliquid faciendum; 2. potens
-esse, potestatem habêre
+habêre ad aliquid faciendum; 2. potens esse, potestatem habêre
 possessio -onis f < possidêre
 pòst = postea
 postea-quam = postquam
-posteri -orum m pl = filii et nepotes et
-eorum filii et nepotes et cet.
-posterior -ius comp <post = 1. ↔ prior;
-2. pars posterior: pars inferior, finis;
-3. sequens, posterus
-posteritas -atis f = tempus posterum/futurum,
-posteri
+posteri -orum m pl = filii et nepotes et eorum filii et nepotes et cet.
+posterior -ius comp <post = 1. ↔ prior; 2. pars posterior: pars inferior, finis; 3. sequens, posterus
+posteritas -atis f = tempus posterum/futurum, posteri
 posticum -i n = ostium posterius
 postremùm adv ↔ primùm
-postremus -a -um ↔ primus; ad postremum:
-postremò
+postremus -a -um ↔ primus; ad postremum: postremò
 postri-die = postero die (↔ pridie)
 postulatum -i n = quod postulatur
-potens -entis = 1. qui magnam potestatem
-habet; 2. maris potens: potestatem
-maris habens; 3. (re) potens: potitus,
-(rem) possidens
+potens -entis = 1. qui magnam potestatem habet; 2. maris potens: potestatem maris habens; 3. (re) potens: potitus, (rem) possidens
 potentia -ae f <potens
-potestas -atis f = 1. ea quae aliquis facere
-potest; 2. significatio; 3. potestas esse
-alicui: aliquis posse; 4. potestatem
-facere: occasionem dare
-potior -ius comp = 1. melior, rectior;
-2. potius quàm: neque; 3. optatior; nihil
-alicui esse potius quam ut + coni: nihil
-malle aliquis quam
-potiri = 1. re potiri: rem suam facere;
-2. alicuius potiri: alicuius potens esse
-(aliquid in suâ potestate tenêre)
+potestas -atis f = 1. ea quae aliquis facere potest; 2. significatio; 3. potestas esse alicui: aliquis posse; 4. potestatem facere: occasionem dare
+potior -ius comp = 1. melior, rectior; 2. potius quàm: neque; 3. optatior; nihil alicui esse potius quam ut + coni: nihil malle aliquis quam
+potiri = 1. re potiri: rem suam facere; 2. alicuius potiri: alicuius potens esse (aliquid in suâ potestate tenêre)
 potissimum adv sup ( comp potius)
-praebêre = 1. offerre; 2. se p.: se ostendere,
-agere
+praebêre = 1. offerre; 2. se p.: se ostendere, agere
 prae-cedere ↔ sequi
-praeceps -cipitis = 1. praeceps ire: (se)
-praecipitare, ruere, properare;
-2. periculosus; 3. praecipitem dare:
-praecipitare; 4. (locus) praeceps: arduus
-praeceptum -i n = 1. quod praeceptum est,
-imperium; 2. quod docet quomodo sit
-agendum
-prae-cipere = 1. faciendum esse dicere,
-imperare; 2. antè capere
-praecipitare = 1. proicere (capite primo);
-2. se praecipitare: ruere, properare;
-3. se p.: se perdere; 4. praecipitari
-praecipuus -a -um = prae aliis magnus,
-egregius
-prae-clarus -a -um = prae aliis clarus,
-clarissimus
-praeco -onis m = vir qui nuntios publicos
-proclamat
-praeda -ae f = 1. quod capitur vel rapitur;
-2. praedam facere: praedam raperepraedari = praedam capere
+praeceps -cipitis = 1. praeceps ire: (se) praecipitare, ruere, properare; 2. periculosus; 3. praecipitem dare: praecipitare; 4. (locus) praeceps: arduus
+praeceptum -i n = 1. quod praeceptum est, imperium; 2. quod docet quomodo sit agendum
+prae-cipere = 1. faciendum esse dicere, imperare; 2. antè capere
+praecipitare = 1. proicere (capite primo); 2. se praecipitare: ruere, properare; 3. se p.: se perdere; 4. praecipitari
+praecipuus -a -um = prae aliis magnus, egregius
+prae-clarus -a -um = prae aliis clarus, clarissimus
+praeco -onis m = vir qui nuntios publicos proclamat
+praeda -ae f = 1. quod capitur vel rapitur; 2. praedam facere: praedam rapere
+praedari = praedam capere
 praedatorius -a -um = qui praedatur
 praedicare = pronuntiare, narrare
 prae-dicere = dicere quod accidet
 praedictum -i n = quod praedictum est
-prae-dives -itis = divitissimus, prae alios
-dives
-praefectus -i m = 1. is qui praefectus est;
-2. dux
+prae-dives -itis = divitissimus, prae alios dives
+praefectus -i m = 1. is qui praefectus est; 2. dux
 prae-ficere -fecisse -fectum = praeponere
-prae-mittere = aliquem mittere ut in locum
-veniat prior
+prae-mittere = aliquem mittere ut in locum veniat prior
 prae-occupare = antè occupare
 prae-parare = paratum habêre priùs
-prae-ponere = 1. alicui aliquem praeponere:
-aliquem alicuius principem facere;
-2. antè ponere; 3. praeferre
-prae-potens -entis = prae aliis potens,
-potentissimus
-praesens -entis = 1. tempus praesens: nunc;
-2. ↔ absens; 3. qui patet
-prae-sentire = sentire aliquid nondum
-eventum eventurum esse
+prae-ponere = 1. alicui aliquem praeponere: aliquem alicuius principem facere; 2. antè ponere; 3. praeferre
+prae-potens -entis = prae aliis potens, potentissimus
+praesens -entis = 1. tempus praesens: nunc; 2. ↔ absens; 3. qui patet
+prae-sentire = sentire aliquid nondum eventum eventurum esse
 praesertim = praecipue, maxime
 praeses -idis m/f = custos
-praesidium -i n = 1. milites ad locum
-defendendum locati; 2. ad praesidium:
-ad defendendum; 3. praesidio esse
-alicui: aliquem tueri
+praesidium -i n = 1. milites ad locum defendendum locati; 2. ad praesidium: ad defendendum; 3. praesidio esse alicui: aliquem tueri
 praestans -antis = excellens
-prae-stare = 1. officium praestare: officium
-facere; 2. alicui/aliquem praestare:
-melior esse quàm aliquis; 3. praebêre,
-dare; 4. aliquis eminêre; 5. p. ut: curare
-ut
+prae-stare = 1. officium praestare: officium facere; 2. alicui/aliquem praestare: melior esse quàm aliquis; 3. praebêre, dare; 4. aliquis eminêre; 5. p. ut: curare ut
 prae-sumere = prae aliis sumere
-praeter + acc = 1. sed, nisi; 2. praeterea;
-3. quod est ob aliquem/aliquid et it
-porro (ut flumen); 4. praeter spem:
-contra spem
-praeter-ire = 1. currere prae aliquo aliquis
-qui modò post eum erat; 2. tempus
-transire; 3. praetermittere
-praeteritum -i n = 1. tempus prateritum
-(↔ futurum); 2. praeterita: tempus
-praeteritum
-praeter-mittere = 1. non memorare, non
-scribere (↔ addere); 2. non agere,
-neglegere
+praeter + acc = 1. sed, nisi; 2. praeterea; 3. quod est ob aliquem/aliquid et it porro (ut flumen); 4. praeter spem: contra spem
+praeter-ire = 1. currere prae aliquo aliquis qui modò post eum erat; 2. tempus transire; 3. praetermittere
+praeteritum -i n = 1. tempus prateritum (↔ futurum); 2. praeterita: tempus praeteritum
+praeter-mittere = 1. non memorare, non scribere (↔ addere); 2. non agere, neglegere
 praeter-quam quod = praeter id quod
-praeter-vehere = praeter aliquem locum
-transire
-prae-texta, toga f = toga purpurâ ornata
-quam consules et dictatores gerunt
-praetextatus -a -um = (togâ) praetextâ
-indutus (ut puer liber ad annum XVII)
-praetor -oris m = 1. praefectus urbis;
-2. magistratus qui iudiciis praeest
-praetorium -i n = locus in castris ubi dux
-habitat
+praeter-vehere = praeter aliquem locum transire
+prae-texta, toga f = toga purpurâ ornata quam consules et dictatores gerunt
+praetextatus -a -um = (togâ) praetextâ indutus (ut puer liber ad annum XVII)
+praetor -oris m = 1. praefectus urbis; 2. magistratus qui iudiciis praeest
+praetorium -i n = locus in castris ubi dux habitat
 praetorius -a -um = praetoris, praefecti
 praetorius -i m = qui praetor fuit
 praetura -ae f = magistratus pratoris
 praeverbium -i n = syllaba verbo praeposita
 pratum/-ulum -i n = area herbâ operta
 pravum -i n = malum
-pravus -a -um = 1. ↔ rectus; 2. improbus,
-malus; 3. non prudens, imprudens
+pravus -a -um = 1. ↔ rectus; 2. improbus, malus; 3. non prudens, imprudens
 precari (< preces) = orare
-preces -um f pl = 1. verba orantia, quod
-oratur; 2. prece: precibus
-premere pressisse pressum = 1. aliquem/
-aliquid tangere et impellere; 2. malâ re
-afficere; 3. armis petere; 4. opprimere
-pretium -i n = 1. id quod aliquid constat/
-valet; 2. stipendium, merces;
-3. promissum
+preces -um f pl = 1. verba orantia, quod oratur; 2. prece: precibus
+premere pressisse pressum = 1. aliquem/aliquid tangere et impellere; 2. malâ re afficere; 3. armis petere; 4. opprimere
+pretium -i n = 1. id quod aliquid constat/valet; 2. stipendium, merces; 3. promissum
 primò = 1. initiò; 2. primùm
-primores -um m pl = 1. primi, principes;
-2. summae vel extremae quaeque res
-primùm = 1. ↔ postremò (primùm ...
-deinde ... postremò); 2. quàm primùm:
-cùm primùm fieri potest
-primus -a -um = 1. I (1); 2. prima aestas:
-prima aestatis pars; 3. in primis: prae
-ceteris, praecipue; 4. a primo: ab initio
-princeps -ipis m = 1. vir ante alios primus
-(qui aliis imperat); 2. primus; 3. vir qui
-Romae imperat, imperator
-principium -i n = 1. prima pars, initium;
-2. causa
-pristinus -a -um = antiquusprivatim ↔ publice
+primores -um m pl = 1. primi, principes; 2. summae vel extremae quaeque res
+primùm = 1. ↔ postremò (primùm ... deinde ... postremò); 2. quàm primùm: cùm primùm fieri potest
+primus -a -um = 1. I (1); 2. prima aestas: prima aestatis pars; 3. in primis: prae ceteris, praecipue; 4. a primo: ab initio
+princeps -ipis m = 1. vir ante alios primus (qui aliis imperat); 2. primus; 3. vir qui Romae imperat, imperator
+principium -i n = 1. prima pars, initium; 2. causa
+pristinus -a -um = antiquus
+privatim ↔ publice
 privatum -i n = pecunia privata (↔ publica)
-privatus -a -um = 1. domesticus
-(↔ publicus); 2. (vir) qui munus
-publicus non fungitur (non rex, non
-magistratus, et c.); 3. sine officio publico
-pro + abl = 1. pro aliquo: in loco alicuius;
-2. quasi; 3. pro aliquo: tamquam
-aliquis; 4. pro aliquo: aliquid reddendo;
-5. ↔ contra; 6. pro castris: ante castra
-(prospiciens a castris); 7. pro tribunali:
-in tribunali (prospiciens e t.); 8. pro
-tempore: ut tempus postulabat; 9. pro
-se quisque: omnes ex se ipsis
+privatus -a -um = 1. domesticus (↔ publicus); 2. (vir) qui munus publicus non fungitur (non rex, non magistratus, et c.); 3. sine officio publico
+pro + abl = 1. pro aliquo: in loco alicuius; 2. quasi; 3. pro aliquo: tamquam aliquis; 4. pro aliquo: aliquid reddendo; 5. ↔ contra; 6. pro castris: ante castra (prospiciens a castris); 7. pro tribunali: in tribunali (prospiciens e t.); 8. pro tempore: ut tempus postulabat; 9. pro se quisque: omnes ex se ipsis
 pro! = o! heu!
-probare = 1. probum esse putare; 2. planum
-facere
-probatus -a -um = (alicui) p.: qui probatur
-(ab aliquo), acceptus
-pro-cedere = 1. ↔ recedere; 2. progredi;
-3. melius fieri, propius esse aliquid ut
-perfectum sit
+probare = 1. probum esse putare; 2. planum facere
+probatus -a -um = (alicui) p.: qui probatur (ab aliquo), acceptus
+pro-cedere = 1. ↔ recedere; 2. progredi; 3. melius fieri, propius esse aliquid ut perfectum sit
 procella -ae f = ventus rapidus
 procerus -a -um = altus et longus
 pro-cidere -disse = antè cadere
 pro-clamare = publice clamare
-pro-consul -is m = qui anno post consulatum
-provinciam administrat vel exercitui
-imperat
+pro-consul -is m = qui anno post consulatum provinciam administrat vel exercitui imperat
 procos. = proconsul
 pro-creare = gignere
-procul = 1. ↔ propè; 2. procul (ab) aliquo:
-↔ prope aliquem; 3. procul dubio:
-certe
+procul = 1. ↔ propè; 2. procul (ab) aliquo: ↔ prope aliquem; 3. procul dubio: certe
 pro-cumbere -cubuisse ↔ recumbere
 pro-curare = curare, administrare
 procurator -oris m = qui procurat
-pro-dere -didisse -ditum = 1. tradere (in
-manûs hostium); 2. tradere (narrando);
-3. memoriae p.: memoriae tradere
-prodigium -i n = res mirabilis contra naturam
-facta
+pro-dere -didisse -ditum = 1. tradere (in manûs hostium); 2. tradere (narrando); 3. memoriae p.: memoriae tradere
+prodigium -i n = res mirabilis contra naturam facta
 prod-ire = procedere
 proditio -onis f <prodere
 proditor -oris m = qui prodit
-pro-ducere = 1. longiorem facere;
-2. (exercitum) ad pugnam educere;
-3. differre; 4. agere, inferre, promovêre
-pro-ferre = 1. promere, sumere e loco;
-2. primum facere, invenire, notum
-facere; 3. maiorem facere, extendere
-pro-ficere = procedere (ad eventum),
-successum habêre
-pro-fiteri -fessum = 1. publice dicere,
-promittere; 2. indicium p.: indicare
+pro-ducere = 1. longiorem facere; 2. (exercitum) ad pugnam educere; 3. differre; 4. agere, inferre, promovêre
+pro-ferre = 1. promere, sumere e loco; 2. primum facere, invenire, notum facere; 3. maiorem facere, extendere
+pro-ficere = procedere (ad eventum), successum habêre
+pro-fiteri -fessum = 1. publice dicere, promittere; 2. indicium p.: indicare
 pro-fligare = devincere
 pro-fugere = aufugere
 profugus -a -um = ex patria fugens
@@ -2547,111 +2330,78 @@ pro-hibêre = 1. retinêre; 2. vetare, ↔ sinere
 pro-inde = ergo
 pro-labi -lapsum = protinus labi
 proles -is f = stirps
-proletarii -orum m = cives pauperes qui
-non censebantur
+proletarii -orum m = cives pauperes qui non censebantur
 pro-minêre = eminêre
 pro-movêre ↔ removêre
 promptu, in = facilè
 promptus -a -um = paratus, acer
-pro-mulgare (legem) = populo notum facere,
-ferre
+pro-mulgare (legem) = populo notum facere, ferre
 promunturium -i n = mons in mare eminens
 pro-nuntiare = publice nuntiare
-pronus -a -um = inclinatus, qui facilè
-procidit
+pronus -a -um = inclinatus, qui facilè procidit
 propatulum -i n = locus patens ante domum
 properare = celeriter ire/agere
 propere = celeriter
-propinquus -a -um = 1. qui propè est; 2. ex
-propinquo: ex loco propinquo
+propinquus -a -um = 1. qui propè est; 2. ex propinquo: ex loco propinquo
 propinquus -i m = cognatus
 propior -ius comp <propè
 pro-ponere = designare, statuere
 propositum -i n = consilium
-pro-praetor -oris m = magistratus qui anno
-postquam praetor fuit provinciam
-administrat vel exercitui imperatproprius -a -um = 1. ↔ communis; 2. nomen
-proprium: nomen unius, ut Roma,
-Tiberis, et c.; 3. ↔ alienus
-propter + acc = 1. propter aliquid: alicuius
-causâ; 2. prope
+pro-praetor -oris m = magistratus qui anno postquam praetor fuit provinciam
+administrat vel exercitui imperat
+proprius -a -um = 1. ↔ communis; 2. nomen proprium: nomen unius, ut Roma, Tiberis, et c.; 3. ↔ alienus
+propter + acc = 1. propter aliquid: alicuius causâ; 2. prope
 proptèr = propè
 propterea = 1. ideò; 2. p. quòd: quòd
 prora -ae f = pars navis prior (↔ puppis)
-pro-scribere = exsulem facere nomen in
-tabulâ publicâ scribendo
-pro-sequi = 1. sequi (proficiscentem);
-2. (laudibus) p.: laudare
+pro-scribere = exsulem facere nomen in tabulâ publicâ scribendo
+pro-sequi = 1. sequi (proficiscentem); 2. (laudibus) p.: laudare
 prosperus -a -um = secundus, felix
 pro-sternere = 1. humi proicere; 2. delêre
 pro-tegere = tueri
-pro-trahere = 1. proferre; 2. (bellum) p.:
-trahere, producere
-pro-vehere = ultrà vehere, per locum
-vehere
+pro-trahere = 1. proferre; 2. (bellum) p.: trahere, producere
+pro-vehere = ultrà vehere, per locum vehere
 proventus -us m = magnae fruges
 pro-vidêre = 1. praeparare; 2. curare
-provincia -ae f = 1. regio imperii Romani;
-2. regio administranda
-pro-vocare = 1. (ad populum) p.: postulare
-ut populus iudicet; 2. ad pugnam
-evocare
+provincia -ae f = 1. regio imperii Romani; 2. regio administranda
+pro-vocare = 1. (ad populum) p.: postulare ut populus iudicet; 2. ad pugnam evocare
 provocatio -onis f <provocare
 pro-volare = ruere, procurrere
 proxime = modò, dudum
-proximus -a -um sp <propè = 1. proximus
-alicui loco: qui aliquem locum
-contingit; 2. proximi consules: consules
-insequentis anni
+proximus -a -um sp <propè = 1. proximus alicui loco: qui aliquem locum contingit; 2. proximi consules: consules insequentis anni
 proximus -i m = vicinus
-prudens -entis = 1. ↔ stultus; 2. alicuius
-prudens: qui aliquid scit/intellegit
+prudens -entis = 1. ↔ stultus; 2. alicuius prudens: qui aliquid scit/intellegit
 prudentia -ae f <prudens
-pruina -ae f = ros (= aqua qua noctu et
-primo mane herbae asperguntur) qui
-nocte hiemis frigidâ durus fit quasi nix
+pruina -ae f = ros (= aqua qua noctu et primo mane herbae asperguntur) qui nocte hiemis frigidâ durus fit quasi nix
 pseudo- = falsus
 pubes -eris = qui iam non puer est, maturus
 pubes -eris m = homo pubes
 publicanus -i m = qui vectigalia exercet
 publicare = publicum facere
 publicum -i n = pecunia publica, aerarium
-publicus -a -um <populus = 1. ↔ privatus;
-2. res publica: res omnium civium
-communis; 3. omnes regionis cives
+publicus -a -um <populus = 1. ↔ privatus; 2. res publica: res omnium civium communis; 3. omnes regionis cives
 pudens -entis = modestus, pudicus
 pudibundus -a -um = pudore affectus
 pudicitia -ae f <pudicus
-pudicus -a -um = castus; uxor pudica: quae
-maritum solum amat
-pudor -oris m <pudêre = 1. animus turbatus
-peccati aut dedecoris causâ; 2. animus
-turbatus eius qui peccare aut dedecus
-admittere nonvult
-puer -i m = 1. homo in tenerâ aetate;
-2. servus
+pudicus -a -um = castus; uxor pudica: quae maritum solum amat
+pudor -oris m <pudêre = 1. animus turbatus peccati aut dedecoris causâ; 2. animus turbatus eius qui peccare aut dedecus admittere nonvult
+puer -i m = 1. homo in tenerâ aetate; 2. servus
 puerilis -e <puer
 pueritia -ae f = aetas pueri
 puerulus -i m = parvus puer
 pugnator -oris m = qui pugnat
-pullus -a -um = colore medio inter album et
-atrum
-pullus -i m = 1. animal modo partum;
-2. filius parvus galli
+pullus -a -um = colore medio inter album et atrum
+pullus -i m = 1. animal modo partum; 2. filius parvus galli
 pulsus -us m = impulsus, vis movendi
-pulvinar -aris n = torus in quo ponuntur
-signa deorum supplicationibus
-pulvis -eris m = 1. terra sicca quae vento
-spargitur; 2. pulvis ubi describebantur
-formae
-punctum -i n = nota qua minor fieri non
-potest [·]
+pulvinar -aris n = torus in quo ponuntur signa deorum supplicationibus
+pulvis -eris m = 1. terra sicca quae vento spargitur; 2. pulvis ubi describebantur formae
+punctum -i n = nota qua minor fieri non potest [·]
 purgare = 1. purum facere; 2. excusare
 purpura -ae f = color ruber pretiosus
-purus -a -um = 1. mundus, ↔ sordidus;
-2. insons
-putare = 1. existimare; 2. credere;
-3. arbitrari, censêre; 4. putares: videris
+purus -a -um = 1. mundus, ↔ sordidus; 2. insons
+putare = 1. existimare; 2. credere; 3. arbitrari, censêre; 4. putares: videris
+
+
 Q
 quà = 1. quà viâ, ubi; 2. ne quà: ne quâ
 (aliqua) viâ
