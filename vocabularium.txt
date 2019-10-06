@@ -1084,91 +1084,53 @@ exuviae -arum f pl = vestimenta
 F
 fabricare = conficere (arte fabrorum)
 fabulosus -a -um = celebratus
-facere -io fecisse factum = 1. alicui
-formam dare; 2. pecuniam facere:
-lucrum adipisci; 3. agere; 4. cuiusdam
-formam/statum in aliquid mutare;
-5. verbum f.: verbum dicere; 6. nomen
-alicui f.: nomen alicui dare; 7. facere ut:
-curare ut; 8. (parvi) facere: aestimare
+facere -io fecisse factum = 1. alicui formam dare; 2. pecuniam facere: lucrum adipisci; 3. agere; 4. cuiusdam formam/statum in aliquid mutare; 5. verbum f.: verbum dicere; 6. nomen alicui f.: nomen alicui dare; 7. facere ut: curare ut; 8. (parvi) facere: aestimare
 facessere = abire
 facies -ei f = 1. pars capitis prior; 2. forma
-facilis -e = 1. id quod fieri potest parvo
-labore; 2. benignus
+facilis -e = 1. id quod fieri potest parvo labore; 2. benignus
 facilitas -atis f < facilis (amicitiâ)
-facinus -oris n = 1. factum, maleficium;
-2. factum, res gestae
-factio -onis f = pars civium quae idem de re
-publica sentit
+facinus -oris n = 1. factum, maleficium; 2. factum, res gestae
+factio -onis f = pars civium quae idem de re publica sentit
 factiosus -a -um (< factio) = seditiosus
 factus -a -um = fabricatus
-facultas -atis f (< facilis) = 1. potestas;
-2. facultates: opes; 3. occasio
+facultas -atis f (< facilis) = 1. potestas; 2. facultates: opes; 3. occasio
 facundus -a -um = eloquens
-fallere fefellisse falsum = 1. aliquem
-falsum pro certo esse fidem facere;
-2. fidem/spem frangere; 3. falsum esse
-demonstrare
+fallere fefellisse falsum = 1. aliquem falsum pro certo esse fidem facere; 2. fidem/spem frangere; 3. falsum esse demonstrare
 falsò ↔ verè
-falsus -a -um = 1. ↔ verus; 2. qui fallit,
-fallax; 3. aliquem falsum habêre:
-aliquem fallere
-fama -ae f = 1. quod narratur de aliquo;
-2. rumor; 3. fama est: narratur fabula
-fames -is f = 1. necessitas cibi; 2. inopia cibi
-familia -ae f = 1. cohors cognatorum
-hominum qui eiusdem domi morantur;
-2. gens; 3. gentis pars cui cognomen
-commune est; 4. servi unius domini
+falsus -a -um = 1. ↔ verus; 2. qui fallit, fallax; 3. aliquem falsum habêre: aliquem fallere
+fama -ae f = 1. quod narratur de aliquo; 2. rumor; 3. fama est: narratur fabula
+fames -is f = 1. necessitas cibi; 2. inopia cibi familia -ae f = 1. cohors cognatorum hominum qui eiusdem domi morantur; 2. gens; 3. gentis pars cui cognomen commune est; 4. servi unius domini
 familiaris -is m/f = amicus
 famula -ae f = ancilla
 famulus -i m = servus
 fanum -i n = 1. templum; 2. locus sacer
-fas indecl n = 1. ius divinum; 2. fas est:
-licet per deos
-fascis -is m = fasces: insignia imperii quae
-lictores gerunt: multae virgae ligatae
-fasti -orum m = tabula dierum fastorum:
-titulus carminis Ovidii de diebus anni
-fastus -a -um = (dies) f.: quo fas est cum
-populo agere (ius dicere)
-fatalis -e (< fatum) = fato constitutus, qui
-mortem affert
-fateri fassum = 1. ↔ negare; 2. affirmare
-aliquid de se verum esse; 3. patefacere
-fatigare = 1. fessum facere; 2. re molestâ
-aliquem afficere
-fatum -i n = 1. quod necesse est accidere,
-mors; 2. fata: fatum
+fas indecl n = 1. ius divinum; 2. fas est: licet per deos
+fascis -is m = fasces: insignia imperii quae lictores gerunt: multae virgae ligatae
+fasti -orum m = tabula dierum fastorum: titulus carminis Ovidii de diebus anni
+fastus -a -um = (dies) f.: quo fas est cum populo agere (ius dicere)
+fatalis -e (< fatum) = fato constitutus, qui mortem affert
+fateri fassum = 1. ↔ negare; 2. affirmare aliquid de se verum esse; 3. patefacere
+fatigare = 1. fessum facere; 2. re molestâ aliquem afficere
+fatum -i n = 1. quod necesse est accidere, mors; 2. fata: fatum
 fauces -ium f pl = locus in monte angustus
 faustus -a -um = felix
 fautor -oris m = qui favet
-Favonius, -i m = Zephyrus, ventus qui ab
-occidente flat
-favor -oris m <favêrefax facis f = res longa et crassa ex cerâ
-facta, quae accensâ lucem fert
-felix -icis = 1. cui res bona accidit;
-2. favens
-fere = 1. circiter; 2. plerumque; 3. fit fere:
-fieri solet
+Favonius, -i m = Zephyrus, ventus qui ab occidente flat
+favor -oris m <favêre
+fax facis f = res longa et crassa ex cerâ facta, quae accensâ lucem fert
+felix -icis = 1. cui res bona accidit; 2. favens fere = 1. circiter; 2. plerumque; 3. fit fere: fieri solet
 feriae -arum f pl = dies festus
 feriatus -a -um = qui ferias celebrat
-ferire = 1. pulsare; 2. securi ferire: capite
-punire; 3. caedere
+ferire = 1. pulsare; 2. securi ferire: capite punire; 3. caedere
 ferme = fere
 ferocitas -atis f < ferox
 ferratus -a -um = ferro munitus
-ferre tulisse latum = 1. portare; 2. ducere;
-3. pati; 4. dare, edere; 5. ferunt: narrant,
-tradunt; fertur: narratur 6. legem ferre:
-legem ad populum referre; 7. efficere
-ferrum -i n = 1. materia dura ex qua gladii
-efficiuntur; 2. gladius; 3. pugna
+ferre tulisse latum = 1. portare; 2. ducere; 3. pati; 4. dare, edere; 5. ferunt: narrant, tradunt; fertur: narratur 6. legem ferre: legem ad populum referre; 7. efficere
+ferrum -i n = 1. materia dura ex qua gladii efficiuntur; 2. gladius; 3. pugna
 fervens -entis = ardens
 fervere/fervêre = ardêre
 festinare = properare
-festus -a -um: dies f. = dies otiosus quo di
-adorantur
+festus -a -um: dies f. = dies otiosus quo di adorantur
 fetialis -e = de iure belli
 fetialis -is m = legatus qui agit de iure belli
 fetus -a -um = qui nuper peperit
@@ -1176,140 +1138,91 @@ ficta -orum n pl = verba ficta, falsa
 fictilis -e = qui e terrâ tostâ/coctâ factus est
 fictus -a -um = falsus
 fidelis -e = fidus
-fides -ei f = 1. animus fidens; 2. animus
-fidus; 3. promissum; 4. in fidem
-accipere: in deditionem accipere;
-5. fides (publica): promissum (inviolatum
-eum fore)
+fides -ei f = 1. animus fidens; 2. animus fidus; 3. promissum; 4. in fidem accipere: in deditionem accipere; 5. fides (publica): promissum (inviolatum eum fore)
 fiducia -ae f = confidentia
-fieri factum = 1. esse incipere; 2. mutari;
-3. pass verbi facere; 4. accidere,
-evenire; 5. ut fit: ut fieri solet; 6. ita fit
-ut: ex hôc intellegitur
-figere -xisse -xum = 1. adnectere;
-2. transfigere
+fieri factum = 1. esse incipere; 2. mutari; 3. pass verbi facere; 4. accidere, evenire; 5. ut fit: ut fieri solet; 6. ita fit ut: ex hôc intellegitur
+figere -xisse -xum = 1. adnectere; 2. transfigere
 figura -ae f = forma
-filum -i n = 1. linea tenuis; 2. vestis qua
-velatur caput
-fingere finxisse fictum = arte efficere,
-excogitare (rem falsam)
-finire = 1. rem finire.: finem facere rei;
-2. locum finire: fines loci designare
-finis -is m = 1. linea quae duas regiones
-dividit; 2. ↔ initium; 3. pars ultima
-alicuius; 4. fines: terra, regio
+filum -i n = 1. linea tenuis; 2. vestis qua velatur caput
+fingere finxisse fictum = arte efficere, excogitare (rem falsam)
+finire = 1. rem finire.: finem facere rei; 2. locum finire: fines loci designare
+finis -is m = 1. linea quae duas regiones dividit; 2. ↔ initium; 3. pars ultima alicuius; 4. fines: terra, regio
 finitimi -orum m pl = incolae finium
 finitimus -a -um = qui ad fines incolit
 firmamentum -i n = quod firmat
 firmare = 1. firmum facere; 2. affirmare
 firmitudo -inis f < firmus
-firmus -a -um = qui frangi non potest,
-validus
+firmus -a -um = qui frangi non potest, validus
 fiscus -i m = aerarium
 flagitare = vehementer poscere
-flagitiosus -a -um (< flagitium) = turpis,
-ignominiosus
+flagitiosus -a -um (< flagitium) = turpis, ignominiosus
 flagitium -i n = turpe factum, indignitas
-flagrare = 1. ardêre; 2. animo commoveri,
-affici
+flagrare = 1. ardêre; 2. animo commoveri, affici
 flamen -inis m = sacerdos dei proprius
 flamma -ae f = 1. ignis saevus; 2. cupido
 flatus -us m (< flare) = ventus (secundus)
 flebilis -e = flens
-flectere -xisse -xum = 1. genua flectere:
-genua humi figere; 2. cursum avertendo
-adire; 3. animum flectere: vincere,
-animum movêre; 4. viam flectere:
-cursum avertere
+flectere -xisse -xum = 1. genua flectere: genua humi figere; 2. cursum avertendo adire; 3. animum flectere: vincere, animum movêre; 4. viam flectere: cursum avertere
 fletus -us m <flêre = gemitûs et lacrimae
-florêre -uisse = in flore esse; (aetate) f.:
-iuvenis esse
-fluere -uxisse = 1. (aqua, sanguis) currere;
-2. ↔ consistere
+florêre -uisse = in flore esse; (aetate) f.: iuvenis esse
+fluere -uxisse = 1. (aqua, sanguis) currere; 2. ↔ consistere
 foculus -i m = parvus focus qui portatur
 focus -i m = ignis domesticus
 foederatus -a -um = foedere iunctus
 foeditas -atis f <foedus
-foedus -a -um = 1. ↔ pulcher; 2. infandus,
-indignus, sceleratus
-foedus -eris n = lex qua pax vel societas
-statuitur
-fons fontis m = 1. aqua e terrâ erumpens;
-2. origo
-foret = essetfori -orum m pl = 1. ordo spectaculorum in
-circo
-forma -ae f = 1. modus quo rei partes sunt
-collocatae; 2. quod res videtur;
-3. pulchritudo
+foedus -a -um = 1. ↔ pulcher; 2. infandus, indignus, sceleratus
+foedus -eris n = lex qua pax vel societas statuitur
+fons fontis m = 1. aqua e terrâ erumpens; 2. origo
+foret = esset
+fori -orum m pl = 1. ordo spectaculorum in circo
+forma -ae f = 1. modus quo rei partes sunt collocatae; 2. quod res videtur; 3. pulchritudo
 formido -inis f = terror
 formula -ae f = verba lege statuta
 forsan = fortasse
 forsitan = forsitan (sis): fortasse (es)
 fortitudo -inis f <fortis = virtus
 fortuitò adv = fortè, sine consilio
-fortuna -ae f = 1. quod fortè alicui accidit;
-2. fortunae: bona
-fortunatus -a -um = qui bonâ fortunâ utitur,
-felix
+fortuna -ae f = 1. quod fortè alicui accidit; 2. fortunae: bona
+fortunatus -a -um = qui bonâ fortunâ utitur, felix
 fragilis -e = qui facilè frangitur
 fragmentum -i n = pars fracta (ab re)
 fragor -oris m = strepitus gravis
-frangere fregisse fractum = 1. rumpere
-(rem duram); 2. infirmum facere;
-3. animis cadere
+frangere fregisse fractum = 1. rumpere (rem duram); 2. infirmum facere; 3. animis cadere
 fraus -audis f = dolus
-fremitus -us m (< fremere) = sonus gravis
-continuus
+fremitus -us m (< fremere) = sonus gravis continuus
 frendere = dentes movêre (ob iram)
 frequens -entis = 1. ↔ rarus; 2. contio
 frequens: c. multorum, c. celebris
-fretus -a -um (+ abl ) = 1. fidens; 2. f. esse:
-confidere
+fretus -a -um (+ abl ) = 1. fidens; 2. f. esse: confidere
 frons -ondis f = folia arborum
-frons -ontis f = 1. pars faciei supra oculos;
-2. pars prima; 3. prima acies
-fructus -us m = 1. fruges; 2. fructui esse:
-fructum (: utilitatem, lucrum) afferre
+frons -ontis f = 1. pars faciei supra oculos; 2. pars prima; 3. prima acies
+fructus -us m = 1. fruges; 2. fructui esse: fructum (: utilitatem, lucrum) afferre
 frumentarius -a -um < frumentum
 frustrari = 1. falsâ spe eludere; 2. fallere
 fuga -ae f = 1. < fugere; 2. exsilium
 fugare = in fugam vertere
-fugere -io fugisse = 1. excurrere metu;
-2. f. aliquem: f. ab aliquo; 3. effugere,
-praeterire; 4. res eum f.: res ei ignota esse
+fugere -io fugisse = 1. excurrere metu; 2. f. aliquem: f. ab aliquo; 3. effugere, praeterire; 4. res eum f.: res ei ignota esse
 fugitivus -a -um = qui aufugit
 fugitivus -i m = servus fugitivus, perfuga
 fulcire -sisse -tum = sustinêre, firmare
-fulgêre -sisse = 1. (subito) splendêre;
-2. lucêre, lucens esse
-fulgor -oris m (< fulgêre) = aliquid fulgens
-(v.g. stella)
-fulmen -inis n = 1. fulgur quod terram
-percutit; 2. fulmina: calamitates
-fumus -i m = id quod atrum oritur e re quae
-ardet et ad caelum ascendit
-funda -ae f = instrumentum quo manu
-lapides iaciuntur
-fundamentum -i n = 1. infima pars aedificii
-(↔ culmen); 2. fundamentum iacere:
-fundamentum locare
-fundere fudisse fusum = 1. demittere
-(aquam, vinum) exhauriendo loco quo
-continetur; 2. turbare ac fugare;
-3. lacrimas fundere: lacrimas mittere
+fulgêre -sisse = 1. (subito) splendêre; 2. lucêre, lucens esse
+fulgor -oris m (< fulgêre) = aliquid fulgens (v.g. stella)
+fulmen -inis n = 1. fulgur quod terram percutit; 2. fulmina: calamitates
+fumus -i m = id quod atrum oritur e re quae ardet et ad caelum ascendit
+funda -ae f = instrumentum quo manu lapides iaciuntur
+fundamentum -i n = 1. infima pars aedificii (↔ culmen); 2. fundamentum iacere: fundamentum locare
+fundere fudisse fusum = 1. demittere (aquam, vinum) exhauriendo loco quo continetur; 2. turbare ac fugare; 3. lacrimas fundere: lacrimas mittere
 funditor -oris m = miles fundâ armatus
-funditus = 1. a fundo; 2. delendo omnia
-vestigia
+funditus = 1. a fundo; 2. delendo omnia vestigia
 funestus -a -um (< funus) = tristissimus
-fungi functum + abl = 1. (officio) f.: exsequi,
-praestare; 2. defungi; 3. vitâ f.: mori
+fungi functum + abl = 1. (officio) f.: exsequi, praestare; 2. defungi; 3. vitâ f.: mori
 funis -is m = multa fila colligata
-funus -eris n = 1. funus facere (alicui): ossa
-(alicuius) sepelire; 2. caedes
-furca -ae f = crux formâ Y quae servo
-verberando imponitur
+funus -eris n = 1. funus facere (alicui): ossa (alicuius) sepelire; 2. caedes
+furca -ae f = crux formâ Y quae servo verberando imponitur
 furere = amens esse
 furor -oris m <furere
+
+
 G
 gaza -ae f = aerarium regis, thesaurus
 gemellus -i m = geminus parvulus
