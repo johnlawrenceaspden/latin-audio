@@ -1825,128 +1825,84 @@ mutatio -onis f < mutare
 
 
 N
-nancisci nactum = adipisci, invenire (rem
-nanciscor: res mihi datur)
+nancisci nactum = adipisci, invenire (rem nanciscor: res mihi datur)
 nare = natare
 nata -ae f = filia
 natio -onis f = gens
 natura -ae f = quae propria sunt rei
-natus -a -um = 1. <nasci ↔ mori; 2. puer
-VII annos natus: puer VII annorum;
-3. deâ natus: deae filius; 4. aptus
+natus -a -um = 1. <nasci ↔ mori; 2. puer VII annos natus: puer VII annorum; 3. deâ natus: deae filius; 4. aptus
 natus -i m = filius
 naufragium -i n <navis+frangere
 nauticus -a -um = navalis
-navalia -ium n pl = locus ubi naves
-aedificantur et reficiuntur
+navalia -ium n pl = locus ubi naves aedificantur et reficiuntur
 navalis -e <navis
 navicularius -i m = qui navem possidet
-ne = 1. non; 2. ne ... quidem: etiam non;
-3. ut ne; 4. ut ne, quia non; 5. ne
-desperaveris!: noli desperare!;
-6. utinam ne: opto ne; 7. ne non: ut;
-8. ne multa: ne multa dicam
+ne = 1. non; 2. ne ... quidem: etiam non; 3. ut ne; 4. ut ne, quia non; 5. ne desperaveris!: noli desperare!; 6. utinam ne: opto ne; 7. ne non: ut; 8. ne multa: ne multa dicam
 nebula -ae f = nubes quae terram operit
-nec-dum/neque-dum = et nondum, nec
-adhuc
+nec-dum/neque-dum = et nondum, nec adhuc
 necessariò = quia necesse est, ex necessitate
 necessarius -i m = propinquus, amicus
 necessitas -atis f <necesse
 nectere -xisse -xum = vinculo iungere
 ne-fandus -a -um = infandus
 ne-fas indecl n ↔ fas
-ne-fastus -a -um = (dies) n.: quo nefas est
-cum populo agere (ius dicere)
-negare = 1. dicere ‘non verum esse’; 2. n.
-alicui: dare nolle alicui; 3. negare ‘se
-esse’: dicere ‘se non esse’; 4. nolle
+ne-fastus -a -um = (dies) n.: quo nefas est cum populo agere (ius dicere)
+negare = 1. dicere ‘non verum esse’; 2. n. alicui: dare nolle alicui; 3. negare ‘se esse’: dicere ‘se non esse’; 4. nolle
 negitare = saepe ac vehementer negare
-neglegere -exisse -ectum = 1. ↔ curare;
-2. despicere, contemnere
+neglegere -exisse -ectum = 1. ↔ curare; 2. despicere, contemnere
 negotiari = negotia gerere
-negotiator -oris m = qui negotia gerit,
-mercator
-negotium -i n = 1. officium, opus, ↔ otium;
-2. res
+negotiator -oris m = qui negotia gerit, mercator
+negotium -i n = 1. officium, opus, ↔ otium; 2. res
 nepos -otis m = filius filii/filiae
 ne-quaquam = nullo modo
 ne-quiquam = frustra
 ne-quire -ivisse/-iisse = non posse, non quire
-nervus -i m = 1. vires, robur; 2. funis
-tenuissimus quo fides sonantur
+nervus -i m = 1. vires, robur; 2. funis tenuissimus quo fides sonantur
 nesquio-quis = aliquis
-ne-ve/neu = 1. vel ne, et ne; 2. neve ...
-neve: neque ut... neque ut
+ne-ve/neu = 1. vel ne, et ne; 2. neve ... neve: neque ut... neque ut
 ni = nisi
 nihil/nîl = nequaquam
-nihilo = 1. nullo modo; 2. nihilo minus/
-setius: tamennimbus -i m = nubes quae imbrem affert
+nihilo = 1. nullo modo; 2. nihilo minus/setius: tamen
+nimbus -i m = nubes quae imbrem affert
 ni-mirum = scilicet, certe
 nimiùm = nimis
-niti nisum = 1. laborare, studêre, operam
-dare; 2. niti in aliquo: situm esse in
-potestate alicuius
+niti nisum = 1. laborare, studêre, operam dare; 2. niti in aliquo: situm esse in potestate alicuius
 nobilitare = nobilem facere
-nobilitas -atis f = 1. < nobilis; 2. omnes cives
-nobiles, optimates
-nocêre -uisse = 1. ↔ prodesse; 2. afferre
-detrimentum
+nobilitas -atis f = 1. < nobilis; 2. omnes cives nobiles, optimates
+nocêre -uisse = 1. ↔ prodesse; 2. afferre detrimentum
 noctu = nocte
 nocturnus -a -um <nox
 nodus -i m = vinculum, nexus (< nectere)
-nomen -inis n = 1. verbum quo aliquem/
-aliquid notus/notum est; 2. pars
-orationis cum casu, corpus aut rem
-proprie communiterve significans;
-3. nobilitas, gloria; 4. populus, gens;
-5. n. dare: se iungere (ad exercitum)
+nomen -inis n = 1. verbum quo aliquem/aliquid notus/notum est; 2. pars orationis cum casu, corpus aut rem proprie communiterve significans; 3. nobilitas, gloria; 4. populus, gens; 5. n. dare: se iungere (ad exercitum)
 non-nihil adv = haud paulum, aliquid
 noscitare = agnoscere
-nota -ae f = 1. signum scriptum; 2. signum
-a censoribus appositum ad senatoris
-nomen ut de senatu moveantur
-notare = 1. diligenter animadvertere;
-2. ↔ probare
+nota -ae f = 1. signum scriptum; 2. signum a censoribus appositum ad senatoris nomen ut de senatu moveantur
+notare = 1. diligenter animadvertere; 2. ↔ probare
 Notus -i m = ventus qui a meridie flat
 novellus -a -um = parvulus
 novissime = nuper
 novissimus -a -um = ultimus
-novitas -atis f <novus = 1. ↔ vetustas;
-2. status hominis novi
-novus -a -um = 1. ↔ antiquus; 2. antea
-ignotus; 3. luna nova: luna cuius exigua
-pars tantum videtur; 4. alter, alius;
-5. incredibilis, quod nunc primum
-accidit; 6. mirus; 7. (homo) novus: qui
-primus e gente suâ magistratum init
+novitas -atis f <novus = 1. ↔ vetustas; 2. status hominis novi
+novus -a -um = 1. ↔ antiquus; 2. antea ignotus; 3. luna nova: luna cuius exigua pars tantum videtur; 4. alter, alius; 5. incredibilis, quod nunc primum accidit; 6. mirus; 7. (homo) novus: qui primus e gente suâ magistratum init
 noxa -ae f = culpa
 noxius -a -um (< noxa) ↔ insons
-nubere -psisse -ptum = 1. alicui nubere:
-alicuius uxor fieri; 2. ei nupta: eius
-uxor; 3. nuptum dare: in matrimonium
-dare
-nudare = 1. nudum facere; 2. exponere ad
-hostes, vacuum defensoribus facere
-nudus -a -um = 1. sine vestimentis; 2. qui
-non defenditur
+nubere -psisse -ptum = 1. alicui nubere: alicuius uxor fieri; 2. ei nupta: eius uxor; 3. nuptum dare: in matrimonium dare
+nudare = 1. nudum facere; 2. exponere ad hostes, vacuum defensoribus facere
+nudus -a -um = 1. sine vestimentis; 2. qui non defenditur
 numen -inis n = voluntas deorum
 numerosus -a -um = frequens, pl multi
-numerus -i m = 1. I, II, III numeri sunt;
-2. quantitas; 3. numerus nominum:
-singularis, pluralis; 4. in deorum
-numero haberi: deus esse
+numerus -i m = 1. I, II, III numeri sunt; 2. quantitas; 3. numerus nominum: singularis, pluralis; 4. in deorum numero haberi: deus esse
 nuncupare = nominare
-nuntia -ae f = ea quae verba portat (inter
-homines)
+nuntia -ae f = ea quae verba portat (inter homines)
 nupta -ae f = uxor
 nuptiae -arum f pl <nubere = matrimonium
 nurus -us f = uxor filii
 nusquam = nullo loco (↔ ubique)
 nutrire = alere
 nutus -us m = motus deorsum, vis gravitatis
-Nympha -ae f = Nymphae sunt deae
-minores quae silvas, montes, flumina
-incolunt
+Nympha -ae f = Nymphae sunt deae minores quae silvas, montes, flumina incolunt
+
+
 O
 ob + acc = 1. propter; 2. ante
 ob-ducere: obductâ nocte: obscurâ nocte
