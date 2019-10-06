@@ -1226,78 +1226,44 @@ furor -oris m <furere
 G
 gaza -ae f = aerarium regis, thesaurus
 gemellus -i m = geminus parvulus
-gemere = 1. graviter spirare ob dolorem;
-2. plorando queri
+gemere = 1. graviter spirare ob dolorem; 2. plorando queri
 geminare = duplicem facere, bis facere
-gemini -orum m pl = duo fratres eodem die
-nati
-geminus -a -um = 1. (filii) gemini: duo
-eodem die nati; 2. similis
+gemini -orum m pl = duo fratres eodem die nati
+geminus -a -um = 1. (filii) gemini: duo eodem die nati; 2. similis
 gemitus -us m <gemere
 gener -eri m = maritus filiae
 generare = gignere
 generosus -a -um = nobilis natu
 genetrix -icis f = mater
 genialis -e = iugalis
-genitor -oris m = patergens gentis f = 1. populus, regio; 2. cuncti
-quibus nomen commune est; v.g. gens
-Iulia
-genus -eris n = 1. nomen omnium rerum
-quae aliquid communis habent; 2. eius
-generis: talis; 3. genus hominum: cuncti
-homines; 4. genus grammaticale
-nominum (masculinum, femininum,
-neutrum, commune); 5. genus
-grammaticale verborum (activum,
-passivum, neutrum, deponens); 6. gens
-gerere gessisse gestum = 1. (in corpore)
-ferre, habêre; 2. manu portare; 3. in se
-habêre; 4. agere, facere; 5. res gestae:
-casûs, facta; 6. gesta: res gestae;
-7. agere, se ostendere; 8. rem gerere:
-bellum gerere; 9. tractare
+genitor -oris m = pater
+gens gentis f = 1. populus, regio; 2. cuncti quibus nomen commune est; v.g. gens Iulia
+genus -eris n = 1. nomen omnium rerum quae aliquid communis habent; 2. eius generis: talis; 3. genus hominum: cuncti homines; 4. genus grammaticale nominum (masculinum, femininum, neutrum, commune); 5. genus grammaticale verborum (activum, passivum, neutrum, deponens); 6. gens
+gerere gessisse gestum = 1. (in corpore) ferre, habêre; 2. manu portare; 3. in se habêre; 4. agere, facere; 5. res gestae: casûs, facta; 6. gesta: res gestae; 7. agere, se ostendere; 8. rem gerere: bellum gerere; 9. tractare
 gestare = gerere
-gignere genuisse genitum = mater liberos
-parit, pater gignit/parentes gignunt
+gignere genuisse genitum = mater liberos parit, pater gignit/parentes gignunt
 globosus -a -um = qui globi formam habet
-globus -i m = 1. turba, multitudo; 2. sphaera,
-corpus rotundum
+globus -i m = 1. turba, multitudo; 2. sphaera, corpus rotundum
 gloriari = gloriose dicere
 gnavus -a -um = impiger, diligens
 gracilitas -atis f < gracilis
 gradi < gradus = ambulare, progredi
-gradus -us m = 1. motus pedis ad
-ambulandum; 2. genus comparationis:
-positivum, comparativum, superlat.;
-3. quisque pars operis structae ad
-locum superiorem aut inferiorem
-perveniendum; 4. genus, ordo; 5. plenu
-gradu: celeriter gradiens
+gradus -us m = 1. motus pedis ad ambulandum; 2. genus comparationis: positivum, comparativum, superlat.; 3. quisque pars operis structae ad locum superiorem aut inferiorem perveniendum; 4. genus, ordo; 5. plenu gradu: celeriter gradiens
 grandaevus -a -um = senex
 grandis -e = magnus
 grando -inis f = imber qui factus est glacies
 grates f pl acc = gratias
-gratia -ae f = 1. res grata, beneficium;
-2. gratiam referre: gratiam pro gratiâ
-reddere; 3. gratias agere: dicere ‘se
-gratiam habêre’; 4. (delicti) gratiam
-facere: veniam dare, (delictum)
-ignoscere; 5. (< gratus) caritas, favor
-gratiâ = 1. ob + acc , gen +causâ, ut + coni ;
-2. meâ gratiâ: meâ causâ
+gratia -ae f = 1. res grata, beneficium; 2. gratiam referre: gratiam pro gratiâ reddere; 3. gratias agere: dicere ‘se gratiam habêre’; 4. (delicti) gratiam facere: veniam dare, (delictum) ignoscere; 5. (< gratus) caritas, favor
+gratiâ = 1. ob + acc , gen +causâ, ut + coni ; 2. meâ gratiâ: meâ causâ
 gratificari +dat = gratum facere, placêre
 gratuitus -a -um = sine mercede factus
-gratulari (+ dat ) = 1. ↔ consolari; 2. g. de
-aliqua re: g. quia aliquid factum/
-adeptum est
-gravidus -a -um = 1. (femina gravida): quae
-infantem exspectat; 2. plenus
-gravis -e = 1. ↔ levis; 2. magnus (v.g.
-dolor); 3. ↔ clarus, tenuis (ut vox
-mulieris)
+gratulari (+ dat ) = 1. ↔ consolari; 2. g. de aliqua re: g. quia aliquid factum/ adeptum est
+gravidus -a -um = 1. (femina gravida): quae infantem exspectat; 2. plenus
+gravis -e = 1. ↔ levis; 2. magnus (v.g. dolor); 3. ↔ clarus, tenuis (ut vox mulieris)
 gravitas -atis f (< gravis) = dignitas
-gurges -itis m = 1. vorago turbida;
-2. gurgites: aqua turbida, fluxus
+gurges -itis m = 1. vorago turbida; 2. gurgites: aqua turbida, fluxus
+
+
 H
 habêre = 1. continêre; 2. possidêre; 3. res
 habêre: ex rebus constare; 4. gerere;
