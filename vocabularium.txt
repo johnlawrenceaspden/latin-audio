@@ -1913,64 +1913,44 @@ ob-ire = 1. adire; 2. mortem/diem (mortis)
 obire: mori; 3. sol obiens: sol occidens
 obitus -us m (<obire) = mors
 ob-ligare = officio tenêre
-obliquus -a -um = 1. inclinatus; linea
-obliqua [/] ↔ recta [|]; 2. oratio obliqua
-(‘...’): legibus grammaticis mutata ( acc
-+ inf pro nom + ind , coni pro ind , pers
-3 pro 1/2 ) ↔ oratio recta (“...”)
+obliquus -a -um = 1. inclinatus; linea obliqua [/] ↔ recta [|]; 2. oratio obliqua (‘...’): legibus grammaticis mutata ( acc + inf pro nom + ind , coni pro ind , pers 3 pro 1/2 ) ↔ oratio recta (“...”)
 oblivio -onis f < oblivisci
-oblivisci -litum = memoriam alicuius
-amittere
+oblivisci -litum = memoriam alicuius amittere
 ob-mutescere -tuisse = mutus fieri
 ob-nubere = velare
 ob-oedire (< -audire) = parêre
 ob-oriri = oririob-repere = clam ascendere
 ob-rigescere -guisse = rigens fieri
-ob-ruere -ruisse -rutum = 1. operire (re
-suprà iniectâ); 2. opprimere;
-3. fluctibus obrui: submergi
+ob-ruere -ruisse -rutum = 1. operire (re suprà iniectâ); 2. opprimere; 3. fluctibus obrui: submergi
 obscurare = obscurum facere
-obscurus -a -um = 1. ↔ clarus; 2. difficilis
-intellectu; 3. ignotus
+obscurus -a -um = 1. ↔ clarus; 2. difficilis intellectu; 3. ignotus
 ob-sequi = parêre
 ob-servare = colere, honorare, carum habêre
-obses -idis m/f = homo nobilis qui victori
-hosti pignus traditur ne pax violetur
-ob-sidêre -sedisse -sessum = exercitu tenêre
-inclusum
+obses -idis m/f = homo nobilis qui victori hosti pignus traditur ne pax violetur
+ob-sidêre -sedisse -sessum = exercitu tenêre inclusum
 obsidio -onis f <obsidêre
 ob-sistere = resistere
-ob-stare = 1. viam claudere, prohibêre;
-2. ↔ sinere
+ob-stare = 1. viam claudere, prohibêre; 2. ↔ sinere
 obstinatus -a -um = firmus, constans
 ob-struere = claudere (re obstante)
-ob-stupescere -puisse = stupêre incipere,
-stupens fieri
+ob-stupescere -puisse = stupêre incipere, stupens fieri
 ob-secundare = obsequi, parêre
 ob-surdescere -duisse = surdus fieri
 ob-temperare = oboedire, parêre
 ob-testari = orare (diis testibus)
-ob-tinêre = 1. tenêre in suâ potestate;
-2. adipisci
-ob-trectare = 1. verbis male tractare/vexare;
-2. rei ( dat ) o.: rem o./verbis oppugnare
+ob-tinêre = 1. tenêre in suâ potestate; 2. adipisci
+ob-trectare = 1. verbis male tractare/vexare; 2. rei ( dat ) o.: rem o./verbis oppugnare
 obtrectatio -onis f < obtrectare
 ob-truncare = trucidare
-obtunsus -a -um ↔ acutus; (animus) o.: qui
-nihil sentit
+obtunsus -a -um ↔ acutus; (animus) o.: qui nihil sentit
 ob-venire = evenire (sortibus)
-ob-viam = 1. obviam ire: occurrere;
-2. obviam ire: adversari
-ob-vius -a -um = 1. qui obviam it; 2. obvius
-esse: obviam ire
+ob-viam = 1. obviam ire: occurrere; 2. obviam ire: adversari
+ob-vius -a -um = 1. qui obviam it; 2. obvius esse: obviam ire
 occasio -onis f = tempus idoneum
 occasus -us m <occidere
-oc-cidere -cidisse = 1. ↔ oriri; 2. cadere,
-interfici, mori
-occultus -a -um = 1. latens; 2. abditus,
-secretus
-occupare = 1. vi capere et suum facere;
-2. possidêre, potiri; 3. occupatum tenêre
+oc-cidere -cidisse = 1. ↔ oriri; 2. cadere, interfici, mori
+occultus -a -um = 1. latens; 2. abditus, secretus
+occupare = 1. vi capere et suum facere; 2. possidêre, potiri; 3. occupatum tenêre
 occupatus -a -um = 1. deditus; 2. ↔ otiosus
 oc-cursare = occurrere
 ocissime sup = celerrime
@@ -1981,119 +1961,60 @@ odor -oris m = quod per nasum sentitur
 of-fendere = (inexspectatum) invenire
 offensa -ae f = indignatio (ob iniuriam)
 offensio -onis f = calamitas
-of-ferre ob-tulisse ob-latum = 1. se
-daturum esse dicere/ostendere; 2. se
-offerre: se ostendere; 3. oblatus: visus;
-4. alicui offerri: alicui apparêre/obviam
-ire
-olim = 1. aliquo tempore, tempore antiquo;
-2. aliquando pòst
-omen -inis n = signum quod rem futuram
-portendit
-o-mittere = 1. praetermittere; 2. omitte + inf :
-noli; 3. omissus: relictus
-omnino = 1. in omni re, plane; 2. ex
-omnibus
-onerare = 1. onere implêre; 2. aliquem
-promissis onerare: alicui multa
-promittere
+of-ferre ob-tulisse ob-latum = 1. se daturum esse dicere/ostendere; 2. se offerre: se ostendere; 3. oblatus: visus; 4. alicui offerri: alicui apparêre/obviam ire
+olim = 1. aliquo tempore, tempore antiquo; 2. aliquando pòst
+omen -inis n = signum quod rem futuram portendit
+o-mittere = 1. praetermittere; 2. omitte + inf : noli; 3. omissus: relictus
+omnino = 1. in omni re, plane; 2. ex omnibus
+onerare = 1. onere implêre; 2. aliquem promissis onerare: alicui multa promittere
 onus -eris n = quod portatur
 opacus -a -um = qui umbram habet
-opem -is -e ( acc gen abl ) f = 1. auxilium;
-2. summâ ope: omnibus viribus
-opera -ae f = 1. opera alicuius: quod aliquis
-agit; 2. tuâ operâ: tuâ causâ; 3. munus
-libenter functum; 4. non operae est
-(mihi): non tempus est, nolo; 5. operam
-dare: laborare, curare; 6. alicui operam
-dare: aliquem attente audire
-operarius -i m = vir qui manibus suis opus
-facit
+opem -is -e ( acc gen abl ) f = 1. auxilium; 2. summâ ope: omnibus viribus
+opera -ae f = 1. opera alicuius: quod aliquis agit; 2. tuâ operâ: tuâ causâ; 3. munus libenter functum; 4. non operae est (mihi): non tempus est, nolo; 5. operam dare: laborare, curare; 6. alicui operam dare: aliquem attente audire
+operarius -i m = vir qui manibus suis opus facit
 opes -um f pl = 1. divitiae; 2. potentia
 opifex -icis m = operarius
-opimus -a -um = 1. spolia opima: spolia
-duci hostium occiso erepta; 2. opulentus
+opimus -a -um = 1. spolia opima: spolia duci hostium occiso erepta; 2. opulentus
 opinari = arbitrari, putare
-opinio -onis f (< opinari) = 1. sententia;
-2. famaoportêre: oportet + inf / coni = necesse est,
-convenit
+opinio -onis f (< opinari) = 1. sententia; 2. famaoportêre: oportet + inf / coni = necesse est, convenit
 oppidani -orum m pl = cives oppidi
 op-plêre = complêre et operire
 op-ponere = contrà ponere
 opportunitas -atis f = res opportuna/idonea
-opportunus -a -um = idoneus, qui obicitur
-(rei)
-op-primere -pressisse -pressum =
-1. superare (premendo); 2. premere
-oppugnatio -onis f < oppugnare
-optimates -ium m pl = optimi/principes
-cives, factio nobilium
+opportunus -a -um = idoneus, qui obicitur (rei)
+op-primere -pressisse -pressum = 1. superare (premendo); 2. premere oppugnatio -onis f < oppugnare
+optimates -ium m pl = optimi/principes cives, factio nobilium
 opulentia -ae f < opulentus
 opulentus -a -um = dives, potens
-opus -eris n = 1. id quod efficitur; 2. labor
-rustica; 3. labor militaris ad
-muniendum; 4. aedificium; 5. opera:
-opera obsidionis, munitiones
-opus esse = 1. necesse esse, oportere;
-2. opus esse aliquo: necesse esse aliquid;
-3. facto opus est: facere opus est;
-4. alicuius opus esse: aliquo opus esse
-ora -ae f = 1. finis terrae, unde mare incipit;
-2. regio
-oraculum -i n = 1. locus ubi fatum divinitus
-praedicitur sortibus; 2. fatum praedictum
-oratio -onis f = 1. sermo; 2. orationes
-habêre: verba facere
-orator -oris m = 1. qui orationes habet;
-2. legatus (qui orat)
+opus -eris n = 1. id quod efficitur; 2. labor rustica; 3. labor militaris ad muniendum; 4. aedificium; 5. opera: opera obsidionis, munitiones
+opus esse = 1. necesse esse, oportere; 2. opus esse aliquo: necesse esse aliquid; 3. facto opus est: facere opus est; 4. alicuius opus esse: aliquo opus esse
+ora -ae f = 1. finis terrae, unde mare incipit; 2. regio
+oraculum -i n = 1. locus ubi fatum divinitus praedicitur sortibus; 2. fatum praedictum
+oratio -onis f = 1. sermo; 2. orationes habêre: verba facere
+orator -oris m = 1. qui orationes habet; 2. legatus (qui orat)
 oratorius -a -um <orator
 oratrix -icis f = quae orat
-orbis -is m = 1. motus rotundus; 2. forma
-rotunda et globosa (ut forma solis et
-lunae); orbem conficere: in orbem se
-movêre; 3. o. terrarum: omnes terrae;
-4. orbis: orbis terrarum
+orbis -is m = 1. motus rotundus; 2. forma rotunda et globosa (ut forma solis et lunae); orbem conficere: in orbem se movêre; 3. o. terrarum: omnes terrae; 4. orbis: orbis terrarum
 orbitas -atis f <orbus
-orbus -a -um = 1. qui liberos amisit; 2. qui
-parentem amisit
-ordinare = 1. in ordine ponere; 2. instituere
-constituere
+orbus -a -um = 1. qui liberos amisit; 2. qui parentem amisit
+ordinare = 1. in ordine ponere; 2. instituere constituere
 ordiri orsum = (loqui) incipere
-ordo -inis m = 1. linea rerum/hominum
-aliorum post alia; 2. modus collocandi;
-3. (ex) ordine: post alium alius; 4. ordo
-(equester): equites Romani
+ordo -inis m = 1. linea rerum/hominum aliorum post alia; 2. modus collocandi; 3. (ex) ordine: post alium alius; 4. ordo (equester): equites Romani
 orientalis -e <oriens
-origo -inis f <oriri = 1. originem trahere:
-ortus esse; 2. principium, initium
-oriri ortum = 1. sol oriri: in caelum
-ascendere; 2. (in caelum) fieri, concipi;
-3. initium facere; 4. primum fieri,
-incipere; 5. nasci
-ornamentum -i n = 1. res quae ad meliorem
-vel pulchriorem apparendum alicui
-additur; 2. instrumenta; 3. quod ornat/
-illustrat
-ornare = 1. aliquid pulchrius/melius facere;
-2. instrumentis parare; 3. paratum
-facere; 4. re ornatus: rem habens
-ornatus -a -um = 1. cum ornamentis;
-2. illustris
+origo -inis f <oriri = 1. originem trahere: ortus esse; 2. principium, initium
+oriri ortum = 1. sol oriri: in caelum ascendere; 2. (in caelum) fieri, concipi; 3. initium facere; 4. primum fieri, incipere; 5. nasci
+ornamentum -i n = 1. res quae ad meliorem vel pulchriorem apparendum alicui additur; 2. instrumenta; 3. quod ornat/ illustrat
+ornare = 1. aliquid pulchrius/melius facere; 2. instrumentis parare; 3. paratum facere; 4. re ornatus: rem habens
+ornatus -a -um = 1. cum ornamentis; 2. illustris
 ortus -us m <oriri ↔ occasus
-os oris n = 1. quod est inter labra; 2. ostium,
-locus quo flumen in mare influit; 3. uno
-ore: simul dicens; 4. uno ore: omnes
-consentientes; 5. vultus; 6. ante ora:
-ante oculos
-os ossis n = 1. quod canes edunt; 2. ossa:
-corpus mortuum
-os-tendere -disse = 1. monstrare; 2. notum
-facere; bellum o.: se bellum facturum
-esse ostendere
+os oris n = 1. quod est inter labra; 2. ostium, locus quo flumen in mare influit; 3. uno ore: simul dicens; 4. uno ore: omnes consentientes; 5. vultus; 6. ante ora: ante oculos
+os ossis n = 1. quod canes edunt; 2. ossa: corpus mortuum
+os-tendere -disse = 1. monstrare; 2. notum facere; bellum o.: se bellum facturum esse ostendere
 ostentare = gloriose ostendere
-otium -i n = 1. vacuum tempus, ↔ negotium;
-2. pax, tranquillitas; per otium: in pace
+otium -i n = 1. vacuum tempus, ↔ negotium; 2. pax, tranquillitas; per otium: in pace
 ovare = superbe gaudêre
+
+
 P
 pabulum -i n = cibus pecoris et equorum
 pabulari = pabulum petere
