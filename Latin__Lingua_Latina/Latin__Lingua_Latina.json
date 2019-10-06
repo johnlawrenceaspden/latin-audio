@@ -977,7 +977,6 @@
         "ankidroid_audiorec1931336397.mp3",
         "ankidroid_audiorec1931872556.mp3",
         "ankidroid_audiorec1932426666.mp3",
-        "ankidroid_audiorec1932992930.mp3",
         "ankidroid_audiorec193477408.mp3",
         "ankidroid_audiorec1934933596.mp3",
         "ankidroid_audiorec193515732.mp3",
@@ -2090,7 +2089,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "fs-cap28"
+                "cap36"
             ],
             "tmpls": [
                 {
@@ -6894,26 +6893,6 @@
             ],
             "flags": 0,
             "guid": "iB_JP&|!((",
-            "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap08"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "nōnāgintā",
-                "",
-                "",
-                "ninety",
-                "",
-                "",
-                "[sound:ankidroid_audiorec1932992930.mp3]",
-                ""
-            ],
-            "flags": 0,
-            "guid": "jI0[CHoO2|",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap08"
@@ -40031,7 +40010,7 @@
                 "",
                 "ninety",
                 "",
-                "",
+                "nō-nā-*gin-tā",
                 "[sound:ankidroid_audiorec379001265.mp3]",
                 ""
             ],
@@ -40039,6 +40018,7 @@
             "guid": "dS4oJPB=HO",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
+                "cap08",
                 "cp-cap05"
             ]
         },
@@ -41250,6 +41230,7 @@
             "guid": "NWWiie2;!&",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
+                "cap36",
                 "fs-cap27"
             ]
         },
