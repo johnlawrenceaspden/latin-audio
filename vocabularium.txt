@@ -928,53 +928,35 @@ eà adv = eâ viâ, ibi
 ec-quid = num
 ec-quis -quae -quid/-quod = num quis/qui
 edepol = per Pollucem!
-e-dere -didisse -ditum <e+dare = 1. mittere
-foras; 2. partu e.: parere; 3. (mandatum)
-e.: eloqui, nuntiare; 4. facere, ferre
+e-dere -didisse -ditum <e+dare = 1. mittere foras; 2. partu e.: parere; 3. (mandatum) e.: eloqui, nuntiare; 4. facere, ferre
 e-dicere = 1. publice imperare; 2. statuere
 e-disserere = exponere, narrare
 e-ducare = (liberos) alere, curare, docêre
-e-ducere = 1. extrà ducere; 2. in aciem e.:
-milites in aciem instruere
-ef-ferre ex-tulisse e-latum = 1. pedem
-efferre: egredi; 2. tollere; 3. superbum
-facere; 4. se efferre: superbus fieri
-ef-ficere -io = 1. facere; 2. causam ferre;
-3. ex aliquo facere; 4. efficere ut:
-consequi, adipiscieffigies -ei f = imago
-ef-fringere -egisse -actum = 1. frangere
-totum; 2. foribus effractis penetrare
-ef-fugere -io = 1. ex aliquo fugere;
-2. (locum) effugere: vitare
+e-ducere = 1. extrà ducere; 2. in aciem e.: milites in aciem instruere
+ef-ferre ex-tulisse e-latum = 1. pedem efferre: egredi; 2. tollere; 3. superbum facere; 4. se efferre: superbus fieri
+ef-ficere -io = 1. facere; 2. causam ferre; 3. ex aliquo facere; 4. efficere ut: consequi, adipisci
+effigies -ei f = imago
+ef-fringere -egisse -actum = 1. frangere totum; 2. foribus effractis penetrare
+ef-fugere -io = 1. ex aliquo fugere; 2. (locum) effugere: vitare
 ef-fulgêre = valde fulgêre
-ef-fundere <ex+fundere = 1. foras fundere;
-2. vitam effundere: mori; 3. se e.: se
-spargere; 4. solvere, aperire
-effusus -a -um <ef-fundere = 1. sparsus;
-2. turbatus
-egens -entis = 1. qui eget; 2. pauper, qui
-rebus necessariis caret
+ef-fundere <ex+fundere = 1. foras fundere; 2. vitam effundere: mori; 3. se e.: se spargere; 4. solvere, aperire
+effusus -a -um <ef-fundere = 1. sparsus; 2. turbatus
+egens -entis = 1. qui eget; 2. pauper, qui rebus necessariis caret
 egêre = (re necessariâ) carêre
 e-gredi -gressum = 1. exire; 2. transgredi
 egressus -us m < egredi
-e-icere -io = 1. extra locum icere; 2. se
-eicere: foras ruere
-e-labi = 1. effugere; 2. ex parte interiore
-fugere
+e-icere -io = 1. extra locum icere; 2. se eicere: foras ruere
+e-labi = 1. effugere; 2. ex parte interiore fugere
 e-laborare = magno labore perficere
-elegans -antis = qui arte urbanâ placet,
-decens
-elephantus -i m = maximum animal
-quattuor pedum
+elegans -antis = qui arte urbanâ placet, decens
+elephantus -i m = maximum animal quattuor pedum
 e-loquens -entis = qui bene loquitur
 eloquentia -ae f = ars oratoria
 e-loqui = plane loqui
-e-lucêre = 1. valde lucêre; 2. lucendo
-apparêre
+e-lucêre = 1. valde lucêre; 2. lucendo apparêre
 e-lucubrare = nocte elaborare
 e-ludere -sisse -sum = fallere ac deridêre
-e-luvio -onis f = vis aquae in terras
-redundantis
+e-luvio -onis f = vis aquae in terras redundantis
 e-mergere = exire (ex aquâ), apparêre
 e-minêre = ex alicuius forma distingui
 e-mittere = 1. edere; 2. vocem e.: dicere
@@ -985,131 +967,89 @@ e-nervare = invalidum facere
 enim-vero = profecto
 e-niti = valde niti
 e-numerare = ordine memorare
-eò = 1. illùc; 2. eò + adi -ior/-ius: tantò -ior/
--ius
+eò = 1. illùc; 2. eò + adi -ior/-ius: tantò -ior/ -ius
 eòdem adv = in eundem locum
 epula -arum f pl = cena
 epulari (< epulae) = cenare
-eques -itis m = 1. miles qui ex equo pugnat;
-2. cives dives qui senator non est
-equester -tris -tre 1. < equus; 2. ordo e.:
-equites Romani
+eques -itis m = 1. miles qui ex equo pugnat; 2. cives dives qui senator non est
+equester -tris -tre 1. < equus; 2. ordo e.: equites Romani
 equidem = 1. ego quidem; 2. e. ego: equidem
 equitare = equo vehi
-e-rigere -rexisse -rectum = 1. tollere,
-extollere; 2. (animum) e-rigere: novâ
-spe afficere; 3. alte exstruere;
-4. exspectatione erectus: cupide
-expectans, vigilans, animo excitato
+e-rigere -rexisse -rectum = 1. tollere, extollere; 2. (animum) e-rigere: novâ spe afficere; 3. alte exstruere; 4. exspectatione erectus: cupide expectans, vigilans, animo excitato
 error -oris m = 1. <errare; 2. falsa sententia
-e-rubescere -rubuisse = rubêre incipere,
-rubens fieri
+e-rubescere -rubuisse = rubêre incipere, rubens fieri
 e-rudire + abl = educare, docêre
 e-ruditus -a -um = doctus (↔ rudis)
-e-ruere -uisse -utum = detegere (rem
-occultam)
+e-ruere -uisse -utum = detegere (rem occultam)
 e-rumpere = subitò excurrere
 eruptio -onis f < erumpere
 e-scendere -disse = ascendere
-et = 1. atque, ac; 2. etiam; 3. et ... et ↔ nec
-... nec
+et = 1. atque, ac; 2. etiam; 3. et ... et ↔ nec ... nec
 Eurus -i m = ventus qui ab oriente flat
-e-vadere = 1. effugere; 2. se ostendere,
-denique fieri; 3. (locum) e.: transgredi
-e-vanescere -nuisse = 1. ↔ apparêre;
-2. cessare
+e-vadere = 1. effugere; 2. se ostendere, denique fieri; 3. (locum) e.: transgredi
+e-vanescere -nuisse = 1. ↔ apparêre; 2. cessare
 e-vehere = extrà vehere
-e-venire = 1. accidere; 2. cedere, sortiri,
-sortibus accidere
+e-venire = 1. accidere; 2. cedere, sortiri, sortibus accidere
 eventus -us m = exitus
 e-vertere = prosternere, diruere
 e-vincere = persuadêre
 e-vocare = invitare
-ex/e + abl = 1. locus (interior) unde;
-2. genetivus (partitivus); 3. materia;
-4. secundum + acc ; 5. propter; 6. homo,
-gens unde; 7. post
+ex/e + abl = 1. locus (interior) unde; 2. genetivus (partitivus); 3. materia; 4. secundum + acc ; 5. propter; 6. homo, gens unde; 7. post
 ex-aequare = aequare
-ex-agitare = 1. iratum facere, incitare;
-2. turbare, vexare
+ex-agitare = 1. iratum facere, incitare; 2. turbare, vexare
 ex-animare = exspirareex-ardescere -sisse = ardêre incipere
 ex-cedere = 1. exire; 2. e vitâ e.: mori
 excellens -entis = egregius
-ex-cellere = 1. praestare; 2. ceteris ( dat ) e.:
-super ceteros excellere
+ex-cellere = 1. praestare; 2. ceteris ( dat ) e.: super ceteros excellere
 excelsus -a -um = celsissimus
 ex-cerpere -psisse -ptum = e loco carpere
 excessus -us m (< excedere) = mors
-ex-cidere (ex + cadere) = ex aliquo loco
-cadere
+ex-cidere (ex + cadere) = ex aliquo loco cadere
 ex-cîdere -disse -sum = delêre
 excidium -i n < exscindere
-ex-cipere -cepisse -ceptum = 1. recipere;
-2. suscipere
+ex-cipere -cepisse -ceptum = 1. recipere; 2. suscipere
 ex-cire = evocare, excitare
 excitatus -a -um = (sonus) clarus
 ex-cludere = arcêre, prohibêre
 ex-currere = 1. e loco currere; 2. eminêre
 excursio -onis f < excurrere
 exemplar -aris n = exemplum (ad imitandum)
-ex-ercêre = 1. (corpus) movendo parare;
-2. ↔ otiari; 3. persequi; 4. iudicium
-exercêre: iudicium facere; 5. victoriam
-exercêre: victoriâ uti; 6. (vectigalia)
+ex-ercêre = 1. (corpus) movendo parare; 2. ↔ otiari; 3. persequi; 4. iudicium exercêre: iudicium facere; 5. victoriam exercêre: victoriâ uti; 6. (vectigalia)
 exercêre: administrare
 exercitare = exercêre
 exercitatio -onis f < exercitare
-ex-haurire -sisse -stum = 1. ↔ implêre;
-2. (labores) exhaurire: perferre;
-3. absumere, perdere; 4. minuere
-ex-igere -egisse -actum = 1. expellere;
-2. postulare; 3. peragere; 4. exposcere
+ex-haurire -sisse -stum = 1. ↔ implêre; 2. (labores) exhaurire: perferre; 3. absumere, perdere; 4. minuere
+ex-igere -egisse -actum = 1. expellere; 2. postulare; 3. peragere; 4. exposcere
 ex-imere -emisse -emptum = adimere
 eximius -a -um = egregius
 ex-onerare = onere liberare
 exordium -i n = initium
 ex-oriri = oriri
-ex-ornare = 1. ornare; 2. re (ex)ornatus:
-rem habens
+ex-ornare = 1. ornare; 2. re (ex)ornatus: rem habens
 exorsus -us m = exordium
-ex-pavescere -pavisse = pavidus fieri; rem
-e.: re exterreri
-expedire = 1. paratum facere, ↔ impedire;
-2. liberare; 3. explanare
-expeditio -onis f = bellum in hostium fines
-illatum
+ex-pavescere -pavisse = pavidus fieri; rem e.: re exterreri
+expedire = 1. paratum facere, ↔ impedire; 2. liberare; 3. explanare
+expeditio -onis f = bellum in hostium fines illatum
 expeditus -a -um = ad pugnam paratus
 ex-pellere -pulisse -pulsum = e loco pellere
 ex-pergisci -perrectum = e somno excitari
-ex-periri -rtum = 1. cognoscere qualis sit;
-2. conari
-ex-pers -rtis = e. rei ( gen ): cui pars rei non
-est, sine re
+ex-periri -rtum = 1. cognoscere qualis sit; 2. conari
+ex-pers -rtis = e. rei ( gen ): cui pars rei non est, sine re
 ex-petere = (valde) petere
-ex-plêre = 1. vacuum implêre; 2. complêre;
-3. pascere; 4. (muneribus) explêre:
-donare; 5. perficere
-ex-plicare = 1. ↔ implicare; 2. expedire,
-liberare (periculo); 3. litteras explicare:
-libros evolvere; 4. (rem difficilem)
-explanare
-ex-plorare = 1. inspicere; 2. de re
-explorare: de re sciscitari, percontari
-explorator -oris m = miles qui hostium
-motus explorat
-ex-ponere = 1. in terram e mari ponere;
-2. relinquere, deserere; 3. narrare
+ex-plêre = 1. vacuum implêre; 2. complêre; 3. pascere; 4. (muneribus) explêre: donare; 5. perficere
+ex-plicare = 1. ↔ implicare; 2. expedire, liberare (periculo); 3. litteras explicare: libros evolvere; 4. (rem difficilem) explanare
+ex-plorare = 1. inspicere; 2. de re explorare: de re sciscitari, percontari
+explorator -oris m = miles qui hostium motus explorat
+ex-ponere = 1. in terram e mari ponere; 2. relinquere, deserere; 3. narrare
 ex-portare = extra locum portare
 ex-poscere = (ad poenam) poscere
 ex-quirere = 1. quaerere; 2. explorare
 exquisitus -a -um = accuratus
 ex-sanguis -e = mortuus
 ex-scindere = delêre
-ex-secrari = e. aliquem: poenas deorum
-optare alicui
+ex-secrari = e. aliquem: poenas deorum optare alicui
 exsequiae -arum f pl = funus
-ex-sequi = 1. perficere; 2. persequi;
-3. pergere
+ex-sequi = 1. perficere; 2. persequi; 3. pergere
 ex-silire = prosilire, se proicere
 ex-silium -i n <exsul
 ex-sistere -stitisse = oriri
@@ -1117,13 +1057,11 @@ ex-solvere = liberare
 ex-spectatio -onis f < exspectare
 ex-spirare = mori
 ex-stimulare = stimulare
-ex-stinguere -inxisse -inctum =
-1. ↔ accendere; 2. perdere;
-3. exstinctus: sine honoribus
-(magistratibus); 4. mori
+ex-stinguere -inxisse -inctum = 1. ↔ accendere; 2. perdere; 3. exstinctus: sine honoribus (magistratibus); 4. mori
 ex-struere -uxisse -uctum = aedificare
 exsul -is = ex patriâ profugus
-exsulare = exsul esseex-sultare = ovare
+exsulare = exsul esse
+ex-sultare = ovare
 ex-suscitare = excitare
 extemplo = statim
 exter -a -um = externus, peregrinus
@@ -1132,23 +1070,17 @@ ex-terrêre = terrêre
 extimus -a -um sup < exter = extremus
 ex-tollere (laudibus) = valde laudare
 ex-torris -e = exsul
-extra + acc = 1. in parte externâ / ad partem
-externam; 2. sine, non
+extra + acc = 1. in parte externâ / ad partem externam; 2. sine, non
 ex-trahere = educere
 extraneus -a -um = peregrinus
-extremum -i n = 1. finis; 2. extremum
-periculum
-extremus -a -um sup <extra = 1. qui
-omnium proculissime est; 2. maximus;
-3. ultimus, postremus; 4. ↔ primus;
-extremâ hieme: exitu hiemis
-ex-uere -uisse -utum = 1. aliquem re e.:
-alicui rem adimere; 2. hostem armis e.:
-hostem ita vincere ut armis abiectis
-fugiat
+extremum -i n = 1. finis; 2. extremum periculum
+extremus -a -um sup <extra = 1. qui omnium proculissime est; 2. maximus; 3. ultimus, postremus; 4. ↔ primus; extremâ hieme: exitu hiemis
+ex-uere -uisse -utum = 1. aliquem re e.: alicui rem adimere; 2. hostem armis e.: hostem ita vincere ut armis abiectis fugiat
 ex-urere = deurere
 exustio -onis f < exurere
 exuviae -arum f pl = vestimenta
+
+
 F
 fabricare = conficere (arte fabrorum)
 fabulosus -a -um = celebratus
