@@ -2891,110 +2891,60 @@ tellus -uris f = terra
 telum -i n = 1. pilum vel sagitta; 2. securis
 temere = temerario modo, ↔ cautetemeritas -atis f = nimia audacia
 temperantia -ae f (< temperans) = modestia
-temperare = 1. placidum facere (↔ turbare);
-2. ab aliquo t.: abstinēre; 3. (certā
-ratione) miscēre ac mutare
+temperare = 1. placidum facere (↔ turbare); 2. ab aliquo t.: abstinēre; 3. (certā ratione) miscēre ac mutare
 temperatio -onis f = vis temperans
 temperatus -a -um = moderatus, placidus
-tempestas -atis f = 1. magnus ventus qui
-mare turbat ac altos fluctūs facit; 2. eā
+tempestas -atis f = 1. magnus ventus qui mare turbat ac altos fluctūs facit; 2. eā
 tempestate: eo tempore
 tempestivus -a -um = idoneus, opportunus
-templum -i n = 1. domus dei; 2. locus
-(caeli) ab augure finitus et sacratus;
-3. spatium sacrum
-temptare = 1. conari; 2. experiri; 3. bello
-temptare: bello experiri
-tempus -oris n = 1. longitudo quam aliquid
-durat; 2. tempus in quo aliquid accidit;
-3. tempora anni: aestas, hiems, ver,
-autumnus; 4. tempus esse + inf : tempus
-esse aptum ad aliquid faciendum;
-5. tempora verbi: praesens, praeteritum,
-futurum; 6. tempora: occasio; 7. pro
-tempore: ut tempus postulat
-tendere tetendisse tentum/tensum =
-1. extendere; 2. (in locum) ire;
-3. tendere ut: operam dare/postulare ut;
-4. insidias tendere: insidias parare
-tener -a -um = 1. mollis et tenuis, invalidus;
-2. (oculi) teneri: pleni lacrimis
-tenēre -uisse -ntum = 1. rem prehensam
-habēre ne cadat; 2. animum ostendere
-sibi ipsi prohibēre; 3. habēre; 4. tenēre
-(cursum): navigare, pergere navigare;
-5. (locum) tenēre: ad locum pervenire,
-attingere; 6. vincere; 7. tenēri: continēri
-tenuis -e = 1. gracilis, ↔ crassus; 2. (aer)
-rarus, qui facilè evanescit
-ter = 1. 3x; 2. ter quaterque: iterum
-iterumque
-terere trivisse tritum = (tempus) terere: (t.)
-consumere
+templum -i n = 1. domus dei; 2. locus (caeli) ab augure finitus et sacratus; 3. spatium sacrum
+temptare = 1. conari; 2. experiri; 3. bello temptare: bello experiri
+tempus -oris n = 1. longitudo quam aliquid durat; 2. tempus in quo aliquid accidit; 3. tempora anni: aestas, hiems, ver, autumnus; 4. tempus esse + inf : tempus esse aptum ad aliquid faciendum; 5. tempora verbi: praesens, praeteritum, futurum; 6. tempora: occasio; 7. pro tempore: ut tempus postulat
+tendere tetendisse tentum/tensum = 1. extendere; 2. (in locum) ire; 3. tendere ut: operam dare/postulare ut; 4. insidias tendere: insidias parare
+tener -a -um = 1. mollis et tenuis, invalidus; 2. (oculi) teneri: pleni lacrimis
+tenēre -uisse -ntum = 1. rem prehensam habēre ne cadat; 2. animum ostendere sibi ipsi prohibēre; 3. habēre; 4. tenēre (cursum): navigare, pergere navigare; 5. (locum) tenēre: ad locum pervenire, attingere; 6. vincere; 7. tenēri: continēri
+tenuis -e = 1. gracilis, ↔ crassus; 2. (aer) rarus, qui facilè evanescit
+ter = 1. 3x; 2. ter quaterque: iterum iterumque
+terere trivisse tritum = (tempus) terere: (t.) consumere
 terminus -i m = lapis quo finis designatur
 terrestris -e <terra
-terror -oris m <terror = 1. metus, pavor;
-2. homo/res qui/quae terret
+terror -oris m <terror = 1. metus, pavor; 2. homo/res qui/quae terret
 tertiò = tertium
 tertiùm = tertia res quae eadem fit
-testamentum -i n = litterae de bonis hominis
-mortui dividendis
+testamentum -i n = litterae de bonis hominis mortui dividendis
 testari = testem facere
-testis -is m/f = 1. qui adest et videt;
-2. spectator
+testis -is m/f = 1. qui adest et videt; 2. spectator
 thalamus -i m = cubiculum coniugum
-thema -atis n = vocabuli pars cui in
-declinando adiciuntur variae litterae
+thema -atis n = vocabuli pars cui in declinando adiciuntur variae litterae
 thermae -arum f = magnae balneae
-thesaurus -i m = auri et argenti copia
-occulta
-tigris -is f = animal ferum lineis nigris et
-maius quàm leo
+thesaurus -i m = auri et argenti copia occulta
+tigris -is f = animal ferum lineis nigris et maius quàm leo
 tingere tinxisse tinctum = umidum facere
 tiro -onis m = novus miles
 titulus -i m = quod suprà scribitur
 tolerabilis -e = tolerandus
 tolerare = ferre, pati
-tollere sustulisse sublatum = 1. sursum
-movēre; in caelum t.: gloriā afficere;
-2. sumere et secum ferre, auferre;
-3. clamorem t.: clamare; 4. animum t.:
-audacior fieri; 5. adimere; 6. bellum
-tollere: bellum finire; 7. rumpere;
-8. occīdere
+tollere sustulisse sublatum = 1. sursum movēre; in caelum t.: gloriā afficere; 2. sumere et secum ferre, auferre; 3. clamorem t.: clamare; 4. animum t.: audacior fieri; 5. adimere; 6. bellum tollere: bellum finire; 7. rumpere; 8. occīdere
 tonare -uisse: tonat = tonitrus fit
 torquatus -a -um = torque ornatus
-torquis -is m = ornamentum quod circa
-collum induitur
+torquis -is m = ornamentum quod circa collum induitur
 torrēre -uisse tostum = igne siccare
 torridus -a -um = qui torretur
 torus -i m = lectus
 tot-idem = idem numerus
-trabs -bis f = 1. lignum longum quo tectum
-domūs tenetur; 2. navis
+trabs -bis f = 1. lignum longum quo tectum domūs tenetur; 2. navis
 tractare = 1. afficere; 2. gerere
-tra-dere = 1. dare (de manu in manum);
-2. narrare; 3. traditur: fertur, narratur
-tra-ducere = 1. transferre; 2. aliquid t.: trans
-aliquid ducere; 3. (tempus) t.: terere,
-consumere
+tra-dere = 1. dare (de manu in manum); 2. narrare; 3. traditur: fertur, narratur
+tra-ducere = 1. transferre; 2. aliquid t.: trans aliquid ducere; 3. (tempus) t.: terere, consumere
 tragicus -a -um = qui tragoedias scribit
 tragoedia -ae f ↔ comoedia
-tragula -ae f = iaculumtrahere traxisse tractum = 1. ducere
-(currum); 2. post se ferre; 3. originem
-trahere: ortus esse; 4. (tempus) trahere:
-producere; 5. trahi: necessitate adduci
-trā-icere = 1. traducere; 2. transire;
-3. transfigere
+tragula -ae f = iaculumtrahere traxisse tractum = 1. ducere (currum); 2. post se ferre; 3. originem trahere: ortus esse; 4. (tempus) trahere: producere; 5. trahi: necessitate adduci
+trā-icere = 1. traducere; 2. transire; 3. transfigere
 tra-natare/trans-natare = transire natando
-trans + acc = 1. motus ab parte loci citeriore
-ad partem loci ulteriorem; 2. ultra
-(↔ cis)
+trans + acc = 1. motus ab parte loci citeriore ad partem loci ulteriorem; 2. ultra (↔ cis)
 tràns = ultrà (↔ cìs)
 trans-cendere = scandendo transire
-trans-ferre -tulisse trans/tra-latum = 1. ferre
-in alium locum; 2. in triumpho ferre;
-3. se transferre: se conferre
+trans-ferre -tulisse trans/tra-latum = 1. ferre in alium locum; 2. in triumpho ferre; 3. se transferre: se conferre
 trans-figere = per medium corpus percutere
 trans-fuga -ae m = perfuga
 trans-fugere = ad hostem fugere
@@ -3002,9 +2952,7 @@ trans-gredi -gressum = transire
 trans-igere -egisse -actum = peragere
 trans-mittere = traicere
 tran-silire -uisse < trans +salire
-trans-ire = 1. ex loco in locum ire, trans
-locum ire; 2. ex factione aliquā in aliam
-venire
+trans-ire = 1. ex loco in locum ire, trans locum ire; 2. ex factione aliquā in aliam venire
 transitio -onis f < transire
 transitus -us m < transire
 trans-marinus -a -um = qui trans mare est
@@ -3015,72 +2963,48 @@ trecentesimus -a -um = CCC
 trepidare = trepidus esse
 trepidatio -onis f <trepidare
 trepidus -a -um = pavidus, timidus
-tribuere -uisse -utum = 1. praebēre, dare;
-2. fortunae t.: fortunā factum esse
-censēre; 3. aliis t.: ab aliis factum esse
-dicere
-tribunal -alis n = locus superior cum sede
-magistratus
+tribuere -uisse -utum = 1. praebēre, dare; 2. fortunae t.: fortunā factum esse censēre; 3. aliis t.: ab aliis factum esse dicere
+tribunal -alis n = locus superior cum sede magistratus
 tribunatus -us m = dignitas tribuni
-tribunus -i m = 1. praefectus; 2. t. Celerum
-equitibus praeerat; 3. tribuni plebis deni
-quotannis creantur qui annuam habent
-potestatem et legi/iudicio intercedere
-possunt; 4. tribuni militum seni singulis
-legionibus praefecti sunt
-tribus -us f ( pl dat/abl -ubus) = 1. nomen
-regionum urbis; 2. centuria
-tributum -i n = pecunia quae rei publicae
-tribuitur, vectigal
+tribunus -i m = 1. praefectus; 2. t. Celerum equitibus praeerat; 3. tribuni plebis deni quotannis creantur qui annuam habent potestatem et legi/iudicio intercedere possunt; 4. tribuni militum seni singulis legionibus praefecti sunt
+tribus -us f ( pl dat/abl -ubus) = 1. nomen regionum urbis; 2. centuria
+tributum -i n = pecunia quae rei publicae tribuitur, vectigal
 tridens -entis m = Neptuni sceptrum
 triduum -i n = tres dies
 triennium -i n = tres anni
 triens -entis m = tertia pars assis
-tri-geminus -a -um = 1. (fratres) trigemini:
-tres eodem die nati; 2. trigeminorum
-tri-remis -e = navis quae ternos remos
-habet
-triticum -i n = frumenti genus ex quo panis
-albus fit
+tri-geminus -a -um = 1. (fratres) trigemini: tres eodem die nati; 2. trigeminorum
+tri-remis -e = navis quae ternos remos habet
+triticum -i n = frumenti genus ex quo panis albus fit
 triumphalis -e <triumphus
 triumphare = triumphum agere
-triumphus -i m = cursus imperatoris (=dux
-victor) per urbem
+triumphus -i m = cursus imperatoris (=dux victor) per urbem
 trium-viralis -e < triumvir
-trium-viri -orum m pl = III viri quibus
-negotium publicum mandatur
+trium-viri -orum m pl = III viri quibus negotium publicum mandatur
 trucidare = crudeliter occidere
 trux -ucis = ferox
-tuba -ae f = instrumentum longum
-metallicum quo flato sonum reddit
+tuba -ae f = instrumentum longum metallicum quo flato sonum reddit
 tubicen -inis m = qui tuba canit
-tueri = 1. tutum facere, custodire; 2. intueri,
-spectare
+tueri = 1. tutum facere, custodire; 2. intueri, spectare
 tugurium -i n = casa
-tum = 1. deinde; 2. tunc; 3. cùm ... tum: et
-... et, non modò ... sed etiam
+tum = 1. deinde; 2. tunc; 3. cùm ... tum: et ... et, non modò ... sed etiam
 tumēre = tumidus esse
 tumidus -a -um = turgidus, turbidus
 tumulosus -a -um = plenus tumulorum
 tumultuarius -a -um < tumultus
 tumulus -i m = collis parvus
-turba -ae f = 1. multitudo hominum;
-2. confusio, tumultus
-turbare = 1. turbidum (↔ tranquillum)
-facere; 2. perturbare; 3. sordidum
-facere miscendo; 4. ordinem solvere,
-destruere
+turba -ae f = 1. multitudo hominum; 2. confusio, tumultus
+turbare = 1. turbidum (↔ tranquillum) facere; 2. perturbare; 3. sordidum facere miscendo; 4. ordinem solvere, destruere
 turma -ae f = equitum numerus XXX
 turmatim = in turmisturpis -e = 1. foedus; 2. indignus
-turris -is f = aedificium altum ad urbem
-defendendam exstructum
+turris -is f = aedificium altum ad urbem defendendam exstructum
 tutari = tueri
 tutò adv = sine periculo
-tutor -oris m <tueri = qui pro patre mortuo
-liberos educandos curat
-tutus -a -um = 1. sine periculo; 2. defensus;
-3. certus, verus
+tutor -oris m <tueri = qui pro patre mortuo liberos educandos curat
+tutus -a -um = 1. sine periculo; 2. defensus; 3. certus, verus
 tyrannis -idis f = imperium tyranni
+
+
 U
 uber -eris = fertilis
 uber -eris n = pectus feminae quo liberi/
