@@ -2403,402 +2403,240 @@ putare = 1. existimare; 2. credere; 3. arbitrari, censēre; 4. putares: videris
 
 
 Q
-quà = 1. quà viā, ubi; 2. ne quà: ne quā
-(aliqua) viā
+quà = 1. quà viā, ubi; 2. ne quà: ne quā (aliqua) viā
 quà-cumque = ubicumque
 quadratus -a -um = formā IV latera
 quadriennium -i n = quattuor anni
-quadrigae -arum f pl = 1. IV equi curru
-iuncti; 2. quadrigas mittere: cursum
-aperirequadringentesimus -a -um = CCCC
+quadrigae -arum f pl = 1. IV equi curru iuncti; 2. quadrigas mittere: cursum aperire
+quadringentesimus -a -um = CCCC
 quaeso = oro (te/vos)
-quaestio -onis f = 1. quod quaeritur;
-2. quaestionem agere : quaerere in iudicio
-quaestor -oris m = 1. magistratus qui in
-bello ducem adiuvat; 2. magistratus qui
-aerario praeest
+quaestio -onis f = 1. quod quaeritur; 2. quaestionem agere : quaerere in iudicio
+quaestor -oris m = 1. magistratus qui in bello ducem adiuvat; 2. magistratus qui aerario praeest
 quaestorius -a -um < quaestor; aetate
 quaestoriā: circiter XXX annos natus
 quaestura -ae f = magistratus quaestoris
-quaestus -us m = 1. lucrum (quaesitum/
-factum); 2. (pecuniam) in quaestu
-relinquere: mutuam dare quaestūs causā
-qualis -e = 1. cuius generis; 2. quanta
-qualitas; 3. talis qualis: eiusdem generis
-atque/ac
+quaestus -us m = 1. lucrum (quaesitum/factum); 2. (pecuniam) in quaestu relinquere: mutuam dare quaestūs causā
+qualis -e = 1. cuius generis; 2. quanta qualitas; 3. talis qualis: eiusdem generis atque/ac
 qualis-cumque = qualis libet
-quàm = 1. tam ... quàm: idem atque/ac;
-2. qualis; 3. quàm celerrime ( sup ): tam
-celerrime quàm maxime fieri potest;
-4. quàm primùm: cùm primùm fieri
-potest; 5. quàm plurimus: quantùm
-maxime potest; 6. quàm maximas
-potest: (tantos) quantos maxime potest
-quam-diu = 1. tamdiu ... quamdiu: tam diu
-... quàm; 2. tamdiu quàm
-quam-vis = 1. quamvis iustus: etiam si
-iustissimus est; 2. + coni : quamquam
-quando = 1. quo tempore?; 2. quoniam;
-3. cùm; 4. ne quando: ne aliquando, ne
-umquam
+quàm = 1. tam ... quàm: idem atque/ac; 2. qualis; 3. quàm celerrime ( sup ): tam celerrime quàm maxime fieri potest; 4. quàm primùm: cùm primùm fieri potest; 5. quàm plurimus: quantùm maxime potest; 6. quàm maximas potest: (tantos) quantos maxime potest
+quam-diu = 1. tamdiu ... quamdiu: tam diu ... quàm; 2. tamdiu quàm
+quam-vis = 1. quamvis iustus: etiam si iustissimus est; 2. + coni : quamquam quando = 1. quo tempore?; 2. quoniam; 3. cùm; 4. ne quando: ne aliquando, ne umquam
 quantum = quàm multùm
-quantum -i n = 1. quàm multùm; 2. tantùm
-quantùm: tam multùm quàm; 3. quanti:
-quanti pretii (quàm parvi p.); 4. quantò
-... tantò: tam + comp quàm + comp
-quantus-cumque quanta- quantum- = quàm
-magnus, tantus quantus
+quantum -i n = 1. quàm multùm; 2. tantùm quantùm: tam multùm quàm; 3. quanti: quanti pretii (quàm parvi p.); 4. quantò ... tantò: tam + comp quàm + comp
+quantus-cumque quanta- quantum- = quàm magnus, tantus quantus
 qua-re = 1. cur?; 2. quam ob rem
 quartò adv = quater factum
 quasi = 1. tamquam; 2. velut si
 quassare = valde quatere, paene effringere
 -que = 1. et; 2. -que ... -que: et ... et
-quercus -us f = arbor cuius pars superior
-rotunda atque maior quàm inferior est
+quercus -us f = arbor cuius pars superior rotunda atque maior quàm inferior est
 querella -ae f <queri
 querimonia -ae f = querella
 quic-quam = quidquam
 quic-quid = quidquid
-qui-cumque quae-cumque quod-cumque =
-1. quem/quam/quod libet; 2. quisquis;
-3. quaecumque: omnia quae
-quid-quid = 1. omnis res quae;
-2. quodcumque
+qui-cumque quae-cumque quod-cumque = 1. quem/quam/quod libet; 2. quisquis; 3. quaecumque: omnia quae
+quid-quid = 1. omnis res quae; 2. quodcumque
 quies -etis f = tempus quietum, somnus
-qui-libet quae-libet quod-libet = qui-cumque
-(libet)
-quin = 1. cur non?; 2. quin etiam: (non hoc
-solum) sed etiam, atque etiam; 3. quin
-+ imp : age; 4. non dubito quin + coni
-↔ dubito num + coni ; 5. non multùm
-abest quin fiat: paene fit
+qui-libet quae-libet quod-libet = qui-cumque (libet)
+quin = 1. cur non?; 2. quin etiam: (non hoc solum) sed etiam, atque etiam; 3. quin + imp : age; 4. non dubito quin + coni ↔ dubito num + coni ; 5. non multùm abest quin fiat: paene fit
 qui-nam = quisnam
-quindecim-viri -orum m pl = XV viri qui
-negotium publicum curant
+quindecim-viri -orum m pl = XV viri qui negotium publicum curant
 quingentesimus -a -um = D
 quinquagesimus -a -um = L
 quinquennium -i n = quinque anni
-quinque-remis -e = navis longa quae quinos
-remos habet
+quinque-remis -e = navis longa quae quinos remos habet
 quintò adv = quinquies factum
-quippe qui = qui scilicet, quoniam, quoniam
-ii
+quippe qui = qui scilicet, quoniam, quoniam ii
 quire -eo -ivisse = posse
-quis quae quid = 1. quis est?: quis vir?;
-quae est?: quae femina?; quid est?:
-quae res?; 2. quis locus?: qui locus?
-quis qua quid (si/ne/num q.) = 1. si quis: si
-aliquis; 2. num quis: num aliquis; 3. num
-quid: num aliquid; 4. ne quis: ne aliquis,
-ne quisquam
+quis quae quid = 1. quis est?: quis vir?; quae est?: quae femina?; quid est?: quae res?; 2. quis locus?: qui locus?
+quis qua quid (si/ne/num q.) = 1. si quis: si aliquis; 2. num quis: num aliquis; 3. num quid: num aliquid; 4. ne quis: ne aliquis, ne quisquam
 quīs = quibus
 quis-nam = quis
-quis-que quae-que quod-que = 1. et unus et
-alter et tertius...; 2. fortissimus quisque:
-omnes viri fortes
-qui-vis quae-vis quod-vis = 1. quilibet,
-quicumque; 2. quodvis: quodcumque vis
-quo = 1. quo + comp ... eo: quantò ... tantò;
-2. quo + comp : quamobrem; 3. quo
-+ coni : ut eo (ut eo modo)
+quis-que quae-que quod-que = 1. et unus et alter et tertius...; 2. fortissimus quisque: omnes viri fortes
+qui-vis quae-vis quod-vis = 1. quilibet, quicumque; 2. quodvis: quodcumque vis
+quo = 1. quo + comp ... eo: quantò ... tantò; 2. quo + comp : quamobrem; 3. quo + coni : ut eo (ut eo modo)
 quo-ad = usque ad id tempus quoquo-circa = itaque
 quo-cumque adv = in quemcumque locum
-quòd = 1. quia; 2. cur; 3. quòd + coni : utinam;
-4. est quòd: causa est quare; 5. quòd si:
-si autem; 6. quòd nisi: nisi autem
+quòd = 1. quia; 2. cur; 3. quòd + coni : utinam; 4. est quòd: causa est quare; 5. quòd si: si autem; 6. quòd nisi: nisi autem
 quondam = 1. olim, aliquando
 quo-quo = quocumque
-quoties = 1. quoties? semel, bis, ter, quater,
-quinquies, sexies, septies, octies,
-novies, decies...; 2. toties quoties
+quoties = 1. quoties? semel, bis, ter, quater, quinquies, sexies, septies, octies, novies, decies...; 2. toties quoties
 quoties-cumque = quoties
 quo-usque = quamdiu
+
+
 R
 rabies -ei f = ira saeva atque amens
 radius -i m = luminis linea
-radix -icis f = 1. pars arboris subterranea;
-2. pars infima montis
-rapere -io -uisse -ptum = 1. vi trahere/
-capere; 2. raptim trahere/capere;
-3. adimere; 4. raptim vehere
+radix -icis f = 1. pars arboris subterranea; 2. pars infima montis
+rapere -io -uisse -ptum = 1. vi trahere/ capere; 2. raptim trahere/capere; 3. adimere; 4. raptim vehere
 rapina -ae f <rapere
 raptim = celeriter
-rarus -a -um = 1. qui non solet fieri/esse;
-2. paucus
-ratio -onis f = 1. causa quae rem planam
-facit; 2. modus agendi, consilium;
-3. causa qua factum defenditur
-(excusatur); 4. deliberatio, consilium
-prudens; 5. mens prudens; 6. rationem
-habēre alicuius: alicui consulere;
-7. rationes: negotia pecuniarum; 8. mens
-prudens
-ratus -a -um = 1. servandus (↔ irritus);
-2. computatus, ratione constitutus;
-3. pro rata parte: rato modo (↔ fortuitò)
+rarus -a -um = 1. qui non solet fieri/esse; 2. paucus
+ratio -onis f = 1. causa quae rem planam facit; 2. modus agendi, consilium; 3. causa qua factum defenditur (excusatur); 4. deliberatio, consilium prudens; 5. mens prudens; 6. rationem habēre alicuius: alicui consulere; 7. rationes: negotia pecuniarum; 8. mens prudens
+ratus -a -um = 1. servandus (↔ irritus); 2. computatus, ratione constitutus; 3. pro rata parte: rato modo (↔ fortuitò)
 re-bellare = bellum renovare
-re-cedere = 1. ↔ procedere; retro cedere;
-2. redire; 3. discedere; 4. evanescere;
-5. removēre
+re-cedere = 1. ↔ procedere; retro cedere; 2. redire; 3. discedere; 4. evanescere; 5. removēre
 recens -entis = novus atque integer
 re-cidere reccidisse = rursus cadere, redire
 re-cīdere = adimere (caedendo)
 re-ciperare = rursus capere
-re-cipere -cepisse -ceptum = 1. accipere,
-admittere; 2. iterum capere; 3. se r.:
-redire; 4. se recipere: animum recipere,
-se recreare
+re-cipere -cepisse -ceptum = 1. accipere, admittere; 2. iterum capere; 3. se r.: redire; 4. se recipere: animum recipere, se recreare
 re-conciliare = in gratiam restituere
 re-cordari = reminisci
 recordatio -onis f < recordari
 re-creare = rursus vigentem facere
 rector -oris m = qui regit
 rectum -i n = r. aspicere: in r. prospicere
-rectus -a -um = 1. verus, bene factus;
-2. linea recta: —; 3. rectā viā: iter
-omnium brevissimum; 4. oratio recta:
-ipsa verba loquentis (“...”) ↔ oratio
-obliqua (‘...’)
+rectus -a -um = 1. verus, bene factus; 2. linea recta: —; 3. rectā viā: iter omnium brevissimum; 4. oratio recta: ipsa verba loquentis (“...”) ↔ oratio obliqua (‘...’)
 re-cumbere -cubuisse ↔ surgere
-re-cusare = 1. dicere se nolle; 2. repudiare
-red-dere = 1. rursus dare; 2. dare; 3. vocem
-r.: respondēre; 4. flumen r. ‘Tiberim’:
-facere ut flumen ‘Tiberim’ sit; 5. facere
-red-igere -egisse -actum = 1. in potestatem
-alicuius r.: alicui tradere; 2. retro agere
-redimire = circum ligare, vinculo cingere
-red-ire = 1. rursus ire; 2. aliquis ire quo
-habitat; 3. revenire, facere id quod
-modo fiebat; 4. ad se r.: ad mentem r.
+re-cusare = 1. dicere se nolle; 2. repudiare red-dere = 1. rursus dare; 2. dare; 3. vocem r.: respondēre; 4. flumen r. ‘Tiberim’: facere ut flumen ‘Tiberim’ sit; 5. facere
+red-igere -egisse -actum = 1. in potestatem alicuius r.: alicui tradere; 2. retro agere redimire = circum ligare, vinculo cingere
+red-ire = 1. rursus ire; 2. aliquis ire quo habitat; 3. revenire, facere id quod modo fiebat; 4. ad se r.: ad mentem r.
 reditus -us m < redire
-re-ducere = 1. ducere in locum ubi erat
-antè; 2. redigere, restituere, referre
+re-ducere = 1. ducere in locum ubi erat antè; 2. redigere, restituere, referre
 red-undare = abundare
-re-fellere -fellisse = falsum esse
-demonstrare
-re-ferre -ttulisse -latum = 1. remittere
-(litteras), ferre aliquid ad aliquem aliā
-regione habitantem; 2. nuntiare; 3. (in
-tabulas) referre: inscribere; 4. gratiam
-referre: gratiam pro gratiā reddere; 5. ad
-aliquem referre: aliquem sententiam
-rogare; 6. de re referre (ad senatum):
-rem ad senatum referre; 7. refertur:
-narratur
-rē-ferre = meā/alicuius refert: mihi/alicui
-curae/optandum est
+re-fellere -fellisse = falsum esse demonstrare
+re-ferre -ttulisse -latum = 1. remittere (litteras), ferre aliquid ad aliquem aliā regione habitantem; 2. nuntiare; 3. (in tabulas) referre: inscribere; 4. gratiam referre: gratiam pro gratiā reddere; 5. ad aliquem referre: aliquem sententiam rogare; 6. de re referre (ad senatum): rem ad senatum referre; 7. refertur: narratur
+rē-ferre = meā/alicuius refert: mihi/alicui curae/optandum est
 refertus -a -um = confertus, oppletus
-re-ficere -fecisse -fectum <-facere = iterum
-facere
-re-fugere = 1. fugere iterum iterumque;
-2. retro fugere, recedereregalis -e = regius
-regia -ae f = 1. domus regis; 2. familia
-regis
-regina -ae f = 1. femina regnans; 2. regis
-coniunx
-regio -onis m = 1. pars terrae; 2. pars urbis,
-vicus
+re-ficere -fecisse -fectum <-facere = iterum facere
+re-fugere = 1. fugere iterum iterumque; 2. retro fugere, recedereregalis -e = regius
+regia -ae f = 1. domus regis; 2. familia regis
+regina -ae f = 1. femina regnans; 2. regis coniunx
+regio -onis m = 1. pars terrae; 2. pars urbis, vicus
 regius -a -um <rex
-regnum -i n = 1. regis imperium; 2. regnum
-tenēre/agere: regnare
+regnum -i n = 1. regis imperium; 2. regnum tenēre/agere: regnare
 re-gredi -gressum = redire, ↔ progredi
 regulus -i m = parvus rex, regis filius
 re-laxare = remittere
-religio -onis f = 1. cura rerum divinarum,
-metus deorum; 2. culpa
+religio -onis f = 1. cura rerum divinarum, metus deorum; 2. culpa
 religiosus -a -um (< religio) = sacer
-re-linquere = 1. aliquem r.: ab aliquo abire;
-2. deserere, linquere quae non debemus
+re-linquere = 1. aliquem r.: ab aliquo abire; 2. deserere, linquere quae non debemus
 reliquiae -arum f pl = quod reliquum est
-reliquum -i n = 1. quod restat; 2. reliquum
-(tempus): tempus futurum; 3. reliqua:
-futura; 4. reliquum est ut: restat ut
-reliquus -a -um = 1. ceterus; 2. reliquus:
-reliqua pars; 3. reliquus esse: restare,
-superesse
+reliquum -i n = 1. quod restat; 2. reliquum (tempus): tempus futurum; 3. reliqua: futura; 4. reliquum est ut: restat ut
+reliquus -a -um = 1. ceterus; 2. reliquus: reliqua pars; 3. reliquus esse: restare, superesse
 re-mandare = renuntiare
 remedium -i n = res quae aegros sanat
 remex -igis m = qui remigat
 remigare = navem remis agere
 remissio -onis f < remittere (↔ contentio)
 remissus -a -um = placidus, tranquillus
-re-mittere = 1. mittere ad locum/hominem
-unde venit; 2. cessare (animos);
-3. ↔ contendere
+re-mittere = 1. mittere ad locum/hominem unde venit; 2. cessare (animos); 3. ↔ contendere
 re-morari = retardare
 remotus -a -um = qui abest, distans
 re-nasci = iterum exoriri, renovari
 re-novare = novum (denuo) facere
 re-nuntiare = 1. referre; 2. revocare, tollere
 re-parare = 1. iterum parare; 2. reficere
-re-pellere -ppulisse -pulsum = depellere,
-prohibēre
+re-pellere -ppulisse -pulsum = depellere, prohibēre
 repens -entis = repentinus
-repentinus -a -um <repente = 1. subitus;
-2. ↔ exspectatus
+repentinus -a -um <repente = 1. subitus; 2. ↔ exspectatus
 repere -psisse = manibus et genibus ire
-reperire -pperisse -pertum = 1. quaesitum
-invenire; 2. reperiri: adesse; 3. excogitare
-re-petere = 1. redire; 2. gratiam repetere:
-petere ut gratia referatur; 3. iterare;
-4. memorare; 5. rēs repetere: postulare
-ut rēs reddantur
-re-portare = colligere, obtinēre et domum
-secum ferre (post victoriam)
+reperire -pperisse -pertum = 1. quaesitum invenire; 2. reperiri: adesse; 3. excogitare
+re-petere = 1. redire; 2. gratiam repetere: petere ut gratia referatur; 3. iterare; 4. memorare; 5. rēs repetere: postulare ut rēs reddantur
+re-portare = colligere, obtinēre et domum secum ferre (post victoriam)
 re-primere = coercēre
 repudiare = recusare, dimittere
 repulsa -ae f < repellere
 re-putare = reputare rem: cogitare de re
 re-quiescere = 1. quiescere; 2. dormire
-re-quirere = 1. quaerere; 2. desiderare
-reri ratum = arbitrari
-res -ei f = 1. aliquid cuiuslibet generis;
-2. aliquid quod agitur; 3. res publica:
-civitas, res omium civium communis;
-4. res Romana: res publica Romana,
-civitas Romana; 5. res: res publica
-re-scindere = 1. destruere, abrumpere;
-2. irritum facere
+re-quirere = 1. quaerere; 2. desiderare reri ratum = arbitrari
+res -ei f = 1. aliquid cuiuslibet generis; 2. aliquid quod agitur; 3. res publica: civitas, res omium civium communis; 4. res Romana: res publica Romana, civitas Romana; 5. res: res publica
+re-scindere = 1. destruere, abrumpere; 2. irritum facere
 re-sidere = sedari, cessare
-re-sistere -stitisse = 1. consistere et manēre;
-2. resistere alicui: repugnare aliquem
+re-sistere -stitisse = 1. consistere et manēre; 2. resistere alicui: repugnare aliquem
 re-sonare = valde sonare
 re-spergere -sisse -sum = aspergere
-re-spicere = 1. ↔ prospicere; caput vertere
-ad aliquem aspicere; 2. curare
-re-stare = 1. reliquus esse, superesse;
-2. remanēre; 3. restat ut: reliquum est ut
+re-spicere = 1. ↔ prospicere; caput vertere ad aliquem aspicere; 2. curare
+re-stare = 1. reliquus esse, superesse; 2. remanēre; 3. restat ut: reliquum est ut
 re-stinguere = ex-stinguere
 restis -is f = funis
-re-stituere -uisse -utum = 1. reficere;
-2. reddere; 3. rursus instituere;
-4. renovare
+re-stituere -uisse -utum = 1. reficere; 2. reddere; 3. rursus instituere; 4. renovare
 re-tardare = tardum facere, impedire
 re-ticēre = tacēre
-re-tinēre -uisse -tentum = 1. tenēre ne
-procedat; 2. conservare
+re-tinēre -uisse -tentum = 1. tenēre ne procedat; 2. conservare
 retro = eò unde venit
-reus -i m = 1. qui in iudicio accusatur;
-2. reus fieri: accusari
+reus -i m = 1. qui in iudicio accusatur; 2. reus fieri: accusari
 re-vehere = referre, remittere
-re-verti -tisse/sum esse = 1. redire;
-2. revenirere-vincere = iterum vincere
-re-visere = 1. iterum vidēre; 2. iterum
-visere
-re-vocare = 1. iterum vocare, revenire
-iubēre; 2. removēre; 3. rursus capere/
-sumere, reciperare; 4. restituere,
-redigere
-rex regis m = 1. vir qui terram/urbem regit;
-2. reges: rex et regina
+re-verti -tisse/sum esse = 1. redire; 2. revenirere-vincere = iterum vincere
+re-visere = 1. iterum vidēre; 2. iterum visere
+re-vocare = 1. iterum vocare, revenire iubēre; 2. removēre; 3. rursus capere/sumere, reciperare; 4. restituere, redigere
+rex regis m = 1. vir qui terram/urbem regit; 2. reges: rex et regina
 rhetor -oris m = magister dicendi
 rigēre = flecti non posse
 rite = 1. bono ritu, recte; 2. iure
 ritus -us m = modus sacra faciendi
-rivus -i m = 1. parvus fluvius; 2. aquae
-ductus factus (non naturalis)
+rivus -i m = 1. parvus fluvius; 2. aquae ductus factus (non naturalis)
 rixa -ae f = pugna cum tumultu
-robur -oris m = 1. lignum durissimum;
-2. vis resistendi; 3. robora virorum: viri
-validissimi
+robur -oris m = 1. lignum durissimum; 2. vis resistendi; 3. robora virorum: viri validissimi
 robustus -a -um (< robur) = firmus, validus
 rogare = 1. orare; 2. interrogare
-rogatio -onis f = lex lata; rogationem ferre:
-legem ferre
-rogus -i m = 1. ignis quo mortuorum
-corpora incenduntur; 2. funus
+rogatio -onis f = lex lata; rogationem ferre: legem ferre
+rogus -i m = 1. ignis quo mortuorum corpora incenduntur; 2. funus
 rostratus -a -um = rostro munitus
-rostrum -i n = 1. pars avium capitis
-eminens; 2. hasta ferrea e prora navis
-longae eminens
-rota -ae f = instrumentum rotundum quod
-volvendo vehicula moveri possunt
-rotundus -a -um = qui habet formam
-litterae O
-ruere = 1. praecipitari, collabi; 2. se
-praecipitare, procurrere
+rostrum -i n = 1. pars avium capitis eminens; 2. hasta ferrea e prora navis longae eminens
+rota -ae f = instrumentum rotundum quod volvendo vehicula moveri possunt
+rotundus -a -um = qui habet formam litterae O
+ruere = 1. praecipitari, collabi; 2. se praecipitare, procurrere
 ruina -ae f = 1. <ruere; 2. casus
-rumpere rupisse ruptum = 1. aliquid in
-varias partes vi disicere; 2. aliquid
-finire facere; 3. abrumpere, subito
-finire; 4. destruere, ↔ facere
+rumpere rupisse ruptum = 1. aliquid in varias partes vi disicere; 2. aliquid finire facere; 3. abrumpere, subito finire; 4. destruere, ↔ facere
 rupes -is f = saxum
 ruptor -oris m = qui rumpit
 rutilus -a -um = ruber (ut ignis)
+
+
 S
 sacer, -cra -crum = 1. adorandus; 2. sacratus
-sacerdos -otis m/f = 1. vir/femina cuius
-negotium est diis servire; sacerdos
-sacrificia facit et res divinas curat
+sacerdos -otis m/f = 1. vir/femina cuius negotium est diis servire; sacerdos sacrificia facit et res divinas curat
 sacrare = sacrum facere et deo tradere
 sacrarium -i n = locus sacer
 sacrificare = sacrificium facere
-sacrificium -i n = bos/ovis/porcus occisus
-ut deo offeratur
-sacrum -i n = 1. sacrificium; 2. sacra: res
-sacrae
-saeculum -i n = 1. centum anni; 2. (hominis)
-s.: aetas (IV menses et XXX anni)
+sacrificium -i n = bos/ovis/porcus occisus ut deo offeratur
+sacrum -i n = 1. sacrificium; 2. sacra: res sacrae
+saeculum -i n = 1. centum anni; 2. (hominis) s.: aetas (IV menses et XXX anni)
 saepire -psisse -ptum = cingere
 saevitia -ae f <saevus
-sagittarius -i m = miles qui arcum et
-sagittas gerit
+sagittarius -i m = miles qui arcum et sagittas gerit
 salinae -arum f pl = locus ubi sal paratur
 saltare = arte salire/membra movēre
 saltem = tantum (si alterum non datur)
 saltus -us m = mons silvis opertus
 saluber -bris -bre = salutaris
-salus -utis f = 1. (ei) salutem dicere: (eum)
-salutare; 2. <salvus; 3. saluti esse:
-salutem ferre
+salus -utis f = 1. (ei) salutem dicere: (eum) salutare; 2. <salvus; 3. saluti esse: salutem ferre
 salutaris -e = qui salutem affert
 salvēre iubēre = salutare
 salvus -a -um = servatus
 sanctus -a -um = iure divino tutus, sacer
 sanguineus -a -um = sanguine plenus
-sanguinulentus -a -um = sanguineus,
-cruentus
-sanguis -inis m = 1. id quod per venas et
-cor fluit; 2. genus, gens, origo;
-3. sanguine iunctus: cognatus
+sanguinulentus -a -um = sanguineus, cruentus
+sanguis -inis m = 1. id quod per venas et cor fluit; 2. genus, gens, origo; 3. sanguine iunctus: cognatus
 sapiens -entis = prudens et doctus
 sapiens -entis m = vir sapientissimus
 sapientia -ae f < sapiens
 sarcina -ae f = quod miles fert
 sarmentum -i n = ramus tenuis, virga
-satelles -itis m = comes perpetuus et
-defensor
+satelles -itis m = comes perpetuus et defensor
 satin’ = satisne
 satius = melius, potius
 saucius -a -um = vulneratus
-scaena -ae f = locus in theatro ubi fabula
-agiturscalae -arum f pl = machina e pluribus
-gradibus constans qua utimur ad
-ascendendum in loca superiora
+scaena -ae f = locus in theatro ubi fabula agitur
+scalae -arum f pl = machina e pluribus gradibus constans qua utimur ad ascendendum in loca superiora
 scandere -disse -ansum = ascendere
 sceleratus -a -um <scelus
-sceptrum -i n = baculum quo regis
-imperium significatur
+sceptrum -i n = baculum quo regis imperium significatur
 sciens -entis = qui scit
 scientia ae f < sciens
-scire = 1. sapiens esse, noscere, ↔ ignorare;
-2. doctus esse; 3. Latine scire: linguam
-Latinam scire
+scire = 1. sapiens esse, noscere, ↔ ignorare; 2. doctus esse; 3. Latine scire: linguam Latinam scire
 sciscitari = interrogare, quaerere
 scopulus -i m = saxum eminens
-scortum -i n = femina impudica quae
-amorem suum vendit
-scribere -psisse -ptum = 1. litteris verba
-significare in loco (praecipue in
-tabulis); 2. scribendo narrare;
-3. (milites) scribere: conscribere
+scortum -i n = femina impudica quae amorem suum vendit
+scribere -psisse -ptum = 1. litteris verba significare in loco (praecipue in tabulis); 2. scribendo narrare; 3. (milites) scribere: conscribere
 scriptor -oris m = qui scribit
 scriptum -i n = quod scriptum est, liber
-scriptura -ae f = merces pro pastione in
-agro publico
+scriptura -ae f = merces pro pastione in agro publico
 scrutari = explorare
-se sibi = 1. ipse; 2. secum: cum se; 3. ille;
-4. inter se, alius alio
+se sibi = 1. ipse; 2. secum: cum se; 3. ille; 4. inter se, alius alio
 se-cernere = seiungere
 secretò adv = in secreto, clam, sine testibus
 secretum -i n = locus secretus
@@ -2806,424 +2644,249 @@ secretus -a -um = a ceteris remotus
 secundò = iterum
 secundum + acc = 1. sequens; 2. ex; 3. post
 secundus -a -um = 1. II; 2. qui iuvat; 3. alter
-securis -is f ( acc -im, abl -i) = instrumentum
-quo lignum secatur et insigne imperii
+securis -is f ( acc -im, abl -i) = instrumentum quo lignum secatur et insigne imperii
 secus adv = 1. aliter; 2. non ita
 sedare = tranquillum facere (↔ turbare)
-sedes -is f = 1. locus ubi aliquis sedet;
-2. locus ubi aliquis habitat; 3. sedem
-capere: considere
-seditio -onis f = 1. discordia civium;
-2. populi tumultus in regem
+sedes -is f = 1. locus ubi aliquis sedet; 2. locus ubi aliquis habitat; 3. sedem capere: considere
+seditio -onis f = 1. discordia civium; 2. populi tumultus in regem
 seditiosus -a -um < seditio
 segnis -e = piger
 se-iunctus -a -um = disiunctus
 se-iungere = disiungere, dividere
-semen -inis n = 1. id ex quo frumentum
-crescit; 2. semina: filii, stirps
+semen -inis n = 1. id ex quo frumentum crescit; 2. semina: filii, stirps
 se-met = se
 semi-animis -e = nec vivus nec mortuus
 semi-ermis -e = nec armatus nec inermis
-semi-somnus -a -um = nec dormiens nec
-vigilans
+semi-somnus -a -um = nec dormiens nec vigilans
 sempiternus -a -um = aeternus
 senator -oris m = unus ex DC viris senatūs
-senatus -us m = 1. DC senatores qui
-summam potestatem in re publica
-Romanā tenebant; 2. concilium senatūs;
-3. senatum alicui dare: aliquem in
-senatum admissum audire
+senatus -us m = 1. DC senatores qui summam potestatem in re publica Romanā tenebant; 2. concilium senatūs; 3. senatum alicui dare: aliquem in senatum admissum audire
 senecta -ae f = senectus
 senectus -utis f = aetas senis
 senescere -nuisse = senex fieri
 seni -ae -a = VI et VI...
 senior -oris m <senex ( comp )
 sensim = paulatim, caute
-sensus -us m (< sentire) = 1. affectus,
-animi motus; 2. facultas sentiendi
-sententia -ae f = 1. oratio, vocabula
-coniuncta; 2. sententia: id quod sentitur;
-3. suffragium senatoris; 4. in eandem
+sensus -us m (< sentire) = 1. affectus, animi motus; 2. facultas sentiendi
+sententia -ae f = 1. oratio, vocabula coniuncta; 2. sententia: id quod sentitur; 3. suffragium senatoris; 4. in eandem
 sententiam ire: consentire
-sentire sensisse sensum = 1. oculis/auribus/
-naso/linguā/corpore (i.e. manibus)
-accipere; 2. arbitrari
-sepelire -ivisse -ultum = 1. (hominem
-mortuum) terrā operire; 2. delēre,
-diruere, exscindere
+sentire sensisse sensum = 1. oculis/auribus/naso/linguā/corpore (i.e. manibus) accipere; 2. arbitrari
+sepelire -ivisse -ultum = 1. (hominem mortuum) terrā operire; 2. delēre, diruere, exscindere
 septeni -ae -a = VII...
 septentrio -onis m = septentriones
 septentrionalis -e < septentriones
 septentriones -um m pl ↔ meridies
 septuagesimus -a -um = LXX
 sepulcrum -i n = locus ubi homo sepultus est
-serenus -a -um = 1. (caelum) serenum: sine
-nubibus; 2. placidus
-sermo -onis m = 1. id quod dicitur, verba;
-2. lingua
+serenus -a -um = 1. (caelum) serenum: sine nubibus; 2. placidus
+sermo -onis m = 1. id quod dicitur, verba; 2. lingua
 serò adv ( comp seriùs) ↔ mature
 serpens -entis f = anguis
-serus -a -um = tardusserva -ae f = ancilla
-servare = 1. integrum tueri; 2. salvum
-custodire; 3. ↔ rumpere
+serus -a -um = tardus
+serva -ae f = ancilla
+servare = 1. integrum tueri; 2. salvum custodire; 3. ↔ rumpere
 servator -oris m = qui servat
 servilis -e < servus
 servitium -i n = servitus (↔ imperium)
 servitus -us f < servus (↔ libertas)
 sescentesimus -a -um = DC
-sestertius -i m = 1. nummus; 2. IV asses,
-quarta pars denarii; 3. sestertius
-nummus: II et semis (1/2)
-setius = 1. minus; 2. nihilo minus/setius:
-tamen
+sestertius -i m = 1. nummus; 2. IV asses, quarta pars denarii; 3. sestertius nummus: II et semis (1/2)
+setius = 1. minus; 2. nihilo minus/setius: tamen
 sexagesimus -a -um = LX
-si = 1. quoniam; 2. si + coni : significat id
-quod fieri posset/potuisset; 3. num
+si = 1. quoniam; 2. si + coni : significat id quod fieri posset/potuisset; 3. num
 siccare = siccum facere
 siccum -i n = terra sicca
 siccus -a -um ↔ umidus
 sidere sedisse = 1. considere; 2. operire
 sidus -eris n = stella
-signare = 1. (epistulam) signare: cerā
-claudere; 2. signo imprimere;
-3. signatum: ex quo nummi facti sunt
-significatio -onis f = 1. id quod significatur;
-2. notum facere, nuntiare
-signum -i n = 1. aliquid pictum (tabula)/
-fictum (statua); 2. id quo imprimitur
-cera ad epistulas signandas, imago
-cerae; 3. res qua aliquid significatur, ut
-aquila exercitūs Romani; 4. id quo
-aliquid significatur; 5. signa movēre: e
-castris progredi; 6. sidus
+signare = 1. (epistulam) signare: cerā claudere; 2. signo imprimere; 3. signatum: ex quo nummi facti sunt
+significatio -onis f = 1. id quod significatur; 2. notum facere, nuntiare
+signum -i n = 1. aliquid pictum (tabula)/fictum (statua); 2. id quo imprimitur cera ad epistulas signandas, imago cerae; 3. res qua aliquid significatur, ut aquila exercitūs Romani; 4. id quo aliquid significatur; 5. signa movēre: e castris progredi; 6. sidus
 silvestris -e < silva
-similis -e comp -illior, sup -illimus = 1. qui
-idem esse videtur, eiusdem generis;
-2 . similis alicui / alicuius : alicuius
-formam gerens; 3. veri similis: qui
-verus esse videtur
+similis -e comp -illior, sup -illimus = 1. qui idem esse videtur, eiusdem generis; 2 . similis alicui / alicuius : alicuius formam gerens; 3. veri similis: qui verus esse videtur
 simplex -icis = qui ex uno constat
-simul = 1. uno tempore; 2. simul atque:
-eodem tempore quo, cùm primùm;
-3. simul: simul atque
+simul = 1. uno tempore; 2. simul atque: eodem tempore quo, cùm primùm; 3. simul: simul atque
 simulacrum -i n = imago, signum
 simulare = animum ostendere falsum
 simultas -atis f ↔ amicitia
 sinere sivisse situm = non prohibēre
-singularis -e = 1. (numerus) s.: qui unam
-rem significat; 2. certamen singulare: c.
-inter singulos; 3. cui par non est
-sinus -us m = 1. pars togae ubi res feruntur;
-2. pars maris in oram intrans; 3. pectus;
-4. res voluta; 5. pars cava/ locus cavus
+singularis -e = 1. (numerus) s.: qui unam rem significat; 2. certamen singulare: c. inter singulos; 3. cui par non est
+sinus -us m = 1. pars togae ubi res feruntur; 2. pars maris in oram intrans; 3. pectus; 4. res voluta; 5. pars cava/ locus cavus
 si-quidem = quoniam
 sistere stitisse = stantem facere
 sitire = sitim pati
-situs -a -um = 1. locatus; 2. positus,
-expositus; 3. in re aliquid situm est: ob
-rem aliquid est, res aliquid dare potest
+situs -a -um = 1. locatus; 2. positus, expositus; 3. in re aliquid situm est: ob rem aliquid est, res aliquid dare potest
 situs -us m = locus ubi aliquid situs est
 socer -eri m = pater coniugis
 socialis -e < socius
 sociare = consociare
-societas -atis f <socius = 1. in societatem
-recipere: ut socium recipere; 2. hominum
-coniunctio qui rem communem
-persequuntur
-socius -i m = 1. socii: homines qui
-communi fortunā/negotio coniunguntur;
-2. qui alterum adiuvat; 3. socii navales:
-nautae classis Romanae
+societas -atis f <socius = 1. in societatem recipere: ut socium recipere; 2. hominum coniunctio qui rem communem persequuntur
+socius -i m = 1. socii: homines qui communi fortunā/negotio coniunguntur; 2. qui alterum adiuvat; 3. socii navales: nautae classis Romanae
 socordia -ae f = ignavia
 solari = 1. consolari; 2. mitigare
-solēre -itum esse = 1. saepe facere; 2. ut
-solet: ut fieri solet
+solēre -itum esse = 1. saepe facere; 2. ut solet: ut fieri solet
 solitudo -inis f = locus solus/desertus
-solitus -a -um = 1. qui solet esse/fieri;
-2. maior solito: maior quàm fieri solet
+solitus -a -um = 1. qui solet esse/fieri; 2. maior solito: maior quàm fieri solet
 solium -i n = sedes regia magnifica
 sollicitare = incitare, persuadēre
-solvere -visse -lutum = 1. ↔ vincire;
-2. solvere pecuniam: dare pecuniam
-quae debetur; 3. (navem) solvere: vela
-dare in altum; 4. (promissum) solvere:
-perficere, peragere; 5. oratio soluta ↔
-versus; 6. (animum) solvere: tollere, ex
-animo se liberare; 7. rumpere
+solvere -visse -lutum = 1. ↔ vincire; 2. solvere pecuniam: dare pecuniam quae debetur; 3. (navem) solvere: vela dare in altum; 4. (promissum) solvere: perficere, peragere; 5. oratio soluta ↔ versus; 6. (animum) solvere: tollere, ex animo se liberare; 7. rumpere
 somnium -i n = quod in somno videtur
-somnus -i m = 1. id quod dormientes
-habent; 2. ducere somnos: dormire
+somnus -i m = 1. id quod dormientes habent; 2. ducere somnos: dormire
 sonare, -uisse = sonum dare
 sonitus -us m = sonussopire = dormientem facere
 sopitus -a -um = dormiens
-sordidus -a -um = 1. ↔ mundus; 2. turpis,
-spernendus; 3. indignus
-sors -rtis f = 1. oraculum inscriptum in
-tabellis, ex quibus una sumitur ex urnā
-(vas sortium); 2. sortes: oraculum;
-3. fortuna; 4. extra sortem: non sortito
+sordidus -a -um = 1. ↔ mundus; 2. turpis, spernendus; 3. indignus
+sors -rtis f = 1. oraculum inscriptum in tabellis, ex quibus una sumitur ex urnā (vas sortium); 2. sortes: oraculum; 3. fortuna; 4. extra sortem: non sortito
 sortiri = sortibus uti
 sospes -itis = salvus
-spatium -i n = 1. et longitudo et latitudo
-(<latus) et altitudo (<altus); 2. locus
-vacuus/apertus; 3. spatium (temporis):
-tempus; 4. spatium (temporis): anni
-species -ei f = 1. forma, genus; 2. quod
-aspicitur; 3. forma, pulchritudo;
-4. s. alicuius: quod videtur aliquis esse
-spectaculum -i n = 1. id quod spectatur;
-2. spectaculo ( dat ) esse alicui: spectari
-ab aliquo; 3. spectacula: spectatorum
-sedes
-spectare = 1. attente aspicere, intueri,
-conspicere; 2. continuo aspicere, tueri;
-3. situs esse ad partes (septentriones vel
-meridies vel cet.); 4. ad rem tendere;
-5. alio spectare: aliud significare
+spatium -i n = 1. et longitudo et latitudo (<latus) et altitudo (<altus); 2. locus vacuus/apertus; 3. spatium (temporis): tempus; 4. spatium (temporis): anni
+species -ei f = 1. forma, genus; 2. quod aspicitur; 3. forma, pulchritudo; 4. s. alicuius: quod videtur aliquis esse
+spectaculum -i n = 1. id quod spectatur; 2. spectaculo ( dat ) esse alicui: spectari ab aliquo; 3. spectacula: spectatorum sedes
+spectare = 1. attente aspicere, intueri, conspicere; 2. continuo aspicere, tueri; 3. situs esse ad partes (septentriones vel meridies vel cet.); 4. ad rem tendere; 5. alio spectare: aliud significare
 speculari = explorare
-speculator -oris m = qui speculatur,
-explorator
+speculator -oris m = qui speculatur, explorator
 specus -us m = spelunca
 spelunca -ae f = antrum
-spernere sprevisse spretum = despicere,
-contemnere
+spernere sprevisse spretum = despicere, contemnere
 sphaera -ae f = globus, corpus rotundum
 spirare = 1. animam ducere; 2. flare
 splendēre = clare lucēre
 splendidus -a -um = splendens
 splendor -oris m (< splendēre) = gloria
-spolia -orum n pl = 1. arma hosti victo
-erepta; 2. praeda
-spoliare = 1. s. aliquem: vestem/arma
-eripere alicui; 2. re s.: re exuere, rem
-adimere
-spondēre spopondisse sponsum =
-1. promittere (in matrimonium);
-2. promittere pro se ipso
+spolia -orum n pl = 1. arma hosti victo erepta; 2. praeda
+spoliare = 1. s. aliquem: vestem/arma eripere alicui; 2. re s.: re exuere, rem adimere
+spondēre spopondisse sponsum = 1. promittere (in matrimonium); 2. promittere pro se ipso
 sponsus -i m = maritus futurus
-sponte = 1. meā sponte: meā voluntate, per
-me; 2. suā sponte: per se
+sponte = 1. meā sponte: meā voluntate, per me; 2. suā sponte: per se
 st! = tace!
 stabilis -e = qui firme stat, constans
 stabulum -i n = casa pecoris
-stadium -i n = circus in quo iuvenes
-currendo se exercent
-stagnum -i n = lacus aquae stantis (:non
-fluentis)
-stare stetisse = 1. non se movēre, ↔ sedēre,
-↔ ambulare; 2. pugnare, sub armis esse;
-3. constare (pretio); 4. manēre, durare
-statio -onis m = 1. milites qui locum
-custodiunt; 2. < stare
-stativa -orum n = castra quae diu uno loco
-stant
+stadium -i n = circus in quo iuvenes currendo se exercent
+stagnum -i n = lacus aquae stantis (:non fluentis)
+stare stetisse = 1. non se movēre, ↔ sedēre, ↔ ambulare; 2. pugnare, sub armis esse; 3. constare (pretio); 4. manēre, durare
+statio -onis m = 1. milites qui locum custodiunt; 2. < stare
+stativa -orum n = castra quae diu uno loco stant
 stator -oris = qui sistit
 statua -ae f = signum hominis
-statuere -uisse -utum = 1. finire, fines rei
-designare; 2. constituere; 3. decernere,
-consilium capere
-status -us m = 1. s. rerum: modus quo res
-stant (:se habent); 2. modus quo aliquis
-se habet
+statuere -uisse -utum = 1. finire, fines rei designare; 2. constituere; 3. decernere, consilium capere
+status -us m = 1. s. rerum: modus quo res stant (:se habent); 2. modus quo aliquis se habet
 stellifer -era -erum = qui stellas fert
-sterilis -e ↔ fertilis; (mulier) s.: quae parere
-non potest
-sternere stravisse stratum = 1. (vestis)
-operire; 2. lectum sternere: vestem
-super lectum sternere; 3. humi proicere;
-4. viam sternere: viam munire/facere
+sterilis -e ↔ fertilis; (mulier) s.: quae parere non potest
+sternere stravisse stratum = 1. (vestis) operire; 2. lectum sternere: vestem super lectum sternere; 3. humi proicere; 4. viam sternere: viam munire/facere
 stillare = manare paulatim
-stilus -i m = 1. instrumentum quo in tabula
-premendo scribitur; 2. stilo: scribendo
+stilus -i m = 1. instrumentum quo in tabula premendo scribitur; 2. stilo: scribendo
 stimulare = incitare
-stipendium -i n = 1. merces militis;
-2. stipendium/stipendia merēre/facere:
-militare; 3. pecunia rei publicae
-solvenda; 4. militia annua; 5. stipendia:
-militia
-stipes -itis m = arbor sine ramis, baculum
-crassum
-stirps -pis f = 1. liberi, filius/filia; 2. gens
-ex qua aliquis ortus est
+stipendium -i n = 1. merces militis; 2. stipendium/stipendia merēre/facere: militare; 3. pecunia rei publicae solvenda; 4. militia annua; 5. stipendia: militia
+stipes -itis m = arbor sine ramis, baculum crassum
+stirps -pis f = 1. liberi, filius/filia; 2. gens ex qua aliquis ortus est
 strages -is f = caedes
 stramentum -i n = id quo casae pauperum teguntur
 strenuus -a -um = impiger
 strepere -uisse -itum = strepitum facere
 strepitus -us m = sonus magnus
 stringere -inxisse -ictum = educere (gladium)
-strophe -ae f = numerus versuum quo
-carmina dividuntur
-struere struxisse structum = 1. parare;
-2. excogitare
-studēre = 1. studēre alicui rei: studiosus
-esse alicuius rei; 2. studēre + inf : cupere
+strophe -ae f = numerus versuum quo carmina dividuntur
+struere struxisse structum = 1. parare; 2. excogitare
+studēre = 1. studēre alicui rei: studiosus esse alicuius rei; 2. studēre + inf : cupere
 stultitia -ae f <stultus
 stupe-facere = stupentem facere
 stuprare = violare, vi comprimere
 stuprum -i n = scelus feminae stuprandae
-sub + abl = 1. ↔ supra; 2. sub aliquo: prope
-aliquem; 3. sub aliquo: sub imperio
-alicuius; 4. sub aliquo: inter tempus
-cùm aliquis imperavit
-sub + acc = 1. (motus) in locum inferiorem;
-2. sub idem tempus: eodem fere
-tempore; 3. respondens ad
+sub + abl = 1. ↔ supra; 2. sub aliquo: prope aliquem; 3. sub aliquo: sub imperio alicuius; 4. sub aliquo: inter tempus cùm aliquis imperavit
+sub + acc = 1. (motus) in locum inferiorem; 2. sub idem tempus: eodem fere tempore; 3. respondens ad
 sub-agrestis -e = satis agrestis (rusticus)
-sub-dere = addere pòst; s. calcaria equo:
-equum calcaribus incitare
-sub-ducere = 1. navem s. ↔ deducere;
-2. exercitum subducere: exercitum a
-loco aliquo in alium locum ducere
-sub-icere -iecisse -iectum = 1. sub imperio
-ponere; 2. adicere; 3. subiectus: subtèr
-positus
-sub-igere -egisse -actum = 1. sub imperium
-cogere; 2. cogere
+sub-dere = addere pòst; s. calcaria equo: equum calcaribus incitare
+sub-ducere = 1. navem s. ↔ deducere; 2. exercitum subducere: exercitum a loco aliquo in alium locum ducere
+sub-icere -iecisse -iectum = 1. sub imperio ponere; 2. adicere; 3. subiectus: subtèr positus sub-igere -egisse -actum = 1. sub imperium cogere; 2. cogere
 sub-inde = continuò
-sub-ire = 1. subire eum: sub eum ire;
-2. umeris subire: umeris sustinēre
-sub-legere = legere (loco alicuius,
-supplendi causā)
-sublimis -e = 1. altus, superiore loco situs;
-2. sublimis abire: ad caelum abire
+sub-ire = 1. subire eum: sub eum ire; 2. umeris subire: umeris sustinēre
+sub-legere = legere (loco alicuius, supplendi causā)
+sublimis -e = 1. altus, superiore loco situs; 2. sublimis abire: ad caelum abire
 sub-mittere = demittere
 sub-movēre = removēre
 sub-nixus -a -um = 1. fultus, fretus; 2. loco
 subnixus: in/sub loco situs
 sub-scribere = sub loco scribere
 subsellium -i n = sella humilis
-subsidium -i n = 1. milites qui auxilio
-veniunt, auxilium; 2. quod subsidio/
-auxilio est; 3. frumentaria subsidia:
-loca unde frumentum invehitur
+subsidium -i n = 1. milites qui auxilio veniunt, auxilium; 2. quod subsidio/ auxilio est; 3. frumentaria subsidia: loca unde frumentum invehitur
 sub-terraneus -a -um = sub terra situs
 subtèr adv = infrà
 sub-venire = auxilio venire, opem ferre
-suc-cedere = 1. (tecto) succedere: (tectum)
-subire; 2. in locum alicuius sequi;
-3. alicui succedere: in locum alicuius
-succedere; 4. sequi
+suc-cedere = 1. (tecto) succedere: (tectum) subire; 2. in locum alicuius sequi; 3. alicui succedere: in locum alicuius succedere; 4. sequi
 successor -oris m = qui succedit
 successus -us m = bonus eventus, fortuna
 suc-cingere = cingere
 suc-clamare = clamare responsum
-suc-cumbere -cubuisse ↔ resistere; rei
-( dat ) succumbere: re vinci
+suc-cumbere -cubuisse ↔ resistere; rei ( dat ) succumbere: re vinci
 suc-currere = auxilium ferre
-sudor -oris m = quod corpus facit umidum
-ob calorem vel laborem
-suf-ficere -fecisse -fectum = loco alicuius
-facere/creare
+sudor -oris m = quod corpus facit umidum ob calorem vel laborem
+suf-ficere -fecisse -fectum = loco alicuius facere/creare
 suf-figere = pòst figere
 suffixum -i n part < suffigere
 suffragari (alicui) = suffragio favēre
-suffragium -i n = populi sententia comitiis
-declarata
-sumere -mpsisse -mptum = 1. (e loco) ↔
-(in loco) ponere; 2. cibum sumere: ēsse;
-3. bellum sumere: bellum incipere, inire
-summa -ae f = 1. ↔ pars; summa rerum:
-universae res; 2. summa alicuius pars;
-3. numerus computando factus
+suffragium -i n = populi sententia comitiis declarata
+sumere -mpsisse -mptum = 1. (e loco) ↔ (in loco) ponere; 2. cibum sumere: ēsse; 3. bellum sumere: bellum incipere, inire
+summa -ae f = 1. ↔ pars; summa rerum: universae res; 2. summa alicuius pars; 3. numerus computando factus
 summum -i n = locus summus
 summus -a -um sup < superus, comp
-superior ↔ inferus = 1. sup < superus;
-2. maximus; 3. summa alicuius pars;
-4. ultimus
+superior ↔ inferus = 1. sup < superus; 2. maximus; 3. summa alicuius pars; 4. ultimus
 sumptus -us m = impensa (↔ quaestus);
 sumptum facere: pecuniam solvere
-su-ove-taurilia -ium n pl <sus+ovis+taurus
-= sacrificium quo immolatur sus et ovis
-et taurus
+su-ove-taurilia -ium n pl <sus+ovis+taurus = sacrificium quo immolatur sus et ovis et taurus
 super + abl = de
 super + acc ↔ sub + abl/accsupèr = in loco superiore/summo
-superare = 1. vincere; 2. transgredi;
-3. superesse; 4. superior esse
+superare = 1. vincere; 2. transgredi; 3. superesse; 4. superior esse
 superbia -ae f <superbus
 superbus -a -um = qui alios contemnit
 super-eminēre = eminēre, superior esse
-super-esse = 1. ↔ de-esse; 2. reliquus esse;
-3. alicui superesse: post aliquem/
-aliquid superesse (=vivere)
+super-esse = 1. ↔ de-esse; 2. reliquus esse; 3. alicui superesse: post aliquem/ aliquid superesse (=vivere)
 super-fundere (se) = effundi super ripas
-superior -ius comp ↔ inferior = 1. comp
-<superus; 2. numero superiores: plures;
-3. locus superior: rostra; 4. prior
-superus -a -um = 1. ↔ inferus; 2. di superi:
-di caelestes
+superior -ius comp ↔ inferior = 1. comp <superus; 2. numero superiores: plures; 3. locus superior: rostra; 4. prior
+superus -a -um = 1. ↔ inferus; 2. di superi: di caelestes
 super-venire + dat = subitò adoriri
 suppeditare = offerre (rem utilem)
 supplementum -i n = milites ad numerum
 supplendum
-sup-plēre -evisse -etum = augēre addendo
-quae desunt
+sup-plēre -evisse -etum = augēre addendo quae desunt
 supplex -icis = orans
-supplicatio -onis f = dies festus quo populus
-ad omnia templa dis gratias agit
-supplicium -i n = 1. poena severissima,
-poena capitis; 2. cruciatus maximus
-supra + acc = 1. in parte superiore/summā;
-2. trans, ultra; 3. plures quàm
-suprà = 1. antea (in scriptis); 2. quae
-superiora (priora) sunt
+supplicatio -onis f = dies festus quo populus ad omnia templa dis gratias agit
+supplicium -i n = 1. poena severissima, poena capitis; 2. cruciatus maximus
+supra + acc = 1. in parte superiore/summā; 2. trans, ultra; 3. plures quàm
+suprà = 1. antea (in scriptis); 2. quae superiora (priora) sunt
 supremus -a -um = summus, ultimus
-surgere sur-rexisse = 1. ↔ sedēre,
-↔ recumbere; 2. eminēre
+surgere sur-rexisse = 1. ↔ sedēre, ↔ recumbere; 2. eminēre
 sus suis m/f = porcus
-sus-cipere = 1. capere et sustinēre;
-2. accipere et suum facere; 3. recipere;
-4. pati, subire
-suspectus -a -um = 1. cui nemo confidit;
-2. qui male fecisse putatur
-sus-pendere -disse -ensum = pendentem
-facere
-suspicari = 1. credere incipere; 2. animo
-sentire
+sus-cipere = 1. capere et sustinēre; 2. accipere et suum facere; 3. recipere; 4. pati, subire
+suspectus -a -um = 1. cui nemo confidit; 2. qui male fecisse putatur
+sus-pendere -disse -ensum = pendentem facere
+suspicari = 1. credere incipere; 2. animo sentire
 suspicio -onis f ↔ fides; in suspectionem
 adducere: suspectum facere
 sustentare = 1. sustinēre; 2. alere
-sus-tinēre = 1. retinēre aliquem/aliquid ne
-labatur; 2. tenēre erectum; 3. repugnare,
-resistere; 4. tenēre, continēre; 5. pati;
-6. conservare
+sus-tinēre = 1. retinēre aliquem/aliquid ne labatur; 2. tenēre erectum; 3. repugnare, resistere; 4. tenēre, continēre; 5. pati; 6. conservare
+
+
 T
 tabella -ae f = 1. parva tabula; 2. alveus
 tabernaculum -i n = tectum in castris
 tabescere -uisse (↔ convalescere) = absumi
 (morbo)
-tabula -ae f = 1. lignum ceratum (cerā
-opertum) ubi stilo scribitur; 2. tabula
-(picta): imago in tabulā picta; 3. tabula:
-tabula picta; 4. tabulae publicae:
-aerarium
-tabularium -i n = amplum aedificium in
-quo tabulae et litterae publicae
-servantur
-tacēre = 1. non loqui, non facere verbum;
-2. rem tacere: de re tacēre, non loqui de
-re
-taedēre = taedet me rei ( gen ): res mihi
-molesta est
+tabula -ae f = 1. lignum ceratum (cerā opertum) ubi stilo scribitur; 2. tabula (picta): imago in tabulā picta; 3. tabula: tabula picta; 4. tabulae publicae: aerarium
+tabularium -i n = amplum aedificium in quo tabulae et litterae publicae servantur
+tacēre = 1. non loqui, non facere verbum; 2. rem tacere: de re tacēre, non loqui de re
+taedēre = taedet me rei ( gen ): res mihi molesta est
 taeter -tra -trum = foedissimus, horribilis
-talentum -i n = 1. XXIV milia sestertium
-(pecunia Graeca); 2. Graecorum pondus
-statutum maximum [26 kg]
+talentum -i n = 1. XXIV milia sestertium (pecunia Graeca); 2. Graecorum pondus statutum maximum [26 kg]
 tam-etsi = etsi
 tam-quam = 1. sicut; 2. tamquam si
-tandem = 1. postremò (post longum
-tempus); 2. tandem + imp : age!; 3. qui
-tandem ...?: dic, rogo
-tangere tetigisse tactum = 1. manum/
-digitum ponere in re aliqua; 2. afficere
+tandem = 1. postremò (post longum tempus); 2. tandem + imp : age!; 3. qui tandem ...?: dic, rogo
+tangere tetigisse tactum = 1. manum/ digitum ponere in re aliqua; 2. afficere
 tantùm = 1. non magis quàm; 2. adeò
-tantum -i n = 1. tam multum; 2. tanti (esse):
-tanti pretii
+tantum -i n = 1. tam multum; 2. tanti (esse): tanti pretii
 tantum-modo = tantùm
 tardare = retardare
-tectum -i n = 1. summum opus quo tegitur;
-2. domus
-tegere texisse tectum = 1. operire;
-2. occultare; 3. celare; 4. protegere
+tectum -i n = 1. summum opus quo tegitur; 2. domus
+tegere texisse tectum = 1. operire; 2. occultare; 3. celare; 4. protegere
 tellus -uris f = terra
 telum -i n = 1. pilum vel sagitta; 2. securis
 temere = temerario modo, ↔ cautetemeritas -atis f = nimia audacia
