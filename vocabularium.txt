@@ -3007,71 +3007,39 @@ tyrannis -idis f = imperium tyranni
 
 U
 uber -eris = fertilis
-uber -eris n = pectus feminae quo liberi/
-pulli aluntur
+uber -eris n = pectus feminae quo liberi/pulli aluntur
 ubertas -atis f < uber
 ubi + perf = ubi primùm, postquam
-ubi + plusq coni = ubi + perf , cùm + plusq
-coni
+ubi + plusq coni = ubi + perf , cùm + plusq coni
 ubi-cumque = quocumque loco
 udus -a -um = umidus
-ulcisci ultum = 1. ulcisci iniuriam: punire
-eos qui iuniuriam fecerunt; 2. aliquem
-ulcisci: necem alicuius ulcisci
-ultimus -a -um sup <ultrà = 1. postremus;
-2. extremus; 3. ultimo excidio: ultimo
-excidii tempore; 4. ad ultimum: ad
-extremum, ad postremum, postremò
-ultor -ris m = 1. qui ulciscitur; 2. ultor
-alicuius: qui aliquem ulciscitur
+ulcisci ultum = 1. ulcisci iniuriam: punire eos qui iuniuriam fecerunt; 2. aliquem ulcisci: necem alicuius ulcisci
+ultimus -a -um sup <ultrà = 1. postremus; 2. extremus; 3. ultimo excidio: ultimo excidii tempore; 4. ad ultimum: ad extremum, ad postremum, postremò
+ultor -ris m = 1. qui ulciscitur; 2. ultor alicuius: qui aliquem ulciscitur
 ultra + acc = 1. ↔ citra; 2. supra
 ultrà = nihil ultrà: nihil aliud
 ultrix -icis f = quae ulciscitur
-ultrò = 1. suā sponte; 2. sine causā; 3. non
-petens; 4. u. citròque: huc et illuc, inter
-nos, invicem
+ultrò = 1. suā sponte; 2. sine causā; 3. non petens; 4. u. citròque: huc et illuc, inter nos, invicem
 ululatus -us m <ululare
-umbra -ae f = 1. ↔ sol; 2. phantasma;
-3. sub umbras: ad Inferos
-unà = 1. unà cum: simul cum; 2. unà: unà
-cum eo
+umbra -ae f = 1. ↔ sol; 2. phantasma; 3. sub umbras: ad Inferos
+unà = 1. unà cum: simul cum; 2. unà: unà cum eo
 unda -ae f = parvus fluctus
-unde = 1. ↔ quò; 2. a loco/parte qui/quae;
-3. a quo/quibus
+unde = 1. ↔ quò; 2. a loco/parte qui/quae; 3. a quo/quibus
 un-de-vicesimus -a -um = XIX
 undique = ex omnibus locis/partibus
 unguis -is m = manus/pes animalium secans
 unice = admodum, singulariter, valde
 unicus -a -um = unus et solus
-unus -a -um = 1. I; 2. solus; 3. primus;
-4. quidam; 5. ad unum omnes: omnes
-uno ore
+unus -a -um = 1. I; 2. solus; 3. primus; 4. quidam; 5. ad unum omnes: omnes uno ore
 unus-quisque = singuli
 urgēre = 1. premere; 2. instare
 usquam = ullo loco
-usus -us m = 1. <uti; 2. usu: occasione;
-3. mos, consuetudo; 4. usu venire:
-evenire; 5. usui esse: utilis esse
-ut/uti adv = 1. tamquam, idem atque/ac;
-2. eodem modo quo; 3. verbi gratiā;
-4. ut + adi , v.g. ut piger discipulus: piger
+usus -us m = 1. <uti; 2. usu: occasione; 3. mos, consuetudo; 4. usu venire: evenire; 5. usui esse: utilis esse
+ut/uti adv = 1. tamquam, idem atque/ac; 2. eodem modo quo; 3. verbi gratiā; 4. ut + adi , v.g. ut piger discipulus: piger
 ut sum/es/est, quia piger sum/es/est
-ut/uti con = 1. eodem modo quo;
-2. ut + coni , v.g. volo ut venias: ut
-completivum, sensum verbi complet
-(id. ac “volo te venire”); 3. ut + coni : ad
-+ ger , quia vult + inf ; 4. (tam, ita, sic, et
-cet.) ut + coni : ut consecutivum, quod
-sequitur ex alterā oratione; 5. fit ut
-+ coni : ut completivum; 6. mos est ut
-+ coni : more fit ut; 7. ut + coni : quomodo;
-8. ut primùm + perf = cùm primùm;
-9. ut + perf : ut primùm, postquam
+ut/uti con = 1. eodem modo quo; 2. ut + coni , v.g. volo ut venias: ut completivum, sensum verbi complet (id. ac “volo te venire”); 3. ut + coni : ad + ger , quia vult + inf ; 4. (tam, ita, sic, et cet.) ut + coni : ut consecutivum, quod sequitur ex alterā oratione; 5. fit ut + coni : ut completivum; 6. mos est ut + coni : more fit ut; 7. ut + coni : quomodo; 8. ut primùm + perf = cùm primùm; 9. ut + perf : ut primùm, postquam
 ut-cumque = quocumque modo
-uter-que utra-que utrum-que = 1. et unus et
-alter (diverso tempore); 2. utrique:
-uterque; 3. utrique: et unus et alter
-(nomina sensu plurali, ut populus)
+uter-que utra-que utrum-que = 1. et unus et alter (diverso tempore); 2. utrique: uterque; 3. utrique: et unus et alter (nomina sensu plurali, ut populus)
 uti/utī = ut, utinam
 utilia -ium n pl = res utiles
 utilis -e = qui prodest (↔ inutilis)
@@ -3080,103 +3048,65 @@ utpote = scilicet
 utrimque = ab utrāque parte
 utrobique = utroque loco, utrāque parte
 uxorius -a -um = qui uxorem habet
+
+
 V
-vacuus -a -um = 1. qui nihil continet;
-2. vacuus aliquo: sine aliquo
+vacuus -a -um = 1. qui nihil continet; 2. vacuus aliquo: sine aliquo
 vadere -sisse = ire, procedere
 vadum -i n = aqua humilis (↔ altum)vagari = 1. errare; 2. mente errare
 vagina -ae f = res in qua gladii conduntur
 vagitus -us m <vagire
 vagus -a -um = errans
-valēre = 1. ↔ aegrotare; 2. validus esse;
-3. vale!: id dicit qui discedit; 4. animo
+valēre = 1. ↔ aegrotare; 2. validus esse; 3. vale!: id dicit qui discedit; 4. animo
 valēre: sapere
-valetudo -inis f = 1. salus, <valēre; 2. mala
-valetudo
+valetudo -inis f = 1. salus, <valēre; 2. mala valetudo
 vallare = protegere
 vallus -i m = palus ad castra munienda
 vanus -a -um = vacuus, frustrà factus
 varietas -atis f < varius
-vastare = 1. vastum (desertum) facere;
-2. delēre
-vastus -a -um = 1. ingens et desertur;
-2. horrendus
-vates -is m/f = 1. homo qui divino modo
-res futuras praedicit; 2. poeta/poetria
-vectigal -alis n = pecunia rei publicae
-solvenda
+vastare = 1. vastum (desertum) facere; 2. delēre
+vastus -a -um = 1. ingens et desertur; 2. horrendus
+vates -is m/f = 1. homo qui divino modo res futuras praedicit; 2. poeta/poetria
+vectigal -alis n = pecunia rei publicae solvenda
 vectigalis -e = qui vectigalia pendit
 vehemens -entis = violentus, acer
 vehementer adv = valde
 vehiculum i n = currus
 vel adv = 1. etiam; 2. aliter; 3. vel + sup: sane
-vel con = sive, seu (=si vis, ad arbitrium,
-saltem, quod idem est, et cet.)
+vel con = sive, seu (=si vis, ad arbitrium, saltem, quod idem est, et cet.)
 velare = veste operire
 velim + coni = utinam
-velle voluisse = 1. voluntas alicui esse;
-2. v. esse: vocare; 3. sibi v.: significare
+velle voluisse = 1. voluntas alicui esse; 2. v. esse: vocare; 3. sibi v.: significare
 venalis -e = qui vēnit, qui emi potest
 venari = feras persequi et occidere
 venator -oris m = qui venatur
 venenatus -a -um = venenus gerens
-venenum -i = cibus vel potio quae mortem
-affert
-venia -ae f = 1. gratia qua ignoscitur facto;
-2. veniam dare: ignoscere
-venire venisse ventum = 1. huc ire; 2. oriri,
-nasci; 3. ventum est: venerunt
+venenum -i = cibus vel potio quae mortem affert
+venia -ae f = 1. gratia qua ignoscitur facto; 2. veniam dare: ignoscere
+venire venisse ventum = 1. huc ire; 2. oriri, nasci; 3. ventum est: venerunt
 vēn-ire -eunt -iisse = vendi ( pass )
-venter -tris m = 1. pars corporis infra
-pulmones, quò it cibus esus; 2. ventrem
-ferre: gravida esse
+venter -tris m = 1. pars corporis infra pulmones, quò it cibus esus; 2. ventrem ferre: gravida esse
 ventitare = saepe venire
 venun-dare = vendere
-verbum -i n = 1. pars orationis;
-2. vocabulum; 3. verba facere/habēre:
-loqui; 4. verba dare: illudere
+verbum -i n = 1. pars orationis; 2. vocabulum; 3. verba facere/habēre: loqui; 4. verba dare: illudere
 vergere (in partem) = spectare, verti
-versare = 1. hùc illùc vertere; 2. in animo
-versare: excogitare; 3. reputare
-versari = 1. hùc illùc moveri, errare; 2. in
-periculo v.: in periculo esse, implicari;
-3. habitare; 4. volvi, in orbem moveri,
-verti
-vertere -tisse -sum = 1. se movēre ad
-aspiciendum id quod est post tergum;
-2. ad aliquem vertere: ad aliquem
-spectare; 3. verti: circum moveri; 4. se
-vertere: mutare; 5. vertens: qui vertitur
-vertex -icis m = 1. aqua quae vertitur,
-gurges; 2. pars summa, culmen;
-3. pars a medio remotissima
-verum -i n = 1. id quod verum est; 2. bonum
-et aequum; 3. veri similis: qui verus
-esse videtur
-verus -a -um = 1. is cui error non est, ↔
-pravus; 2. ↔ fictus; 3. certus, ↔ dubius;
-4. verum esse: rectum esse, oportēre;
-5. verius: potius
-vesci = (carne) vesci: cibo uti, (carnem)
-ēsse
+versare = 1. hùc illùc vertere; 2. in animo versare: excogitare; 3. reputare
+versari = 1. hùc illùc moveri, errare; 2. in periculo v.: in periculo esse, implicari; 3. habitare; 4. volvi, in orbem moveri, verti
+vertere -tisse -sum = 1. se movēre ad aspiciendum id quod est post tergum; 2. ad aliquem vertere: ad aliquem spectare; 3. verti: circum moveri; 4. se vertere: mutare; 5. vertens: qui vertitur
+vertex -icis m = 1. aqua quae vertitur, gurges; 2. pars summa, culmen; 3. pars a medio remotissima
+verum -i n = 1. id quod verum est; 2. bonum et aequum; 3. veri similis: qui verus esse videtur
+verus -a -um = 1. is cui error non est, ↔ pravus; 2. ↔ fictus; 3. certus, ↔ dubius; 4. verum esse: rectum esse, oportēre; 5. verius: potius
+vesci = (carne) vesci: cibo uti, (carnem) ēsse
 vestibulum -i n = locus clausus ante ianuam
-vestigium -i n = 1. pes humi impressus;
-2. aliquid in aliquo impressum 3. quod
-reliquum est; 4. in vestigio: in loco ubi
-statur; 5. vestigia: pedes
+vestigium -i n = 1. pes humi impressus; 2. aliquid in aliquo impressum 3. quod reliquum est; 4. in vestigio: in loco ubi statur; 5. vestigia: pedes
 vetare -uisse -itum ↔ permittere
 vetus -eris sup veterrimus = antiquus
 vetustas -atis f <vetus
 vetustus -a -um = vetus
-vexare = 1. male tractare; 2. identidem
-aggredi, vastare
+vexare = 1. male tractare; 2. identidem aggredi, vastare
 vexillum -i n = signum militare
-via -ae f = 1. linea terrae munita ad iter
-faciendum inter urbes; 2. linea terrae
-munita inter urbis domos/vicos; 3. iter;
-de viā fessus: itinere f.; 4. modus agendi;
-5. viam facere: iter facereviaticum -i n = pecunia ad viam (:iter)
-necessaria
+via -ae f = 1. linea terrae munita ad iter faciendum inter urbes; 2. linea terrae munita inter urbis domos/vicos; 3. iter; de viā fessus: itinere f.; 4. modus agendi; 5. viam facere: iter facere
+viaticum -i n = pecunia ad viam (:iter) necessaria
 vicem, per v. = invicem
 vicesimus -a -um = XX
 vicinitas -atis f < vicinus
@@ -3184,98 +3114,56 @@ vicinus -a -um = qui propè habitat
 vicissim adv = contrà
 victima -ae f = hostia
 victrix -icis f = femina victoris
-vicus -i m = 1. pars urbis, viae domūsque;
-via quae per vicum fert; 2. parvum
-oppidum
+vicus -i m = 1. pars urbis, viae domūsque; via quae per vicum fert; 2. parvum oppidum
 videlicet (< vidēre + licet) = scilicet
-vidēre vidisse visum = 1. oculis accipere,
-sentire; 2. aspicere; 3. curare; 4. videri:
-similis alicui esse; 5. videri: putare,
-existimare; 6. videri: cogitare, mente
-creare; 7. patribus (senatoribus) videtur:
-placet patribus, patres volunt; 8. reputare;
-9. curare, cavēre
+vidēre vidisse visum = 1. oculis accipere, sentire; 2. aspicere; 3. curare; 4. videri: similis alicui esse; 5. videri: putare, existimare; 6. videri: cogitare, mente creare; 7. patribus (senatoribus) videtur: placet patribus, patres volunt; 8. reputare; 9. curare, cavēre
 vidua -ae f = mulier quae maritum amisit
 vigēre = valēre, vivus ac validus esse
 vigil -is = vigilans
-vigilia -ae f = 1. una ex quattuor partibus in
-quibus nox dividitur; 2. vigiliae
-↔ somnus
+vigilia -ae f = 1. una ex quattuor partibus in quibus nox dividitur; 2. vigiliae ↔ somnus
 vigor -oris m = vires
 vilitas -atis f < vilis (↔ carus)
-vincere vicisse victum = 1. aliquis
-certamine validior quàm alius esse;
-2. hostes proelio caedere; 3. probare,
-demonstrare aliquid certum esse
+vincere vicisse victum = 1. aliquis certamine validior quàm alius esse; 2. hostes proelio caedere; 3. probare, demonstrare aliquid certum esse
 vinclum -i n = vinculum
 vinculum -i n = id quod aliquis vincitur
-vindicare = 1. ulcisci; 2. v. in libertatem:
-liberare
-vinea -ae f = 1. agrum in quo vites crescunt;
-2. machina e ligno effecta sub qua
-milites telis tuti ad moenia procedunt
-violare = 1. (rei sanctae) vim afferre;
-2. frangere (fidem et c.)
+vindicare = 1. ulcisci; 2. v. in libertatem: liberare
+vinea -ae f = 1. agrum in quo vites crescunt; 2. machina e ligno effecta sub qua milites telis tuti ad moenia procedunt
+violare = 1. (rei sanctae) vim afferre; 2. frangere (fidem et c.)
 violenter adv < violentus
 violentus -a -um = qui vi utitur, ferox
 virginitas -atis f < virgo
-virgo -inis f = femina quae nondum habet
-maritum
-virilis -e <vir = 1. stirps virilis: filius;
-2. viri, ut vir; 3. toga virilis/pura: toga
-alba sine purpurā quam Romanus pubes
-sumit positā togā praetextā
+virgo -inis f = femina quae nondum habet maritum
+virilis -e <vir = 1. stirps virilis: filius; 2. viri, ut vir; 3. toga virilis/pura: toga alba sine purpurā quam Romanus pubes sumit positā togā praetextā
 viritim = per singulos viros
-virtus -utis f <vir = 1. (militis) virtus: fortis
-animus; 2. indoles et ingenia viri bona
-vis vim vi f = 1. potestas; 2. impetus;
-3. alicui vim afferre: alicui malum dare;
-4. magna vis (alicuius rei): magna
-copia; 5. multitudo; 6. (vocabuli):
-significatio; 7. robur, magnitudo
-visere -sisse = 1. visum ire; 2. spectandi
-causā adire
+virtus -utis f <vir = 1. (militis) virtus: fortis animus; 2. indoles et ingenia viri bona
+vis vim vi f = 1. potestas; 2. impetus; 3. alicui vim afferre: alicui malum dare; 4. magna vis (alicuius rei): magna copia; 5. multitudo; 6. (vocabuli): significatio; 7. robur, magnitudo
+visere -sisse = 1. visum ire; 2. spectandi causā adire
 visu sup II <vidēre
 visum -i n = quod videtur
 visus -us m = visum
-vita -ae f = 1. <vivere; 2. vitam agere:
-vivere
-vitis -is f = 1. arbor quae uvas dat; 2. virga
-centurionis vite facta
+vita -ae f = 1. <vivere; 2. vitam agere: vivere
+vitis -is f = 1. arbor quae uvas dat; 2. virga centurionis vite facta
 vitium -i n ↔ virtus
 vituperare ↔ laudare
 vivus -a -um = 1. qui vivit; 2. fluenti
 vix-dum = vix adhuc
-vocare = 1. nomen alicuius dicere ut huc
-veniat; 2. appellare; 3. alicui dicere
-‘eum ad locum venire velle’; 4. in
-crimen vocare: accusare; 5. in periculum
+vocare = 1. nomen alicuius dicere ut huc veniat; 2. appellare; 3. alicui dicere ‘eum ad locum venire velle’; 4. in crimen vocare: accusare; 5. in periculum
 vocari: in periculum venire
 volitare = hùc illùc volare
 volucris -is f = avis quae volat
 voluntarius -a -um ↔ coactus
-voluptas -atis f = quod delectat, res iucunda
-(↔ dolor)
+voluptas -atis f = quod delectat, res iucunda (↔ dolor)
 volutare = volvere
-volvere -visse volutum = 1. circum (in
-orbem) agere/vertere; 2. (cum) animo
-volvere: reputare; 3. volvi: verti;
-4. volvi: versari, in orbem moveri, verti
-vorago -inis f = 1. locus quo naves fluctibus
-vorantur (:merguntur); 2. locus cuius
-fundus altissimus est
+volvere -visse volutum = 1. circum (in orbem) agere/vertere; 2. (cum) animo volvere: reputare; 3. volvi: verti; 4. volvi: versari, in orbem moveri, verti
+vorago -inis f = 1. locus quo naves fluctibus vorantur (:merguntur); 2. locus cuius fundus altissimus est
 vovēre vovisse votum = (deo) promittere
 vulgaris -e = qui vulgò fit
-vulgò adv = inter vulgus, passimvulgus -i n = populus, plebs
-vulnus -eris n = 1. id quod in corpus accipit
-eum qui pulsatus est; 2. dolor
-vultur -is m = avis quae corporibus mortuis
-vescitur
+vulgò adv = inter vulgus, passim
+vulgus -i n = populus, plebs
+vulnus -eris n = 1. id quod in corpus accipit eum qui pulsatus est; 2. dolor
+vultur -is m = avis quae corporibus mortuis vescitur
+
+
 Z
-zona -ae f = quinque sunt zonae mundi,
-quae velut cingulus globum terrestrem
-complectuntur: duae frigidae extremae,
-una torrida media, duae temperatae
-inter extremas et mediam
-Zephyrus -i m = Favonius, ventus qui ab
-occidente flat
+zona -ae f = quinque sunt zonae mundi, quae velut cingulus globum terrestrem complectuntur: duae frigidae extremae, una torrida media, duae temperatae inter extremas et mediam
+Zephyrus -i m = Favonius, ventus qui ab occidente flat
