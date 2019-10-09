@@ -455,8 +455,7 @@ col-labi -lapsum = ad terram labi
 col-lacrimare = lacrimare
 col-laudare = laudare (multos)
 collectio -onis f < colligere
-collega -ae m = consul alterius consulis
-collega est
+collega -ae m = consul alterius consulis collega est
 col-ligare = vinculo coniungere
 col-ligere -legisse -lectum = 1. ↔ spargere; 2. reputare
 col-locare = 1. locare; 2. c. in aliquid: sumptum facere, aliquid emere; 3. in matrimonio c.: in matrimonium darecolloquium -i n <colloqui
@@ -671,8 +670,7 @@ cunctator -oris m = qui cunctatur
 cuneus -i m = peditum multitudo quae parte angustā est, deinde paulatim latius se extendit: _/\_
 cupido -inis f = cupiditas
 cura -ae f = 1. animus in aliquo positus; 2. metus ne quid mali accidat; 3. res mihi curae est: rem curo
-curare = 1. tueri, curam suscipere; 2. ↔ neglegere; 3. interesse; 4. -ndum
-curare: curare ut + coni pass
+curare = 1. tueri, curam suscipere; 2. ↔ neglegere; 3. interesse; 4. -ndum curare: curare ut + coni pass
 curia -ae f = 1. Curia: aedificium ubi senatus Romanus convenire solet; 2. divisio populi Romani
 cursus -us m = 1. <currere; 2. certamen quo discernitur quis velocior sit; 3. iter; 4. flumen, aquae motus; 5. quaeque pars incepti
 curvus -a -um = qui formam arcūs habet
@@ -2824,8 +2822,7 @@ superior -ius comp ↔ inferior = 1. comp <superus; 2. numero superiores: plures
 superus -a -um = 1. ↔ inferus; 2. di superi: di caelestes
 super-venire + dat = subitò adoriri
 suppeditare = offerre (rem utilem)
-supplementum -i n = milites ad numerum
-supplendum
+supplementum -i n = milites ad numerum supplendum
 sup-plēre -evisse -etum = augēre addendo quae desunt
 supplex -icis = orans
 supplicatio -onis f = dies festus quo populus ad omnia templa dis gratias agit
