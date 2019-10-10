@@ -79,13 +79,6 @@ aedificium in quō tabulae et litterae pūblicae servantur.
 
 
 
----------------------------------
-
-
-
-
-
-
 Forum Rōmānum
 
 Īnfrā Capitōlīnum Palātīnumque collem est forum
@@ -114,7 +107,6 @@ Senātus cōnstat ex sescentīs senātōribus, cīvibus nōbilissimīs, quī ant
 Tunc vērō in antīquam cūriam Hostīliam, quae paulum ad septentriōnēs extrā Comitium sita
 erat, senātōrēs convocābantur. Via celebris quae inter Cūriam et basilicam Aemiliam in forum exit Argīlētum
 nōminātur.
-
 
 Ante Comitium est locus superior ex quō ōrātōrēs
 verba faciunt ad populum. ‘Rōstra’ nōmen est huius
@@ -195,6 +187,8 @@ cōnstituitque sibī quae Māxima dīcitur āram
   hīc ubi pars urbis dē bove nōmen habet
 
 ut versibus nārrat Ovidius.
+
+
 
 
 Urbs marmorea
