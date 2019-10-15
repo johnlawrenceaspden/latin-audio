@@ -1277,9 +1277,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "laudō, laudāre, laudāvī, laudātum[sound:laudo.mp3]",
+                "laudō, laudāre, laudāvī, laudātus",
                 "to praise",
-                "",
+                "[sound:laudo.mp3]",
                 "",
                 "",
                 "",
@@ -1924,7 +1924,7 @@
             "data": "",
             "fields": [
                 "multus, multa, multum",
-                "much, many (all genders)",
+                "much, many",
                 "[sound:ankidroid_audiorec1476853890.mp3]",
                 "",
                 "",
@@ -2341,7 +2341,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>avārus, avāra, avārum</div>",
+                "avārus, avāra, avārum",
                 "greedy, avaricious",
                 "[sound:avarus.mp3]",
                 "",
@@ -2722,7 +2722,7 @@
             "data": "",
             "fields": [
                 "ōtium, ōtiī",
-                "leisure, peace",
+                "leisure, peace (o___)",
                 "[sound:otium.mp3]",
                 "n",
                 "",
@@ -5895,7 +5895,7 @@
             "data": "",
             "fields": [
                 "intellegō, intellegere, intellēxī, intellēctum",
-                "to understand",
+                "to understand. (i_____)",
                 "[sound:intellego.mp3]",
                 "",
                 "",
@@ -8414,7 +8414,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nāvigō, nāvigāre, nāvigāvī, nāvigātum",
+                "nāvigō, nāvigāre, nāvigāvī, nāvigātus",
                 "to sail, navigate",
                 "[sound:navigo.mp3]",
                 "",
@@ -9535,8 +9535,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum (p_______)",
-                "to proclaim, announce, declaim; pronounce",
+                "prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum",
+                "to proclaim, announce, declaim; pronounce (p_______)",
                 "[sound:pronuntio.mp3]",
                 "",
                 "",
@@ -10695,7 +10695,7 @@
             "data": "",
             "fields": [
                 "opprimō, opprimere, oppressī, oppressum",
-                "to press down, suppress, overwhelm, overpower, check",
+                "to press down, suppress, overwhelm, overpower, check, crush, oppress",
                 "[sound:opprimo.mp3]",
                 "",
                 "",
@@ -11265,7 +11265,7 @@
             "data": "",
             "fields": [
                 "dehinc",
-                "hence; then, next (adv.) (d___)",
+                "hence; then, next (adv.) (___c)",
                 "[sound:dehinc.mp3]",
                 "",
                 "",

@@ -62,7 +62,6 @@
         "ankidroid_audiorec1707159801.mp3",
         "ankidroid_audiorec1718853179.mp3",
         "ankidroid_audiorec1749513295.mp3",
-        "ankidroid_audiorec1889242172.mp3",
         "ankidroid_audiorec2124081096.mp3",
         "ankidroid_audiorec411793053.mp3",
         "ankidroid_audiorec423793385.mp3",
@@ -183,8 +182,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "cap34",
-                "pensumA"
+                "cap36"
             ],
             "tmpls": [
                 {
@@ -379,7 +377,7 @@
                 "",
                 "",
                 "Lū *gē | *tŌ&nbsp; Ve *ne | rēs &nbsp;Cu | pī di | *nēs que<br>*et *quan | *tus *to mi | num ve | nus ti | *ō rum <br><br>*Pas ser | *mor tu u | *sest *me | ae pu | *el lae <br>*pas ser | dē *li ci | ae *me | ae pu | *el lae <br>*quem *plū | *sil lo cu | līs *su | ī sa | *mā bat <br>*nam mel | *lī tu *se | rat su | *am que | *nō rat<br>*ip sam | *tam *be ne | *quam pu | *el la | *mā trem <br>*nec *sē | sā *gre mi | ōl *li | us mo | *vē bat<br>*sed cir | cum *si li | ēns *mo | *dūc *mo | *dil lūc <br>ad *sō | lam *do mi | nūs que | pī pi | *ā bat <br><br>*Quī *nun | *cit *pe *ri | ter te | neb ri | *cō sum<br>*il lū | *cun de *ne | gant re | *dī re | *quem quam.<br> <br>At *vō | bīs *ma le | *sit *ma | lae *te | neb rae <br>*Or cī | *quom ni a | *bel la | dē vo | *rā tis<br>*tam *bel | lum *mi hi | *pas se | rab stu | *lis tis. <br><br>*Ō *fac | tum *ma le | *Ō mi | *sel le | *pas ser <br>*Tū ā | nun *co pe | rā *me | ae pu | *el lae <br>*flen dō | tur *gi du | lī *ru | ben to | *cel lī!<br>",
-                "[sound:ankidroid_audiorec1889242172.mp3]",
+                "",
                 "Weep Venuses Cupids-and<div>and how many of men charming</div><div>Sparrow dead is of my girl&nbsp;</div><div>Sparrow beloved of my girl</div><div>Which more she than eyes her loved</div><div>for honey-sweet it was her-and knew</div><div>herself so well as girl mother</div><div>nor itself from lap of her it moved</div><div>but leapt around sometimes here sometimes there</div><div>to only mistress continuously chirped</div><div><br></div><div>Which now goes by road shadowy</div><div>to there from where they deny to come back anyone</div><div><br></div><div>But to you evil be, evil shades</div><div>of Orcus, which all nice things you devour</div><div>so nice to me sparrow you have stolen</div><div><br></div><div>Oh doing evil O wretched sparrow</div><div>your now by work my girl's</div><div>with weeping swollen redden eyes</div>",
                 "",
                 "Catullus 3"
@@ -792,6 +790,27 @@
             "tags": [
                 "cap34",
                 "pensumA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Terrarum dea gentiumque Roma,<br>cui par est nihil et nihil secundum",
+                "Terrārum dea gentiumque Rōma, cui pār est nihil et nihil secundum",
+                "Ter-*rā-rum *de-a gen-ti-*um-que *Rō-ma *cui *pār *est *ni-hil *et *ni-hil sec-*un-dum",
+                "Ter *rā rum *de a gen ti *um que *Rō ma *cui *pār *est *ni hi *let *ni hil se *cun-dum",
+                "Ter *rā&nbsp; | rum *de a | gen ti | *um que | *Rō ma&nbsp;<div>*cui *pār | *est *ni hi | *let *ni | hil se | *cun dum</div>",
+                "",
+                "",
+                "",
+                "Martialis XII.8"
+            ],
+            "flags": 0,
+            "guid": "Op<wu,WIo.",
+            "note_model_uuid": "c675e2b6-9a7b-11e9-9bae-342387e2ac52",
+            "tags": [
+                "cap36"
             ]
         }
     ]

@@ -57,8 +57,8 @@
     "media_files": [
         "ankidroid_audiorec1003906763.mp3",
         "ankidroid_audiorec101499423.mp3",
+        "ankidroid_audiorec1121660317.3gp",
         "ankidroid_audiorec1139360258.mp3",
-        "ankidroid_audiorec1139476183.mp3",
         "ankidroid_audiorec1216378771.mp3",
         "ankidroid_audiorec1244829549.mp3",
         "ankidroid_audiorec1293975886.mp3",
@@ -67,7 +67,6 @@
         "ankidroid_audiorec139826522.mp3",
         "ankidroid_audiorec1433927221.mp3",
         "ankidroid_audiorec1434398023.mp3",
-        "ankidroid_audiorec1442648832.mp3",
         "ankidroid_audiorec1457768050.mp3",
         "ankidroid_audiorec150350630.mp3",
         "ankidroid_audiorec1529894196.mp3",
@@ -77,7 +76,6 @@
         "ankidroid_audiorec1608999117.mp3",
         "ankidroid_audiorec1648961998.mp3",
         "ankidroid_audiorec1684993130.mp3",
-        "ankidroid_audiorec1695762459.mp3",
         "ankidroid_audiorec1699049385.mp3",
         "ankidroid_audiorec1713022035.mp3",
         "ankidroid_audiorec1728267003.mp3",
@@ -91,13 +89,13 @@
         "ankidroid_audiorec190794644.mp3",
         "ankidroid_audiorec1910737633.mp3",
         "ankidroid_audiorec1932481410.mp3",
+        "ankidroid_audiorec1970723112.3gp",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec204651044.mp3",
         "ankidroid_audiorec207502509.mp3",
         "ankidroid_audiorec2077816925.mp3",
         "ankidroid_audiorec2112538712.mp3",
         "ankidroid_audiorec2125598793.mp3",
-        "ankidroid_audiorec240891741.mp3",
         "ankidroid_audiorec281336224.mp3",
         "ankidroid_audiorec311621732.mp3",
         "ankidroid_audiorec361116970.mp3",
@@ -331,7 +329,7 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap18"
+                "cap23"
             ],
             "tmpls": [
                 {
@@ -408,8 +406,8 @@
             "data": "",
             "fields": [
                 "audīrī",
-                "audior, audīris, audītur; audīmur, audīminī, audiuntur",
-                ""
+                "*au-di-or, au-*dī-ris, au-*dī-tur; au-*dī-mur, au-*dī-mi-nī, au-di-*un-tur",
+                "[sound:ankidroid_audiorec1970723112.3gp]"
             ],
             "flags": 0,
             "guid": "_CLZ7",
@@ -587,19 +585,6 @@
             ],
             "flags": 0,
             "guid": "Kg<mG",
-            "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "amāre: amāvī",
-                "a-*mā-vī, a-mā-*vis-tī, a-*mā-vit ; <br>a-*mā-vi-mus, a-mā-*vis-tis, a-mā-*vē-runt",
-                "[sound:ankidroid_audiorec1442648832.mp3]"
-            ],
-            "flags": 0,
-            "guid": ":S2b1",
             "note_model_uuid": "5df17198-a899-11e9-9bae-342387e2ac49",
             "tags": []
         },
@@ -907,7 +892,9 @@
             "flags": 0,
             "guid": "gIL}~o^3sK",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap18"
+            ]
         },
         {
             "__type__": "Note",
@@ -919,7 +906,9 @@
             "flags": 0,
             "guid": "m]n.$g<}E`",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap26"
+            ]
         },
         {
             "__type__": "Note",
@@ -931,7 +920,9 @@
             "flags": 0,
             "guid": "yhD]@*F8#9",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -943,7 +934,9 @@
             "flags": 0,
             "guid": "d|0_je-R3t",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -955,7 +948,9 @@
             "flags": 0,
             "guid": "NyD_xz@JZn",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap16"
+            ]
         },
         {
             "__type__": "Note",
@@ -967,7 +962,9 @@
             "flags": 0,
             "guid": "vc|c5`^(}>",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap24"
+            ]
         },
         {
             "__type__": "Note",
@@ -979,19 +976,23 @@
             "flags": 0,
             "guid": "v4[s[G7xBS",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "capp18"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Iūlius: \"Centum circiter sēstertiōs. Atque ego illī servō praeter cēterōs {{c1::fīdēbam}}!\"",
-                "[sound:ankidroid_audiorec1139476183.mp3]"
+                "Iūlius: \"Centum circiter {{c2::sēstertiōs}}. Atque ego illī servō praeter cēterōs {{c1::fīdēbam}}!\"",
+                ""
             ],
             "flags": 0,
             "guid": "dn.$Yj~[@`",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap31"
+            ]
         },
         {
             "__type__": "Note",
@@ -1003,7 +1004,9 @@
             "flags": 0,
             "guid": "Ij7BS*~]SE",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap27"
+            ]
         },
         {
             "__type__": "Note",
@@ -1015,7 +1018,9 @@
             "flags": 0,
             "guid": "jSAj+`pi6D",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap19"
+            ]
         },
         {
             "__type__": "Note",
@@ -1027,7 +1032,9 @@
             "flags": 0,
             "guid": "Li|PZb$hzq",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -1039,7 +1046,9 @@
             "flags": 0,
             "guid": "EUeKY9Ng=3",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -1051,7 +1060,9 @@
             "flags": 0,
             "guid": "plTHC1S(?*",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -1063,7 +1074,9 @@
             "flags": 0,
             "guid": "jvbF)io3eG",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap29"
+            ]
         },
         {
             "__type__": "Note",
@@ -1075,7 +1088,9 @@
             "flags": 0,
             "guid": "b=qm%pIc2A",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap32"
+            ]
         },
         {
             "__type__": "Note",
@@ -1138,12 +1153,14 @@
             "data": "",
             "fields": [
                 "Quis fuit {{c2::horrendōs}} prīmus quī {{c3::prōtulit}} ēnsēs?<br>Quam ferus et {{c4::vērē}} {{c5::ferreus}} ille fuit!<br>Tum {{c6::caedēs}} {{c7::hominum generī}}, tum {{c8::proelia nāta}},<br>tum {{c9::brevior dīrae}} {{c10::mortis aperta via}} est!<br><div><br></div><div>[{{c1::Tibullus}} 1.10.14]<br></div>",
-                "[sound:ankidroid_audiorec1695762459.mp3]"
+                ""
             ],
             "flags": 0,
             "guid": "n/R09r&>#7",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap33"
+            ]
         },
         {
             "__type__": "Note",
@@ -1178,7 +1195,7 @@
             "data": "",
             "fields": [
                 "Saepe meae \"Tandem\" dīxī \"discēde!\" puellae <br> -- in gremiō sēdit {{c3::prōtinus}} illa meō! <br>Saepe \"Pudet\" dīxī. Lacrimīs vix illa retentīs <br>\"Mē {{c4::miseram}}! Iam tē\" dīxit \"{{c5::amāre pudet}}?\"<br><br>{{c6::Implicuitque}} suōs circum mea colla {{c7::lacertōs}} <br> et, quae mē {{c8::perdunt}}, ōscula mīlle dedit! <br>{{c9::Vincor}}, et {{c10::ingenium}} {{c11::sūmptīs}} revocātur ab armīs<br>rēsque domī {{c12::gestās}} et {{c13::mea bella}} canō.\"<br><br>[{{c1::Ovidius}}: {{c2::Amōrēs}} II.18]",
-                "[sound:ankidroid_audiorec240891741.mp3]"
+                ""
             ],
             "flags": 0,
             "guid": "f/IiQSz~v[",
@@ -1317,7 +1334,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Cum syllabae {{c1::iunguntur}}, vocābula {{c2::fiunt}}.",
+                "Cum syllabae {{c1::iunguntur}}, vocābula {{c2::fīunt}}.",
                 "[sound:ankidroid_audiorec1746804029.mp3]"
             ],
             "flags": 0,
@@ -1461,7 +1478,9 @@
             "flags": 0,
             "guid": "BOgeJM(a`Z",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap20"
+            ]
         },
         {
             "__type__": "Note",
@@ -1635,7 +1654,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dē coniūnctiōne<div>[M.:] Dā {{c1::cōpulātīvās}}! <br>[D.:] Et, -que, atque, ac <br>[M.:] Dā {{c2::disiūnctīvās}}! <br>[D.:] Aut, -ve, vel, nec, neque. <br>[M.:] Dā {{c3::explētīvās}}! <br>[D.:] Quidem, equidem, quoque, autem, tamen. &nbsp;<br>[M.:] Dā {{c4::causālēs}}! <br>[D.:] Sī, etsī, siquidem, quandō, nam, namque, etenim, quamobrem ... <br>[M.:] Dā {{c5::ratiōnālēs}}!<br>[D.:] Itaque, enim, quia, quāpropter; quoniam, ergō, ideō, igitur; scīlicet, proptereā. . . .<br></div>",
+                "Dē coniūnctiōne<div>[M.:] Dā {{c1::cōpulātīvās}}! <br>[D.:] Et, -que, atque, ac <br>[M.:] Dā {{c2::disiūnctīvās}}! <br>[D.:] Aut, -ve, vel, nec, neque. <br>[M.:] Dā {{c3::explētīvās}}! <br>[D.:] Quidem, equidem, quoque, autem, tamen. &nbsp;<br>[M.:] Dā {{c4::causālēs}}! <br>[D.:] Sī, etsī, sīquidem, quandō, nam, namque, etenim, quamobrem ... <br>[M.:] Dā {{c5::ratiōnālēs}}!<br>[D.:] Itaque, enim, quia, quāpropter; quoniam, ergō, ideō, igitur; scīlicet, proptereā. . . .<br></div>",
                 ""
             ],
             "flags": 0,
@@ -1663,7 +1682,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "[M.:] Super quam vim habet?&nbsp;<div>[D.:] Ubī locum significat, {{c3::magis}} accūsātīvō cāsuī servit {{c4::quam}} ablātīvō; ubi mentiōnem alicūius facimus, ablātīvō tantum, ut:</div><div><br></div><div>multa super {{c1::Priamō}} rogitāns, super {{c2::Hectore}} multa&nbsp;</div><div><br></div><div>hoc est dē Priamō, dē Hectore . ...</div>",
+                "[M.:] Super quam vim habet?&nbsp;<div>[D.:] Ubi locum significat, {{c3::magis}} accūsātīvō cāsuī servit {{c4::quam}} ablātīvō; ubi mentiōnem alicūius facimus, ablātīvō tantum, ut:</div><div><br></div><div>multa super {{c1::Priamō}} rogitāns, super {{c2::Hectore}} multa&nbsp;</div><div><br></div><div>hoc est dē Priamō, dē Hectore . ...</div>",
                 ""
             ],
             "flags": 0,
@@ -1678,12 +1697,14 @@
             "data": "",
             "fields": [
                 "Et {{c1::accessērunt}} ad eum {{c4::discipulī ēius}} et {{c2::suscitāvērunt}} eum {{c3::dīcentēs}}: \"{{c5::Domine, salvā nōs! Perīmus!}}\"",
-                ""
+                "[sound:ankidroid_audiorec1121660317.3gp]"
             ],
             "flags": 0,
             "guid": "$2yfK",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap28"
+            ]
         },
         {
             "__type__": "Note",
@@ -1695,7 +1716,9 @@
             "flags": 0,
             "guid": "n+ec3",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "cap17"
+            ]
         },
         {
             "__type__": "Note",
@@ -1959,13 +1982,15 @@
             "flags": 0,
             "guid": "Wpaf1",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": []
+            "tags": [
+                "fs-cap26"
+            ]
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nihil enim vīneīs magis {{c1::prōdest}} quam sōl et calor, nec quidquam iīs magis {{c2::nocet}} quam imber et frīgus.",
+                "Nihil enim vīneīs magis {{c1::prōdest}} quam sōl et calor, nec {{c3::quidquam}} iīs magis {{c2::nocet}} quam imber et frīgus.",
                 ""
             ],
             "flags": 0,
@@ -1993,7 +2018,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Orontēs: \"{{c2::Hūius}} quidem fābulae fīnis est, sed aliam fābulam dē eōdem rēge nōvī. Deus Apollō {{c3::effēcerat}} ut Midās aurēs {{c1::asinīnās}} habēret . . . \"",
+                "Orontēs: \"{{c2::Hūius}} {{c4::quidem}} fābulae fīnis est, sed aliam fābulam dē eōdem rēge nōvī. Deus Apollō {{c3::effēcerat}} ut Midās aurēs {{c1::asinīnās}} habēret . . . \"",
                 ""
             ],
             "flags": 0,
@@ -2013,7 +2038,343 @@
             "flags": 0,
             "guid": "1=!YE",
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Paulō post, cum {{c1::plērīque}} hostēs sē ad equitēs {{c2::convertis­sent}}, peditēs nostrī portā sinistrā {{c3::ērūpērunt}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "|g>8A",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nautae precibus ēius ita {{c1::permōtī}} sunt ut manūs quidem ab eō {{c2::abstinērent}}; sed tamen imperāvērunt ut statim in mare dēsilīret!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "}gcv7",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap29"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Quīntus {{c2::mīrātur}} quod pedēs, quī heri {{c1::parēs}} erant, hodiē tam {{c3::imparēs}} sunt.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s/(KS",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::Postquam}} multōs hominēs {{c2::interfēcerant}}, domōs {{c1::incenderant}}, ...",
+                ""
+            ],
+            "flags": 0,
+            "guid": ">7L&H",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap26"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Epistulae quās Aemilius ad patrem dat {{c1::praecipuē}} dē glōriā et virtūte mīlitārī sunt, sed ex iīs litterīs prīvātīs quās Aemilia nūper ā frātre suō accēpit plānē appāret eum iam vītā mīlitārī {{c2::fatīgātum}} esse",
+                ""
+            ],
+            "flags": 0,
+            "guid": "*wE04",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Nōnne}} hī quoque īnfantēs vōs movent, quī ex meō sinū ad vōs bracchia {{c1::tendunt}}?",
+                ""
+            ],
+            "flags": 0,
+            "guid": "~%1J5",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "in silvās et collēs currēbant, ubi parvās ovēs {{c1::īnsequentēs}} vel flōrēs carpentēs lūdere {{c2::poterant}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "&mDRC",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mediā nocte in castra nūntiātum est 'magnum hostium numerum nāviculīs ratibusque {{c1::cōpulātīs}} flūmen trānsiisse celeriterque secundum flūmen adversus cas­tra nostra {{c2::prōgredī}}. '",
+                ""
+            ],
+            "flags": 0,
+            "guid": "#n4HT",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dominus hūc illūc in hortō suō amoenō ambulat, deinde exit in agrōs, {{c2::quī}} hortum {{c1::cingunt}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Y1XL1",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "statim vōbis portās aperiam et viam mōnstrābō, quā in urbem ingredī poteritis",
+                ""
+            ],
+            "flags": 0,
+            "guid": "[&asE",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap26"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "neque {{c1::quisquam}} nōs in fugiendō iuvāre {{c2::poterit}}, ut Thēseum iūvit Ariadna",
+                ""
+            ],
+            "flags": 0,
+            "guid": "%Kph2",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap26"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Diodōrus: \"{{c1::Quid}} -rīdētis, Tite et Sexte?\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kOwN2",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ex -ūniversā Iudaeā hominēs aegrī, qui fāmam dē factīs ēius mīrābilibus audīverant, ad eum conveniēbant.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CRQcT",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap28,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nīdus est in parvō rāmō. Rāmus quī nīdum {{c1::sustinet}} nōn {{c4::crassus}}, sed {{c3::tenuis}} est. Rāmus tenuis Quīntum {{c2::sūs­tinēre}} nōn potest, is enim puer crassus est.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mLlTbp3o:_",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cum {{c1::exigua}} pars lūnae {{c2::tantum}} vidētur, lūna 'nova' esse dīcitur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L3>F^_=@{Z",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Italia est terra fertilis, sed multa {{c1::loca}} Italiae nōn {{c2::arantur}} nec ūllās frūgēs ferunt praeter herbam.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "%Mb*I",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Puer igitur, nihil timēns, ad {{c2::arietem}} accessit, eīque herbās dē campō carptās {{c1::praebuit}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "[*|GN",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "marium omnium deō quī magnōs flūctūs excitās tempestātēsque {{c1::sēdāre}} {{c2::solēs}}, sacrificābō!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HX#gM",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Posthāc Mārcum sine {{c1::comite}} ambulāre nōn {{c2::sinam}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "&k3X7",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Brevī}} hūc {{c2::redībō}}, neque sine tē, Ariadna, in patriam {{c3::revertar}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rSEgI",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap25"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ōdī et amō! Quārē id faciam, fortasse {{c1::requīris}}? Nesciō; sed fierī sentiō - et excrucior!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "aA)rA",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ego vērō, etsī cupidus sum patriae videndae, officium meum {{c1::praestābō}} sīcut cēterī mīlitēs Rōmānī, quō­rum magnus numerus in Germāniā est.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "#k?{P",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap33"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ō Hellē, {{c3::exī}} ē casā, et spectā mē in tergō {{c2::arietis}} {{c1::īnsidentem}}!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d4g)P",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "fs-cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nōnne tibi satis fuit vestem tuam novam {{c1::perdere}}?",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jY$]x<g]@!",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap23"
+            ]
         }
     ]
 }

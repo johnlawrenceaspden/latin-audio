@@ -3,7 +3,7 @@
     "activeTags": [],
     "children": [],
     "crowdanki_uuid": "ae4da780-ae4c-11e9-9bae-342387e2ac49",
-    "deck_config_uuid": "bbdd975f-a030-11e9-b09e-74867a15fbd5",
+    "deck_config_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
@@ -53,7 +53,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 42,
+    "extendNew": 10,
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
@@ -71,6 +71,7 @@
         "ankidroid_audiorec111361776.mp3",
         "ankidroid_audiorec1124660305.mp3",
         "ankidroid_audiorec1126306607.mp3",
+        "ankidroid_audiorec1129453379.3gp",
         "ankidroid_audiorec113040586.mp3",
         "ankidroid_audiorec1135724828.mp3",
         "ankidroid_audiorec1162387022.mp3",
@@ -165,6 +166,7 @@
         "ankidroid_audiorec1958863164.mp3",
         "ankidroid_audiorec1962540051.mp3",
         "ankidroid_audiorec196372930.mp3",
+        "ankidroid_audiorec1966658129.3gp",
         "ankidroid_audiorec199410763.mp3",
         "ankidroid_audiorec2004314604.mp3",
         "ankidroid_audiorec2012666847.mp3",
@@ -218,6 +220,7 @@
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
         "ankidroid_audiorec494041012.mp3",
+        "ankidroid_audiorec498757991.3gp",
         "ankidroid_audiorec507074086.mp3",
         "ankidroid_audiorec514769516.mp3",
         "ankidroid_audiorec517301445.mp3",
@@ -312,7 +315,7 @@
             "name": "Cloze (llpsi pensum)",
             "sortf": 0,
             "tags": [
-                "cap18"
+                "cap23"
             ],
             "tmpls": [
                 {
@@ -3139,8 +3142,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::mēns}} poētae inter amōrem et {{c2::odium}} {{c3::dīvidēbātur}}.&nbsp;<br>",
-                ""
+                "{{c1::mēns}} poētae inter amōrem et {{c2::odium}} {{c3::dīvidēbātur}}.",
+                "[sound:ankidroid_audiorec1129453379.3gp]"
             ],
             "flags": 0,
             "guid": "m;?S-4ZXaN",
@@ -3258,7 +3261,7 @@
             "fields": [
                 "Cūr poēta Lesbiam et amābat et ōderat?&nbsp;<br>",
                 "",
-                "Quia Lesbia ī???nfīda erat",
+                "Quia Lesbia īnfīda erat",
                 ""
             ],
             "flags": 0,
@@ -3453,7 +3456,7 @@
             "data": "",
             "fields": [
                 "{{c1::laedere}} {{c2::laesisse}} {{c3::laesum}}",
-                ""
+                "[sound:ankidroid_audiorec498757991.3gp]"
             ],
             "flags": 0,
             "guid": "gTWG;T9jN~",
@@ -3722,8 +3725,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Īra}} est {{c2::affectus}} ēius quī īrātus est.&nbsp;<br>",
-                ""
+                "{{c1::Īra}} est {{c2::affectus}} ēius quī īrātus est.",
+                "[sound:ankidroid_audiorec1966658129.3gp]"
             ],
             "flags": 0,
             "guid": "h-VU|19[e|",
