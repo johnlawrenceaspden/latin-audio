@@ -71,7 +71,7 @@
         "ankidroid_audiorec111361776.mp3",
         "ankidroid_audiorec1124660305.mp3",
         "ankidroid_audiorec1126306607.mp3",
-        "ankidroid_audiorec1129453379.3gp",
+        "ankidroid_audiorec1129453379.mp3",
         "ankidroid_audiorec113040586.mp3",
         "ankidroid_audiorec1135724828.mp3",
         "ankidroid_audiorec1162387022.mp3",
@@ -166,7 +166,7 @@
         "ankidroid_audiorec1958863164.mp3",
         "ankidroid_audiorec1962540051.mp3",
         "ankidroid_audiorec196372930.mp3",
-        "ankidroid_audiorec1966658129.3gp",
+        "ankidroid_audiorec1966658129.mp3",
         "ankidroid_audiorec199410763.mp3",
         "ankidroid_audiorec2004314604.mp3",
         "ankidroid_audiorec2012666847.mp3",
@@ -220,7 +220,7 @@
         "ankidroid_audiorec452096530.mp3",
         "ankidroid_audiorec484290379.mp3",
         "ankidroid_audiorec494041012.mp3",
-        "ankidroid_audiorec498757991.3gp",
+        "ankidroid_audiorec498757991.mp3",
         "ankidroid_audiorec507074086.mp3",
         "ankidroid_audiorec514769516.mp3",
         "ankidroid_audiorec517301445.mp3",
@@ -3143,7 +3143,7 @@
             "data": "",
             "fields": [
                 "{{c1::mēns}} poētae inter amōrem et {{c2::odium}} {{c3::dīvidēbātur}}.",
-                "[sound:ankidroid_audiorec1129453379.3gp]"
+                "[sound:ankidroid_audiorec1129453379.mp3]"
             ],
             "flags": 0,
             "guid": "m;?S-4ZXaN",
@@ -3456,7 +3456,7 @@
             "data": "",
             "fields": [
                 "{{c1::laedere}} {{c2::laesisse}} {{c3::laesum}}",
-                "[sound:ankidroid_audiorec498757991.3gp]"
+                "[sound:ankidroid_audiorec498757991.mp3]"
             ],
             "flags": 0,
             "guid": "gTWG;T9jN~",
@@ -3726,7 +3726,7 @@
             "data": "",
             "fields": [
                 "{{c1::Īra}} est {{c2::affectus}} ēius quī īrātus est.",
-                "[sound:ankidroid_audiorec1966658129.3gp]"
+                "[sound:ankidroid_audiorec1966658129.mp3]"
             ],
             "flags": 0,
             "guid": "h-VU|19[e|",

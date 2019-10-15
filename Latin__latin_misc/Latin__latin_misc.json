@@ -57,7 +57,7 @@
     "media_files": [
         "ankidroid_audiorec1003906763.mp3",
         "ankidroid_audiorec101499423.mp3",
-        "ankidroid_audiorec1121660317.3gp",
+        "ankidroid_audiorec1121660317.mp3",
         "ankidroid_audiorec1139360258.mp3",
         "ankidroid_audiorec1216378771.mp3",
         "ankidroid_audiorec1244829549.mp3",
@@ -89,7 +89,7 @@
         "ankidroid_audiorec190794644.mp3",
         "ankidroid_audiorec1910737633.mp3",
         "ankidroid_audiorec1932481410.mp3",
-        "ankidroid_audiorec1970723112.3gp",
+        "ankidroid_audiorec1970723112.mp3",
         "ankidroid_audiorec1989197273.mp3",
         "ankidroid_audiorec204651044.mp3",
         "ankidroid_audiorec207502509.mp3",
@@ -407,7 +407,7 @@
             "fields": [
                 "audīrī",
                 "*au-di-or, au-*dī-ris, au-*dī-tur; au-*dī-mur, au-*dī-mi-nī, au-di-*un-tur",
-                "[sound:ankidroid_audiorec1970723112.3gp]"
+                "[sound:ankidroid_audiorec1970723112.mp3]"
             ],
             "flags": 0,
             "guid": "_CLZ7",
@@ -1697,7 +1697,7 @@
             "data": "",
             "fields": [
                 "Et {{c1::accessērunt}} ad eum {{c4::discipulī ēius}} et {{c2::suscitāvērunt}} eum {{c3::dīcentēs}}: \"{{c5::Domine, salvā nōs! Perīmus!}}\"",
-                "[sound:ankidroid_audiorec1121660317.3gp]"
+                "[sound:ankidroid_audiorec1121660317.mp3]"
             ],
             "flags": 0,
             "guid": "$2yfK",
