@@ -379,7 +379,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vidērī",
+                "vidērī :videor",
                 "*vi-de-or, vi-*dē-ris, vi-*dē-tur; vi-*dē-mur, vi-*dē-mi-nī, vi-*den-tur",
                 "[sound:ankidroid_audiorec596699706.mp3]"
             ],
@@ -405,7 +405,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "audīrī",
+                "audīrī :audior",
                 "*au-di-or, au-*dī-ris, au-*dī-tur; au-*dī-mur, au-*dī-mi-nī, au-di-*un-tur",
                 "[sound:ankidroid_audiorec1970723112.mp3]"
             ],
@@ -1208,7 +1208,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Lūgēte}}, Ō Venerēs {{c2::Cupīdinēsque}}<br>et quantum est hominum {{c3::venustiōrum}}! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa {{c4::oculīs suīs}} amābat; <br>nam {{c5::mellītus}} erat {{c6::suamque nōrat}}<br>ipsam tam bene quam puella {{c7::mātrem}}, <br>nec sēsē ā gremiō {{c8::illĭus}} movēbat,<br>sed {{c9::circumsiliēns}} modo hūc modo illūc <br>ad {{c11::sōlam dominam}} ūsque {{c10::pīpiābat}}. <br><br>Quī nunc it per iter {{c12::tenebricōsum}}<br>illūc unde {{c14::negant}} redīre {{c13::quemquam}}.<br> <br>At {{c15::vōbīs}} male sit, malae tenebrae <br>{{c16::Orcī}}, quae omnia bella {{c17::dēvorātis}}:<br>tam bellum mihi passerem {{c18::abstulistis}}. <br><br>Ō factum male! Ō misellē passer! <br>Tuā nunc operā meae puellae <br>{{c19::flendō}} {{c20::turgidulī}} rubent ocellī!<br><br>[{{c21::Catullus 3}}]",
+                "{{c1::Lūgēte}}, Ō Venerēs {{c2::Cupīdinēsque}}<br>et quantum est hominum {{c3::venustiōrum}}! <br><br>Passer mortuus est meae puellae, <br>passer, dēliciae meae puellae, <br>quem plūs illa {{c4::oculīs suīs}} amābat; <br>nam {{c5::mellītus}} erat {{c6::suamque nōrat}}<br>ipsam tam bene quam puella {{c7::mātrem}}, <br>nec sēsē ā gremiō {{c8::illĭus}} movēbat,<br>sed {{c9::circumsiliēns}} modo hūc modo illūc <br>ad {{c11::sōlam dominam}} ūsque {{c10::pīpiābat}}. <br><br>Quī nunc it per iter {{c12::tenebricōsum}}<br>illūc unde {{c14::negant}} redīre {{c13::quemquam}}.<br> <br>At {{c15::vōbīs}} male sit, malae tenebrae <br>{{c16::Orcī}}, quae omnia bella {{c17::dēvorātis}}:<br>tam bellum mihi passerem {{c18::abstulistis}}. <br><br>Ō factum male! Ō miselle passer! <br>Tuā nunc operā meae puellae <br>{{c19::flendō}} {{c20::turgidulī}} rubent ocellī!<br><br>[{{c21::Catullus 3}}]",
                 ""
             ],
             "flags": 0,
@@ -2074,7 +2074,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Quīntus {{c2::mīrātur}} quod pedēs, quī heri {{c1::parēs}} erant, hodiē tam {{c3::imparēs}} sunt.",
+                "Quīntus {{c2::mīrātur}} quod pedēs, quī herī {{c1::parēs}} erant, hodiē tam {{c3::imparēs}} sunt.",
                 ""
             ],
             "flags": 0,
@@ -2374,6 +2374,146 @@
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Qui arat arātrō {{c1::ūtitur}}; quī metit falce {{c1::ūtitur}}; quī serit manū suā {{c1::ūtitur}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uHKkR",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Quālēs}} sunt litterae Sextī? Pulchrae sunt.",
+                ""
+            ],
+            "flags": 0,
+            "guid": ">DkkT",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "\"Quid pallēs?\" inquit, \"{{c1::Utrum}} aegrōtās {{c1::an}} territus es?\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "?.=oK",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap28"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mox puer et puella Graeciam rēlīquērunt, et suprā mare volantēs {{c1::longinquās}} terrās petīvērunt.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "]?}@M",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap27"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aemilia: \"Nōn omnēs vērī sunt rūmōrēs quī afferuntur {{c1::super}} {{c2::Chrīstiānīs}}.\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "evE2B",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aemilia: \"Ergō quī īnfantem suum {{c1::dēbilem}} ad ferās {{c2::expōnī}} iussit, ipse ad bēstiās {{c3::mittendus}} est cum aliīs hominibus scelestīs!\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "3LD8F",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Posthāc servō Graecō nūllī {{c1::cōnfīdam}}, neque enim {{c2::fidē}} meā dignī sunt: īnfīdī et {{c3::nēquam}} sunt omnēs!",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K_8NN",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap31"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Īcarus autem, quī {{c1::cōnsilium}} patris ignōrābat, {{c2::humī}} cōnsēdit et \"Fessus sum\", inquit.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "51477",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap26"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In hōc librō Matthaeus, quī suīs oculīs auribusque dominum nostrum vidērat et audivērat, dicta et facta ēius {{c1::memorat}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QINx8",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap28"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tlēpolemus in līmine resistēns \"Retinē canem\" inquit",
+                ""
+            ],
+            "flags": 0,
+            "guid": "86L3I",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap22"
             ]
         }
     ]

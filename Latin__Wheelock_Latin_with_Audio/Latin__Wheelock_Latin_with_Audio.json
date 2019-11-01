@@ -1258,9 +1258,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "errō, errāre, errāvī, errātum[sound:erro.mp3]",
+                "errō, errāre, errāvī, errātum",
                 "to wander; err, go astray; make a mistake, be mistaken",
-                "",
+                "[sound:erro.mp3]",
                 "",
                 "",
                 "",
@@ -1353,9 +1353,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōnservō, cōnservāre, cōnservāvī, cōnservātum[sound:conservo.mp3]",
+                "cōnservō, cōnservāre, cōnservāvī, cōnservātum",
                 "to preserve, conserve, maintain (strong)",
-                "",
+                "[sound:conservo.mp3]",
                 "",
                 "",
                 "",
@@ -2513,7 +2513,7 @@
             "data": "",
             "fields": [
                 "bāsium, bāsiī (n)",
-                "kiss",
+                "kiss (b____)",
                 "[sound:basium.mp3]",
                 "",
                 "",
@@ -2760,7 +2760,7 @@
             "data": "",
             "fields": [
                 "remedium, remediī (n)",
-                "cure, remedy",
+                "cure, remedy (r____)",
                 "[sound:remedium.mp3]",
                 "",
                 "",
@@ -3349,7 +3349,7 @@
             "data": "",
             "fields": [
                 "tum",
-                "then, at that time; thereupon, in the next place",
+                "then, at that time; thereupon, in the next place (__m)",
                 "[sound:tum.mp3]",
                 "",
                 "",
@@ -6863,10 +6863,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "vīrēs, vīrium (f, pl)",
+                "vīrēs, vīrium",
                 "strength",
                 "[sound:vires.mp3]",
-                "",
+                "f, pl",
                 "",
                 "nōn vīribus aut vēlōcitātibus aut celeritāte corpōrum rēs magnae geruntur",
                 ""
@@ -7623,8 +7623,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "regō, regere, rēxī, rēctum",
-                "to rule, guide, direct",
+                "regō, regere, rēxī, rēctum ",
+                "to rule, guide, direct (_eg_)",
                 "[sound:rego.mp3]",
                 "",
                 "",
@@ -9251,7 +9251,7 @@
             "data": "",
             "fields": [
                 "metus, metūs",
-                "fear, dread, anxiety",
+                "fear, dread, anxiety (m___)",
                 "[sound:metus.mp3]",
                 "m",
                 "",
@@ -9483,7 +9483,7 @@
                 "[sound:discedo.mp3]",
                 "",
                 "",
-                "cf incēdō  prōcēdō recēdō excēdō",
+                "cf incēdō  prōcēdō recēdō excēdō accēdō",
                 ""
             ],
             "flags": 0,
@@ -10543,7 +10543,7 @@
             "data": "",
             "fields": [
                 "aliquis, aliquid",
-                "someone, somebody, anyone, anybody, something, anything",
+                "someone, somebody, anyone, anybody, something, anything (a____)",
                 "[sound:aliquis.mp3]",
                 "",
                 "",
@@ -11726,7 +11726,7 @@
                 "",
                 "",
                 "when it precedes a superlative, it indicates that the person/thing modified has the greatest possible degree of a particular quality",
-                ""
+                "Num parvulam fīliam minus amābis quam fīlium?<br><br>Vix haec dīxerat Iūlius, cum pāstor quam celerrimē potest ad ovēs suās currit."
             ],
             "flags": 0,
             "guid": "qaXUM%FluZ",
@@ -11763,7 +11763,7 @@
                 "[sound:invito.mp3]",
                 "",
                 "",
-                "",
+                "invītus means unwilling. invītātus means invited!",
                 ""
             ],
             "flags": 0,

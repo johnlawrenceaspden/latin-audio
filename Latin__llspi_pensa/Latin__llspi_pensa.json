@@ -8,7 +8,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "5df17195-a899-11e9-9bae-342387e2ac49",
+            "crowdanki_uuid": "bbdd975f-a030-11e9-b09e-74867a15fbd5",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -280,8 +280,7 @@
         "ankidroid_audiorec962920118.mp3",
         "ankidroid_audiorec974610439.mp3",
         "ankidroid_audiorec980336577.mp3",
-        "ankidroid_audiorec991165891.mp3",
-        "ankidroid_audiorec994648332.mp3"
+        "ankidroid_audiorec991165891.mp3"
     ],
     "mid": "1563837964255",
     "name": "Latin::llspi pensa",
@@ -1678,8 +1677,8 @@
             "fields": [
                 "Quantum pecūniae Mēdus sēcum abstulit?<br>",
                 "[sound:ankidroid_audiorec828997281.mp3]",
-                "Mēdus sēcum abstulit circiter centum sestertiōs.",
-                "[sound:ankidroid_audiorec994648332.mp3]"
+                "Mēdus sēcum abstulit circiter centum sēstertiōs.",
+                ""
             ],
             "flags": 0,
             "guid": "x{XUPewLTX",
@@ -2005,7 +2004,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Iūlius: \"Id interrogō, quia dubitō vērumne dīx{{c1::erītis}}!\"",
+                "Iūlius: \"Id [vōs] interrogō, quia dubitō vērumne dīx{{c1::erītis}}!\"",
                 "[sound:ankidroid_audiorec1446731825.mp3]"
             ],
             "flags": 0,
@@ -3244,7 +3243,7 @@
             "fields": [
                 "Cūr ocellī Lesbiae turgidī rubēbant?",
                 "[sound:ankidroid_audiorec1641328668.mp3]",
-                "Puella lūgēbat quod passer eius mortuus erat",
+                "Puella lūgēbat quod passer ēius mortuus erat",
                 "[sound:ankidroid_audiorec1009522404.mp3]"
             ],
             "flags": 0,
@@ -3395,7 +3394,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dēclīnā āla, nōmen fēminīnum I dēclīnātiōnis:<div><br></div><div>Singulāris: nōm. {{c1::haec āla}}, acc. {{c2::hanc ālam}}, gen. {{c3::hūius ālae}}, dat. {{c4::huic ālae}}, abl. {{c5::hāc ālā}}.<br>Plūrālis: nom. {{c6::hae ālae}}, acc. {{c7::hās ālās}}, gen. {{c8::hārum ālārum}}, dat. {{c9::hīs ālīs}}, abl. {{c10::hīs ālīs}}<br></div>",
+                "Dēclīnā āla, nōmen fēminīnum I dēclīnātiōnis:<div><br></div><div>Singulāris: nōm. {{c1::haec āla}}, acc. {{c2::hanc ālam}}, gen. {{c3::hūius ālae}}, dat. {{c4::huic ālae}}, abl. {{c5::hāc ālā}}.<br>Plūrālis: nom. {{c6::hae ālae}}, acc. {{c7::hās ālās}}, gen. {{c8::hārum ālārum}}, dat. {{c9::hīs ālīs}}, abl. {{c9::hīs ālīs}}<br></div>",
                 ""
             ],
             "flags": 0,
@@ -3410,7 +3409,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Dēclīnā pēs, nōmen masculīnum III dēclīnātiōnis:<div><br></div><div>Singulāris: nom. {{c1::hic pēs}}, acc. {{c2::hunc pedem}}, gen. {{c3::hūius pedis}}, dat. {{c4::huic pedī}}, abl. {{c5::hōc pede}} <br>Plūrālis: nom. {{c6::hī pedēs}}, acc. {{c7::hōs pedēs}}, gen. {{c8::hōrum pedum}}, dat. {{c9::hīs pedibus}}, abl. {{c10::hīs pedibus}}.<br></div><div><br></div>",
+                "Dēclīnā pēs, nōmen masculīnum III dēclīnātiōnis:<div><br></div><div>Singulāris: nom. {{c1::hic pēs}}, acc. {{c2::hunc pedem}}, gen. {{c3::hūius pedis}}, dat. {{c4::huic pedī}}, abl. {{c5::hōc pede}} <br>Plūrālis: nom. {{c6::hī pedēs}}, acc. {{c7::hōs pedēs}}, gen. {{c8::hōrum pedum}}, dat. {{c9::hīs pedibus}}, abl. {{c9::hīs pedibus}}.<br></div><div><br></div>",
                 ""
             ],
             "flags": 0,
