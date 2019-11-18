@@ -17,7 +17,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "no new cards",
@@ -43,7 +43,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 1000
@@ -131,6 +131,7 @@
         "ankidroid_audiorec1060310683.mp3",
         "ankidroid_audiorec1060637627.mp3",
         "ankidroid_audiorec1063636294.mp3",
+        "ankidroid_audiorec1063708550.3gp",
         "ankidroid_audiorec106570680.mp3",
         "ankidroid_audiorec1067798957.mp3",
         "ankidroid_audiorec1068622134.mp3",
@@ -177,6 +178,7 @@
         "ankidroid_audiorec1111477439.mp3",
         "ankidroid_audiorec1112453994.mp3",
         "ankidroid_audiorec1112946456.mp3",
+        "ankidroid_audiorec1113739836.3gp",
         "ankidroid_audiorec1114750030.mp3",
         "ankidroid_audiorec1116804752.mp3",
         "ankidroid_audiorec1116844948.mp3",
@@ -316,7 +318,6 @@
         "ankidroid_audiorec1234421971.mp3",
         "ankidroid_audiorec1234869415.mp3",
         "ankidroid_audiorec1235780910.mp3",
-        "ankidroid_audiorec1236208495.mp3",
         "ankidroid_audiorec123642720.mp3",
         "ankidroid_audiorec1237421072.mp3",
         "ankidroid_audiorec1238750513.mp3",
@@ -702,6 +703,7 @@
         "ankidroid_audiorec1619587909.mp3",
         "ankidroid_audiorec162188216.mp3",
         "ankidroid_audiorec1622611269.mp3",
+        "ankidroid_audiorec1623855815.3gp",
         "ankidroid_audiorec1624294886.mp3",
         "ankidroid_audiorec1625246442.mp3",
         "ankidroid_audiorec1626126967.mp3",
@@ -833,6 +835,7 @@
         "ankidroid_audiorec1766445667.mp3",
         "ankidroid_audiorec1768489242.mp3",
         "ankidroid_audiorec1769139383.mp3",
+        "ankidroid_audiorec1769439224.3gp",
         "ankidroid_audiorec1769923581.mp3",
         "ankidroid_audiorec1771791096.mp3",
         "ankidroid_audiorec1772099639.mp3",
@@ -1016,6 +1019,7 @@
         "ankidroid_audiorec1958530157.mp3",
         "ankidroid_audiorec1958766280.mp3",
         "ankidroid_audiorec1959052226.mp3",
+        "ankidroid_audiorec1960357900.3gp",
         "ankidroid_audiorec1961155164.mp3",
         "ankidroid_audiorec196144339.mp3",
         "ankidroid_audiorec1964644335.mp3",
@@ -1108,6 +1112,7 @@
         "ankidroid_audiorec2054887612.mp3",
         "ankidroid_audiorec2055334085.mp3",
         "ankidroid_audiorec2056182754.mp3",
+        "ankidroid_audiorec2056659359.3gp",
         "ankidroid_audiorec2057262840.mp3",
         "ankidroid_audiorec2057640666.mp3",
         "ankidroid_audiorec2058924273.mp3",
@@ -1268,7 +1273,6 @@
         "ankidroid_audiorec262847511.mp3",
         "ankidroid_audiorec263676593.mp3",
         "ankidroid_audiorec265640535.mp3",
-        "ankidroid_audiorec265772501.mp3",
         "ankidroid_audiorec267633148.mp3",
         "ankidroid_audiorec267656329.mp3",
         "ankidroid_audiorec268076764.mp3",
@@ -1658,6 +1662,7 @@
         "ankidroid_audiorec635490373.mp3",
         "ankidroid_audiorec636627791.mp3",
         "ankidroid_audiorec63667733.mp3",
+        "ankidroid_audiorec637050473.3gp",
         "ankidroid_audiorec640505961.mp3",
         "ankidroid_audiorec640817112.mp3",
         "ankidroid_audiorec640850961.mp3",
@@ -15484,7 +15489,7 @@
                 "or, or if",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1113739836.3gp]",
                 ""
             ],
             "flags": 0,
@@ -16483,7 +16488,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cōnscendō, cōnscendere, cōnscendī, cōnscensus",
+                "cōnscendō, cōnscendere, cōnscendī, cōnscēnsus",
                 "cōn-scendere",
                 "",
                 "mount, board",
@@ -16546,13 +16551,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cernō, cernere, crēvī, certus",
-                "",
+                "cernō, cernere, crēvī, crētus",
+                "L&amp;S give certus as pp of cerno, but discernō, discrētus, concernō, concrētus",
                 "",
                 "discern, perceive",
                 "",
                 "",
-                "[sound:ankidroid_audiorec265772501.mp3]",
+                "",
                 ""
             ],
             "flags": 0,
@@ -16560,6 +16565,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap16",
+                "marked",
                 "verb"
             ]
         },
@@ -17289,7 +17295,8 @@
             "guid": "Joi+D4Z6S",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap17"
+                "cap17",
+                "marked"
             ]
         },
         {
@@ -19388,8 +19395,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "optimus -a -um sup",
-                "",
+                "optimus -a -um ",
+                "sup",
                 "",
                 "best, very good",
                 "",
@@ -20217,7 +20224,7 @@
                 "revertor, revertī, reversus sum",
                 "",
                 "",
-                "return, come back",
+                "turn back , go back ; return, come back",
                 "",
                 "",
                 "[sound:ankidroid_audiorec999530179.mp3]",
@@ -21562,7 +21569,7 @@
                 "",
                 "look at attentively, catch sight of",
                 "",
-                "",
+                "spēxī in Lewis &amp; Short, but spexī in Familia Romana and the Macronizer",
                 "[sound:ankidroid_audiorec456807256.mp3]",
                 ""
             ],
@@ -21837,7 +21844,8 @@
             "guid": "l$nd|Um0D4",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap22"
+                "cap22",
+                "marked"
             ]
         },
         {
@@ -21971,7 +21979,7 @@
                 "rumpō, rumpere, rūpī, ruptum",
                 "",
                 "",
-                "break",
+                "break ; destroy",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1021883198.mp3]",
@@ -22196,8 +22204,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "posteā",
                 "post-eā",
-                "",
                 "",
                 "afterward, later",
                 "",
@@ -22522,8 +22530,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "forās adv",
-                "forās (adv) = ē foribus, ē domō<br><br>",
+                "forās",
+                "forās (adv) = ē foribus, ē domō",
                 "Nōlī iterum mē forās in imbrem pellere !",
                 "out through the doors, out of doors,   forth, out",
                 "",
@@ -23034,7 +23042,7 @@
             "fields": [
                 "quidnam",
                 "quid-nam",
-                "Iūlius: \"Quidnam hoc est? Quisnam Tusculō epistū­lam ad mē mīsit?\"",
+                "Iūlius: \"Quidnam hoc est? Quisnam Tusculō epistulam ad mē mīsit?\"",
                 "who/what ever?",
                 "",
                 "",
@@ -24356,8 +24364,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "continuō adv",
-                "",
+                "continuō ",
+                "adv",
                 "",
                 "immediately",
                 "",
@@ -24438,7 +24446,7 @@
             "fields": [
                 "aliquī, aliqua, aliquod",
                 "ali-quī -qua -quod",
-                "Nesciō quōmodo, sed certō sciō eum aliquam fēminam novisse, nam saepe dē eā locūtus est",
+                "Nesciō quōmodo, sed certō sciō eum aliquam fēminam nōvisse, nam saepe dē eā locūtus est",
                 "some",
                 "",
                 "",
@@ -26629,8 +26637,8 @@
             "fields": [
                 "cōnficiō, cōnficere, cōnfēcī, cōnfectus",
                 "cōn-ficere = facere",
-                "Tum rēx īrātus cēpit Daedalum, quī filum cōnfecerat et Ariadnae dederat,...",
-                "make, accomplish",
+                "Tum rēx īrātus cēpit Daedalum, quī fīlum cōnfēcerat et Ariadnae dederat,...",
+                "make, accomplish, do throughly",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1509470179.mp3]",
@@ -26748,10 +26756,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "audāx -ācis adi",
+                "audāx -ācis ",
+                "adi",
                 "",
-                "",
-                "bold, audacious",
+                "bold, audacious ; reckless",
                 "",
                 "",
                 "[sound:ankidroid_audiorec577849407.mp3]",
@@ -29967,7 +29975,7 @@
             "data": "",
             "fields": [
                 "suspiciō, suspicere, suspexī, suspectus",
-                "sub+spicere",
+                "sub+spicere&nbsp; (spēxī in Lewis &amp; Short, but spexī in Familia Romana and the Macronizer)",
                 "",
                 "look up (at)",
                 "",
@@ -30526,7 +30534,7 @@
             "fields": [
                 "nōnnumquam",
                 "nōn-numquam = haud rārō, satis saepe",
-                "hominēs nōnnumquam contrā spem ē māximīs perī­cūlīs ēripiuntur",
+                "hominēs nōnnumquam contrā spem ē māximīs perī­culīs ēripiuntur",
                 "sometimes",
                 "",
                 "",
@@ -31422,13 +31430,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "alliciō, allicere, allēxī, allectum",
-                "ad + licere (?)",
-                "Ut Orpheus cantū suō ferās ad sē alliciēbat, ita tunc Arīōn canendō piscēs allēxit ad nāvem.",
+                "alliciō, allicere, allexī, allectum",
+                "ad + licere (?) (It's allēxī in FR, but L&amp;S and the macronizer and reddit agree on allexī)",
+                "Ut Orpheus cantū suō ferās ad sē alliciēbat, ita tunc Arīōn canendō piscēs allexit ad nāvem.",
                 "attract",
                 "",
                 "",
-                "[sound:ankidroid_audiorec1236208495.mp3]",
+                "",
                 ""
             ],
             "flags": 0,
@@ -31436,6 +31444,7 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
+                "marked",
                 "verb"
             ]
         },
@@ -33645,7 +33654,7 @@
             "fields": [
                 "namque",
                 "nam-que = nam",
-                "Iūlius: \"Certē pater tam inhūmānus sevērē pūniendus est, namque īnfantēs invalidōs expōnere est mōs fierī solet antīquus atque crūdēlis.",
+                "Iūlius: \"Certē pater tam inhūmānus sevērē pūniendus est, namque īnfantēs invalidōs expōnere est mōs antīquus atque crūdēlis.",
                 "for",
                 "",
                 "",
@@ -33964,8 +33973,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "impatiēns -entis adi",
-                "im-patiēns",
+                "impatiēns -entis ",
+                "im-patiēns adi",
                 "",
                 "impatient",
                 "",
@@ -34661,7 +34670,7 @@
                 "talentum -ī n",
                 "",
                 "",
-                "talent",
+                "talent (money)",
                 "",
                 "",
                 "[sound:ankidroid_audiorec392761597.mp3]",
@@ -36918,7 +36927,7 @@
                 "ērumpō, ērumpere, ērūpī, ēruptus",
                 "ēx + rumpere = subitō ex­ currere",
                 "Cum complūrēs hōrās ita fortissimē ā nostrīs, ab hostibus cōnstanter ac nōn timidē pugnātum esset, equitātus noster repente portā dextrā ērumpēns impetum in latus hostium apertum fēcit.",
-                "break out",
+                "break out, burst out",
                 "",
                 "",
                 "[sound:ankidroid_audiorec958982988.mp3]",
@@ -37748,7 +37757,7 @@
             "fields": [
                 "prōsiliō, prōsilīre, prōsiluī, ------",
                 "prō + salīre",
-                "????",
+                "Āmissum nōn flet, cum sōla est, Gellia patrem; sī quis adest, iussae prōsiliunt lacrimae!",
                 "spring forth",
                 "",
                 "",
@@ -38564,7 +38573,7 @@
                 "ēlīdō, ēlīdere, ēlīsī, ēlīsum",
                 "ex + laedō",
                 "",
-                "omit, elide",
+                "strike out ; omit, elide ; destroy, shatter",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1146552583.mp3]",
@@ -39638,7 +39647,7 @@
             "fields": [
                 "causālis, -e",
                 "&lt; causa",
-                "[M.:] Dā causālēs! <br>[D.:] Sī, etsī, si????quidem, quandō, nam, namque, etenim, quamobrem ...",
+                "[M.:] Dā causālēs! <br>[D.:] Sī, etsī, sīquidem, quandō, nam, namque, etenim, quamobrem ...",
                 "causal",
                 "",
                 "",
@@ -41149,7 +41158,7 @@
             "fields": [
                 "expellō, expellere, expulī, expulsum",
                 "ex + pellere",
-                "????",
+                "Tarquinius, multōrum crīminum accūsātus, ex urbe expulsus est.",
                 "",
                 "",
                 "",
@@ -41836,13 +41845,13 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "restō, restāre,&nbsp;restitī, —",
+                "restō, restāre, restitī, —",
                 "re + stāre",
                 "Postrēma cursūs pars restābat",
-                "to withstand, resist, oppose, stand firm, hold out, not yield;&nbsp;To be left, remain",
+                "to withstand, resist, oppose, stand firm, hold out, not yield; to be left, remain",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1769439224.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41858,11 +41867,11 @@
             "fields": [
                 "confugiō, confugere, confūgī, ----",
                 "con + fugere",
-                "",
+                "????",
                 "flee, take refuge, run for succor",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec637050473.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41882,7 +41891,7 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1960357900.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41909,7 +41918,8 @@
             "guid": "FHJ{eLnVoa",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap28"
+                "fs-cap28",
+                "marked"
             ]
         },
         {
@@ -41922,7 +41932,7 @@
                 "",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec2056659359.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41938,11 +41948,11 @@
             "fields": [
                 "quisnam",
                 "quis-nam",
-                "Iūlius: \"Quidnam hoc est? Quisnam Tusculō epistū­lam ad mē mīsit?\"",
+                "Iūlius: \"Quidnam hoc est? Quisnam Tusculō epistulam ad mē mīsit?\"",
                 "who/what ever?",
                 "",
                 "",
-                "[sound:ankidroid_audiorec1289726263.mp3]",
+                "[sound:ankidroid_audiorec1063708550.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41982,7 +41992,7 @@
                 "part of the temple of Saturn at Rome, in which the public treasure was kept, the treasury",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1623855815.3gp]",
                 ""
             ],
             "flags": 0,
@@ -41996,7 +42006,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Gubernātor: \"Mare et ventī nēminī oboediunt nisi Neptūnō. Ille cūrāvit ut nōs ē tempestāte servārēmur nēve mergerēmur - vel --potius nōs ipsī quī mercēs ēiēcimus",
+                "Gubernātor: \"Mare et ventī {{c3::nēminī}} oboediunt nisi Neptūnō. Ille cūrāvit ut nōs ē tempestāte {{c4::servārēmur}} nēve mergerēmur {{c1::vel}} {{c2::potius}} nōs ipsī quī mercēs ēiēcimus",
                 ""
             ],
             "flags": 0,
@@ -42010,7 +42020,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Aemilia igitur virgō pauper erat, sed -tamen Iūlius eam amābat.",
+                "Aemilia igitur virgō pauper erat, sed {{c1::tamen}} Iūlius {{c2::eam}} amābat.",
                 ""
             ],
             "flags": 0,
@@ -42024,7 +42034,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ō Hellē, exī ē casā, et spectā mē in tergō arietis -īnsidentem!",
+                "Ō Hellē, {{c2::exī}} ē casā, et spectā mē in tergō arietis {{c1::īnsidentem}}!",
                 ""
             ],
             "flags": 0,
@@ -42038,7 +42048,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Fabia: \"Sextus quidem hodiē nāsō turgidō atque crū­entō ē lūdō rediit, cum -certāvisset cum -quibusdam puerīs quī eum laeserant.\"",
+                "Fabia: \"Sextus quidem hodiē nāsō turgidō atque crū­entō ē lūdō rediit, cum {{c1::certāvisset}} cum {{c2::quibusdam}} puerīs quī eum laeserant.\"",
                 ""
             ],
             "flags": 0,
@@ -42052,21 +42062,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ego vērō, etsī cupidus sum patriae videndae, officium meum --praestābō sīcut cēterī mīlitēs Rōmānī, quō­rum magnus numerus in Germāniā est.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "ku7&C",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap33"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Prīmum cūrā ut uxor et līberī valeant, tum vērō labōrā ut pecūniam omnem solvās intrā fīnem huius mēnsis, id est intrā ---trīcēsimum diem!",
+                "Prīmum cūrā ut uxor et līberī valeant, tum vērō labōrā ut pecūniam omnem solvās intrā fīnem {{c2::huius}} mēnsis, id est intrā {{c1::trīcēsimum}} diem!",
                 ""
             ],
             "flags": 0,
@@ -42080,7 +42076,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Magister Diodōrus recitāre dēsinit et puerōs aspicit, quī tacitī stant ante suam -quisque sellam; nēmō eōrum dormit.",
+                "Magister Diodōrus recitāre {{c2::dēsinit}} et puerōs aspicit, quī tacitī stant ante suam {{c1::quisque}} sellam; nēmō eōrum dormit.",
                 ""
             ],
             "flags": 0,
@@ -42094,7 +42090,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Quōmodo īnfāns quī -fārī nōn potest, cibum -postulat?",
+                "Quōmodo īnfāns quī {{c1::fārī}} nōn potest, cibum {{c2::postulat}}?",
                 ""
             ],
             "flags": 0,
@@ -42108,7 +42104,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Tempestās quidem -dēsiit, sed multa alia perīcula nōbīs -impendent",
+                "Tempestās quidem {{c1::dēsiit}}, sed multa alia perīcula nōbīs {{c2::impendent}}",
                 ""
             ],
             "flags": 0,
@@ -42122,7 +42118,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Cōnsonantēs <i>br, gr, cr, tr</i>, quae initium syllabae facere solent (ut <i>li-brī</i>), -interdum dīviduntur: <i>nig-rōs, pat-rem</i>",
+                "Cōnsonantēs <i>br, gr, cr, tr</i>, quae initium syllabae facere solent (ut <i>li-brī</i>), {{c1::interdum}} dīviduntur: <i>nig-rōs, pat-rem</i>",
                 ""
             ],
             "flags": 0,
@@ -42130,6 +42126,20 @@
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap34"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nesciō {{c3::quōmodo}}, sed certō sciō eum {{c1::aliquam}} fēminam novisse, nam saepe dē eā {{c2::locūtus}} est",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lwu32",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap24"
             ]
         }
     ]

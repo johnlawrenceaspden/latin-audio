@@ -16,7 +16,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "no new cards",
@@ -42,7 +42,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 1000
@@ -108,6 +108,7 @@
         "ankidroid_audiorec14800597.mp3",
         "ankidroid_audiorec1519046258.mp3",
         "ankidroid_audiorec1579947221.mp3",
+        "ankidroid_audiorec1652223483.3gp",
         "ankidroid_audiorec1743101814.mp3",
         "ankidroid_audiorec1757054410.mp3",
         "ankidroid_audiorec181442289.mp3",
@@ -1887,7 +1888,7 @@
             "fields": [
                 "meus, mea, meum",
                 "my",
-                "",
+                "[sound:ankidroid_audiorec1652223483.3gp]",
                 "",
                 "",
                 "",
@@ -2379,9 +2380,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Rōmānus, Rōmāna, Rōmānum[sound:romanus.mp3]</div>",
+                "<div>Rōmānus, Rōmāna, Rōmānum</div>",
                 "Roman",
-                "",
+                "[sound:romanus.mp3]",
                 "",
                 "",
                 "",
@@ -2391,7 +2392,8 @@
             "guid": "mckQRck;.*",
             "note_model_uuid": "52315cba-a899-11e9-9bae-342387e2ac49",
             "tags": [
-                "Chapter-3"
+                "Chapter-3",
+                "marked"
             ]
         },
         {
@@ -2835,8 +2837,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>malus, mala, malum</div>",
-                "bad, wicked, evil",
+                "malus, mala, malum",
+                "bad, wicked, evil (m___)",
                 "[sound:malus.mp3]",
                 "",
                 "",
@@ -3596,7 +3598,7 @@
             "data": "",
             "fields": [
                 "vitium, vitiī (n)",
-                "fault, vice, crime",
+                "fault, vice, crime (v___)",
                 "[sound:vitium.mp3]",
                 "",
                 "",
@@ -7167,8 +7169,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "itaque (adv)",
-                "and so, therefore",
+                "itaque (adv). ",
+                "and so, therefore (_t____)",
                 "[sound:itaque.mp3]",
                 "",
                 "",
@@ -7415,7 +7417,7 @@
             "data": "",
             "fields": [
                 "difficilis, difficile",
-                "hard, difficult, troublesome",
+                "hard, difficult, troublesome (di___)",
                 "[sound:difficilis.mp3]",
                 "",
                 "",
@@ -8586,9 +8588,9 @@
             "data": "",
             "fields": [
                 "scientia, scientiae",
-                "knowledge",
+                "knowledge, skill",
                 "[sound:scientia.mp3]",
-                "",
+                "f",
                 "",
                 "",
                 ""
@@ -10904,7 +10906,7 @@
             "data": "",
             "fields": [
                 "sōlācium, sōlāciī (n)",
-                "solace, comfort, relief in sorrow",
+                "solace, comfort, relief in sorrow (___ium)",
                 "[sound:solacium.mp3]",
                 "",
                 "",
@@ -10961,7 +10963,7 @@
             "data": "",
             "fields": [
                 "ut ( + indic.)",
-                "as, just as, when",
+                "as, just as, when. (u___)",
                 "[sound:ut.mp3]",
                 "",
                 "",
@@ -10980,7 +10982,7 @@
             "data": "",
             "fields": [
                 "posteā",
-                "afterwards (_____a)",
+                "afterwards (_____ā)",
                 "[sound:postea.mp3]",
                 "",
                 "",

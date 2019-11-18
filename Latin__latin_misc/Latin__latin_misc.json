@@ -16,7 +16,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "no new cards",
@@ -42,7 +42,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 1000
@@ -2514,6 +2514,48 @@
             "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gubernātor: \"Mare et ventī {{c3::nēminī}} oboediunt nisi Neptūnō. Ille cūrāvit ut nōs ē tempestāte {{c4::servārēmur}} nēve mergerēmur {{c1::vel}} {{c2::potius}} nōs ipsī quī mercēs ēiēcimus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D}RBI",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap28,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Magister Diodōrus recitāre {{c2::dēsinit}} et puerōs aspicit, quī tacitī stant ante suam {{c1::quisque}} sellam; nēmō eōrum dormit.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p^C/B",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap17"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Multae fēminae quae in hāc viā ambulant ante taber­nam Albīnī --cōnsistunt, nam fēminae ōrnāmentīs dēlec­tantur.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "se%[Q",
+            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
+            "tags": [
+                "cap08"
             ]
         }
     ]

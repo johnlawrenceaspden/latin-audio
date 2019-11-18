@@ -16,7 +16,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "allnewcards",
@@ -42,7 +42,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 9999
@@ -730,8 +730,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Das numquam, semper promittis, Galla, roganti.<br>Si semper fallis, iam rogo, Galla, nega!&nbsp;<br>",
-                "Dās numquam, semper prōmittis, Galla, rogantī. <br>Sī semper fallis, iam rogō, Galla, negā!&nbsp;<br>",
+                "Das numquam, semper promittis, Galla, roganti.<br>Si semper fallis, iam rogo, Galla, nega!",
+                "Dās numquam, semper prōmittis, Galla, rogantī. <br>Sī semper fallis, iam rogō, Galla, negā!",
                 "",
                 "",
                 "*Dās *num | quam *sem | per prō | *mit tis | *Gal la ro | *gan tī <br>*Sī *sem | per *fal | lis || *iam *ro go | *Gal la *ne | gā<br>",

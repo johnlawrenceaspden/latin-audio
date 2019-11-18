@@ -17,7 +17,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "no new cards",
@@ -43,7 +43,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 1000
@@ -103,7 +103,6 @@
         "ankidroid_audiorec1387420939.mp3",
         "ankidroid_audiorec1397345903.mp3",
         "ankidroid_audiorec1410886727.mp3",
-        "ankidroid_audiorec1414579712.mp3",
         "ankidroid_audiorec1419201757.mp3",
         "ankidroid_audiorec1432229013.mp3",
         "ankidroid_audiorec1440491253.mp3",
@@ -472,7 +471,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Īcarus tam altē volāvit {{c1::ut}} sōlī appropinqu{{c2::āret}}, quamquam pater eum monuerat {{c3::nē}} temerārius es{{c4::set}}",
+                "Īcarus tam altē volāvit {{c1::ut}} sōlī appropinqu{{c2::āret}}, quamquam pater eum monuerat {{c3::nē}} temerārius {{c4::esset}}",
                 "[sound:ankidroid_audiorec111361776.mp3]"
             ],
             "flags": 0,
@@ -1288,7 +1287,7 @@
             "fields": [
                 "Quot convīvae in singulīs lectīs accubant?",
                 "[sound:ankidroid_audiorec655375320.mp3]",
-                "In singulīs lectīs singulī aut binī aut ternī convīvae accubant.",
+                "In singulīs lectīs singulī aut bīnī aut ternī convīvae accubant.",
                 "[sound:ankidroid_audiorec894789397.mp3]"
             ],
             "flags": 0,
@@ -2125,7 +2124,7 @@
             "data": "",
             "fields": [
                 "Priusquam Pompēius, dux {{c1::ēgregius}}, {{c2::classī}} Rōmānae {{c7::praepositus est}}, {{c3::cūncta}} maria {{c4::īnfēsta}} erant praedōnibus, quī Rōmānōs ita {{c5::contemnēbant}} ut etiam portūs Italiae {{c6::oppugnārent}}.<br>",
-                "[sound:ankidroid_audiorec1414579712.mp3]"
+                ""
             ],
             "flags": 0,
             "guid": "sV/Gh!^480",
@@ -2342,7 +2341,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Num gūbernātor ipse tantum pecūniae possidet?<br>",
+                "Num gubernātor ipse tantum pecūniae possidet?<br>",
                 "",
                 "Quod ipse nōn possidet amīcī prō eō solvent.<br>",
                 ""
@@ -2352,6 +2351,7 @@
             "note_model_uuid": "4b9bab02-ad8b-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap32",
+                "marked",
                 "pensumC"
             ]
         },
@@ -3345,7 +3345,7 @@
             "fields": [
                 "Cūr Laecāniae dentēs niveī erant?<br>",
                 "",
-                "Quia dentēs eius emptī erant",
+                "Quia dentēs ēius emptī erant",
                 ""
             ],
             "flags": 0,
@@ -3499,7 +3499,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::parēre}} {{c2::peperisse}} {{c3::partum}}<br>",
+                "{{c1::parere}} {{c2::peperisse}} {{c3::partum}}<br>",
                 ""
             ],
             "flags": 0,
@@ -3619,7 +3619,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Nōmen est pars {{c1::ōrātiōnis}} {{c2::quae}} corpus aut rem significat.&nbsp;<br>",
+                "Nōmen est pars {{c1::ōrātiōnis}} {{c2::quae}} corpus aut rem significat.",
                 ""
             ],
             "flags": 0,
