@@ -270,6 +270,7 @@
         "ankidroid_audiorec1193273386.mp3",
         "ankidroid_audiorec1193530142.mp3",
         "ankidroid_audiorec1193558623.mp3",
+        "ankidroid_audiorec1194339831.3gp",
         "ankidroid_audiorec1194717657.mp3",
         "ankidroid_audiorec1195690169.mp3",
         "ankidroid_audiorec1195868338.mp3",
@@ -433,6 +434,7 @@
         "ankidroid_audiorec1352328115.mp3",
         "ankidroid_audiorec1352945337.mp3",
         "ankidroid_audiorec1353328597.mp3",
+        "ankidroid_audiorec135395878.3gp",
         "ankidroid_audiorec1354766480.mp3",
         "ankidroid_audiorec1359723079.mp3",
         "ankidroid_audiorec1359734067.mp3",
@@ -485,6 +487,7 @@
         "ankidroid_audiorec1410365076.mp3",
         "ankidroid_audiorec1411099972.mp3",
         "ankidroid_audiorec1411732912.mp3",
+        "ankidroid_audiorec1412044447.3gp",
         "ankidroid_audiorec1413187160.mp3",
         "ankidroid_audiorec1417190928.mp3",
         "ankidroid_audiorec1419093147.mp3",
@@ -1745,7 +1748,6 @@
         "ankidroid_audiorec716316866.mp3",
         "ankidroid_audiorec716354158.mp3",
         "ankidroid_audiorec717716183.mp3",
-        "ankidroid_audiorec718059555.mp3",
         "ankidroid_audiorec721870929.mp3",
         "ankidroid_audiorec722706405.mp3",
         "ankidroid_audiorec722726093.mp3",
@@ -1957,6 +1959,7 @@
         "ankidroid_audiorec933474696.mp3",
         "ankidroid_audiorec93520501.mp3",
         "ankidroid_audiorec935268189.mp3",
+        "ankidroid_audiorec935388340.3gp",
         "ankidroid_audiorec935733442.mp3",
         "ankidroid_audiorec935976528.mp3",
         "ankidroid_audiorec936734586.mp3",
@@ -16557,7 +16560,7 @@
                 "discern, perceive",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec935388340.3gp]",
                 ""
             ],
             "flags": 0,
@@ -16565,7 +16568,6 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap16",
-                "marked",
                 "verb"
             ]
         },
@@ -16755,8 +16757,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "septin-gentī -ae -a",
-                "",
+                "septingentī -ae -a",
+                "septin-gentī",
                 "",
                 "seven hundred",
                 "",
@@ -17295,8 +17297,7 @@
             "guid": "Joi+D4Z6S",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap17",
-                "marked"
+                "cap17"
             ]
         },
         {
@@ -17958,8 +17959,8 @@
                 "",
                 "be left, be in excess",
                 "",
-                "",
-                "[sound:ankidroid_audiorec718059555.mp3]",
+                "su-*per-sum, su-pe-*res-se, su-*per-fu-ī",
+                "[sound:ankidroid_audiorec135395878.3gp]",
                 ""
             ],
             "flags": 0,
@@ -21836,7 +21837,7 @@
                 "",
                 "letter-carrier",
                 "",
-                "",
+                "ta bel *lā ri us",
                 "[sound:ankidroid_audiorec1991553238.mp3]",
                 ""
             ],
@@ -21844,8 +21845,7 @@
             "guid": "l$nd|Um0D4",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap22",
-                "marked"
+                "cap22"
             ]
         },
         {
@@ -31436,7 +31436,7 @@
                 "attract",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1194339831.3gp]",
                 ""
             ],
             "flags": 0,
@@ -31444,7 +31444,6 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap29",
-                "marked",
                 "verb"
             ]
         },
@@ -41911,15 +41910,14 @@
                 "knowledge, skill, statesmanship, sagacity, good sense, intelligence, prudence",
                 "",
                 "",
-                "",
+                "[sound:ankidroid_audiorec1412044447.3gp]",
                 ""
             ],
             "flags": 0,
             "guid": "FHJ{eLnVoa",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "fs-cap28",
-                "marked"
+                "fs-cap28"
             ]
         },
         {
