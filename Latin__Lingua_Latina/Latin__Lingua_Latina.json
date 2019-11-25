@@ -2138,53 +2138,6 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
-            "flds": [
-                {
-                    "font": "Arimo",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze (llpsi pensum)",
-            "sortf": 0,
-            "tags": [
-                "cap23"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
         }
     ],
     "notes": [
@@ -19277,7 +19230,7 @@
                 "plūrēs",
                 "multī, comp plurēs -a, sup plūrimī -ae -a",
                 "Rōmae plūrēs hominēs habitant quam in ūllā aliā urbe imperiī Rōmānī",
-                "more",
+                "more; several, many",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1603947872.mp3]",
@@ -29169,7 +29122,7 @@
             "guid": "r{|+=Q&1n4",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap28,",
+                "cap28",
                 "fs-cap27"
             ]
         },
@@ -33287,8 +33240,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sapiēns -entis adi",
-                "",
+                "sapiēns -entis ",
+                "adi",
                 "",
                 "wise",
                 "",
@@ -33563,7 +33516,7 @@
             "guid": "m-.gFOCg0J",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap31,",
+                "cap31",
                 "fs-cap27"
             ]
         },
@@ -34731,7 +34684,7 @@
                 "seu",
                 "",
                 "",
-                "or",
+                "or if; or",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1931872556.mp3]",
@@ -35421,7 +35374,7 @@
                 "etiamnunc",
                 "etiam-nunc = adhūc",
                 "Lȳdia magna cum laetitia classem appropinquantem spectat, sed Mēdus etiamnunc perterritus esse vidētur.",
-                "still",
+                "even now, still",
                 "",
                 "e-ti-*am-nunc",
                 "[sound:ankidroid_audiorec82233368.mp3]",
@@ -39020,7 +38973,7 @@
                 "ācer -cris -cre",
                 "",
                 "",
-                "keen, active, fierce",
+                "sharp, bitter, keen, active, fierce",
                 "",
                 "",
                 "[sound:ankidroid_audiorec125923291.mp3]",
@@ -40312,7 +40265,7 @@
                 "bēta",
                 "",
                 "",
-                "",
+                "greek letter beta",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1041030153.mp3]",
@@ -41998,146 +41951,6 @@
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
                 "cap36"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Gubernātor: \"Mare et ventī {{c3::nēminī}} oboediunt nisi Neptūnō. Ille cūrāvit ut nōs ē tempestāte {{c4::servārēmur}} nēve mergerēmur {{c1::vel}} {{c2::potius}} nōs ipsī quī mercēs ēiēcimus",
-                ""
-            ],
-            "flags": 0,
-            "guid": "D}RBI",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap28,"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Aemilia igitur virgō pauper erat, sed {{c1::tamen}} Iūlius {{c2::eam}} amābat.",
-                ""
-            ],
-            "flags": 0,
-            "guid": ".FJ!J",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap19"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Ō Hellē, {{c2::exī}} ē casā, et spectā mē in tergō arietis {{c1::īnsidentem}}!",
-                ""
-            ],
-            "flags": 0,
-            "guid": "uz$4F",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "fs-cap27"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Fabia: \"Sextus quidem hodiē nāsō turgidō atque crū­entō ē lūdō rediit, cum {{c1::certāvisset}} cum {{c2::quibusdam}} puerīs quī eum laeserant.\"",
-                ""
-            ],
-            "flags": 0,
-            "guid": "AVcUU",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap34"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Prīmum cūrā ut uxor et līberī valeant, tum vērō labōrā ut pecūniam omnem solvās intrā fīnem {{c2::huius}} mēnsis, id est intrā {{c1::trīcēsimum}} diem!",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Soj*U",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap27"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Magister Diodōrus recitāre {{c2::dēsinit}} et puerōs aspicit, quī tacitī stant ante suam {{c1::quisque}} sellam; nēmō eōrum dormit.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "p^C/B",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap17"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Quōmodo īnfāns quī {{c1::fārī}} nōn potest, cibum {{c2::postulat}}?",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Rh?g9",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap20"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tempestās quidem {{c1::dēsiit}}, sed multa alia perīcula nōbīs {{c2::impendent}}",
-                ""
-            ],
-            "flags": 0,
-            "guid": "C&3L8",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap28"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Cōnsonantēs <i>br, gr, cr, tr</i>, quae initium syllabae facere solent (ut <i>li-brī</i>), {{c1::interdum}} dīviduntur: <i>nig-rōs, pat-rem</i>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "NsIaJ",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap34"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Nesciō {{c3::quōmodo}}, sed certō sciō eum {{c1::aliquam}} fēminam novisse, nam saepe dē eā {{c2::locūtus}} est",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Lwu32",
-            "note_model_uuid": "4b9baac6-ad8b-11e9-b09e-74867a15fbd5",
-            "tags": [
-                "cap24"
             ]
         }
     ]
