@@ -390,7 +390,7 @@
         "ankidroid_audiorec1310959414.mp3",
         "ankidroid_audiorec1311298103.mp3",
         "ankidroid_audiorec1313474180.mp3",
-        "ankidroid_audiorec1313601701.3gp",
+        "ankidroid_audiorec1313601701.mp3",
         "ankidroid_audiorec1313689290.mp3",
         "ankidroid_audiorec1315872386.mp3",
         "ankidroid_audiorec1316838282.mp3",
@@ -18627,7 +18627,7 @@
                 "be missing, fail",
                 "",
                 "",
-                "[sound:ankidroid_audiorec1313601701.3gp]",
+                "[sound:ankidroid_audiorec1313601701.mp3]",
                 ""
             ],
             "flags": 0,
