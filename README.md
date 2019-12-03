@@ -29,7 +29,7 @@ And of course I can't help but mention yet again that the "C. system" that some,
 
 https://ankiweb.net/shared/info/1896912568
 
-The words from Orberg's Familia Romana and Colloquia Personarum, (and some of the Fabulae Syrae) 
+The words from Ørberg's Familia Romana and Colloquia Personarum, (and some of the Fabulae Syrae) 
 
 Based on: https://ankiweb.net/shared/info/1397480336 
 
