@@ -13,7 +13,7 @@ Exported from Anki with the crowdanki plugin, to facilitate collaboration
 
 Error reports, criticisms, pull requests and offers of collaboration will be very much appreciated and can be filed as issues here.
 
-u/Unbrutal_Russian offered the following critique:
+u/Unbrutal_Russian on reddit's r/latin offered the following critique:
 
 I've listened to only a few, and the most noticeable problem is your alveolar instead of dental /t/ (and consequently /d, n, l/) - half affricated half aspirated in the British manner to boot (which you wouldn't manage to do if they were dental). 
 
@@ -38,6 +38,9 @@ Based on: https://ankiweb.net/shared/info/1397480336
 # Wheelock Latin with Audio
 
 A deck for Wheelock's latin which I'm slowly working through, recording my own voice over the Wheelock pronunciations.
+
+Based on: https://ankiweb.net/shared/info/2017253775
+
 
 # latin misc
 
