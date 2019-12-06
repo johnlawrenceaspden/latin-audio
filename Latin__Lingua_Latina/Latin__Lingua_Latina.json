@@ -1880,7 +1880,7 @@
         "ankidroid_audiorec846738412.mp3",
         "ankidroid_audiorec847403334.mp3",
         "ankidroid_audiorec848790216.mp3",
-        "ankidroid_audiorec849294221.3gp",
+        "ankidroid_audiorec849294221.mp3",
         "ankidroid_audiorec849604173.mp3",
         "ankidroid_audiorec850358250.mp3",
         "ankidroid_audiorec852512501.mp3",
@@ -22309,7 +22309,7 @@
                 "wood",
                 "",
                 "",
-                "[sound:ankidroid_audiorec849294221.3gp]",
+                "[sound:ankidroid_audiorec849294221.mp3]",
                 ""
             ],
             "flags": 0,
