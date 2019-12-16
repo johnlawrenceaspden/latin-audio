@@ -3161,7 +3161,8 @@
             "guid": "lm9xAvW]C-",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap02"
+                "cap02",
+                "marked"
             ]
         },
         {
@@ -10801,7 +10802,7 @@
                 "vāllum, vāllī",
                 "vāllum -ī n",
                 "",
-                "rampart",
+                "wall, rampart ; line of stakes",
                 "",
                 "",
                 "[sound:ankidroid_audiorec370271873.mp3]",
@@ -18015,7 +18016,7 @@
                 "sententia -ae f",
                 "",
                 "",
-                "opinion, sentence",
+                "opinion, feeling, thought; sentence",
                 "",
                 "",
                 "[sound:ankidroid_audiorec2133799985.mp3]",
@@ -25828,7 +25829,8 @@
             "guid": "kQ]<}*EX?E",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap26"
+                "cap26",
+                "leech"
             ]
         },
         {
@@ -27891,7 +27893,7 @@
                 "labōrō, labōrāre, labōrāvī, labōrātum",
                 "",
                 "",
-                "toil, work, take trouble",
+                "toil, work, take trouble; be in distress",
                 "",
                 "",
                 "[sound:ankidroid_audiorec2041841736.mp3]",
@@ -30640,8 +30642,7 @@
             "guid": "hK~3|CS7nk",
             "note_model_uuid": "bbdd9762-a030-11e9-b09e-74867a15fbd5",
             "tags": [
-                "cap29",
-                "marked"
+                "cap29"
             ]
         },
         {
@@ -30750,7 +30751,7 @@
             "fields": [
                 "iactūra -ae f",
                 "",
-                "",
+                "?????",
                 "throwing away, loss",
                 "",
                 "",
@@ -31492,7 +31493,7 @@
             "fields": [
                 "abiciō, abicere, abiēcī, abiectus",
                 "ab + iacere",
-                "",
+                "????",
                 "throw away",
                 "",
                 "ab-*ji-ci-ō, ab-*ji-ce-re, ab-*jē-cī, ab-*jec-tus",
@@ -31695,7 +31696,7 @@
             "fields": [
                 "sānē",
                 "",
-                "",
+                "????",
                 "certainly, quite",
                 "",
                 "",
@@ -32105,7 +32106,7 @@
                 "mēnsa secunda",
                 "",
                 "",
-                "dessert",
+                "dessert ?????",
                 "",
                 "",
                 "[sound:ankidroid_audiorec42360086.mp3]",
@@ -34851,7 +34852,7 @@
                 "praeferō, praeferre, praetulī, praelātum",
                 "prae + ferre",
                 "Mēdus: \"Iamne oblītus es quid modo dīxerīs? Dīxistī enim 'tē mortem servitūtī praeferre' .\"",
-                "prefer",
+                "carry in front ; prefer",
                 "",
                 "",
                 "[sound:ankidroid_audiorec776494915.mp3]",
@@ -34931,7 +34932,7 @@
                 "percurrō, percurrere, percurrī, percursum",
                 "per-currere",
                 "Ex eō tempore rārō fit ut nāvis praedōnum in mare Internō appāreat, nam classēs Rōmānae, quae cūncta maria percurrunt, nāvēs mercātōriās atque ōram maritimam dīligenter tuentur.",
-                "run over, pass over",
+                "run over, pass over; travel through; move quickly",
                 "",
                 "",
                 "[sound:ankidroid_audiorec1490398497.mp3]",
@@ -37248,7 +37249,7 @@
             "data": "",
             "fields": [
                 "amnis -is (m)",
-                "Utinam hic amnis Tiberis esset et haec castra essent Rōmā!&nbsp;",
+                "Utinam hic amnis Tiberis esset et haec castra essent Rōma",
                 "amnis -is (m) = flūmen",
                 "river",
                 "",
@@ -38017,7 +38018,7 @@
             "data": "",
             "fields": [
                 "nota -ae f",
-                "notae:&nbsp;&nbsp;<div>&nbsp; &nbsp; &nbsp; ˘ syllaba brevis</div><div>&nbsp; &nbsp; &nbsp; -- syllaba longa</div>",
+                "˘ syllaba brevis<br> -- syllaba longa",
                 "Haec nota [ ˘ ] syllabam brevem significat, haec [--] syllabam longam",
                 "mark, sign",
                 "",
@@ -38892,7 +38893,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "aurīga -ae m",
+                "aurīga -ae (m!)",
                 "",
                 "",
                 "charioteer, driver",
@@ -40288,7 +40289,7 @@
                 "gamma",
                 "",
                 "",
-                "",
+                "greek letter gamma",
                 "",
                 "",
                 "[sound:ankidroid_audiorec546316617.mp3]",
